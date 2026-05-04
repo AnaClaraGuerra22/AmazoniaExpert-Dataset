@@ -1,0 +1,1382 @@
+[
+    {
+        "text": "Conservation Measures to Counter the Main Threats to Amazonian Biodiversity Jos Barlowa*, Alexander C. Leesb, Plinio Sistcd*, Rafael Almeidae, Caroline Arantesf, Dolors Armenterasg, Erika Berenguera,h, Patrick Carond, Francisco Cuestai, Carolina Doriaj, Joice Ferreirak, Alexander Fleckerc, Sebastian Heilpernl, Michelle Kalamandeenm, Marielos Peña-Clarosn, Camille Piponioto, Paulo Santos Pompeup, Carlos Souzaq, Judson F. Valentimr",
+        "type": "CompositeElement",
+        "metadata": {
+            "source": "Part_III_Cap_27_Conservation measures to counter the main threats to Amazonian biodiversity.pdf",
+            "part_name": "The Solution Space: Finding Sustainable Pathways for the Amazon",
+            "chapter_name": "Conservation measures to counter the main threats to Amazonian biodiversity",
+            "chapter_number": 27,
+            "chunk_seq": 1,
+            "parent_section_number": "27",
+            "parent_section_name": "General Content",
+            "page": 5,
+            "element_id": "5110a30d72b132f2d6d2725ad9f57929"
+        }
+    },
+    {
+        "text": "Key Messages • The Amazon's biodiversity and ecosystem functioning are threatened by a broad range of threats originating within the basin and worldwide. These include habitat loss from the expansion of cattle ranching and croplands, hunting and overfishing, climate change, inappropriate infrastructure, mining and energy generation, invasive species, war and unrest, pollution, and the fragmentation of watercourses by small dams and impoundments. • Threats often co-occur in the same regions; interactions between them can amplify their effects or create new problems. Given the range of threats and their complexity, there is no single or simple solution to solve the Amazon's socio-environmental problems. Instead, a broad set of initiatives need to be (re)adopted, replicated, and scaled up.",
+        "type": "CompositeElement",
+        "metadata": {
+            "source": "Part_III_Cap_27_Conservation measures to counter the main threats to Amazonian biodiversity.pdf",
+            "part_name": "The Solution Space: Finding Sustainable Pathways for the Amazon",
+            "chapter_name": "Conservation measures to counter the main threats to Amazonian biodiversity",
+            "chapter_number": 27,
+            "chunk_seq": 2,
+            "parent_section_number": "27",
+            "parent_section_name": "Key Messages",
+            "page": 5,
+            "element_id": "fb2dcc55fe4ba575510f0700068a0aa9"
+        }
+    },
+    {
+        "text": "• Achieving wide-ranging conservation measures will require actions that go beyond the traditional remit of conservation biology. It will require a new vision for the Amazon’s people and nature, and investment in alternative economic strategies. • Actions taken within the Amazon must be accompanied by changes in non-Amazonian countries and regions, to limit climate change and avoid exporting deforestation, river fragmentation, and other environmental harms.",
+        "type": "CompositeElement",
+        "metadata": {
+            "source": "Part_III_Cap_27_Conservation measures to counter the main threats to Amazonian biodiversity.pdf",
+            "part_name": "The Solution Space: Finding Sustainable Pathways for the Amazon",
+            "chapter_name": "Conservation measures to counter the main threats to Amazonian biodiversity",
+            "chapter_number": 27,
+            "chunk_seq": 3,
+            "parent_section_number": "27",
+            "parent_section_name": "Key Messages",
+            "page": 5,
+            "element_id": "a5f616485fd57ebe90f7bdb7406db3b8"
+        }
+    },
+    {
+        "text": "Abstract Present-day human activities are reducing and altering Amazonian biodiversity and disrupting the functioning of terrestrial and aquatic ecosystems (Chapter 19 & 20). This chapter outlines some of the approaches required to address the main threats to the Amazon’s biodiversity and ecosystems, i.e., a Lancaster Environment Centre, Lancaster University, Lancaster, UK, jos.barlow@lancaster.ac.uk b Department of Natural Sciences, Manchester Metropolitan University, UK c Agricultural Research Centre for International Development – France. CIRAD, sist@cirad.fr. d Université de Montpellier, UR Forests & Societies, Montpellier 34398, France e Department of Ecology and Evolutionary Biology, Cornell University, 616 Thurston Ave., Ithaca NY 14853, USA f Center for Global Change and Earth Observations, Michigan State University, East Lansing, USA g Departamento de Biología, Facultad de Ciencias, Universidad Nacional de Colombia, Bogotá, Colombia.",
+        "type": "CompositeElement",
+        "metadata": {
+            "source": "Part_III_Cap_27_Conservation measures to counter the main threats to Amazonian biodiversity.pdf",
+            "part_name": "The Solution Space: Finding Sustainable Pathways for the Amazon",
+            "chapter_name": "Conservation measures to counter the main threats to Amazonian biodiversity",
+            "chapter_number": 27,
+            "chunk_seq": 4,
+            "parent_section_number": "27",
+            "parent_section_name": "Abstract",
+            "page": 5,
+            "element_id": "ff55aeaea594e300d38551d7f3008678"
+        }
+    },
+    {
+        "text": "h Environmental Change Institute, University of Oxford, Oxford, UK. i Grupo de Investigación en Biodiversidad, Medio Ambiente y Salud - BIOMAS - Universidad de Las Américas (UDLA), Quito, Ecuador j Laboratório de Ictiologia e Pesca, Departamento de Ciências Biológicas, Universidade Federal de Rondônia (UNIR), Porto Velho, Brazil k Embrapa Amazonia Oriental, Trav. Eneas Pinheiro, Belém, Brazil l Department of Natural Resources, Cornell University, USA m School of Geography, University of Leeds, Leeds, UK n Forest Ecology and Forest Management Group, Wageningen University & Research, Wageningen, The Netherlands o Smithsonian Conservation Biology Institute & Smithsonian Tropical Research Institute, Republic of Panama p Departamento de Ecologia e Conservação, Instituto de Ciências Naturais, Universidade Federal de Lavras, Lavras, MG, Brazil. q Instituto do Homem e Meio Ambiente da Amazônia (IMAZON), Belém, PA, Brazil.",
+        "type": "CompositeElement",
+        "metadata": {
+            "source": "Part_III_Cap_27_Conservation measures to counter the main threats to Amazonian biodiversity.pdf",
+            "part_name": "The Solution Space: Finding Sustainable Pathways for the Amazon",
+            "chapter_name": "Conservation measures to counter the main threats to Amazonian biodiversity",
+            "chapter_number": 27,
+            "chunk_seq": 5,
+            "parent_section_number": "27",
+            "parent_section_name": "Abstract",
+            "page": 5,
+            "element_id": "b6a4897bb51226f7fb541cd9d2bfb9e1"
+        }
+    },
+    {
+        "text": "r Agroforestry Research Center of Acre, Embrapa Acre, Rodovia BR-364, Km 14 (Rio Branco/Porto Velho), Rio Branco AC 69900-970, Brazil 3 Chapter 27: Conservation Measures to Counter the Main Threats to Amazonian Biodiversity deforestation, damming of rivers, mining, hunting, illegal trade, drug production and trafficking, illegal logging, overfishing, and infrastructure expansion. The role of restoration is addressed in Chapters 28 and 29. Keywords: Deforestation, degradation, dams, mining, hunting, fishing, logging",
+        "type": "CompositeElement",
+        "metadata": {
+            "source": "Part_III_Cap_27_Conservation measures to counter the main threats to Amazonian biodiversity.pdf",
+            "part_name": "The Solution Space: Finding Sustainable Pathways for the Amazon",
+            "chapter_name": "Conservation measures to counter the main threats to Amazonian biodiversity",
+            "chapter_number": 27,
+            "chunk_seq": 6,
+            "parent_section_number": "27",
+            "parent_section_name": "Abstract",
+            "page": 5,
+            "element_id": "a1534517c1e8c1cbdcf4dc8f559503b8"
+        }
+    },
+    {
+        "text": "The Amazon's biodiversity and ecosystem functioning are threatened by a broad range of drivers originating within the basin and worldwide. Here we outline some of the preventative measures required to counter the most important threats to Amazonian biodiversity, using an Amazon-specific adaptation of the International Union for Conservation of Nature (IUCN) Threats Classification Scheme (v 3.2) as the framework for analysis of drivers of change (https://www.iucnredlist.org/resources/threat-classification-scheme). As this is a high-level review, it is important to clarify that not all threats are equally relevant across the basin (See Chapters 19 and 20), that the solutions presented here are higher-level and do not explore the nuances and details that are key to implementation in specific regions or contexts, and that conservation measures that may work in one country or setting may be ineffective or counter-productive elsewhere. Finally, we note that measures to",
+        "type": "CompositeElement",
+        "metadata": {
+            "source": "Part_III_Cap_27_Conservation measures to counter the main threats to Amazonian biodiversity.pdf",
+            "part_name": "The Solution Space: Finding Sustainable Pathways for the Amazon",
+            "chapter_name": "Conservation measures to counter the main threats to Amazonian biodiversity",
+            "chapter_number": 27,
+            "chunk_seq": 7,
+            "parent_section_number": "27.1",
+            "parent_section_name": "Introduction",
+            "page": 6,
+            "element_id": "8c4a7cdb0300cb127bb09c0f9ea613b0"
+        }
+    },
+    {
+        "text": "conserve Amazonian biodiversity must be carried out alongside a broader set of measures that protect vulnerable people, and enhance well-being and local livelihoods (e.g. see also Chapters 25, 26, 30, and 31).",
+        "type": "CompositeElement",
+        "metadata": {
+            "source": "Part_III_Cap_27_Conservation measures to counter the main threats to Amazonian biodiversity.pdf",
+            "part_name": "The Solution Space: Finding Sustainable Pathways for the Amazon",
+            "chapter_name": "Conservation measures to counter the main threats to Amazonian biodiversity",
+            "chapter_number": 27,
+            "chunk_seq": 8,
+            "parent_section_number": "27.1",
+            "parent_section_name": "Introduction",
+            "page": 6,
+            "element_id": "11bd633406d73e7fe9fb8ea14477d077"
+        }
+    },
+    {
+        "text": "27.2 Habitat loss and ecosystem degradation resulting from cattle ranching, cropland expansion, and land speculation Deforestation, forest degradation, and the conversion of non-forest ecosystems threaten native biodiversity across the Amazon (Chapter 19). Where deforestation is the major threat, conservation actions can be developed around the adoption, replication, or return to interventions that were successful in the past or in other regions. These include (i) near-real-time monitoring of forest loss across the basin, (ii) effective on-the-ground enforcement actions, (iii) use of sanctions as allowed",
+        "type": "CompositeElement",
+        "metadata": {
+            "source": "Part_III_Cap_27_Conservation measures to counter the main threats to Amazonian biodiversity.pdf",
+            "part_name": "The Solution Space: Finding Sustainable Pathways for the Amazon",
+            "chapter_name": "Conservation measures to counter the main threats to Amazonian biodiversity",
+            "chapter_number": 27,
+            "chunk_seq": 9,
+            "parent_section_number": "27.2",
+            "parent_section_name": "Habitat loss and ecosystem degradation resulting from cattle ranching, cropland expansion, and land",
+            "page": 6,
+            "element_id": "74b18be9840c30d20dbc82f4fe6cc9ad"
+        }
+    },
+    {
+        "text": "under environmental laws and credit restrictions for landholders in high deforestation zones, (iv) soy and cattle moratoria, (v) incentives for agricultural systems that avoid deforestation, (vi) the expansion, legal demarcation, and genuine safeguarding of protected areas, including sustainable use reserves and Indigenous territories, (vii) support for and recognition of grassroots actions including community led patrols and mapping, and (viii) incentive-based mechanisms, such as payments for ecosystem services and voluntary REDD+ schemes, to maintain forest cover and avoid degradation on private lands.",
+        "type": "CompositeElement",
+        "metadata": {
+            "source": "Part_III_Cap_27_Conservation measures to counter the main threats to Amazonian biodiversity.pdf",
+            "part_name": "The Solution Space: Finding Sustainable Pathways for the Amazon",
+            "chapter_name": "Conservation measures to counter the main threats to Amazonian biodiversity",
+            "chapter_number": 27,
+            "chunk_seq": 10,
+            "parent_section_number": "27.2",
+            "parent_section_name": "Habitat loss and ecosystem degradation resulting from cattle ranching, cropland expansion, and land",
+            "page": 6,
+            "element_id": "c1305cde1311583bb690b3f39609cef5"
+        }
+    },
+    {
+        "text": "Advancements in remote sensing can greatly support these interventions, allowing for real-time, finer scale, and higher-temporal resolution assessments of forest loss and an improved ability to track drivers of degradation such as fire and illegal logging. Remote sensing also needs to track the loss and degradation of non-forest ecosystems, which can be much harder to detect.",
+        "type": "CompositeElement",
+        "metadata": {
+            "source": "Part_III_Cap_27_Conservation measures to counter the main threats to Amazonian biodiversity.pdf",
+            "part_name": "The Solution Space: Finding Sustainable Pathways for the Amazon",
+            "chapter_name": "Conservation measures to counter the main threats to Amazonian biodiversity",
+            "chapter_number": 27,
+            "chunk_seq": 11,
+            "parent_section_number": "27.2",
+            "parent_section_name": "Habitat loss and ecosystem degradation resulting from cattle ranching, cropland expansion, and land",
+            "page": 6,
+            "element_id": "34f1bdc09248a6c127bf831f75ac22e5"
+        }
+    },
+    {
+        "text": "The success of interventions designed to prevent deforestation and degradation require better governance and reduced corruption at all scales (Cuneyt Koyuncu and Rasim Yilmaz, 2008; Fischer et al., 2020). Evaluating the conservation of native vegetation on private lands requires up-to-date and transparent land registries (e.g., the Cadastro Ambiental Ruralin Brazil). Reducing the negative impact of commodities that are strongly associated with deforestation such as beef, soy, and minerals. requires full accounting of supply chains to remove deforestation (Zu Ermgassen et al., 2020). In addition to actions within Amazonian countries, improving governance and financial accountability also depends on actions in countries that import Amazonian products. 4 Chapter 27: Conservation Measures to Counter the Main Threats to Amazonian Biodiversity",
+        "type": "CompositeElement",
+        "metadata": {
+            "source": "Part_III_Cap_27_Conservation measures to counter the main threats to Amazonian biodiversity.pdf",
+            "part_name": "The Solution Space: Finding Sustainable Pathways for the Amazon",
+            "chapter_name": "Conservation measures to counter the main threats to Amazonian biodiversity",
+            "chapter_number": 27,
+            "chunk_seq": 12,
+            "parent_section_number": "27.2",
+            "parent_section_name": "Habitat loss and ecosystem degradation resulting from cattle ranching, cropland expansion, and land",
+            "page": 6,
+            "element_id": "05f3b510962b017a6e24525dd6d0dcb8"
+        }
+    },
+    {
+        "text": "27.3 Ecosystem degradation resulting from biological resource use: overexploitation or resources by hunting, fishing and logging",
+        "type": "CompositeElement",
+        "metadata": {
+            "source": "Part_III_Cap_27_Conservation measures to counter the main threats to Amazonian biodiversity.pdf",
+            "part_name": "The Solution Space: Finding Sustainable Pathways for the Amazon",
+            "chapter_name": "Conservation measures to counter the main threats to Amazonian biodiversity",
+            "chapter_number": 27,
+            "chunk_seq": 13,
+            "parent_section_number": "27.3",
+            "parent_section_name": "Ecosystem degradation resulting from biological resource use: overexploitation or resources by hunti",
+            "page": 7,
+            "element_id": "589c699e0604fb039ce114ae778a0266"
+        }
+    },
+    {
+        "text": "Hunting of wildlife is widespread, culturally embedded in the Amazon, and represents a major threat to some Amazonian vertebrates and, ultimately, ecosystems (Chapter 19). For species such as the Endangered Wattled Curassow (Crax globulosa) it is the preeminent threat, whilst for others like the Critically Endangered Black-winged Trumpeter (Psophia obscura) it acts in synergy with habitat loss, fragmentation, and degradation. Effective enforcement of existing legal instruments to protect threatened species from hunting is crucial for the long-term persistence of such species. In some cases this may be a matter of effective outreach to counter ignorance of laws or the high social acceptability of illegal actions (Winter and May, 2001). However, conservation intervention strategies need to take into account the potentially serious impacts on many local peoples who are at risk of loss of culture, traditional knowledge, and dietary diversity leading to risks to food security",
+        "type": "CompositeElement",
+        "metadata": {
+            "source": "Part_III_Cap_27_Conservation measures to counter the main threats to Amazonian biodiversity.pdf",
+            "part_name": "The Solution Space: Finding Sustainable Pathways for the Amazon",
+            "chapter_name": "Conservation measures to counter the main threats to Amazonian biodiversity",
+            "chapter_number": 27,
+            "chunk_seq": 14,
+            "parent_section_number": "27.3.1",
+            "parent_section_name": "Hunting",
+            "page": 7,
+            "element_id": "5b98f6e62a42ae68fc71bc8a19e8a7f8"
+        }
+    },
+    {
+        "text": "(Ibarra et al., 2011). Although much hunting is for subsistence purposes and is tied to rural poverty, hunting does cross socio-economic boundaries (El Bizri et al., 2015) and may be facilitated by a lack of enforcement – encouraging non-compliance for economic gain or simply social enjoyment and/or prestige. Urban demand for bushmeat is high (Parry et al., 2014), and is an important driver of game species depletion, even in high forest cover landscapes (Parry and Peres, 2015).",
+        "type": "CompositeElement",
+        "metadata": {
+            "source": "Part_III_Cap_27_Conservation measures to counter the main threats to Amazonian biodiversity.pdf",
+            "part_name": "The Solution Space: Finding Sustainable Pathways for the Amazon",
+            "chapter_name": "Conservation measures to counter the main threats to Amazonian biodiversity",
+            "chapter_number": 27,
+            "chunk_seq": 15,
+            "parent_section_number": "27.3.1",
+            "parent_section_name": "Hunting",
+            "page": 7,
+            "element_id": "5639bd7689806ef6b990dc4d39f13676"
+        }
+    },
+    {
+        "text": "Bragagnolo et al. (2019) drew up a series of recommendations to mitigate the impact of hunting while considering human well-being. They suggest that i) the process of registering to become a subsistence hunter needs to be simplified, ii) licensing schemes should be extended, and iii) hunting needs to be linked to community-based wildlife management. Management of harvested wildlife should ideally be based on quota systems which consider variation in the life history attributes of",
+        "type": "CompositeElement",
+        "metadata": {
+            "source": "Part_III_Cap_27_Conservation measures to counter the main threats to Amazonian biodiversity.pdf",
+            "part_name": "The Solution Space: Finding Sustainable Pathways for the Amazon",
+            "chapter_name": "Conservation measures to counter the main threats to Amazonian biodiversity",
+            "chapter_number": 27,
+            "chunk_seq": 16,
+            "parent_section_number": "27.3.1",
+            "parent_section_name": "Hunting",
+            "page": 7,
+            "element_id": "b78a7ead102bc8e61f7f49dcaa624840"
+        }
+    },
+    {
+        "text": "different game species, including reproductive rates and population density. Additionally, or alternatively, the creation of ‘no-take zones’ which foster source-sink dynamics are another well-established strategy to avoid regional game depletion (Wilkie and Carpenter, 1999). No-take zones may be specific to certain habitats, for example restricting hunting to secondary forest zones embedded in primary forest matrices (Garcia-Frapolli et al., 2007), although they would require compliance to be effective. In circumstances where illegal hunting needs to be controlled and hunting pressure reduced, potential interventions include i) the provision for alternative livelihoods, ii) modification of game supply chains through substitution, and iii) utilising education and social marketing campaigns to target key demographics for behaviour change (Bragagnolo et al. 2019).",
+        "type": "CompositeElement",
+        "metadata": {
+            "source": "Part_III_Cap_27_Conservation measures to counter the main threats to Amazonian biodiversity.pdf",
+            "part_name": "The Solution Space: Finding Sustainable Pathways for the Amazon",
+            "chapter_name": "Conservation measures to counter the main threats to Amazonian biodiversity",
+            "chapter_number": 27,
+            "chunk_seq": 17,
+            "parent_section_number": "27.3.1",
+            "parent_section_name": "Hunting",
+            "page": 7,
+            "element_id": "9b45484c4d36b34ece2ef6d53ccf6992"
+        }
+    },
+    {
+        "text": "Fishing in the Amazon embraces a gradient of intensity, from industrial to artisanal, and uses diverse gear and techniques, with impacts that vary spatiotemporally across different river ecosystems. This can lead to the depletion of stocks, but as with hunting, it disproportionately affects some species more than others, with the greatest impacts on large-bodied fish (Chapter 20). Many large-bodied species are also migratory, posing transboundary management challenges. Many of the solutions to overharvesting of terrestrial vertebrates apply equally to fisheries, with a focus on integrated fishery management that may include community-based planning, careful stock assessments which consider species’ life histories, the implementation of no‐take areas, and control of commercial activities. Community co-management schemes, in particular, have proven to be effective in reducing pressure on key species, safeguarding aquatic biodiversity, improving people’s livelihoods",
+        "type": "CompositeElement",
+        "metadata": {
+            "source": "Part_III_Cap_27_Conservation measures to counter the main threats to Amazonian biodiversity.pdf",
+            "part_name": "The Solution Space: Finding Sustainable Pathways for the Amazon",
+            "chapter_name": "Conservation measures to counter the main threats to Amazonian biodiversity",
+            "chapter_number": 27,
+            "chunk_seq": 18,
+            "parent_section_number": "27.3.2",
+            "parent_section_name": "Overfishing",
+            "page": 7,
+            "element_id": "190dd5ddcf48844dfe652fa1e0466b57"
+        }
+    },
+    {
+        "text": "through increased yields, and empowering marginalized groups, including women and Indigenous peoples (Silva and Peres 2016, Lopes et al. 2021). Enforcement of existing closed season limits and minimum size requirements would increase population productivity, limit overexploit-",
+        "type": "CompositeElement",
+        "metadata": {
+            "source": "Part_III_Cap_27_Conservation measures to counter the main threats to Amazonian biodiversity.pdf",
+            "part_name": "The Solution Space: Finding Sustainable Pathways for the Amazon",
+            "chapter_name": "Conservation measures to counter the main threats to Amazonian biodiversity",
+            "chapter_number": 27,
+            "chunk_seq": 19,
+            "parent_section_number": "27.3.2",
+            "parent_section_name": "Overfishing",
+            "page": 7,
+            "element_id": "2e4dc26781f9606307445e8a413527d7"
+        }
+    },
+    {
+        "text": "5 Chapter 27: Conservation Measures to Counter the Main Threats to Amazonian Biodiversity",
+        "type": "CompositeElement",
+        "metadata": {
+            "source": "Part_III_Cap_27_Conservation measures to counter the main threats to Amazonian biodiversity.pdf",
+            "part_name": "The Solution Space: Finding Sustainable Pathways for the Amazon",
+            "chapter_name": "Conservation measures to counter the main threats to Amazonian biodiversity",
+            "chapter_number": 27,
+            "chunk_seq": 20,
+            "parent_section_number": "27.3.2",
+            "parent_section_name": "Overfishing",
+            "page": 7,
+            "element_id": "7f4ce0b32a1c9e34a891de2d5ca336df"
+        }
+    },
+    {
+        "text": "tation (Castello et al., 2011), and protect sexually immature individuals to guard against the collapse of fish stocks, even if fishing is curtailed (Myers and Mertz, 1998). Diversification of the catch composition ought to reduce pressure on overexploited species; this is particularly the case for migratory species like Salminus brasiliensis, Colossoma macropomum, Brachyplatystoma capapretum and Pseudoplatystoma spp. which need effective management at large spatial scales. Other ‘fishing’ activities need to be ended immediately; for example, population declines in the Amazonian freshwater dolphins Inia geoffrensis and Sotalia fluviatilis are due to a combination of bycatch and fishing that uses them as bait to catch the scavenging catfish Calophysus macropterus (da Silva et al. 2018). The pervasive lack of long-term monitoring is a major barrier to quantify and mitigate overfishing. National governments from across the Amazon need to invest in regional infrastructure to",
+        "type": "CompositeElement",
+        "metadata": {
+            "source": "Part_III_Cap_27_Conservation measures to counter the main threats to Amazonian biodiversity.pdf",
+            "part_name": "The Solution Space: Finding Sustainable Pathways for the Amazon",
+            "chapter_name": "Conservation measures to counter the main threats to Amazonian biodiversity",
+            "chapter_number": 27,
+            "chunk_seq": 21,
+            "parent_section_number": "27.3.2",
+            "parent_section_name": "Overfishing",
+            "page": 8,
+            "element_id": "474e21c642497d670eb83680212ab3c9"
+        }
+    },
+    {
+        "text": "collect, maintain, and share tinformation (Goulding et al. 2019).",
+        "type": "CompositeElement",
+        "metadata": {
+            "source": "Part_III_Cap_27_Conservation measures to counter the main threats to Amazonian biodiversity.pdf",
+            "part_name": "The Solution Space: Finding Sustainable Pathways for the Amazon",
+            "chapter_name": "Conservation measures to counter the main threats to Amazonian biodiversity",
+            "chapter_number": 27,
+            "chunk_seq": 22,
+            "parent_section_number": "27.3.2",
+            "parent_section_name": "Overfishing",
+            "page": 8,
+            "element_id": "6a190d400756933638d6efef1663fe4a"
+        }
+    },
+    {
+        "text": "27.3.3 Illegal wildlife trade",
+        "type": "CompositeElement",
+        "metadata": {
+            "source": "Part_III_Cap_27_Conservation measures to counter the main threats to Amazonian biodiversity.pdf",
+            "part_name": "The Solution Space: Finding Sustainable Pathways for the Amazon",
+            "chapter_name": "Conservation measures to counter the main threats to Amazonian biodiversity",
+            "chapter_number": 27,
+            "chunk_seq": 23,
+            "parent_section_number": "27.3.3",
+            "parent_section_name": "Illegal wildlife trade",
+            "page": 8,
+            "element_id": "b29ede79859eca585b333d4e63952aea"
+        }
+    },
+    {
+        "text": "Although the prevalence may have declined from historical highs, domestic and international trafficking remains the main driver of decline for aquatic species such as ornamental fish (Chapter 20) and terrestrial species such as songbirds (Chapter 19). For example, the population of the Great-billed Seed-Finch Sporophila maximiliani is Critically Endangered in Brazil but it is still encountered in trade (do Nascimento et al., 2015; Machado et al., 2019). Authorities need also to be vigilant about new trades; there is now an emerging market for felid body parts, driven in part by demand for their use in Chinese traditional medicine (Morcalty et al. 2020). Enforcement agencies have seized Jaguar (Panthera onca), Puma (Puma concolor) and Ocelot (Leopardus pardalis) remains, most apparently sourced from Bolivia (Arias et al. 2021). Addressing international trade requires improvements in the funding of CITES (Convention on International Trade in Endangered Species of Wild Fauna and",
+        "type": "CompositeElement",
+        "metadata": {
+            "source": "Part_III_Cap_27_Conservation measures to counter the main threats to Amazonian biodiversity.pdf",
+            "part_name": "The Solution Space: Finding Sustainable Pathways for the Amazon",
+            "chapter_name": "Conservation measures to counter the main threats to Amazonian biodiversity",
+            "chapter_number": 27,
+            "chunk_seq": 24,
+            "parent_section_number": "27.3.3",
+            "parent_section_name": "Illegal wildlife trade",
+            "page": 8,
+            "element_id": "4a86a789a334b7edc599bf3b048e124b"
+        }
+    },
+    {
+        "text": "Flora) (Phelps et al., 2010). Additional measures could help mitigate the effects of biodiversity trafficking. For example, the found-",
+        "type": "CompositeElement",
+        "metadata": {
+            "source": "Part_III_Cap_27_Conservation measures to counter the main threats to Amazonian biodiversity.pdf",
+            "part_name": "The Solution Space: Finding Sustainable Pathways for the Amazon",
+            "chapter_name": "Conservation measures to counter the main threats to Amazonian biodiversity",
+            "chapter_number": 27,
+            "chunk_seq": 25,
+            "parent_section_number": "27.3.3",
+            "parent_section_name": "Illegal wildlife trade",
+            "page": 8,
+            "element_id": "84b0404f34dd02ff583b4abec6aedc4b"
+        }
+    },
+    {
+        "text": "ation of pedigree-controlled captive lineages from the last wild birds, or from wild birds confiscated by environmental authorities, could help ensure the genetic integrity of some of the most threatened species (Ubaid et al., 2018). This should be in addition to efforts to stop the trade in wild birds entering, and measures to increase the sustainability of bird‐keeping through emphasizing the importance of captive‐bred birds (Marshall et al., 2020). All conservation interventions will be more effective if actions are taken to reduce domestic and foreign demand for wild species.",
+        "type": "CompositeElement",
+        "metadata": {
+            "source": "Part_III_Cap_27_Conservation measures to counter the main threats to Amazonian biodiversity.pdf",
+            "part_name": "The Solution Space: Finding Sustainable Pathways for the Amazon",
+            "chapter_name": "Conservation measures to counter the main threats to Amazonian biodiversity",
+            "chapter_number": 27,
+            "chunk_seq": 26,
+            "parent_section_number": "27.3.3",
+            "parent_section_name": "Illegal wildlife trade",
+            "page": 8,
+            "element_id": "8f093a60ed92feeb2bd9d3ade36909d3"
+        }
+    },
+    {
+        "text": "In the absence of strict regulation and monitoring, selective logging can be a major driver of forest degradation, weakening forest resilience to fires (Alencar et al., 2004), increasing the risk of commercial extinction of the most valuable timber species (Blundell and Gullison, 2003; Branch et al., 2013; Richardson and Peres, 2016), and reducing the richness and altering the composition of forest fauna (e.g. Mason 1996, Barlow et al. 2006, França et al. 2018). Selective logging is also an important indirect driver of deforestation, creating roads, access, and settlements (Chapter 19). There is a wealth of evidence on effective regulatory solutions, such as timber harvesting guidelines that set offtake limits, avoiding logging in ecologically sensitive areas such as steep slopes and adjacent to watercourses, and ways to mitigate the impacts of tree felling, yarding, and hauling. These are collectively known as “reduced-impact logging” (RIL) techniques (ITTO/IUCN, 2009;",
+        "type": "CompositeElement",
+        "metadata": {
+            "source": "Part_III_Cap_27_Conservation measures to counter the main threats to Amazonian biodiversity.pdf",
+            "part_name": "The Solution Space: Finding Sustainable Pathways for the Amazon",
+            "chapter_name": "Conservation measures to counter the main threats to Amazonian biodiversity",
+            "chapter_number": 27,
+            "chunk_seq": 27,
+            "parent_section_number": "27.3.4",
+            "parent_section_name": "Illegal logging",
+            "page": 8,
+            "element_id": "e84563bb9d6077a7b0d8b4a42c586d6b"
+        }
+    },
+    {
+        "text": "ITTO, 2015). While these are undoubtedly preferable to conventional (unplanned) approaches in reducing losses of carbon and biodiversity (West et al., 2014; Chaudhary et al., 2016), there are still important concerns about the long-term sustainability of the harvest rates that have been set (Sist et al., 2021). These need to be revisited using speciesand region-specific data from repeated harvests and modeling studies (Sist and Ferreira, 2007; Piponiot et al., 2019). The greatest and most immediate challenge relates to the high prevalence of illegal activities, which even permeate legal concessions (Finer et",
+        "type": "CompositeElement",
+        "metadata": {
+            "source": "Part_III_Cap_27_Conservation measures to counter the main threats to Amazonian biodiversity.pdf",
+            "part_name": "The Solution Space: Finding Sustainable Pathways for the Amazon",
+            "chapter_name": "Conservation measures to counter the main threats to Amazonian biodiversity",
+            "chapter_number": 27,
+            "chunk_seq": 28,
+            "parent_section_number": "27.3.4",
+            "parent_section_name": "Illegal logging",
+            "page": 8,
+            "element_id": "0e637be15cb9a1cc52d9585a863f7663"
+        }
+    },
+    {
+        "text": "Chapter 27: Conservation Measures to Counter the Main Threats to Amazonian Biodiversity al., 2014; Brancalion et al., 2018). Illegal logging has two main effects. First, sustainable forest management practices will not be followed in the areas where timber is illegally extracted (Vidal et al., 2020), causing significant and long-lasting reductions in forest carbon stocks (Berenguer et al., 2014). Second, the availability of illegal timber suppresses market prices, reducing incentives for others to follow RIL methods (Santos de Lima et al., 2018).",
+        "type": "CompositeElement",
+        "metadata": {
+            "source": "Part_III_Cap_27_Conservation measures to counter the main threats to Amazonian biodiversity.pdf",
+            "part_name": "The Solution Space: Finding Sustainable Pathways for the Amazon",
+            "chapter_name": "Conservation measures to counter the main threats to Amazonian biodiversity",
+            "chapter_number": 27,
+            "chunk_seq": 29,
+            "parent_section_number": "27.3.4",
+            "parent_section_name": "Illegal logging",
+            "page": 9,
+            "element_id": "c44b92b07c4c8937a7f911f87c55cf8a"
+        }
+    },
+    {
+        "text": "Addressing these issues will require improved public systems governing logging, and more transparent supply chains so that the origin of timber can be clearly traced and verified (Brancalion et al. 2018). Big data, use of unmanned aerial vehicles (UAV) (Figueiredo et al., 2016), and DNA technologies could support verification processes (Degen et al., 2013). Improvements can also be made by creating stronger forest-related partnerships between multiple actors, including local community involvement (Ros-Tonen et al., 2008), that can help ensure both compliance with environmental laws and land tenure rights. In the longer term, reducing the Amazon’s economic reliance on timber from native forests should provide the best approach (see Chapter 29), provided plantations are not leading to conversion of native forests.",
+        "type": "CompositeElement",
+        "metadata": {
+            "source": "Part_III_Cap_27_Conservation measures to counter the main threats to Amazonian biodiversity.pdf",
+            "part_name": "The Solution Space: Finding Sustainable Pathways for the Amazon",
+            "chapter_name": "Conservation measures to counter the main threats to Amazonian biodiversity",
+            "chapter_number": 27,
+            "chunk_seq": 30,
+            "parent_section_number": "27.3.4",
+            "parent_section_name": "Illegal logging",
+            "page": 9,
+            "element_id": "b028083e3b3c396df7253c4096ac9e5a"
+        }
+    },
+    {
+        "text": "27.4 Ecosystem degradation resulting from climate change & severe weather Links between human actions, climate change, and climate extremes are now unequivocal or virtually certain (IPCC AR6 WG1). Such changes are also major drivers of ecosystem degradation in the Amazon (Chapter 22). Impacts can be direct and immediate, for example through droughts that cause widespread mortality of trees and aquatic life (e.g. Phillips et al. 2009; Lennox et al. 2019) or damaging floods (Marengo and Espinoza, 2016; Barichivich et al., 2018). Extreme climatic events alter the availability of keystone resources such as fruiting trees (Wright et al., 1999) and bring about major shifts in wildlife populations (Bodmer et al., 2018). Climate change can also act slowly, over long time periods, altering temperature and rainfall patterns, and",
+        "type": "CompositeElement",
+        "metadata": {
+            "source": "Part_III_Cap_27_Conservation measures to counter the main threats to Amazonian biodiversity.pdf",
+            "part_name": "The Solution Space: Finding Sustainable Pathways for the Amazon",
+            "chapter_name": "Conservation measures to counter the main threats to Amazonian biodiversity",
+            "chapter_number": 27,
+            "chunk_seq": 31,
+            "parent_section_number": "27.4",
+            "parent_section_name": "Ecosystem degradation resulting from climate change & severe weather",
+            "page": 9,
+            "element_id": "d003ab1175bd5ed972954b072c88446d"
+        }
+    },
+    {
+        "text": "increasing dry season length (Fu et al., 2013). These more gradual changes are associated with changes in tree species composition observed in long-term plot networks (Esquivel‐Muelbert et al., 2019). Climate change and extremes can also act in concert with other disturbances to increase the likelihood of large scale megafires (e.g. Aragao et al. 2018, Withey et al. 2018) and forest dieback (Nobre et al., 2016) (See Chapters 22 and 24).",
+        "type": "CompositeElement",
+        "metadata": {
+            "source": "Part_III_Cap_27_Conservation measures to counter the main threats to Amazonian biodiversity.pdf",
+            "part_name": "The Solution Space: Finding Sustainable Pathways for the Amazon",
+            "chapter_name": "Conservation measures to counter the main threats to Amazonian biodiversity",
+            "chapter_number": 27,
+            "chunk_seq": 32,
+            "parent_section_number": "27.4",
+            "parent_section_name": "Ecosystem degradation resulting from climate change & severe weather",
+            "page": 9,
+            "element_id": "98b65afd95509bff699b347a3e5110d9"
+        }
+    },
+    {
+        "text": "Addressing pervasive climatic drivers is challenging, requiring rapid global action to reach net zero CO2 emissions as well as strong and sustained reductions in other greenhouse gas emissions (IPCC AR6). While reductions in the use of fossil fuels are fundamental, actions within the Amazon are also needed. First, the Amazon is in itself a critically important global carbon store and potential sink, and land-use change contributes the majority of emissions from Amazonian nations (Chapter 19). Local management to avoid deforestation and degradation and encourage forest restoration will therefore play a key role in mitigating global climate change (if conducted in concert with emission reductions elsewhere). Second, local management may be key to enable ecosystems to retain their innate resilience to climatic stress (e.g. França et al. 2020). Forest cover is in itself an important determinant of local climates, reducing temperatures and retaining water cycling (Chapters",
+        "type": "CompositeElement",
+        "metadata": {
+            "source": "Part_III_Cap_27_Conservation measures to counter the main threats to Amazonian biodiversity.pdf",
+            "part_name": "The Solution Space: Finding Sustainable Pathways for the Amazon",
+            "chapter_name": "Conservation measures to counter the main threats to Amazonian biodiversity",
+            "chapter_number": 27,
+            "chunk_seq": 33,
+            "parent_section_number": "27.4",
+            "parent_section_name": "Ecosystem degradation resulting from climate change & severe weather",
+            "page": 9,
+            "element_id": "86d3496360faa0acbe6d9ff818ed4730"
+        }
+    },
+    {
+        "text": "and 29). Avoiding selective logging and buffering forest edges with regenerating forests could all help retain humid forest microclimates (Uhl and Kauffman, 1990), reducing the risk of forest fires. Trees in intact forests may also be more resilient to drought and fire stress, with lower levels of tree mortality (Berenguer et al., 2021). Local management that encourages free flowing rivers could also make aquatic systems more resilient to climate change and climatic extremes, as extreme weather exacerbates the impacts that large dams have on ecosystem functioning in downstream forests (Moser et al., 2019).",
+        "type": "CompositeElement",
+        "metadata": {
+            "source": "Part_III_Cap_27_Conservation measures to counter the main threats to Amazonian biodiversity.pdf",
+            "part_name": "The Solution Space: Finding Sustainable Pathways for the Amazon",
+            "chapter_name": "Conservation measures to counter the main threats to Amazonian biodiversity",
+            "chapter_number": 27,
+            "chunk_seq": 34,
+            "parent_section_number": "27.4",
+            "parent_section_name": "Ecosystem degradation resulting from climate change & severe weather",
+            "page": 9,
+            "element_id": "e60dda29d145b56a4eafa1861ce44425"
+        }
+    },
+    {
+        "text": "27.5 Infrastructure as a driver of change: Roads and Railways 7 Chapter 27: Conservation Measures to Counter the Main Threats to Amazonian Biodiversity",
+        "type": "CompositeElement",
+        "metadata": {
+            "source": "Part_III_Cap_27_Conservation measures to counter the main threats to Amazonian biodiversity.pdf",
+            "part_name": "The Solution Space: Finding Sustainable Pathways for the Amazon",
+            "chapter_name": "Conservation measures to counter the main threats to Amazonian biodiversity",
+            "chapter_number": 27,
+            "chunk_seq": 35,
+            "parent_section_number": "27.5",
+            "parent_section_name": "Infrastructure as a driver of change: Roads and Railways",
+            "page": 9,
+            "element_id": "f47b674272f35e00a0c04d886d44c9f6"
+        }
+    },
+    {
+        "text": "Past experience suggests that, without dramatic changes in governance, increasing access to new regions via road building or paving will result in an inevitable increase in deforestation and environmental degradation (see Chapters 14 and 19). Given changes in governance are unlikely in the short term, and have not yet proven to be effective on smaller scales, maintaining the Amazon’s integrity requires a very cautious approach to new road construction and improving existing transportation networks. This is especially important when implementing road building or improvement schemes across previously inaccessible regions, such as the IIRSA (the road planned in the ‘Calha Norte’ of the Brazilian Amazon) or the paving of highways such as BR319 between Manaus and Porto Velho. While all roads and railways have detrimental environmental consequences, some are worse than others. There needs to be greater distinction between roads and railways that are important for the local",
+        "type": "CompositeElement",
+        "metadata": {
+            "source": "Part_III_Cap_27_Conservation measures to counter the main threats to Amazonian biodiversity.pdf",
+            "part_name": "The Solution Space: Finding Sustainable Pathways for the Amazon",
+            "chapter_name": "Conservation measures to counter the main threats to Amazonian biodiversity",
+            "chapter_number": 27,
+            "chunk_seq": 36,
+            "parent_section_number": "27.5",
+            "parent_section_name": "Infrastructure as a driver of change: Roads and Railways",
+            "page": 10,
+            "element_id": "19f6bf998f2e7daa8d8d2cd8e1266b92"
+        }
+    },
+    {
+        "text": "economy and people, and those which open up forest frontiers, encourage land grabbing and a wide range of illegal activities, or are motivated by geopolitical reasons or land speculation. While many unofficial roads are associated with deforestation, these are both symptoms of unplanned governance and land speculation as well as potential drivers of deforestation per se. Railways in the region are almost all tied to moving soy and/or mining products (Chapter 19). While railways may have less indirect impacts on surrounding forests than roads, they nonetheless act to fragment the region and hasten deforestation alongside the tracks (Chapter 19). Finally, large infrastructure developments must avoid protected areas and Indigenous territories.",
+        "type": "CompositeElement",
+        "metadata": {
+            "source": "Part_III_Cap_27_Conservation measures to counter the main threats to Amazonian biodiversity.pdf",
+            "part_name": "The Solution Space: Finding Sustainable Pathways for the Amazon",
+            "chapter_name": "Conservation measures to counter the main threats to Amazonian biodiversity",
+            "chapter_number": 27,
+            "chunk_seq": 37,
+            "parent_section_number": "27.5",
+            "parent_section_name": "Infrastructure as a driver of change: Roads and Railways",
+            "page": 10,
+            "element_id": "2d1f8e62d0e2d779e860dc7214ce358d"
+        }
+    },
+    {
+        "text": "27.6 Energy and mining as a driver of change Instead of constructing major dams, alternative sources of renewable energy should be harnessed in the Amazon, including off-grid solar (Sánchez et al., 2015) and wind. Where dams are considered for regional power generation, the potential costs and benefits should be evaluated against alternative forms of energy generation, undertaking comprehensive impact assessments that consider the full",
+        "type": "CompositeElement",
+        "metadata": {
+            "source": "Part_III_Cap_27_Conservation measures to counter the main threats to Amazonian biodiversity.pdf",
+            "part_name": "The Solution Space: Finding Sustainable Pathways for the Amazon",
+            "chapter_name": "Conservation measures to counter the main threats to Amazonian biodiversity",
+            "chapter_number": 27,
+            "chunk_seq": 38,
+            "parent_section_number": "27.6",
+            "parent_section_name": "Energy and mining as a driver of change",
+            "page": 10,
+            "element_id": "be495bd39148e96f7cd502b4d99f54e6"
+        }
+    },
+    {
+        "text": "social, environmental, and economic costs over the lifetime of the project, including decommissioning. Such assessments must include the indirect effects of large infrastructure projects, which can extend tens of kilometers into the surrounding forest (Chapter 19 and Chapter 20, Sonter et al. 2017). If implemented, the focus should be on smaller headwater hydropower stations along tertiary tributaries that minimise impacts on biodiversity, and should avoid the lower reaches of Amazonian rivers where impacts on socio-biodiversity are most pervasive. These smaller hydropower dams will still require full river catchment environmental analyses to understand and mitigate cumulative environmental impacts. They will require the removal of vegetation prior to flooding to minimize methane emissions, and there is a need to maintain dam-free river stretches containing representative sections of the original landscape (Lees et al., 2016). Approval of new dams should also be ac-",
+        "type": "CompositeElement",
+        "metadata": {
+            "source": "Part_III_Cap_27_Conservation measures to counter the main threats to Amazonian biodiversity.pdf",
+            "part_name": "The Solution Space: Finding Sustainable Pathways for the Amazon",
+            "chapter_name": "Conservation measures to counter the main threats to Amazonian biodiversity",
+            "chapter_number": 27,
+            "chunk_seq": 39,
+            "parent_section_number": "27.6",
+            "parent_section_name": "Energy and mining as a driver of change",
+            "page": 10,
+            "element_id": "05ba92e6eb6db936157cc48cac9590fb"
+        }
+    },
+    {
+        "text": "companied by trade-off analysis including realistic estimates of future energy production under different climate scenarios (Winemiller et al., 2016). Efforts to modernize older hydropower plants will result in considerable cost and time savings and lead to fewer ecological and social impacts – although decommissioning and a switch to alternative forms of renewable energy will likely provide the greatest environmental benefits.",
+        "type": "CompositeElement",
+        "metadata": {
+            "source": "Part_III_Cap_27_Conservation measures to counter the main threats to Amazonian biodiversity.pdf",
+            "part_name": "The Solution Space: Finding Sustainable Pathways for the Amazon",
+            "chapter_name": "Conservation measures to counter the main threats to Amazonian biodiversity",
+            "chapter_number": 27,
+            "chunk_seq": 40,
+            "parent_section_number": "27.6",
+            "parent_section_name": "Energy and mining as a driver of change",
+            "page": 10,
+            "element_id": "1b6fcbea72c5ec89da053bf9222457d9"
+        }
+    },
+    {
+        "text": "27.7 Invasive species and diseases Invasive species are a major driver of local and global extinctions across the world (Bellard et al. 2016), altering ecosystem processes and service provision, often in tandem with changes in habitat extent and quality driven directly by other human actions. These impacts are particularly prevalent in aquatic systems where invasive species can drive changes in the abundance of aquatic communities, especially fish, zooplankton, and macrophytes, which may lead to higher water turbidity and increased nitrogen and organic matter concentration (Gallardo et al. 2016). Although invasive species are widespread in the Amazon’s aquatic ecosystems, our knowledge of their impacts and distribution is limited (Chapter 20). To date, most 8 Chapter 27: Conservation Measures to Counter the Main Threats to Amazonian Biodiversity",
+        "type": "CompositeElement",
+        "metadata": {
+            "source": "Part_III_Cap_27_Conservation measures to counter the main threats to Amazonian biodiversity.pdf",
+            "part_name": "The Solution Space: Finding Sustainable Pathways for the Amazon",
+            "chapter_name": "Conservation measures to counter the main threats to Amazonian biodiversity",
+            "chapter_number": 27,
+            "chunk_seq": 41,
+            "parent_section_number": "27.7",
+            "parent_section_name": "Invasive species and diseases",
+            "page": 10,
+            "element_id": "7a394ee355688dbe38016f56d6e88204"
+        }
+    },
+    {
+        "text": "impacts have been demonstrated in riparian systems that experience higher propagule pressure of invasive non-native species (Doria et al., 2021). Many fish introductions (e.g. carp and tilapia) are deliberate and a perceived means of developing aquaculture and the economy. Such measures have recently received political endorsement by legal measures facilitating “naturalisation by decree” of such invasive fish species (Pelicice et al., 2014; Alves et al., 2018). This trend towards legalization of non-native species for aquaculture needs to be rolled back, and instead aquaculture producers should seek to develop new technologies for the production of native fish species; the Amazon has the most diverse reservoir of options globally.",
+        "type": "CompositeElement",
+        "metadata": {
+            "source": "Part_III_Cap_27_Conservation measures to counter the main threats to Amazonian biodiversity.pdf",
+            "part_name": "The Solution Space: Finding Sustainable Pathways for the Amazon",
+            "chapter_name": "Conservation measures to counter the main threats to Amazonian biodiversity",
+            "chapter_number": 27,
+            "chunk_seq": 42,
+            "parent_section_number": "27.7",
+            "parent_section_name": "Invasive species and diseases",
+            "page": 11,
+            "element_id": "c6d656f807080a4a14b28a766939120b"
+        }
+    },
+    {
+        "text": "Beyond introduced fish, aquatic ecosystems are also under threat from the invasive grass Urochloa arrecta (African Signalgrass), which competes with native macrophyte communities, leading to local extinctions which impoverish ecosystem services (Fares et al., 2020). Invasives like Urochloa arrecta are associated with altered environments and a breakdown in ecosystem integrity, especially increased canopy openness which facilitates invasion. As such, measures taken to restore closedcanopy riparian forests should help to restrict its spread. Enhanced biosecurity and treatment of ballast waters is needed to stop the spread of other aquatic species into the Amazon, such as the golden mussel Limnoperna fortunei, which has spread in adjacent basins (e.g., Paraná) and could represents a major threat to biodiversity as well as to economic activities (e.g., blocking pipelines of hydroelectric power plants and water-supplies) (Uliano-Silva et al., 2013). Monitoring can help ensure early",
+        "type": "CompositeElement",
+        "metadata": {
+            "source": "Part_III_Cap_27_Conservation measures to counter the main threats to Amazonian biodiversity.pdf",
+            "part_name": "The Solution Space: Finding Sustainable Pathways for the Amazon",
+            "chapter_name": "Conservation measures to counter the main threats to Amazonian biodiversity",
+            "chapter_number": 27,
+            "chunk_seq": 43,
+            "parent_section_number": "27.7",
+            "parent_section_name": "Invasive species and diseases",
+            "page": 11,
+            "element_id": "ebed3bacbc22d00e3a4f6f77c19f31d4"
+        }
+    },
+    {
+        "text": "detection, but needs to be accompanied by effective biosecurity protocols that prevent transport of invasive species into the Amazon. This requires coordinated management at various scales and the close cooperation of state and local governments.",
+        "type": "CompositeElement",
+        "metadata": {
+            "source": "Part_III_Cap_27_Conservation measures to counter the main threats to Amazonian biodiversity.pdf",
+            "part_name": "The Solution Space: Finding Sustainable Pathways for the Amazon",
+            "chapter_name": "Conservation measures to counter the main threats to Amazonian biodiversity",
+            "chapter_number": 27,
+            "chunk_seq": 44,
+            "parent_section_number": "27.7",
+            "parent_section_name": "Invasive species and diseases",
+            "page": 11,
+            "element_id": "d992922ea656b5a6b2399a433b96c7d9"
+        }
+    },
+    {
+        "text": "Terrestrial systems are seemingly less threatened by invasive species in the Amazon, but there are examples, including the escape of the acacia (Acacia mangium) from large-scale commercial plantations into the surrounding Amazonian savannas (Aguiar et al. 2014). Silvicultural initiatives, including plantation forestry or forest restoration, should carry out a risk assessment on the invasion potential of the species being used, and contribute to controlling biological invasions should they occur. Disease surveillance efforts are needed to track diseases like yellow fever in primates (RamosFernández and Wallace, 2008) and chytridiomycosis in amphibians which may be largely asymptomatic in the basin (Russell et al., 2019). Although these may not be major problems at present, they may represent serious threats for small, fragmented populations of Critically Endangered species in the future.",
+        "type": "CompositeElement",
+        "metadata": {
+            "source": "Part_III_Cap_27_Conservation measures to counter the main threats to Amazonian biodiversity.pdf",
+            "part_name": "The Solution Space: Finding Sustainable Pathways for the Amazon",
+            "chapter_name": "Conservation measures to counter the main threats to Amazonian biodiversity",
+            "chapter_number": 27,
+            "chunk_seq": 45,
+            "parent_section_number": "27.7",
+            "parent_section_name": "Invasive species and diseases",
+            "page": 11,
+            "element_id": "a2763592e270223a9b3e794e73546da9"
+        }
+    },
+    {
+        "text": "27.8 Human intrusions: War and unrest The negative environmental impacts of withincountry conflicts with non-state actors have been documented around the world (McNeely, 2003). Among drivers of deforestation, war and violent conflicts in tropical areas have affected forests and biodiversity of many countries in Latin America (McNeely, 2003; Fjeldså et al., 2005). The impacts of violence on tropical deforestation are mixed. In some cases, conflict increases rates of deforestation (McNeely, 2003; Hanson et al., 2009), due mainly to shifts in land tenure and changes of agricultural practices including the expansion of illicit crops (Negret et al., 2019). In other cases, by limiting access to the forest, armed groups have inadvertently reduced forest exploitation (Dávalos, 2001), prevented infrastructure and agriculture development (Reardon, 2018), and even facilitated recovery (McSweeney et al., 2014).",
+        "type": "CompositeElement",
+        "metadata": {
+            "source": "Part_III_Cap_27_Conservation measures to counter the main threats to Amazonian biodiversity.pdf",
+            "part_name": "The Solution Space: Finding Sustainable Pathways for the Amazon",
+            "chapter_name": "Conservation measures to counter the main threats to Amazonian biodiversity",
+            "chapter_number": 27,
+            "chunk_seq": 46,
+            "parent_section_number": "27.8",
+            "parent_section_name": "Human intrusions: War and unrest",
+            "page": 11,
+            "element_id": "4807679ed755714a5dad3f7d514c5318"
+        }
+    },
+    {
+        "text": "Post-conflict situations require careful management. In Colombia, after decades of unrest, the recent 2016 peace agreement expanded unsustainable development practices, resulting in an increase in deforestation in some frontier areas. A disproportionate increase in fires was the first signal indicating large-scale forest degradation (Armenteras et al., 2019) and transformation at the heart of key protected areas in the Colombian Amazon (Murillo-Sandoval et al., 2020). In Colombia, as in 9 Chapter 27: Conservation Measures to Counter the Main Threats to Amazonian Biodiversity",
+        "type": "CompositeElement",
+        "metadata": {
+            "source": "Part_III_Cap_27_Conservation measures to counter the main threats to Amazonian biodiversity.pdf",
+            "part_name": "The Solution Space: Finding Sustainable Pathways for the Amazon",
+            "chapter_name": "Conservation measures to counter the main threats to Amazonian biodiversity",
+            "chapter_number": 27,
+            "chunk_seq": 47,
+            "parent_section_number": "27.8",
+            "parent_section_name": "Human intrusions: War and unrest",
+            "page": 11,
+            "element_id": "6ba5d26a910cf4cab701b954b3c92322"
+        }
+    },
+    {
+        "text": "Brazil, cattle ranching is used by land owners to claim ownership over newly cleared forests coupled with the lack of clarity of ownership of land property titles (Armenteras et al., 2019). Establishing legitimate government control and governance in former Amazonian conflict zones in Peru and Colombia is critical to ensure that deforestation rates do not increase during periods of transition. In Colombia this necessitates working with communities in Indigenous reserves and Afro-Colombian collective lands in order to set conservation objectives within a broader context of local development aspirations (Negret et al., 2019). Conservation and sustainable use also require the involvement of communities displaced by warfare, but this is being undermined by mass killings and murders of community leaders in Colombia (UN, 2021) and a rise in area of illicit crops (MurilloSandoval et al., 2020). Further, access to and distribution of land is still highly unequal in countries",
+        "type": "CompositeElement",
+        "metadata": {
+            "source": "Part_III_Cap_27_Conservation measures to counter the main threats to Amazonian biodiversity.pdf",
+            "part_name": "The Solution Space: Finding Sustainable Pathways for the Amazon",
+            "chapter_name": "Conservation measures to counter the main threats to Amazonian biodiversity",
+            "chapter_number": 27,
+            "chunk_seq": 48,
+            "parent_section_number": "27.8",
+            "parent_section_name": "Human intrusions: War and unrest",
+            "page": 12,
+            "element_id": "bc798edd4cd1f33b22b38552dd3769a7"
+        }
+    },
+    {
+        "text": "such as Brazil, Peru, and Colombia, and has been a major source of violent conflict for decades (Krause, 2020); curbing land speculation and land grabbing is essential to protect forests (Armenteras et al., 2019). Political, technical, and financial support for small farmers to ensure the transition from coca culture to other legal land use is needed and must be promoted. Some of the solutions lie outside of Amazonian countries. For example, deregulation and the legalization of drugs in the developed world would reduce income from organized crime and open up opportunities for sustainable development and conservation in regions affected by growing and trafficking (McSweeney et al., 2014).",
+        "type": "CompositeElement",
+        "metadata": {
+            "source": "Part_III_Cap_27_Conservation measures to counter the main threats to Amazonian biodiversity.pdf",
+            "part_name": "The Solution Space: Finding Sustainable Pathways for the Amazon",
+            "chapter_name": "Conservation measures to counter the main threats to Amazonian biodiversity",
+            "chapter_number": 27,
+            "chunk_seq": 49,
+            "parent_section_number": "27.8",
+            "parent_section_name": "Human intrusions: War and unrest",
+            "page": 12,
+            "element_id": "0e17ff8cbc031e0b6bfcb2ebf3cbf786"
+        }
+    },
+    {
+        "text": "27.9 Agricultural, aquacultural, and industrial waste; plastic waste; heavy metals and mercury The Amazon needs a water quality monitoring network that extends across the many different river basins, providing a way of linking changes in quality with changes in biodiversity and ecosystem conditions. This is also key for human communities, given that rivers are the region’s chief source of drinking water, but is untreated in many areas (Fenzl and Mathis, 2004). Although water is treated for consumption in Amazonian cities, wastewater treatment is often inexistent or ineffective and requires urgent investment (Chapter 20). Monitoring also needs to cover industrial and mining zones, such as Manaus (Amazonas) and Barcarena (Pará), respectively, where industrial waste tailing basins pose a major risk to human and ecosystem health (Medeiros et al., 2017).",
+        "type": "CompositeElement",
+        "metadata": {
+            "source": "Part_III_Cap_27_Conservation measures to counter the main threats to Amazonian biodiversity.pdf",
+            "part_name": "The Solution Space: Finding Sustainable Pathways for the Amazon",
+            "chapter_name": "Conservation measures to counter the main threats to Amazonian biodiversity",
+            "chapter_number": 27,
+            "chunk_seq": 50,
+            "parent_section_number": "27.9",
+            "parent_section_name": "Agricultural, aquacultural, and industrial waste; plastic waste; heavy metals and mercury",
+            "page": 12,
+            "element_id": "0ccc2aa2a8f74ffdc5780c56a681cdd1"
+        }
+    },
+    {
+        "text": "Gold mining is the main source of mercury in river waters. It accumulates throughout the food chain up to humans, affecting especially human populations that rely heavily on fish consumption, leading to severe neurological and motor damage, even in those living several kilometers away from pollution sources (Chapter 21). These predominantly illegal activities need to be curbed though improved governance, enforcement, and protection of protected areas and Indigenous territories. Outside the Amazon, gold supply chains must be made transparent and held accountable for their sources, therefore cracking down on the increasing presence of illegal gold in international trade.",
+        "type": "CompositeElement",
+        "metadata": {
+            "source": "Part_III_Cap_27_Conservation measures to counter the main threats to Amazonian biodiversity.pdf",
+            "part_name": "The Solution Space: Finding Sustainable Pathways for the Amazon",
+            "chapter_name": "Conservation measures to counter the main threats to Amazonian biodiversity",
+            "chapter_number": 27,
+            "chunk_seq": 51,
+            "parent_section_number": "27.9",
+            "parent_section_name": "Agricultural, aquacultural, and industrial waste; plastic waste; heavy metals and mercury",
+            "page": 12,
+            "element_id": "3fe2e93f1a7f719eff084ae7e9bcf84e"
+        }
+    },
+    {
+        "text": "Urgent research is needed to understand the impact of pesticides on biodiversity and ecosystem services in both terrestrial and aquatic ecosystems (Chapter 19 and Chapter 20). Solutions involve more rigorous screening and licensing of chemicals, and better training for farmers in their use. This will reduce impacts arising from poor application techniques. These issues are especially pertinent in the south of the basin (Lathuillière et al., 2018). Plastic pollution is a growing issue, with microplastics found in several different fish species (Chapter 20). Country-specific actions (see Chapter 28) need to be supported by basin-wide regulation. For example, in Peru, public campaigns and single use plastic bans have been gaining momentum and such actions could be replicated across Amazonian countries.",
+        "type": "CompositeElement",
+        "metadata": {
+            "source": "Part_III_Cap_27_Conservation measures to counter the main threats to Amazonian biodiversity.pdf",
+            "part_name": "The Solution Space: Finding Sustainable Pathways for the Amazon",
+            "chapter_name": "Conservation measures to counter the main threats to Amazonian biodiversity",
+            "chapter_number": 27,
+            "chunk_seq": 52,
+            "parent_section_number": "27.9",
+            "parent_section_name": "Agricultural, aquacultural, and industrial waste; plastic waste; heavy metals and mercury",
+            "page": 12,
+            "element_id": "7de03e78ab95ae04c04c992a03ba72fc"
+        }
+    },
+    {
+        "text": "27.10 Small dams created by agriculture and road infrastructure In addition to river fragmentation driven by hydroelectric dams (see Section 2.5), watercourse frag",
+        "type": "CompositeElement",
+        "metadata": {
+            "source": "Part_III_Cap_27_Conservation measures to counter the main threats to Amazonian biodiversity.pdf",
+            "part_name": "The Solution Space: Finding Sustainable Pathways for the Amazon",
+            "chapter_name": "Conservation measures to counter the main threats to Amazonian biodiversity",
+            "chapter_number": 27,
+            "chunk_seq": 53,
+            "parent_section_number": "27.10",
+            "parent_section_name": "Small dams created by agriculture and road infrastructure",
+            "page": 12,
+            "element_id": "039170bc80bb7214ef4bc2f30d92b3de"
+        }
+    },
+    {
+        "text": "Chapter 27: Conservation Measures to Counter the Main Threats to Amazonian Biodiversity",
+        "type": "CompositeElement",
+        "metadata": {
+            "source": "Part_III_Cap_27_Conservation measures to counter the main threats to Amazonian biodiversity.pdf",
+            "part_name": "The Solution Space: Finding Sustainable Pathways for the Amazon",
+            "chapter_name": "Conservation measures to counter the main threats to Amazonian biodiversity",
+            "chapter_number": 27,
+            "chunk_seq": 54,
+            "parent_section_number": "27.10",
+            "parent_section_name": "Small dams created by agriculture and road infrastructure",
+            "page": 13,
+            "element_id": "b9fa1b596e0f31e04c99bcd8595ec5aa"
+        }
+    },
+    {
+        "text": "mentation in the Amazon is also associated with inappropriate road crossings and culverts. Although these barriers are often small compared to hydroelectric dams, they have landscape-scale consequences for species assemblages (Schiesari et al., 2020) and are a direct threat to the highly diverse and unique fish assemblages found in the Amazon’s streams (Leal et al., 2018). Even small reservoirs created upstream of roads are important drivers of instream habitat change (Leal et al., 2016). Inappropriate road crossings also isolate aquatic populations by interrupting dispersal pathways (Perkin and Gido, 2012), potentially hindering recolonization opportunities following stochastic and human-induced extinction events (Schumann et al., 2019; Wilkes et al., 2019), and shifting distributions due to climate change (Comte et al., 2014). Despite growing awareness of the benefits that can be gained from adapting the small but pervasive barriers created by road crossings",
+        "type": "CompositeElement",
+        "metadata": {
+            "source": "Part_III_Cap_27_Conservation measures to counter the main threats to Amazonian biodiversity.pdf",
+            "part_name": "The Solution Space: Finding Sustainable Pathways for the Amazon",
+            "chapter_name": "Conservation measures to counter the main threats to Amazonian biodiversity",
+            "chapter_number": 27,
+            "chunk_seq": 55,
+            "parent_section_number": "27.10",
+            "parent_section_name": "Small dams created by agriculture and road infrastructure",
+            "page": 13,
+            "element_id": "6f1779420002289d61f139c14559b633"
+        }
+    },
+    {
+        "text": "(O’Shaughnessy et al., 2016), there is little incentive to do so; these crossings are considered as having low environmental impacts by the Brazilian Environmental Council (CONAMA 2006, resolution #369), discouraging restoration practices. However, even relatively minor changes to regulations could make an important difference. Many road crossings in the Amazon require frequent repairs, and replacing them with less-damaging structures (bridges) could have an attractive benefit-cost ratio.",
+        "type": "CompositeElement",
+        "metadata": {
+            "source": "Part_III_Cap_27_Conservation measures to counter the main threats to Amazonian biodiversity.pdf",
+            "part_name": "The Solution Space: Finding Sustainable Pathways for the Amazon",
+            "chapter_name": "Conservation measures to counter the main threats to Amazonian biodiversity",
+            "chapter_number": 27,
+            "chunk_seq": 56,
+            "parent_section_number": "27.10",
+            "parent_section_name": "Small dams created by agriculture and road infrastructure",
+            "page": 13,
+            "element_id": "7f078afa57473eddc342f9ae64ce459c"
+        }
+    },
+    {
+        "text": "27.11 Ecosystem degradation resulting from interactions between stressors Many of the aforementioned stressors co-occur, and one set of stressors can amplify both the prevalence and impact of other stressors or create new problems. Here we highlight the importance of such interactions by focusing on forest fires, which are a key component in any large-scale Amazonian dieback (chapter 24), clearly highlight the complexity associated with interactive effects, and demonstrate that solutions need to target each of the drivers independently, requiring in turn multisectoral action. Global climate change is a key driver of fire prevalence, increasing both dry",
+        "type": "CompositeElement",
+        "metadata": {
+            "source": "Part_III_Cap_27_Conservation measures to counter the main threats to Amazonian biodiversity.pdf",
+            "part_name": "The Solution Space: Finding Sustainable Pathways for the Amazon",
+            "chapter_name": "Conservation measures to counter the main threats to Amazonian biodiversity",
+            "chapter_number": 27,
+            "chunk_seq": 57,
+            "parent_section_number": "27.11",
+            "parent_section_name": "Ecosystem degradation resulting from interactions between stressors",
+            "page": 13,
+            "element_id": "3af49e05f9bb8cc3e06031c405d9017a"
+        }
+    },
+    {
+        "text": "season lengths and temperatures (Brando et al., 2019). Maintaining the climate change mitigation potential of the Amazon is therefore itself dependent on reducing greenhouse gas emissions across the world. But while tackling climate change remains a global priority, this is likely to be a slow process with significant time lags even under bestcase scenarios (Masson-Delmotte et al., 2121). Preventing forest fires in the coming decades will therefore require conservation and prevention measures that address their local causes (Barlow et al., 2020). Tackling deforestation is fundamental, as forest clearance is a major source of ignition, and augments the flammability of remaining forests by increasing edge density, raising regional temperatures, and reducing rainfall (Chapter 19).",
+        "type": "CompositeElement",
+        "metadata": {
+            "source": "Part_III_Cap_27_Conservation measures to counter the main threats to Amazonian biodiversity.pdf",
+            "part_name": "The Solution Space: Finding Sustainable Pathways for the Amazon",
+            "chapter_name": "Conservation measures to counter the main threats to Amazonian biodiversity",
+            "chapter_number": 27,
+            "chunk_seq": 58,
+            "parent_section_number": "27.11",
+            "parent_section_name": "Ecosystem degradation resulting from interactions between stressors",
+            "page": 13,
+            "element_id": "87ebc4beb4a24f3b55f16ba1da67e5ad"
+        }
+    },
+    {
+        "text": "But deforestation is not the only source of ignition in the landscape. Many forest fires start when fires in cattle pastures ‘escape’ (Barlow et al, 2020); this risk can be reduced by encouraging sustainable intensification of cattle ranching, which avoids pasture burning (Chapter 29). Traditional fire‐dependent agriculture, such as farm-fallow systems using slash and burn (e.g. Padoch and Pinedo-Vasquez 2010) are more difficult to replace, as actions could have undesirable outcomes for sustainable land use, regional food security, and social justice. In these cases, conservation policies need to help farmers adapt existing farming practices, and must consider local perspectives (Carmenta et al., 2013). Fires could also be reduced by preventing illegal logging and any other actions provoking forest degradation, as the high offtake rates and lack of pre-cut planning or follow-up management make illegally logged forests especially vulnerable to fire, due to changes in the",
+        "type": "CompositeElement",
+        "metadata": {
+            "source": "Part_III_Cap_27_Conservation measures to counter the main threats to Amazonian biodiversity.pdf",
+            "part_name": "The Solution Space: Finding Sustainable Pathways for the Amazon",
+            "chapter_name": "Conservation measures to counter the main threats to Amazonian biodiversity",
+            "chapter_number": 27,
+            "chunk_seq": 59,
+            "parent_section_number": "27.11",
+            "parent_section_name": "Ecosystem degradation resulting from interactions between stressors",
+            "page": 13,
+            "element_id": "df311eaa33c775b266bb5ad4eff36764"
+        }
+    },
+    {
+        "text": "microclimate (Uhl and Kauffman, 1990). Finally, forest fires can be reduced by near‐real‐time monitoring and forecasting of drought intensity and fire risk, especially if linked to responsive, resourced, and capable local fire brigades. Fire brigades are fundamental to effective park management in the Bolivian and Brazilian Amazon, but remain chronically under-resourced (Nóbrega Spínola et al., 2020).",
+        "type": "CompositeElement",
+        "metadata": {
+            "source": "Part_III_Cap_27_Conservation measures to counter the main threats to Amazonian biodiversity.pdf",
+            "part_name": "The Solution Space: Finding Sustainable Pathways for the Amazon",
+            "chapter_name": "Conservation measures to counter the main threats to Amazonian biodiversity",
+            "chapter_number": 27,
+            "chunk_seq": 60,
+            "parent_section_number": "27.11",
+            "parent_section_name": "Ecosystem degradation resulting from interactions between stressors",
+            "page": 13,
+            "element_id": "cddcfd18e677f03c1e8cf31490639adf"
+        }
+    },
+    {
+        "text": "11 Chapter 27: Conservation Measures to Counter the Main Threats to Amazonian Biodiversity",
+        "type": "CompositeElement",
+        "metadata": {
+            "source": "Part_III_Cap_27_Conservation measures to counter the main threats to Amazonian biodiversity.pdf",
+            "part_name": "The Solution Space: Finding Sustainable Pathways for the Amazon",
+            "chapter_name": "Conservation measures to counter the main threats to Amazonian biodiversity",
+            "chapter_number": 27,
+            "chunk_seq": 61,
+            "parent_section_number": "27.11",
+            "parent_section_name": "Ecosystem degradation resulting from interactions between stressors",
+            "page": 13,
+            "element_id": "05c8b7cf5a5ddae019db6b33263aecf6"
+        }
+    },
+    {
+        "text": "27.12 Conclusions landscape. Ecol. Appl. 14, 139-149. Alves, G. H. Z., Téfoli, R. M., Lima-Junior, D. P., Hoeinghaus, D. J., and others (2018). New decree promotes fish invasion in Amazon and Pantanal. Biodivers. Conserv. 27, 2449-2450. Aragdo, L. E., Anderson, L. O., Fonseca, M. G., Rosan, T. M., Vedovato, L. B., Wagner, F. H., & Saatchi, S. (2018). 21st Century drought-related fires counteract the decline of Amazon deforestation carbon emissions. Nature communications,",
+        "type": "CompositeElement",
+        "metadata": {
+            "source": "Part_III_Cap_27_Conservation measures to counter the main threats to Amazonian biodiversity.pdf",
+            "part_name": "The Solution Space: Finding Sustainable Pathways for the Amazon",
+            "chapter_name": "Conservation measures to counter the main threats to Amazonian biodiversity",
+            "chapter_number": 27,
+            "chunk_seq": 62,
+            "parent_section_number": "27.12",
+            "parent_section_name": "Conclusions",
+            "page": 13,
+            "element_id": "05c8b7cf5a5ddae019db6b33263aecf6"
+        }
+    },
+    {
+        "text": "A broad suite of conservation measures is urgently needed to prevent further habitat loss and ecosystem degradation across the Amazon. Here we briefly outline some key actions. First, the prevention of deforestation and degradation is vital in some of the most deforested regions, especially in the south and east of the basin where several species are Critically Endangered. Second, measures are urgently needed across the entire basin to allow the Amazon’s ecosystems to continue to provide local, regional, and global benefits and avoid the risk of large-scale forest dieback (Chapter 24). The focus on retaining forests and preventing degradation must be complemented by actions to protect aquatic and non-forest ecosystems. This will require multi-sectoral changes in the planning of energy and mining and the use of agrochemicals. Achieving such wide-ranging conservation measures will require actions that go beyond the traditional remit of conservation biology; instead, it will",
+        "type": "CompositeElement",
+        "metadata": {
+            "source": "Part_III_Cap_27_Conservation measures to counter the main threats to Amazonian biodiversity.pdf",
+            "part_name": "The Solution Space: Finding Sustainable Pathways for the Amazon",
+            "chapter_name": "Conservation measures to counter the main threats to Amazonian biodiversity",
+            "chapter_number": 27,
+            "chunk_seq": 63,
+            "parent_section_number": "27.12",
+            "parent_section_name": "Conclusions",
+            "page": 14,
+            "element_id": "b34cbaefb9c5814a396c36f5eeeeb6b0"
+        }
+    },
+    {
+        "text": "require a new vision for the Amazon’s people and nature (Chapter 25), renewed support for protected areas and Indigenous lands (Chapter 31), and investment in alternative economic strategies (Chapter 30). Conservation progress will also benefit from a step change in investment in science within the Amazon to evaluate species status and distributions, and integrate Indigenous and local knowledge in this process (Chapter 33). Many species, especially invertebrates, are yet to be described. Ongoing taxonomic revisions are uncovering a large shortfall in our current understanding of Amazonian diversity, with many widespread species complexes being split into multiple restricted range species with much smaller distributions. The more we look at the Amazon’s biota, the more reasons we will find to conserve it.",
+        "type": "CompositeElement",
+        "metadata": {
+            "source": "Part_III_Cap_27_Conservation measures to counter the main threats to Amazonian biodiversity.pdf",
+            "part_name": "The Solution Space: Finding Sustainable Pathways for the Amazon",
+            "chapter_name": "Conservation measures to counter the main threats to Amazonian biodiversity",
+            "chapter_number": 27,
+            "chunk_seq": 64,
+            "parent_section_number": "27.12",
+            "parent_section_name": "Conclusions",
+            "page": 14,
+            "element_id": "5afde0c113fdf0691f5ffd43ed2cf244"
+        }
+    },
+    {
+        "text": "9(1), 1-12. Arias, M., Hinsley, A. Nogales-Ascarrunz, P., Negroes, N., Glikman, J. A., & Milner-Gulland, E. J. (2021). Prevalence and characteristics of illegal jaguar trade in north-western Bolivia. Conservation Science and Practice, e444. Armenteras, D., Negret, P., Melgarejo, L. F., Lakes, T. M., Londoio, M. C., Garcia, J., et al. (2019). Curb land grabbing to save the Amazon. Nat. Ecol. Evol. 3, 1497-1497. doi:10.1038/s41559-019-1020-1. Barichivich, J., Gloor, E., Peylin, P., Brienen, R. J. W., Schongart, J., Espinoza, J. C., et al. (2018). Recent intensification of Amazon flooding extremes driven by strengthened Walker circulation. Sci. Adv. 4, eaat8785. Barlow, J., Berenguer, E., Carmenta, R., and Franca, F. (2020). Clarifying Amazonia’s burning crisis. Glob. Chang. Biol. 26, 319-321.d0i:10.1111/gcb.14872. Barlow, J., Peres, C. A, Henriques, L. M. P., Stouffer, P. C., & Wunderle, J. M. (2006). The responses of understorey birds to forest fragmentation, logging and",
+        "type": "CompositeElement",
+        "metadata": {
+            "source": "Part_III_Cap_27_Conservation measures to counter the main threats to Amazonian biodiversity.pdf",
+            "part_name": "The Solution Space: Finding Sustainable Pathways for the Amazon",
+            "chapter_name": "Conservation measures to counter the main threats to Amazonian biodiversity",
+            "chapter_number": 27,
+            "chunk_seq": 65,
+            "parent_section_number": "27.12",
+            "parent_section_name": "Conclusions",
+            "page": 14,
+            "element_id": "480c16d02bd60d2cba460b138ea67a33"
+        }
+    },
+    {
+        "text": "wildfires: an Amazonian synthesis. Biological conservation, 128(2), 182-192. Bellard, C., Cassey, P., & Blackburn, T. M. (2016). Alien species a driver of recent extinctions. Biology letters, 12(2),",
+        "type": "CompositeElement",
+        "metadata": {
+            "source": "Part_III_Cap_27_Conservation measures to counter the main threats to Amazonian biodiversity.pdf",
+            "part_name": "The Solution Space: Finding Sustainable Pathways for the Amazon",
+            "chapter_name": "Conservation measures to counter the main threats to Amazonian biodiversity",
+            "chapter_number": 27,
+            "chunk_seq": 66,
+            "parent_section_number": "27.12",
+            "parent_section_name": "Conclusions",
+            "page": 14,
+            "element_id": "dad35739ca758acf43e8a4f96338ffe5"
+        }
+    },
+    {
+        "text": "Berenguer, E., Ferreira, J., Gardner, T. A., Aragdo, L. E. O. C., De Camargo, P. B., Cerri, C. E,, et al. (2014). A large-scale field assessment of carbon stocks in human-modified tropical forests. Glob. Chang. Biol. 20, 3713-3726. Berenguer, E., Lennox, G. D., Ferreira, J., Malhi, Y., Aragao, L. E. 0. C,, Barreto, J. R et al. (2021). Tracking the impacts of El Nifio drought and fire in human-modified Amazonian forests. Proc. Natl. Acad. 118, 2019377118. doi:10.1073/PNAS.2019377118. Blundell, A. G., and Gullison, R. E. (2003). Poor regulatory capacity limits the ability of science to influence the management of mahogany. in Forest Policy and Economics (Elsevier), 395-405. d0i:10.1016/S1389-9341(03)00038-8. Bodmer, R., Mayor, P., Antunez, M., Chota, K., Fang, T., Puertas, P, et al. (2018). Major shifts in Amazon wildlife populations from recent intensification of floods and drought. Conserv. Biol. 32, 333-344. d0i:10.1111/cobi.12993. Bragagnolo, C., Gama, G. M., Vieira, F. A. S.,",
+        "type": "CompositeElement",
+        "metadata": {
+            "source": "Part_III_Cap_27_Conservation measures to counter the main threats to Amazonian biodiversity.pdf",
+            "part_name": "The Solution Space: Finding Sustainable Pathways for the Amazon",
+            "chapter_name": "Conservation measures to counter the main threats to Amazonian biodiversity",
+            "chapter_number": 27,
+            "chunk_seq": 67,
+            "parent_section_number": "27.12",
+            "parent_section_name": "Conclusions",
+            "page": 14,
+            "element_id": "dc236d3f691e6b43a978d18d98651588"
+        }
+    },
+    {
+        "text": "Campos-Silva, J. V., Bernard, E., Malhado, A. C. M., et al. (2019). Hunting in Brazil: What are the options? Perspect. Ecol. Conserv. 17, 71-79. Brancalion, P. H. S., de Almeida, D. R. A., Vidal, E., Molin, P. G., AguiarJr, A., Barbosa, R. 1., Barbosa, J. B., & Mourao Jr, M. (2014). Sontag, V. E., Souza, S. E. X. F,, et al. (2018). Fake legal logging in the Brazilian Amazon. Sci. Adv. 4, eaat1192. Invasion of Acacia mangium in Amazonian savannas following planting for forestry. Plant Ecology & Diversity, 7(1-2), Branch, T. A Lobo, A. S., and Purcell, S. W. (2013). Opportunis- 359-369. tic exploitation: An overlooked pathway to extinction. Trends Ecol. Evol. 28, 409-413. Alencar, A. A. C., Solérzano, L. A., and Nepstad, D. C. (2004). Modeling forest understory fires in an eastern Amazonian doi:10.1016/j.tree.2013.03.003.",
+        "type": "CompositeElement",
+        "metadata": {
+            "source": "Part_III_Cap_27_Conservation measures to counter the main threats to Amazonian biodiversity.pdf",
+            "part_name": "The Solution Space: Finding Sustainable Pathways for the Amazon",
+            "chapter_name": "Conservation measures to counter the main threats to Amazonian biodiversity",
+            "chapter_number": 27,
+            "chunk_seq": 68,
+            "parent_section_number": "27.12",
+            "parent_section_name": "Conclusions",
+            "page": 14,
+            "element_id": "fd6f23c0e34d37012e759850e24d4ede"
+        }
+    },
+    {
+        "text": "27.13 References 12 Chapter 27: Conservation Measures to Counter the Main Threats to Amazonian Biodiversity Brando, P. M., Silvério, D., Maracahipes‐Santos, L., Oliveira‐Santos, C., Levick, S. R., Coe, M. T., et al. (2019). Prolonged tropical forest degradation due to compounding disturbances: Implications for CO 2 and H 2 O fluxes. Glob. Chang. Biol. 25, 2855–2868. doi:10.1111/gcb.14659. Carmenta, R., Vermeylen, S., Parry, L., and Barlow, J. (2013). Shifting Cultivation and Fire Policy: Insights from the Brazilian Amazon. Hum. Ecol. 41, 603–614. doi:10.1007/s10745-013-9600-1. Castello, L., McGrath, D. G., and Beck, P. S. A. (2011). Resource sustainability in small-scale fisheries in the Lower Amazon floodplains. Fish. Res. 110, 356–364. Chaudhary, A., Burivalova, Z., Koh, L. P., and Hellweg, S. (2016). Impact of Forest Management on Species Richness: Global Meta-Analysis and Economic Trade-Offs. Sci. Rep. 6, 1–10. doi:10.1038/srep23954.",
+        "type": "CompositeElement",
+        "metadata": {
+            "source": "Part_III_Cap_27_Conservation measures to counter the main threats to Amazonian biodiversity.pdf",
+            "part_name": "The Solution Space: Finding Sustainable Pathways for the Amazon",
+            "chapter_name": "Conservation measures to counter the main threats to Amazonian biodiversity",
+            "chapter_number": 27,
+            "chunk_seq": 69,
+            "parent_section_number": "27.13",
+            "parent_section_name": "References",
+            "page": 14,
+            "element_id": "99333b07d9ebaffccf77e2283a632598"
+        }
+    },
+    {
+        "text": "Comte, L., Murienne, J., and Grenouillet, G. (2014). Species traits and phylogenetic conservatism of climate-induced range shifts in stream fishes. Nat. Commun. 5, 1–9. doi:10.1038/ncomms6053. CONAMA (2006). Resolução Conama No 369, de 28 de março de 2006. Brazil. Cuneyt Koyuncu, and Rasim Yilmaz (2008). The Impact of Corruption on Deforestation: A Cross-Country Evidence. J. Dev. Areas 42, 213–222. doi:10.1353/jda.0.0010. Dávalos, L. M. (2001). The San Lucas mountain range in Colombia: how much conservation is owed to the violence? Biodivers. Conserv. 10, 69–78. doi:10.1023/A:1016651011294. Degen, B., Ward, S. E., Lemes, M. R., Navarro, C., Cavers, S., and Sebbenn, A. M. (2013). Verifying the geographic origin of mahogany (Swietenia macrophylla King) with DNA-fingerprints. Forensic Sci. Int. Genet. 7, 55–62. doi:10.1016/j.fsigen.2012.06.003.",
+        "type": "CompositeElement",
+        "metadata": {
+            "source": "Part_III_Cap_27_Conservation measures to counter the main threats to Amazonian biodiversity.pdf",
+            "part_name": "The Solution Space: Finding Sustainable Pathways for the Amazon",
+            "chapter_name": "Conservation measures to counter the main threats to Amazonian biodiversity",
+            "chapter_number": 27,
+            "chunk_seq": 70,
+            "parent_section_number": "27.13",
+            "parent_section_name": "References",
+            "page": 15,
+            "element_id": "44c641e928cc08ae301385daa56c3f2b"
+        }
+    },
+    {
+        "text": "do Nascimento, C. A. R., Czaban, R. E., and Alves, R. R. N. (2015). Trends in illegal trade of wild birds in Amazonas state, Brazil. Trop. Conserv. Sci. 8, 1098–1113. Doria, C. R. da C., Agudelo, E., Akama, A., Barros, B., Bonfim, M., Carneiro, L., et al. (2021). The Silent Threat of Non-native Fish in the Amazon: ANNF Database and Review. Front. Ecol. Evol. 0, 316. doi:10.3389/FEVO.2021.646702. El Bizri, H. R., Morcatty, T. Q., Lima, J. J. S., and Valsecchi, J. (2015). The thrill of the chase: uncovering illegal sport hunting in Brazil through YouTubeTM posts. Ecol. Soc. 20. Esquivel‐Muelbert, A., Baker, T. R., Dexter, K. G., Lewis, S. L., Brienen, R. J. W., Feldpausch, T. R., et al. (2019). Compositional response of Amazon forests to climate change. Glob. Chang. Biol. 25, 39–56. doi:10.1111/gcb.14413.",
+        "type": "CompositeElement",
+        "metadata": {
+            "source": "Part_III_Cap_27_Conservation measures to counter the main threats to Amazonian biodiversity.pdf",
+            "part_name": "The Solution Space: Finding Sustainable Pathways for the Amazon",
+            "chapter_name": "Conservation measures to counter the main threats to Amazonian biodiversity",
+            "chapter_number": 27,
+            "chunk_seq": 71,
+            "parent_section_number": "27.13",
+            "parent_section_name": "References",
+            "page": 15,
+            "element_id": "7e4f5e1d4cdcf9723980a3e5cbd7f3f7"
+        }
+    },
+    {
+        "text": "Fares, A. L. B., Calvão, L. B., Torres, N. R., Gurgel, E. S. C., and Michelan, T. S. (2020). Environmental factors affect macrophyte diversity on Amazonian aquatic ecosystems inserted in an anthropogenic landscape. Ecol. Indic. 113, 106231. Fenzl, N., and Mathis, A. (2004). Pollution of natural water resources in Amazonia: Sources, risks and consequences. Issues local Glob. use water from Amaz. Montevideo, UNESCO, 57–76. Figueiredo, E. O., D’Oliveira, M. V. N., Locks, C. J., and Papa, D. de A. (2016). Estimativa do Volume de Madeira em Pátios de Estocagem de Toras por meio de Câmeras RGB Instaladas em Aeronaves Remotamente Pilotadas (ARP). Bol. Pesqui. Número 9 - Embrapa d, 1–59. Finer, M., Jenkins, C. N., Sky, M. A. B., and Pine, J. (2014). Logging concessions enable illegal logging crisis in the peruvian amazon. Sci. Rep. 4, 1–6. doi:10.1038/srep04719.",
+        "type": "CompositeElement",
+        "metadata": {
+            "source": "Part_III_Cap_27_Conservation measures to counter the main threats to Amazonian biodiversity.pdf",
+            "part_name": "The Solution Space: Finding Sustainable Pathways for the Amazon",
+            "chapter_name": "Conservation measures to counter the main threats to Amazonian biodiversity",
+            "chapter_number": 27,
+            "chunk_seq": 72,
+            "parent_section_number": "27.13",
+            "parent_section_name": "References",
+            "page": 15,
+            "element_id": "666a56ba93a76d1f401a6cb0cb4f33a7"
+        }
+    },
+    {
+        "text": "Fischer, R., Giessen, L., and Günter, S. (2020). Governance effects on deforestation in the tropics: A review of the evidence. Environ. Sci. Policy 105, 84–101. doi:10.1016/j.envsci.2019.12.007. Fjeldså, J., Álvarez, M. D., Lazcano, J. M., and León, B. (2005). Illicit Crops and Armed Conflict as Constraints on Biodiversity Conservation in the Andes Region. AMBIO A J. Hum. Environ. 34, 205–211. doi:10.1579/0044-7447-34.3.205. França, F. M., Frazão, F. S., Korasaki, V., Louzada, J., & Barlow, J. (2017). Identifying thresholds of logging intensity on dung beetle communities to improve the sustainable management of Amazonian tropical forests. Biological Conservation, 216, 115-122. França, F. M., Benkwitt, C. E., Peralta, G., Robinson, J. P. W., Graham, N. A. J., Tylianakis, J. M., et al. (2020). Climatic and local stressor interactions threaten tropical forests and coral reefs. Philos. Trans. R. Soc. B Biol. Sci. 375. doi:10.1098/rstb.2019.0116.",
+        "type": "CompositeElement",
+        "metadata": {
+            "source": "Part_III_Cap_27_Conservation measures to counter the main threats to Amazonian biodiversity.pdf",
+            "part_name": "The Solution Space: Finding Sustainable Pathways for the Amazon",
+            "chapter_name": "Conservation measures to counter the main threats to Amazonian biodiversity",
+            "chapter_number": 27,
+            "chunk_seq": 73,
+            "parent_section_number": "27.13",
+            "parent_section_name": "References",
+            "page": 15,
+            "element_id": "ea23268cd21dbca4df878edbc94b6112"
+        }
+    },
+    {
+        "text": "Fu, R., Yin, L., Li, W., Arias, P. A., Dickinson, R. E., Huang, L., et al. (2013). Increased dry-season length over southern Amazonia in recent decades and its implication for future climate projection. Proc. Natl. Acad. Sci. 110, 18110–18115. doi:10.1073/pnas.1302584110. Garcia-Frapolli, E., Ayala-Orozco, B., Bonilla-Moheno, M., Espadas-Manrique, C., and Ramos-Fernández, G. (2007). Biodiversity conservation, traditional agriculture and ecotourism: Land cover/land use change projections for a natural protected area in the northeastern Yucatan Peninsula, Mexico. Landsc. Urban Plan. 83, 137–153. Gallardo, B., Clavero, M., Sánchez, M. I., & Vilà, M. (2016). Global ecological impacts of invasive species in aquatic ecosystems. Global change biology, 22(1), 151-163. Hanson, T., Brooks, T. M., Da Fonseca, G. A. B., Hoffmann, M., Lamoreux, J. F., Machlis, G., et al. (2009). Warfare in Biodiversity Hotspots. Conserv. Biol. 23, 578–587. doi:10.1111/j.1523-1739.2009.01166.x.",
+        "type": "CompositeElement",
+        "metadata": {
+            "source": "Part_III_Cap_27_Conservation measures to counter the main threats to Amazonian biodiversity.pdf",
+            "part_name": "The Solution Space: Finding Sustainable Pathways for the Amazon",
+            "chapter_name": "Conservation measures to counter the main threats to Amazonian biodiversity",
+            "chapter_number": 27,
+            "chunk_seq": 74,
+            "parent_section_number": "27.13",
+            "parent_section_name": "References",
+            "page": 15,
+            "element_id": "8a3839f85540437c98a2236bda2b5d54"
+        }
+    },
+    {
+        "text": "Ibarra, J. T., Barreau, A., Campo, C. Del, Camacho, C. I., Martin, G. J., and McCandless, S. R. (2011). When formal and marketbased conservation mechanisms disrupt food sovereignty: impacts of community conservation and payments for environmental services on an indigenous community of Oaxaca, Mexico. Int. For. Rev. 13, 318–337. ITTO/IUCN (2009). Guidelines for the conservation and sustainable use of biodiversity in tropical timber production forests. ITTO Policy Development Series No 17 ITTO/IUCN. ITTO (2015). Guidelines for the sustainable management of natural tropical forests. ITTO Policy Development Series. , ed. I. I. T. T. Organization Yokohama, Japan. Available at: www.itto.int [Accessed April 23, 2021]. Krause, T. (2020). Reducing deforestation in Colombia while building peace and pursuing business as usual extractivism? J. Polit. Ecol. 27, 401–418. Lathuillière, M. J., Coe, M. T., Castanho, A., Graesser, J., and",
+        "type": "CompositeElement",
+        "metadata": {
+            "source": "Part_III_Cap_27_Conservation measures to counter the main threats to Amazonian biodiversity.pdf",
+            "part_name": "The Solution Space: Finding Sustainable Pathways for the Amazon",
+            "chapter_name": "Conservation measures to counter the main threats to Amazonian biodiversity",
+            "chapter_number": 27,
+            "chunk_seq": 75,
+            "parent_section_number": "27.13",
+            "parent_section_name": "References",
+            "page": 15,
+            "element_id": "408b766665d6167f58861335fc3e59ed"
+        }
+    },
+    {
+        "text": "Chapter 27: Conservation Measures to Counter the Main Threats to Amazonian Biodiversity Johnson, M. S. (2018). Evaluating water use for agricultural intensification in Southern Amazonia using the Water Footprint Sustainability Assessment. Water 10, 349. Leal, C. G., Barlow, J., Gardner, T. A., Hughes, R. M., Leitão, R. P., Nally, R. Mac, et al. (2018). Is environmental legislation conserving tropical stream faunas? A large-scale assessment of local, riparian and catchment-scale influences on Amazonian fish. J. Appl. Ecol. 55, 1312–1326. doi:10.1111/1365-",
+        "type": "CompositeElement",
+        "metadata": {
+            "source": "Part_III_Cap_27_Conservation measures to counter the main threats to Amazonian biodiversity.pdf",
+            "part_name": "The Solution Space: Finding Sustainable Pathways for the Amazon",
+            "chapter_name": "Conservation measures to counter the main threats to Amazonian biodiversity",
+            "chapter_number": 27,
+            "chunk_seq": 76,
+            "parent_section_number": "27.13",
+            "parent_section_name": "References",
+            "page": 16,
+            "element_id": "eddb7c883c2aa6d462edd0c96b9c41e4"
+        }
+    },
+    {
+        "text": "2664.13028. Leal, C. G., Pompeu, P. S., Gardner, T. A., Leitão, R. P., Hughes, R. M., Kaufmann, P. R., et al. (2016). Multi-scale assessment of human-induced changes to Amazonian instream habitats. Landsc. Ecol. 31, 1725–1745. Lees, A. C., Peres, C. A., Fearnside, P. M., Schneider, M., and Zuanon, J. A. S. (2016). Hydropower and the future of Amazonian biodiversity. Biodivers. Conserv. 25, 451–466.",
+        "type": "CompositeElement",
+        "metadata": {
+            "source": "Part_III_Cap_27_Conservation measures to counter the main threats to Amazonian biodiversity.pdf",
+            "part_name": "The Solution Space: Finding Sustainable Pathways for the Amazon",
+            "chapter_name": "Conservation measures to counter the main threats to Amazonian biodiversity",
+            "chapter_number": 27,
+            "chunk_seq": 77,
+            "parent_section_number": "2664.13028",
+            "parent_section_name": "Leal, C. G., Pompeu, P. S., Gardner, T. A., Leitão, R. P., Hughes, R. M., Kaufmann, P. R., et al. (2",
+            "page": 16,
+            "element_id": "eddb7c883c2aa6d462edd0c96b9c41e4"
+        }
+    },
+    {
+        "text": "Lennox, R. J., Crook, D. A., Moyle, P. B., Struthers, D. P., and Cooke, S. J. (2019). Toward a better understanding of freshwater fish responses to an increasingly drought-stricken world. Rev. Fish Biol. Fish. 29, 71–92. doi:10.1007/s11160- 018-09545-9. Machado, R. B., Silveira, L. F., da Silva, M. I. S. G., Ubaid, F. K., Medolago, C. A., Francisco, M. R., et al. (2019). Reintroduction of songbirds from captivity: the case of the Great-billed Seed-finch (Sporophila maximiliani) in Brazil. Biodivers. Conserv., 1–24. Marengo, J. A., and Espinoza, J. C. (2016). Extreme seasonal droughts and floods in Amazonia: Causes, trends and impacts. Int. J. Climatol. 36, 1033–1050. doi:10.1002/joc.4420. Marshall, H., Collar, N. J., Lees, A. C., Moss, A., Yuda, P., and Marsden, S. J. (2020). Characterizing bird-keeping usergroups on Java reveals distinct behaviours, profiles and potential for change. People Nat. 2, 877–888.",
+        "type": "CompositeElement",
+        "metadata": {
+            "source": "Part_III_Cap_27_Conservation measures to counter the main threats to Amazonian biodiversity.pdf",
+            "part_name": "The Solution Space: Finding Sustainable Pathways for the Amazon",
+            "chapter_name": "Conservation measures to counter the main threats to Amazonian biodiversity",
+            "chapter_number": 27,
+            "chunk_seq": 78,
+            "parent_section_number": "2664.13028",
+            "parent_section_name": "Leal, C. G., Pompeu, P. S., Gardner, T. A., Leitão, R. P., Hughes, R. M., Kaufmann, P. R., et al. (2",
+            "page": 16,
+            "element_id": "6d8d12aaeceb0c188c60764922f35cc6"
+        }
+    },
+    {
+        "text": "Mason, D. (1996). Responses of Venezuelan understory birds to selective logging, enrichment strips, and vine cutting. Biotropica, 296-309. Masson-Delmotte, V., Zhai, P., Pirani, A., Connors, S. L., Péan, S., Berger, N., et al. (2121). Climate Change 2021: The Physical Science Basis. Contribution of Working Group I to the Sixth Assessment Report of the Intergovernmental Panel on Climate Change. Available at: https://www.ipcc.ch/report/ar6/wg1/downloads/report/IPCC_AR6_WGI_Full_Report.pdf [Accessed November 8, 2021]. McNeely, J. A. (2003). Conserving forest biodiversity in times of violent conflict. Oryx 37, 142–152. doi:10.1017/S0030605303000334. McSweeney, K., Nielsen, E. A., Taylor, M. J., Wrathall, D. J., Pearson, Z., Wang, O., et al. (2014). Drug Policy as Conservation Policy: Narco-Deforestation. Science (80-. ). 343, 489–490. doi:10.1126/science.1244082.",
+        "type": "CompositeElement",
+        "metadata": {
+            "source": "Part_III_Cap_27_Conservation measures to counter the main threats to Amazonian biodiversity.pdf",
+            "part_name": "The Solution Space: Finding Sustainable Pathways for the Amazon",
+            "chapter_name": "Conservation measures to counter the main threats to Amazonian biodiversity",
+            "chapter_number": 27,
+            "chunk_seq": 79,
+            "parent_section_number": "2664.13028",
+            "parent_section_name": "Leal, C. G., Pompeu, P. S., Gardner, T. A., Leitão, R. P., Hughes, R. M., Kaufmann, P. R., et al. (2",
+            "page": 16,
+            "element_id": "f73e5e0e46243af19f438e99ea504b3d"
+        }
+    },
+    {
+        "text": "Medeiros, A. C., Faial, K. R. F., Faial, K. do C. F., da Silva Lopes, I. D., de Oliveira Lima, M., Guimarães, R. M., et al. (2017). Quality index of the surface water of Amazonian rivers in industrial areas in Pará, Brazil. Mar. Pollut. Bull. 123, 156–164. Morcatty, T. Q., Bausch Macedo, J. C., Nekaris, K. A. I., Ni, Q., Durigan, C. C., Svensson, M. S., & Nijman, V. (2020). Illegal trade in wild cats and its link to Chinese‐led development in Central and South America. Conservation Biology, 34(6), 1525-1535. Moser, P., Simon, M. F., Medeiros, M. B., Gontijo, A. B., and Costa, F. R. C. (2019). Interaction between extreme weather events and mega‐dams increases tree mortality and alters functional status of Amazonian forests. J. Appl. Ecol. 56, 2641– 2651. doi:10.1111/1365-2664.13498.",
+        "type": "CompositeElement",
+        "metadata": {
+            "source": "Part_III_Cap_27_Conservation measures to counter the main threats to Amazonian biodiversity.pdf",
+            "part_name": "The Solution Space: Finding Sustainable Pathways for the Amazon",
+            "chapter_name": "Conservation measures to counter the main threats to Amazonian biodiversity",
+            "chapter_number": 27,
+            "chunk_seq": 80,
+            "parent_section_number": "2664.13028",
+            "parent_section_name": "Leal, C. G., Pompeu, P. S., Gardner, T. A., Leitão, R. P., Hughes, R. M., Kaufmann, P. R., et al. (2",
+            "page": 16,
+            "element_id": "ab6994ec12023e92182f879b6f863388"
+        }
+    },
+    {
+        "text": "Murillo-Sandoval, P. J., Dexter, K. Van, Hoek, J. Van Den, Wrathall, D., and Kennedy, R. (2020). The end of gunpoint conservation: forest disturbance after the Colombian peace agreement. Environ. Res. Lett. 15, 34033. doi:10.1088/1748- 9326/ab6ae3. Myers, R. A., and Mertz, G. (1998). The limits of exploitation: a precautionary approach. Ecol. Appl. 8, S165--S169. Negret, P. J., Sonter, L., Watson, J. E. M., Possingham, H. P., Jones, K. R., Suarez, C., et al. (2019). Emerging evidence that armed conflict and coca cultivation influence deforestation patterns. Biol. Conserv. 239, 108176. Nobre, C. A., Sampaio, G., Borma, L. S., Castilla-Rubio, J. C., Silva, J. S., and Cardoso, M. (2016). Land-use and climate change risks in the Amazon and the need of a novel sustainable development paradigm. Proc. Natl. Acad. Sci. 113, 10759– 10768. doi:10.1073/pnas.1605516113.",
+        "type": "CompositeElement",
+        "metadata": {
+            "source": "Part_III_Cap_27_Conservation measures to counter the main threats to Amazonian biodiversity.pdf",
+            "part_name": "The Solution Space: Finding Sustainable Pathways for the Amazon",
+            "chapter_name": "Conservation measures to counter the main threats to Amazonian biodiversity",
+            "chapter_number": 27,
+            "chunk_seq": 81,
+            "parent_section_number": "2664.13028",
+            "parent_section_name": "Leal, C. G., Pompeu, P. S., Gardner, T. A., Leitão, R. P., Hughes, R. M., Kaufmann, P. R., et al. (2",
+            "page": 16,
+            "element_id": "4387436a79b292718893f6d9e761f285"
+        }
+    },
+    {
+        "text": "Nóbrega Spínola, J., Soares da Silva, M. J., Assis da Silva, J. R., Barlow, J., and Ferreira, J. (2020). A shared perspective on managing Amazonian sustainable‐use reserves in an era of megafires. J. Appl. Ecol. 57, 2132–2138. doi:10.1111/1365-",
+        "type": "CompositeElement",
+        "metadata": {
+            "source": "Part_III_Cap_27_Conservation measures to counter the main threats to Amazonian biodiversity.pdf",
+            "part_name": "The Solution Space: Finding Sustainable Pathways for the Amazon",
+            "chapter_name": "Conservation measures to counter the main threats to Amazonian biodiversity",
+            "chapter_number": 27,
+            "chunk_seq": 82,
+            "parent_section_number": "2664.13028",
+            "parent_section_name": "Leal, C. G., Pompeu, P. S., Gardner, T. A., Leitão, R. P., Hughes, R. M., Kaufmann, P. R., et al. (2",
+            "page": 16,
+            "element_id": "14c4d25848928e7f2f3ba576b438c40b"
+        }
+    },
+    {
+        "text": "2664.13690. O’Shaughnessy, E., Landi, M., Januchowski-Hartley, S. R., and Diebel, M. (2016). Conservation leverage: Ecological design culverts also return fiscal benefits. Fisheries 41, 750–757. Padoch, C., and Pinedo-Vasquez, M. (2010). Saving Slash-andBurn to Save Biodiversity. Biotropica 42, 550–552. doi:10.1111/j.1744-7429.2010.00681.x. Parry, L., Barlow, J., and Pereira, H. (2014). Wildlife harvest and consumption in Amazonia’s urbanized wilderness. Conserv. Lett. 7, 565–574. Parry, L., and Peres, C. A. (2015). Evaluating the use of local ecological knowledge to monitor hunted tropical-forest wildlife over large spatial scales. 20. doi:10.5751/ES-07601-200315.",
+        "type": "CompositeElement",
+        "metadata": {
+            "source": "Part_III_Cap_27_Conservation measures to counter the main threats to Amazonian biodiversity.pdf",
+            "part_name": "The Solution Space: Finding Sustainable Pathways for the Amazon",
+            "chapter_name": "Conservation measures to counter the main threats to Amazonian biodiversity",
+            "chapter_number": 27,
+            "chunk_seq": 83,
+            "parent_section_number": "2664.13690",
+            "parent_section_name": "O’Shaughnessy, E., Landi, M., Januchowski-Hartley, S. R., and Diebel, M. (2016). Conservation levera",
+            "page": 16,
+            "element_id": "14c4d25848928e7f2f3ba576b438c40b"
+        }
+    },
+    {
+        "text": "Pelicice, F. M., Vitule, J. R. S., Lima Junior, D. P., Orsi, M. L., and Agostinho, A. A. (2014). A serious new threat to Brazilian freshwater ecosystems: the naturalization of nonnative fish by decree. Conserv. Lett. 7, 55–60. Perkin, J. S., and Gido, K. B. (2012). Fragmentation alters stream fish community structure in dendritic ecological networks. Ecol. Appl. 22, 2176–2187. doi:10.1890/12-0318.1. Phelps, J., Webb, E. L., Bickford, D., Nijman, V., and Sodhi, N. S. (2010). Conservation. Boosting CITES. Science 330, 1752– 1753. doi:10.1126/SCIENCE.1195558. Phillips, O. L., Aragão, L. E. O. C., Lewis, S. L., Fisher, J. B., Lloyd, J., López-González, G., et al. (2009). Drought sensitivity of the Amazon rainforest. Science (80-. ). 323, 1344–1347. Piponiot, C., Rödig, E., Putz, F. E., Rutishauser, E., Sist, P., Ascarrunz, N., et al. (2019). Can timber provision from Amazonian production forests be sustainable? Environ. Res. Lett. 14, 064014. doi:10.1088/1748-9326/ab195e.",
+        "type": "CompositeElement",
+        "metadata": {
+            "source": "Part_III_Cap_27_Conservation measures to counter the main threats to Amazonian biodiversity.pdf",
+            "part_name": "The Solution Space: Finding Sustainable Pathways for the Amazon",
+            "chapter_name": "Conservation measures to counter the main threats to Amazonian biodiversity",
+            "chapter_number": 27,
+            "chunk_seq": 84,
+            "parent_section_number": "2664.13690",
+            "parent_section_name": "O’Shaughnessy, E., Landi, M., Januchowski-Hartley, S. R., and Diebel, M. (2016). Conservation levera",
+            "page": 16,
+            "element_id": "5fa6fb965e3fe7aca890879c8e67f4bc"
+        }
+    },
+    {
+        "text": "Ramos-Fernández, G., and Wallace, R. B. (2008). Spider monkey conservation in the twenty-first century: recognizing risks",
+        "type": "CompositeElement",
+        "metadata": {
+            "source": "Part_III_Cap_27_Conservation measures to counter the main threats to Amazonian biodiversity.pdf",
+            "part_name": "The Solution Space: Finding Sustainable Pathways for the Amazon",
+            "chapter_name": "Conservation measures to counter the main threats to Amazonian biodiversity",
+            "chapter_number": 27,
+            "chunk_seq": 85,
+            "parent_section_number": "2664.13690",
+            "parent_section_name": "O’Shaughnessy, E., Landi, M., Januchowski-Hartley, S. R., and Diebel, M. (2016). Conservation levera",
+            "page": 16,
+            "element_id": "18a76156f509e8fc63826f60ad9ca5dd"
+        }
+    },
+    {
+        "text": "Chapter 27: Conservation Measures to Counter the Main Threats to Amazonian Biodiversity and opportunities. Spider monkeys Behav. Ecol. Evol. genus Ateles, 351–376. Reardon, S. (2018). FARC and the forest: Peace is destroying Colombia’s jungle - and opening it to science. Nature 558, 169– 170. doi:10.1038/d41586-018-05397-2. Richardson, V. A., and Peres, C. A. (2016). Temporal Decay in Timber Species Composition and Value in Amazonian Logging Concessions. PLoS One 11, e0159035. doi:10.1371/journal.pone.0159035. Ros-Tonen, M. A. F., Van Andel, T., Morsello, C., Otsuki, K., Rosendo, S., and Scholz, I. (2008). Forest-related partnerships in Brazilian Amazonia: there is more to sustainable forest management than reduced impact logging. For. Ecol. Manage. 256, 1482–1497.",
+        "type": "CompositeElement",
+        "metadata": {
+            "source": "Part_III_Cap_27_Conservation measures to counter the main threats to Amazonian biodiversity.pdf",
+            "part_name": "The Solution Space: Finding Sustainable Pathways for the Amazon",
+            "chapter_name": "Conservation measures to counter the main threats to Amazonian biodiversity",
+            "chapter_number": 27,
+            "chunk_seq": 86,
+            "parent_section_number": "2664.13690",
+            "parent_section_name": "O’Shaughnessy, E., Landi, M., Januchowski-Hartley, S. R., and Diebel, M. (2016). Conservation levera",
+            "page": 17,
+            "element_id": "f0a5995c42a56098d9fdd0cd84bd9411"
+        }
+    },
+    {
+        "text": "Russell, I. D., Larson, J. G., von May, R., Holmes, I. A., James, T. Y., and Davis Rabosky, A. R. (2019). Widespread chytrid infection across frogs in the Peruvian Amazon suggests critical role for low elevation in pathogen spread and persistence. PLoS One 14, e0222718. Sánchez, A. S., Torres, E. A., and Kalid, R. A. (2015). Renewable energy generation for the rural electrification of isolated communities in the Amazon Region. Renew. Sustain. Energy Rev. 49, 278–290. doi:10.1016/j.rser.2015.04.075. Santos de Lima, L., Merry, F., Soares-Filho, B., Oliveira Rodrigues, H., dos Santos Damaceno, C., and Bauch, M. A. (2018). Illegal logging as a disincentive to the establishment of a sustainable forest sector in the Amazon. PLoS One 13, e0207855. doi:10.1371/journal.pone.0207855.",
+        "type": "CompositeElement",
+        "metadata": {
+            "source": "Part_III_Cap_27_Conservation measures to counter the main threats to Amazonian biodiversity.pdf",
+            "part_name": "The Solution Space: Finding Sustainable Pathways for the Amazon",
+            "chapter_name": "Conservation measures to counter the main threats to Amazonian biodiversity",
+            "chapter_number": 27,
+            "chunk_seq": 87,
+            "parent_section_number": "2664.13690",
+            "parent_section_name": "O’Shaughnessy, E., Landi, M., Januchowski-Hartley, S. R., and Diebel, M. (2016). Conservation levera",
+            "page": 17,
+            "element_id": "9118372aa29a77597dfa6322bb308043"
+        }
+    },
+    {
+        "text": "Schiesari, L., Ilha, P. R., Negri, D. D. B., Prado, P. I., and Grillitsch, B. (2020). Ponds, puddles, floodplains and dams in the Upper Xingu Basin: could we be witnessing the ‘lentification’of deforested Amazonia? Perspect. Ecol. Conserv. doi:10.1016/j.pecon.2020.05.001. Schumann, D. A., Haag, J. M., Ellensohn, P. C., Redmond, J. D., and Graeb, K. N. B. (2019). Restricted movement of prairie fishes in fragmented riverscapes risks ecosystem structure being ratcheted downstream. Aquat. Conserv. Mar. Freshw. Ecosyst. 29, 235–244. doi:10.1002/aqc.2996. Sist, P., and Ferreira, F. N. (2007). Sustainability of reduced-impact logging in the Eastern Amazon. For. Ecol. Manage. 243, 199–209. Sist, P., Piponiot, C., Kanashiro, M., Pena-Claros, M., Putz, F. E., Schulze, M., et al. (2021). Sustainability of Brazilian forest concessions. For. Ecol. Manage. 496, 119440. doi:10.1016/J.FORECO.2021.119440.",
+        "type": "CompositeElement",
+        "metadata": {
+            "source": "Part_III_Cap_27_Conservation measures to counter the main threats to Amazonian biodiversity.pdf",
+            "part_name": "The Solution Space: Finding Sustainable Pathways for the Amazon",
+            "chapter_name": "Conservation measures to counter the main threats to Amazonian biodiversity",
+            "chapter_number": 27,
+            "chunk_seq": 88,
+            "parent_section_number": "2664.13690",
+            "parent_section_name": "O’Shaughnessy, E., Landi, M., Januchowski-Hartley, S. R., and Diebel, M. (2016). Conservation levera",
+            "page": 17,
+            "element_id": "a94f10f12ae413560f0a72d6439fa3f7"
+        }
+    },
+    {
+        "text": "Sonter, L. J., Herrera, D., Barrett, D. J., Galford, G. L., Moran, C. J., and Soares-Filho, B. S. (2017). Mining drives extensive deforestation in the Brazilian Amazon. Nat. Commun. 8, 1013. doi:10.1038/s41467-017-00557-w. Ubaid, F. K., Silveira, L. F., Medolago, C. A. B., Costa, T. V. V, Francisco, M. R., Barbosa, K. V. C., et al. (2018). Taxonomy, natural history, and conservation of the Great-billed Seed-Finch Sporophila maximiliani (Cabanis, 1851)(Thraupidae, Sporophilinae). Zootaxa 4442, 551–571. Uhl, C., and Kauffman, J. B. (1990). Deforestation, fire susceptibility, and potential tree responses to fire in the eastern Amazon. Ecology 71, 437–449. doi:10.2307/1940299. Uliano-Silva, M., Fernandes, F., de Holanda, I. B. B., and Rebelo, M. F. (2013). Invasive species as a threat to biodiversity: the golden mussel Limnoperna fortunei approaching the Amazon River basin. Explor. Themes Aquat. Toxicol. Res. Signpost, India.",
+        "type": "CompositeElement",
+        "metadata": {
+            "source": "Part_III_Cap_27_Conservation measures to counter the main threats to Amazonian biodiversity.pdf",
+            "part_name": "The Solution Space: Finding Sustainable Pathways for the Amazon",
+            "chapter_name": "Conservation measures to counter the main threats to Amazonian biodiversity",
+            "chapter_number": 27,
+            "chunk_seq": 89,
+            "parent_section_number": "2664.13690",
+            "parent_section_name": "O’Shaughnessy, E., Landi, M., Januchowski-Hartley, S. R., and Diebel, M. (2016). Conservation levera",
+            "page": 17,
+            "element_id": "543a2eeb8791685ba5bdf48647b62a6b"
+        }
+    },
+    {
+        "text": "Vidal, E., West, T. A. P., Lentini, M., Souza, S. E. X. ., Klauberg, C., and Waldhoff, P. (2020). “Sustainable forest management (SFM) of tropical moist forests: the case of the Brazilian Amazon,” in Achieving Sustainable Management of Tropical Forests., 1–31. doi:10.19103/AS.2020.0074.42. West, T. A. P., Vidal, E., and Putz, F. E. (2014). Forest biomass recovery after conventional and reduced-impact logging in Amazonian Brazil. For. Ecol. Manage. 314, 59–63. doi:10.1016/j.foreco.2013.11.022. Wilkes, M. A., Webb, J. A., Pompeu, P. S., Silva, L. G. M., Vowles, A. S., Baker, C. F., et al. (2019). Not just a migration problem: Metapopulations, habitat shifts, and gene flow are also important for fishway science and management. in River Research and Applications (John Wiley and Sons Ltd), 1688– 1696. doi:10.1002/rra.3320.",
+        "type": "CompositeElement",
+        "metadata": {
+            "source": "Part_III_Cap_27_Conservation measures to counter the main threats to Amazonian biodiversity.pdf",
+            "part_name": "The Solution Space: Finding Sustainable Pathways for the Amazon",
+            "chapter_name": "Conservation measures to counter the main threats to Amazonian biodiversity",
+            "chapter_number": 27,
+            "chunk_seq": 90,
+            "parent_section_number": "2664.13690",
+            "parent_section_name": "O’Shaughnessy, E., Landi, M., Januchowski-Hartley, S. R., and Diebel, M. (2016). Conservation levera",
+            "page": 17,
+            "element_id": "cd59b75d7ed67619d4f25eca39e3ea3a"
+        }
+    },
+    {
+        "text": "Wilkie, D. S., and Carpenter, J. F. (1999). Bushmeat hunting in the Congo Basin: an assessment of impacts and options for mitigation. Biodivers. Conserv. 8, 927–955. Winemiller, K. O., McIntyre, P. B., Castello, L., Fluet-Chouinard, E., Giarrizzo, T., Nam, S., et al. (2016). Balancing hydropower and biodiversity in the Amazon, Congo, and Mekong. Science (80-. ). 351, 128–129. Winter, S. C., and May, P. J. (2001). Motivation for compliance with environmental regulations. J. Policy Anal. Manag. J. Assoc. Public Policy Anal. Manag. 20, 675–698. Wright, S. J., Carrasco, C., Calderon, O., and Paton, S. (1999). The El Nino Southern Oscillation, Variable Fruit Production, and Famine in a Tropical Forest. Ecology 80, 1632. doi:10.2307/176552.",
+        "type": "CompositeElement",
+        "metadata": {
+            "source": "Part_III_Cap_27_Conservation measures to counter the main threats to Amazonian biodiversity.pdf",
+            "part_name": "The Solution Space: Finding Sustainable Pathways for the Amazon",
+            "chapter_name": "Conservation measures to counter the main threats to Amazonian biodiversity",
+            "chapter_number": 27,
+            "chunk_seq": 91,
+            "parent_section_number": "2664.13690",
+            "parent_section_name": "O’Shaughnessy, E., Landi, M., Januchowski-Hartley, S. R., and Diebel, M. (2016). Conservation levera",
+            "page": 17,
+            "element_id": "d810fe1989764a916f72ff0d93b483f0"
+        }
+    },
+    {
+        "text": "Zu Ermgassen, E. K. H. J., Godar, J., Lathuillière, M. J., Löfgren, P., Gardner, T., Vasconcelos, A., et al. (2020). The origin, supply chain, and deforestation risk of Brazil’s beef exports. Proc. Natl. Acad. Sci. U. S. A. 117, 31770–31779. doi:10.1073/pnas.2003270117. 15",
+        "type": "CompositeElement",
+        "metadata": {
+            "source": "Part_III_Cap_27_Conservation measures to counter the main threats to Amazonian biodiversity.pdf",
+            "part_name": "The Solution Space: Finding Sustainable Pathways for the Amazon",
+            "chapter_name": "Conservation measures to counter the main threats to Amazonian biodiversity",
+            "chapter_number": 27,
+            "chunk_seq": 92,
+            "parent_section_number": "2664.13690",
+            "parent_section_name": "O’Shaughnessy, E., Landi, M., Januchowski-Hartley, S. R., and Diebel, M. (2016). Conservation levera",
+            "page": 17,
+            "element_id": "8cabf610a6e7cf7b8b2082c0ff2aea35"
+        }
+    }
+]

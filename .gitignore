@@ -1,0 +1,13 @@
+# Ignorar ambientes virtuais e cache
+RAG/.venv/
+.venv/
+__pycache__/
+
+# Ignorar variáveis de ambiente (Senhas/Chaves de API)
+RAG/.env
+.env
+
+# Ignorar o banco de dados pesado do ChromaDB (se houver)
+*.sqlite3
+*.bin
+*.pickle

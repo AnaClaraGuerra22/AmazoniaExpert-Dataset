@@ -1,0 +1,1913 @@
+[
+    {
+        "text": "Biogeophysical Cycles: Water Recycling, Climate Regulation Marcos H. Costa*1, Laura Borma2, Paulo M. Brando3 4 5, José A. Marengo6, Scott R. Saleska 7, Luciana V. Gatti2 Key Messages • The Amazon rainforest can cycle large amounts of water vapor from the soil to the atmosphere via evapotranspiration (ET). The Amazon basin’s average recycling ratio varies from 24% to 35%, with a median value of 28%. • The central and northwestern parts of the Amazon export moisture to the Andes via diverse atmospheric (or aerial) rivers that supply water for tropical glaciers, páramos, and cities. The south-western part of the Amazon Basin is an important direct source of moisture for the La Plata Basin year-round, with moisture transported via the South American low-level jet.",
+        "type": "CompositeElement",
+        "metadata": {
+            "source": "Part_I_Cap_07_Biogeophysical Cycles Water Recycling, Climate Regulation.pdf",
+            "part_name": "The Amazon as a Regional Entity of the Earth System",
+            "chapter_name": "Biogeophysical Cycles: Water Recycling, Climate Regulation",
+            "chapter_number": 7,
+            "chunk_seq": 1,
+            "parent_section_number": "7",
+            "parent_section_name": "General Content",
+            "page": 5,
+            "element_id": "bc914f08c84dde83586fa464eb07e5bb"
+        }
+    },
+    {
+        "text": "• The amount of forest cover regulates the local temperature and the amount and timing of precipitation, with forest loss (increase) leading to reductions (increases) in rainfall and subsequent impacts on forest cover. Locally, the replacement of deep-rooted rainforest trees with grasses or crops warms the microclimate because of lower ET, despite higher albedo of senesced vegetation. If affected areas are large enough, this can affect rainfall, especially at the end of the dry season, with implications for forest degradation, forest flammability, and crop yields. • The most important changes in the hydroclimate system occur in the transition between the dry and rainy seasons, with a lengthening of the dry season in regions affected by mesoto large-scale (10-1,000 km2) deforestation, which has important ecological and hydrological consequences. Future studies should focus on these seasonal transitions.",
+        "type": "CompositeElement",
+        "metadata": {
+            "source": "Part_I_Cap_07_Biogeophysical Cycles Water Recycling, Climate Regulation.pdf",
+            "part_name": "The Amazon as a Regional Entity of the Earth System",
+            "chapter_name": "Biogeophysical Cycles: Water Recycling, Climate Regulation",
+            "chapter_number": 7,
+            "chunk_seq": 2,
+            "parent_section_number": "7",
+            "parent_section_name": "General Content",
+            "page": 5,
+            "element_id": "d1003d9505ff47c340d012bedca85aed"
+        }
+    },
+    {
+        "text": "• Very few (if any) of the new advancements in forest edge degradation have been included in the processes simulated by Earth System Models (ESMs). Projecting the future of Amazonian forests requires a better representation of forest edge effects in ESMs. Abstract",
+        "type": "CompositeElement",
+        "metadata": {
+            "source": "Part_I_Cap_07_Biogeophysical Cycles Water Recycling, Climate Regulation.pdf",
+            "part_name": "The Amazon as a Regional Entity of the Earth System",
+            "chapter_name": "Biogeophysical Cycles: Water Recycling, Climate Regulation",
+            "chapter_number": 7,
+            "chunk_seq": 3,
+            "parent_section_number": "7",
+            "parent_section_name": "General Content",
+            "page": 5,
+            "element_id": "5aa796d0e2212f43d9b963375d8c8558"
+        }
+    },
+    {
+        "text": "The warm and humid climates that sustain Amazonian rainforests are partly a consequence of interactions between the forest and the atmosphere. This chapter assesses the biogeophysical processes by which the rainforest provides moisture and energy to maintain its own climate. A combination of several plant traits and processes – low albedo, rough canopies, deep rooting, plant hydraulic lift, and biological regulation of water flux through leaves – allows the capture of water stored at deep soil layers. These mechanisms provide a steady flow of water vapor into the atmosphere, which is recycled internally in the Amazon and is a major water vapor source to other South American regions. Regionally averaged, about 28% of the rainfall in the Amazon has fallen at least once, with this fraction increasing westward, until it exceeds 50% at the foot of the Andes. The rainforest also plays an important climate regulation role in the southern Amazon during the dry-to-wet season transition",
+        "type": "CompositeElement",
+        "metadata": {
+            "source": "Part_I_Cap_07_Biogeophysical Cycles Water Recycling, Climate Regulation.pdf",
+            "part_name": "The Amazon as a Regional Entity of the Earth System",
+            "chapter_name": "Biogeophysical Cycles: Water Recycling, Climate Regulation",
+            "chapter_number": 7,
+            "chunk_seq": 4,
+            "parent_section_number": "7",
+            "parent_section_name": "General Content",
+            "page": 5,
+            "element_id": "d78d0456e35990af3aafe3729ecf3b26"
+        }
+    },
+    {
+        "text": "(Sep-Oct). Forested areas have an early onset and late end of the rainy season (Oct-Apr). They are also associated with a low frequency of dry spells of",
+        "type": "CompositeElement",
+        "metadata": {
+            "source": "Part_I_Cap_07_Biogeophysical Cycles Water Recycling, Climate Regulation.pdf",
+            "part_name": "The Amazon as a Regional Entity of the Earth System",
+            "chapter_name": "Biogeophysical Cycles: Water Recycling, Climate Regulation",
+            "chapter_number": 7,
+            "chunk_seq": 5,
+            "parent_section_number": "7",
+            "parent_section_name": "General Content",
+            "page": 5,
+            "element_id": "bdf7e4a1cb6c5dd65e91ae234e5ddd42"
+        }
+    },
+    {
+        "text": "Dept. of Agricultural Engineering, Federal University of Viçosa (UFV), Viçosa, MG, Brazil 2 National Institute for Space Research (INPE), S. J. Campos, SP, Brazil 3 Woodwell Climate Research Center, Falmouth, MA, United States 4 University of California – Irvine (UCI), Irvine, CA, United States 5 Institute for Environmental Research in Amazonia (IPAM), Brasilia, DF, Brazil 6 National Center for Monitoring and Alerts of Natural Disasters (CEMADEN), S. J. Campos, SP, Brazil 7 Dept. of Ecology and Evolutionary Ecology, University of Arizona, Tucson, AZ, United States",
+        "type": "CompositeElement",
+        "metadata": {
+            "source": "Part_I_Cap_07_Biogeophysical Cycles Water Recycling, Climate Regulation.pdf",
+            "part_name": "The Amazon as a Regional Entity of the Earth System",
+            "chapter_name": "Biogeophysical Cycles: Water Recycling, Climate Regulation",
+            "chapter_number": 7,
+            "chunk_seq": 6,
+            "parent_section_number": "7",
+            "parent_section_name": "General Content",
+            "page": 5,
+            "element_id": "3e9e3e318fd1c965e8a788dd86365755"
+        }
+    },
+    {
+        "text": "Regulation any duration in the transition months between the dry and the rainy seasons (Mar-Apr, Sep-Oct) when compared to highly deforested areas. Finally, the intense loss of latent heat through ET maintains air temperature below 30°C, which is near-optimal for photosynthesis, and consequently, carbon uptake. Keywords: Aerial rivers, deep soil moisture capture, temperature regulation",
+        "type": "CompositeElement",
+        "metadata": {
+            "source": "Part_I_Cap_07_Biogeophysical Cycles Water Recycling, Climate Regulation.pdf",
+            "part_name": "The Amazon as a Regional Entity of the Earth System",
+            "chapter_name": "Biogeophysical Cycles: Water Recycling, Climate Regulation",
+            "chapter_number": 7,
+            "chunk_seq": 7,
+            "parent_section_number": "7",
+            "parent_section_name": "General Content",
+            "page": 6,
+            "element_id": "4668abaad2082ed2f91b008722994942"
+        }
+    },
+    {
+        "text": "The Amazon is well known for two remarkable characteristics: the rainforest and its warm and humid climate. The Amazon rainforest is perhaps the most luxuriant biome globally, with high biomass, tall canopy, and rich biodiversity (Chapter 3). The annual long-term average of rainfall ranges from 2,000 to 2,300 mm, depending on the period used for calculation and whether the Tocantins Basin is included or not (Table 1, Chapter 5). In the rainiest parts of the region, rainfall may reach 6,000-7,000 mm/yr at the Andes' feet (Section 5.3.5, Chapter 5). A “relatively dry season” is found in specific places, such as the southern border of the Amazon, near the transition to the cerrado (savannas of Central Brazil), and in the south-north axis around Santarém (in Pará State, Brazil). “Relatively dry season” describes a season in which the monthly mean precipitation is below monthly ET rates, but still presents high precipitation amounts (~100 mm/mo, as defined by Sombroek 2001). A",
+        "type": "CompositeElement",
+        "metadata": {
+            "source": "Part_I_Cap_07_Biogeophysical Cycles Water Recycling, Climate Regulation.pdf",
+            "part_name": "The Amazon as a Regional Entity of the Earth System",
+            "chapter_name": "Biogeophysical Cycles: Water Recycling, Climate Regulation",
+            "chapter_number": 7,
+            "chunk_seq": 8,
+            "parent_section_number": "7.1",
+            "parent_section_name": "Introduction",
+            "page": 6,
+            "element_id": "591bd321047fc89e9e3caf884f6084e2"
+        }
+    },
+    {
+        "text": "six-month-long dry season is found on the upstream areas of the southern tributaries of the Amazon River (Tapajós and Xingu rivers), in most of the Tocantins Basin, in the state of Roraima (Brazil), and to the north of Boa Vista (Roraima’s capital city), where annual rainfall can be as low as 1,500 mm. Monthly mean temperatures vary between 26°C and 28°C for the lowland Central Amazon, and the annual mean decreases with altitude. In the Andean highlands, the annual mean temperature is 12.6°C in Sucre, Bolivia (elevation 2,800 m), 12.8°C in Cajamarca, Peru (2,740 m), and 6.8°C in La Paz, Bolivia (3,650 m). Seasonality (monthly mean temperature amplitude) increases with latitude, varying from about 2°C near the equator to about 4°C in Brasília (16°S). For locations of the cities, rivers, basin, and biome borders, refer to Figure 7.1.",
+        "type": "CompositeElement",
+        "metadata": {
+            "source": "Part_I_Cap_07_Biogeophysical Cycles Water Recycling, Climate Regulation.pdf",
+            "part_name": "The Amazon as a Regional Entity of the Earth System",
+            "chapter_name": "Biogeophysical Cycles: Water Recycling, Climate Regulation",
+            "chapter_number": 7,
+            "chunk_seq": 9,
+            "parent_section_number": "7.1",
+            "parent_section_name": "Introduction",
+            "page": 6,
+            "element_id": "1d9ec76b8324f3307bad8fe00d256b33"
+        }
+    },
+    {
+        "text": "These two remarkable characteristics – the luxuriant forest and the warm and humid climate – are intrinsically connected by two-way biogeophysical interactions, or cycles. Obviously, the presence of the rainforest in the Amazon is a consequence of the rainy climate that exists there; the tropical rainforest could not grow in a cool or dry environment. However, the functioning of the rainforest also helps produce the warm and humid climate necessary for its permanence. The rainforest interacts with the atmosphere in several ways, which affects the local, continental, and global climate. A major process is the recycling of water (Section 7.2.1). Following the water cycle process, winds near the ocean surface bring moisture from the tropical Atlantic Ocean into the Amazon. Part of this moisture falls as rain, and a portion of the fallen rain may quickly be returned to the atmosphere by the forest through evapotranspiration (ET). Some of this water vapor will come back as",
+        "type": "CompositeElement",
+        "metadata": {
+            "source": "Part_I_Cap_07_Biogeophysical Cycles Water Recycling, Climate Regulation.pdf",
+            "part_name": "The Amazon as a Regional Entity of the Earth System",
+            "chapter_name": "Biogeophysical Cycles: Water Recycling, Climate Regulation",
+            "chapter_number": 7,
+            "chunk_seq": 10,
+            "parent_section_number": "7.1",
+            "parent_section_name": "Introduction",
+            "page": 6,
+            "element_id": "7ef753093b5f2f4871cbb1f394993366"
+        }
+    },
+    {
+        "text": "rainfall over the rainforest, and some is transported to neighboring regions.",
+        "type": "CompositeElement",
+        "metadata": {
+            "source": "Part_I_Cap_07_Biogeophysical Cycles Water Recycling, Climate Regulation.pdf",
+            "part_name": "The Amazon as a Regional Entity of the Earth System",
+            "chapter_name": "Biogeophysical Cycles: Water Recycling, Climate Regulation",
+            "chapter_number": 7,
+            "chunk_seq": 11,
+            "parent_section_number": "7.1",
+            "parent_section_name": "Introduction",
+            "page": 6,
+            "element_id": "7ed316269df137b0b6aa202105ead7a3"
+        }
+    },
+    {
+        "text": "This injection of water vapor does not present significant seasonal or interannual variability, which may be explained by several traits and processes associated with the rainforest, such as deep root capture, hydraulic redistribution, and biological synchronization of new leaf emergence with the dry season (Section 7.2.2). This chapter assesses the biogeophysical interactions between the Amazon rainforest and the climate. A historical perspective is presented, highlighting breakthroughs that improved our understanding of the mechanisms by which the rainforest interacts with the atmosphere. Regulation Figure",
+        "type": "CompositeElement",
+        "metadata": {
+            "source": "Part_I_Cap_07_Biogeophysical Cycles Water Recycling, Climate Regulation.pdf",
+            "part_name": "The Amazon as a Regional Entity of the Earth System",
+            "chapter_name": "Biogeophysical Cycles: Water Recycling, Climate Regulation",
+            "chapter_number": 7,
+            "chunk_seq": 12,
+            "parent_section_number": "7.1",
+            "parent_section_name": "Introduction",
+            "page": 6,
+            "element_id": "63d1111899fa3748b0c29766d377ce2e"
+        }
+    },
+    {
+        "text": "7.1 Orientation map. Biome map of South America, with main rivers and towns. Sources: WWF (https://www.world (wildlife.org/publications/terrestrial-ecoregions-of-the-world), RAISG (2020), WCSVenticinque (2016).",
+        "type": "CompositeElement",
+        "metadata": {
+            "source": "Part_I_Cap_07_Biogeophysical Cycles Water Recycling, Climate Regulation.pdf",
+            "part_name": "The Amazon as a Regional Entity of the Earth System",
+            "chapter_name": "Biogeophysical Cycles: Water Recycling, Climate Regulation",
+            "chapter_number": 7,
+            "chunk_seq": 13,
+            "parent_section_number": "7.1",
+            "parent_section_name": "Orientation map. Biome map of South America, with main rivers and towns. Sources: WWF (https://www.w",
+            "page": 6,
+            "element_id": "63d1111899fa3748b0c29766d377ce2e"
+        }
+    },
+    {
+        "text": "7.2 The role of forests in water recycling",
+        "type": "CompositeElement",
+        "metadata": {
+            "source": "Part_I_Cap_07_Biogeophysical Cycles Water Recycling, Climate Regulation.pdf",
+            "part_name": "The Amazon as a Regional Entity of the Earth System",
+            "chapter_name": "Biogeophysical Cycles: Water Recycling, Climate Regulation",
+            "chapter_number": 7,
+            "chunk_seq": 14,
+            "parent_section_number": "7.2",
+            "parent_section_name": "The role of forests in water recycling",
+            "page": 8,
+            "element_id": "401de26fec0628dac8ebfa079929ff5e"
+        }
+    },
+    {
+        "text": "7.2.1 Water recycling in the Amazon",
+        "type": "CompositeElement",
+        "metadata": {
+            "source": "Part_I_Cap_07_Biogeophysical Cycles Water Recycling, Climate Regulation.pdf",
+            "part_name": "The Amazon as a Regional Entity of the Earth System",
+            "chapter_name": "Biogeophysical Cycles: Water Recycling, Climate Regulation",
+            "chapter_number": 7,
+            "chunk_seq": 15,
+            "parent_section_number": "7.2.1",
+            "parent_section_name": "Water recycling in the Amazon",
+            "page": 8,
+            "element_id": "401de26fec0628dac8ebfa079929ff5e"
+        }
+    },
+    {
+        "text": "7.2.1.1 General concepts about water recycling Water recycling is the process by which ET in a specific location on the continent contributes to precipitation in another place on the continent (Zemp et al. 2014). The recycling ratio (ρ) is the ratio of precipitation of continental origin divided by the total precipitation. It depends on several conditions, including spatial scale, the ratio of local ET to other water vapor sources, and the extension of the region downwind.",
+        "type": "CompositeElement",
+        "metadata": {
+            "source": "Part_I_Cap_07_Biogeophysical Cycles Water Recycling, Climate Regulation.pdf",
+            "part_name": "The Amazon as a Regional Entity of the Earth System",
+            "chapter_name": "Biogeophysical Cycles: Water Recycling, Climate Regulation",
+            "chapter_number": 7,
+            "chunk_seq": 16,
+            "parent_section_number": "7.2.1.1",
+            "parent_section_name": "General concepts about water recycling",
+            "page": 8,
+            "element_id": "401de26fec0628dac8ebfa079929ff5e"
+        }
+    },
+    {
+        "text": "First, consider the scale. At one extreme, on the global scale, all water molecules evaporate from the Earth’s surface, stay in the atmosphere for a few days, and then precipitate back. The recycling ratio is then 100%. At the other scale extreme, an infinitesimal area on the land surface, the probability that a water molecule that evaporates from that area precipitates back inside it is near zero (Eltahir and Bras 1996). A large region like the Amazon tends to have a high recycling ratio, but in between these two scales, regional recycling is more complex.",
+        "type": "CompositeElement",
+        "metadata": {
+            "source": "Part_I_Cap_07_Biogeophysical Cycles Water Recycling, Climate Regulation.pdf",
+            "part_name": "The Amazon as a Regional Entity of the Earth System",
+            "chapter_name": "Biogeophysical Cycles: Water Recycling, Climate Regulation",
+            "chapter_number": 7,
+            "chunk_seq": 17,
+            "parent_section_number": "7.2.1.1",
+            "parent_section_name": "General concepts about water recycling",
+            "page": 8,
+            "element_id": "ec1fa4c125887a2ebdefd322d4f93390"
+        }
+    },
+    {
+        "text": "Figure 7.2 explains the dependence of recycling on the extension of the region downwind. Consider two rectangular areas of the same size, but one has its main dimension across the dominant winds (Figure 7.2a), while the other has its main dimension alongside the prevailing winds (Figure 7.2b). All other conditions (moisture transport from the ocean, precipitation, and evapotranspiration rate) are the same. The longer the dimension of the region along with the dominant winds, the higher the recycling. Moisture recycling can be calculated from any source region where it evaporates (i.e., the Amazon) to any destination region where it precipitates (e.g., the Amazon Basin itself, including the Andes or the La Plata Basin). This section will first explore the role of recycling within the Amazon Basin and then its role as a source of water to other regions.",
+        "type": "CompositeElement",
+        "metadata": {
+            "source": "Part_I_Cap_07_Biogeophysical Cycles Water Recycling, Climate Regulation.pdf",
+            "part_name": "The Amazon as a Regional Entity of the Earth System",
+            "chapter_name": "Biogeophysical Cycles: Water Recycling, Climate Regulation",
+            "chapter_number": 7,
+            "chunk_seq": 18,
+            "parent_section_number": "7.2.1.1",
+            "parent_section_name": "General concepts about water recycling",
+            "page": 8,
+            "element_id": "357287a36fd8c15a588e841dcbf5dcfb"
+        }
+    },
+    {
+        "text": "7.2.1.2 Historical perspective on the studies of water recycling in the Amazon basin Classical climatological texts (Sellers 1965; Budyko 1974) consider that local ET is of minor importance as a source of precipitable water over continents. However, this assumption may not be accurate over a continental area where the ET reaches high rates, such as tropical rain forests. The classical methodology (see, for example, Budyko, 1974) to calculate the recycling of water via ET states that, for a stable climate and in the long term, if there is no recycling; the net advection of water vapor to a region would be balanced by the hydrological runoff. Thus, using atmospheric sounding and hydrological measurements, one can calculate the recycling.",
+        "type": "CompositeElement",
+        "metadata": {
+            "source": "Part_I_Cap_07_Biogeophysical Cycles Water Recycling, Climate Regulation.pdf",
+            "part_name": "The Amazon as a Regional Entity of the Earth System",
+            "chapter_name": "Biogeophysical Cycles: Water Recycling, Climate Regulation",
+            "chapter_number": 7,
+            "chunk_seq": 19,
+            "parent_section_number": "7.2.1.2",
+            "parent_section_name": "Historical perspective on the studies of water recycling in the Amazon basin",
+            "page": 8,
+            "element_id": "cea467955557fa467ff5759296bfc04c"
+        }
+    },
+    {
+        "text": "Molion (1975) first suggested that precipitation over the Amazon depends highly on local ET. Using the classical methodology described above, he concluded that the advection of water vapor contributes only 44% of the Amazon Basin’s rainfall, while local ET provides the remaining 56%. Continuing this work, Lettau et al. (1979) presented data on the variation of the ratio between the total precipitable water and the precipitable water of oceanic origin according to longitude. Since the main wind direction is from east to west, the increase in the proportion of precipitable water from sources other than the ocean suggests that this source is ET. They also calculated that 88% of the rainfall in the westernmost part of the Amazon is water vapor that has fallen at least once previously.",
+        "type": "CompositeElement",
+        "metadata": {
+            "source": "Part_I_Cap_07_Biogeophysical Cycles Water Recycling, Climate Regulation.pdf",
+            "part_name": "The Amazon as a Regional Entity of the Earth System",
+            "chapter_name": "Biogeophysical Cycles: Water Recycling, Climate Regulation",
+            "chapter_number": 7,
+            "chunk_seq": 20,
+            "parent_section_number": "7.2.1.2",
+            "parent_section_name": "Historical perspective on the studies of water recycling in the Amazon basin",
+            "page": 8,
+            "element_id": "59c861d2b1f68c9ee8b99502a96d1ab3"
+        }
+    },
+    {
+        "text": "Dall'Olio et al. (1979) used concentrations of the stable isotopes 18O and 2H (deuterium) as tracers to study the origin of the precipitable water in the Amazon region. The different masses of isotopes in water cause a distillation that concentrates the heavier isotopes (18O and 2H) closer to the original source of the precipitation and increasingly light isotopes (16O and 1H) with every recycling stage along the way. They concluded that the water vapor Regulation Ei N Figure",
+        "type": "CompositeElement",
+        "metadata": {
+            "source": "Part_I_Cap_07_Biogeophysical Cycles Water Recycling, Climate Regulation.pdf",
+            "part_name": "The Amazon as a Regional Entity of the Earth System",
+            "chapter_name": "Biogeophysical Cycles: Water Recycling, Climate Regulation",
+            "chapter_number": 7,
+            "chunk_seq": 21,
+            "parent_section_number": "7.2.1.2",
+            "parent_section_name": "Historical perspective on the studies of water recycling in the Amazon basin",
+            "page": 8,
+            "element_id": "b2a9e98d71bad9f55fdbe60578d44c44"
+        }
+    },
+    {
+        "text": "7.2 Schematic diagram of water recycling of two identical regions (A and B), differing only with respect to the wind direction. P is precipitation, and ET is evapotranspiration. Black arrows represent water vapor flux of oceanic origin, and white arrows indicate water vapor flux originated at the land surface. Shades of gray arrows represent the proportion of oceanic versus land surface water vapor.",
+        "type": "CompositeElement",
+        "metadata": {
+            "source": "Part_I_Cap_07_Biogeophysical Cycles Water Recycling, Climate Regulation.pdf",
+            "part_name": "The Amazon as a Regional Entity of the Earth System",
+            "chapter_name": "Biogeophysical Cycles: Water Recycling, Climate Regulation",
+            "chapter_number": 7,
+            "chunk_seq": 22,
+            "parent_section_number": "7.2",
+            "parent_section_name": "Schematic diagram of water recycling of two identical regions (A and B), differing only with respect",
+            "page": 8,
+            "element_id": "b2a9e98d71bad9f55fdbe60578d44c44"
+        }
+    },
+    {
+        "text": "flux from the ocean is smaller than the total precipitation over the basin, so it was necessary to consider at least one other water vapor source. Since there was no meteorological evidence of additional external sources of water vapor, they suggested that ET could provide the additional required moisture source. Their data indicated that, on average, both the sources (ocean and forest) are of the same magnitude, which suggests that the vegetation recycled 50% of the precipitation water. Salati et al. (1979), using the same data of Dall'Olio et al. (1979), reported that, despite the Amazon basin’s appearance as being a relatively uniform hydrometeorological unit, the seasonal and geographic variability of the isotopic data demonstrates the heterogeneity of the region from the hydrometeorological point of view, pointing out variations related to seasonality and location, with the",
+        "type": "CompositeElement",
+        "metadata": {
+            "source": "Part_I_Cap_07_Biogeophysical Cycles Water Recycling, Climate Regulation.pdf",
+            "part_name": "The Amazon as a Regional Entity of the Earth System",
+            "chapter_name": "Biogeophysical Cycles: Water Recycling, Climate Regulation",
+            "chapter_number": 7,
+            "chunk_seq": 23,
+            "parent_section_number": "7.2",
+            "parent_section_name": "Schematic diagram of water recycling of two identical regions (A and B), differing only with respect",
+            "page": 9,
+            "element_id": "f8443c2cdec0e82a76aeca701b280a86"
+        }
+    },
+    {
+        "text": "Central and Western Amazon being areas where large amounts of water are recycled. In their classical review, Salati and Vose (1984) said that about 50% of the rainfall is from ET into the atmosphere, of which about 48% falls again as rain. Nobre et al. (1991) calculated water budgets for the Amazon using atmospheric sounding data from the Global Tropospheric Experiment with at least two vertical profiles a day for a prolonged period. They concluded that about 50% of the rain originated from ET and 50% from moisture transport from outside the basin. However, the soundness of these early estimates was limited by the low availability of the atmospheric sounding measurements, and several questions remained. First, climatological calculations of the recycled water ratio were not available. Sec Regulation",
+        "type": "CompositeElement",
+        "metadata": {
+            "source": "Part_I_Cap_07_Biogeophysical Cycles Water Recycling, Climate Regulation.pdf",
+            "part_name": "The Amazon as a Regional Entity of the Earth System",
+            "chapter_name": "Biogeophysical Cycles: Water Recycling, Climate Regulation",
+            "chapter_number": 7,
+            "chunk_seq": 24,
+            "parent_section_number": "7.2",
+            "parent_section_name": "Schematic diagram of water recycling of two identical regions (A and B), differing only with respect",
+            "page": 9,
+            "element_id": "d55e0078a0868699314ee7214758dbea"
+        }
+    },
+    {
+        "text": "ond, the interannual variability of precipitation (ranging from 2,000 to 2,800 mm yr-1 in a 10-year return period) is much higher than the interannual variability of ET (see Section 5.4, and Chapter 5), and it was unclear how the sources of water vapor to precipitation vary simultaneously to the year-toyear variability of rainfall and ET. In addition, these initial estimates considered that both the Andes and the Central Brazil plateau were important barriers to water vapor flux. Thus, they assumed that the water vapor flux out of the basin was close to zero. Moreover, Savenije (1996) demonstrated that, under this assumption, ρ = 1 – C, where C is the runoff coefficient, which is about 0.5 for the Amazon River. In conclusion, this assumption overestimated the recycling ratio. The ρ estimation did not improve until the next scientific breakthrough: four-dimensional global wind and moisture datasets.",
+        "type": "CompositeElement",
+        "metadata": {
+            "source": "Part_I_Cap_07_Biogeophysical Cycles Water Recycling, Climate Regulation.pdf",
+            "part_name": "The Amazon as a Regional Entity of the Earth System",
+            "chapter_name": "Biogeophysical Cycles: Water Recycling, Climate Regulation",
+            "chapter_number": 7,
+            "chunk_seq": 25,
+            "parent_section_number": "7.2",
+            "parent_section_name": "Schematic diagram of water recycling of two identical regions (A and B), differing only with respect",
+            "page": 10,
+            "element_id": "13bfd518d4859a945a9da715f6121d49"
+        }
+    },
+    {
+        "text": "7.2.1.3 Modern estimates The advent of four-dimensional wind and moisture datasets in the 1990s (three space dimensions plus one time dimension), including atmospheric reanalysis products, allowed the calculation of spatial and temporal patterns of the recycling ratio. These datasets demonstrated that there is indeed a small flow of water vapor across the Andes, and a significant flow of moisture southward, towards central and southern South America (Section 7.2.3). Several studies used these datasets and different methods to calculate recycling, summarized in Table",
+        "type": "CompositeElement",
+        "metadata": {
+            "source": "Part_I_Cap_07_Biogeophysical Cycles Water Recycling, Climate Regulation.pdf",
+            "part_name": "The Amazon as a Regional Entity of the Earth System",
+            "chapter_name": "Biogeophysical Cycles: Water Recycling, Climate Regulation",
+            "chapter_number": 7,
+            "chunk_seq": 26,
+            "parent_section_number": "7.2.1.3",
+            "parent_section_name": "Modern estimates",
+            "page": 10,
+            "element_id": "d5e15999b1829b9362955fd124ed4a26"
+        }
+    },
+    {
+        "text": "7.1. The Amazon Basin’s average recycling ratio varies from 24% to 35%, with a median value of 28%, or about half of what was previously estimated.",
+        "type": "CompositeElement",
+        "metadata": {
+            "source": "Part_I_Cap_07_Biogeophysical Cycles Water Recycling, Climate Regulation.pdf",
+            "part_name": "The Amazon as a Regional Entity of the Earth System",
+            "chapter_name": "Biogeophysical Cycles: Water Recycling, Climate Regulation",
+            "chapter_number": 7,
+            "chunk_seq": 27,
+            "parent_section_number": "7.1",
+            "parent_section_name": "The Amazon Basin’s average recycling ratio varies from 24% to 35%, with a median value of 28%, or ab",
+            "page": 10,
+            "element_id": "d5e15999b1829b9362955fd124ed4a26"
+        }
+    },
+    {
+        "text": "Of the estimates in Table 7.1, Staal et al. (2018) use a slightly different definition of water recycling. They count multiple evaporations of the same water molecule multiple times, yielding ρ > 100% in some months (see Staal et al. 2018, Fig. S5). This method also slightly overestimates the recycling ratio when compared to the other studies.",
+        "type": "CompositeElement",
+        "metadata": {
+            "source": "Part_I_Cap_07_Biogeophysical Cycles Water Recycling, Climate Regulation.pdf",
+            "part_name": "The Amazon as a Regional Entity of the Earth System",
+            "chapter_name": "Biogeophysical Cycles: Water Recycling, Climate Regulation",
+            "chapter_number": 7,
+            "chunk_seq": 28,
+            "parent_section_number": "7.1",
+            "parent_section_name": "The Amazon Basin’s average recycling ratio varies from 24% to 35%, with a median value of 28%, or ab",
+            "page": 10,
+            "element_id": "c5e2dedbf07b17693cc4a645cebf762f"
+        }
+    },
+    {
+        "text": "Even these more recent estimates may have limitations. Moisture tracking models vary widely in complexity, depending on the number of physical processes represented (Dominguez et al. 2020). Complex models are comprehensive in their physical representation, but computationally much more expensive. Simple models are faster to run, but focus on specific physical processes and simplify assumptions. A common assumption in simple models is that water vapor is well-mixed inside the atmosphere's vertical column. The well-mixing assumption can also be subdivided into several components, i.e., well-mixed during evaporation, transport, and precipitation. For example, the vertical height from where water vapor contributes to precipitation is not necessarily proportional to the level’s specific humidity.",
+        "type": "CompositeElement",
+        "metadata": {
+            "source": "Part_I_Cap_07_Biogeophysical Cycles Water Recycling, Climate Regulation.pdf",
+            "part_name": "The Amazon as a Regional Entity of the Earth System",
+            "chapter_name": "Biogeophysical Cycles: Water Recycling, Climate Regulation",
+            "chapter_number": 7,
+            "chunk_seq": 29,
+            "parent_section_number": "7.1",
+            "parent_section_name": "The Amazon Basin’s average recycling ratio varies from 24% to 35%, with a median value of 28%, or ab",
+            "page": 10,
+            "element_id": "d5ac9bef824e2f3789b8c4cdf7fe4066"
+        }
+    },
+    {
+        "text": "In regions where convective precipitation dominates, like the Amazon, water vapor from lower atmospheric levels contributes significantly more to precipitation than upper-level moisture, a process that has been called “fast recycling” (Lettau et al. 1979) and leads to an underestimation of terrestrial sources of moisture by simple models when compared to water vapor tracers in climate models (Goessling and Reick 2013; Dominguez et al. 2020).",
+        "type": "CompositeElement",
+        "metadata": {
+            "source": "Part_I_Cap_07_Biogeophysical Cycles Water Recycling, Climate Regulation.pdf",
+            "part_name": "The Amazon as a Regional Entity of the Earth System",
+            "chapter_name": "Biogeophysical Cycles: Water Recycling, Climate Regulation",
+            "chapter_number": 7,
+            "chunk_seq": 30,
+            "parent_section_number": "7.1",
+            "parent_section_name": "The Amazon Basin’s average recycling ratio varies from 24% to 35%, with a median value of 28%, or ab",
+            "page": 10,
+            "element_id": "9bd4a7639daf0ae7f85170dfe93b7b8f"
+        }
+    },
+    {
+        "text": "On the other hand, there are models for tracing water vapor sources and pathways in the atmosphere that use Lagrangian particle tracking, like the NOAA HYSPLIT trajectory model (Stein et al. 2015) or the Weather Research and Forecasting regional climate model with Water Vapor Tracing (WRFWVT) (Insua-Costa and Miguez-Macho 2018). These models explicitly simulate or parameterize processes like convection, microphysics, turbulence, and particle tracking, but have the disadvantage of being computationally expensive. Both methods (Eulerian and Lagrangian) can also be sub-divided into offline calculations (performed on previously generated datasets) or online calculations (performed while the model is running) (Dominguez et al. 2020). The online Lagrangian models, relying on prognostic water tracers builtinto global or regional climate models, may provide",
+        "type": "CompositeElement",
+        "metadata": {
+            "source": "Part_I_Cap_07_Biogeophysical Cycles Water Recycling, Climate Regulation.pdf",
+            "part_name": "The Amazon as a Regional Entity of the Earth System",
+            "chapter_name": "Biogeophysical Cycles: Water Recycling, Climate Regulation",
+            "chapter_number": 7,
+            "chunk_seq": 31,
+            "parent_section_number": "7.1",
+            "parent_section_name": "The Amazon Basin’s average recycling ratio varies from 24% to 35%, with a median value of 28%, or ab",
+            "page": 10,
+            "element_id": "c9e703bbb5c2844fc1082c9ec13de638"
+        }
+    },
+    {
+        "text": "7.1 Studies to calculate recycling.",
+        "type": "CompositeElement",
+        "metadata": {
+            "source": "Part_I_Cap_07_Biogeophysical Cycles Water Recycling, Climate Regulation.pdf",
+            "part_name": "The Amazon as a Regional Entity of the Earth System",
+            "chapter_name": "Biogeophysical Cycles: Water Recycling, Climate Regulation",
+            "chapter_number": 7,
+            "chunk_seq": 32,
+            "parent_section_number": "7.1",
+            "parent_section_name": "Studies to calculate recycling.",
+            "page": 11,
+            "element_id": "e760f88882fdefcdfbf14e9ea4ca901b"
+        }
+    },
+    {
+        "text": "Study Method Data Set Period p (%) Brubaker et al. (1993) Atmospheric bulk model GFDL and NCAR 1963-1973 24 Eltahir and Bras (1994) Atmospheric bulk model ECMWF analysis 1985-1990 25 Trenberth (1999) Atmospheric bulk model CMAP and NCEP-NCAR reanalysis 1979-1995 35 Costa and Foley (1999) Atmospheric bulk model NCEP/NCAR reanalysis 1976-1996 30 Bosilovich and Chern (2006) AGCM with passive water vapor tracers initial conditions from the model; no time-evolving boundary conditions 1948-1997",
+        "type": "TableChunk",
+        "metadata": {
+            "source": "Part_I_Cap_07_Biogeophysical Cycles Water Recycling, Climate Regulation.pdf",
+            "part_name": "The Amazon as a Regional Entity of the Earth System",
+            "chapter_name": "Biogeophysical Cycles: Water Recycling, Climate Regulation",
+            "chapter_number": 7,
+            "chunk_seq": 33,
+            "parent_section_number": "7.1",
+            "parent_section_name": "Studies to calculate recycling.",
+            "page": 11,
+            "element_id": "bc0e250dc2fde675e8ac8443003177e3",
+            "table_html": "<table><tr><td>Study</td><td>Method</td><td>Data Set</td><td>Period</td><td>p (%)</td></tr><tr><td>Brubaker et al. (1993)</td><td>Atmospheric bulk model</td><td>GFDL and NCAR</td><td>1963-1973</td><td>24</td></tr><tr><td>Eltahir and Bras (1994)</td><td>Atmospheric bulk model</td><td>ECMWF analysis</td><td>1985-1990</td><td>25</td></tr><tr><td>Trenberth (1999)</td><td>Atmospheric bulk model</td><td>CMAP and NCEP-NCAR reanalysis</td><td>1979-1995</td><td>35</td></tr><tr><td>Costa and Foley (1999)</td><td>Atmospheric bulk model</td><td>NCEP/NCAR reanalysis</td><td>1976-1996</td><td>30</td></tr><tr><td>Bosilovich and Chern (2006)</td><td>AGCM with passive water vapor tracers</td><td>initial conditions from the model; no time-evolving boundary conditions</td><td>1948-1997</td><td>27.2</td></tr><tr><td>Dirmeyer et al. (2009)</td><td>Quasi-isentropic back-tra- jectory (Lagrangian track- ing)</td><td>NCEP/DOE reanalysis</td><td>1979-2003</td><td>28</td></tr><tr><td>van der Ent et al. (2010)</td><td>Eulerian atmospheric moisture tracking method</td><td>ERA-Interim reanalysis</td><td>1999-2008</td><td>28</td></tr><tr><td>Zemp et al. (2014)</td><td>Eulerian atmospheric moisture tracking method</td><td>TRMM for (P) and MODIS for ET</td><td>2001-2010</td><td>28</td></tr><tr><td>Zemp et al. (2014)</td><td>Eulerian atmospheric moisture tracking method</td><td>Land surface model for ET, average of CRU, GPCC, GPCP and CPC for P</td><td>1990-1995</td><td>24</td></tr></table>",
+            "table_data_structured": [
+                [
+                    "Study",
+                    "Method",
+                    "Data Set",
+                    "Period",
+                    "p (%)"
+                ],
+                [
+                    "Brubaker et al. (1993)",
+                    "Atmospheric bulk model",
+                    "GFDL and NCAR",
+                    "1963-1973",
+                    "24"
+                ],
+                [
+                    "Eltahir and Bras (1994)",
+                    "Atmospheric bulk model",
+                    "ECMWF analysis",
+                    "1985-1990",
+                    "25"
+                ],
+                [
+                    "Trenberth (1999)",
+                    "Atmospheric bulk model",
+                    "CMAP and NCEP-NCAR reanalysis",
+                    "1979-1995",
+                    "35"
+                ],
+                [
+                    "Costa and Foley (1999)",
+                    "Atmospheric bulk model",
+                    "NCEP/NCAR reanalysis",
+                    "1976-1996",
+                    "30"
+                ],
+                [
+                    "Bosilovich and Chern (2006)",
+                    "AGCM with passive water vapor tracers",
+                    "initial conditions from the model; no time-evolving boundary conditions",
+                    "1948-1997",
+                    "27.2"
+                ],
+                [
+                    "Dirmeyer et al. (2009)",
+                    "Quasi-isentropic back-tra- jectory (Lagrangian track- ing)",
+                    "NCEP/DOE reanalysis",
+                    "1979-2003",
+                    "28"
+                ],
+                [
+                    "van der Ent et al. (2010)",
+                    "Eulerian atmospheric moisture tracking method",
+                    "ERA-Interim reanalysis",
+                    "1999-2008",
+                    "28"
+                ],
+                [
+                    "Zemp et al. (2014)",
+                    "Eulerian atmospheric moisture tracking method",
+                    "TRMM for (P) and MODIS for ET",
+                    "2001-2010",
+                    "28"
+                ],
+                [
+                    "Zemp et al. (2014)",
+                    "Eulerian atmospheric moisture tracking method",
+                    "Land surface model for ET, average of CRU, GPCC, GPCP and CPC for P",
+                    "1990-1995",
+                    "24"
+                ]
+            ]
+        }
+    },
+    {
+        "text": "27.2 Dirmeyer et al. (2009) Quasi-isentropic back-trajectory (Lagrangian tracking) NCEP/DOE reanalysis 1979-2003 28 van der Ent et al. (2010) Eulerian atmospheric moisture tracking method ERA-Interim reanalysis 1999-2008 28 Zemp et al. (2014) Eulerian atmospheric moisture tracking method TRMM for (P) and MODIS for ET 2001-2010 28 Zemp et al. (2014) Eulerian atmospheric moisture tracking method Land surface model for ET, average of CRU, GPCC, GPCP and CPC for P 1990-1995",
+        "type": "TableChunk",
+        "metadata": {
+            "source": "Part_I_Cap_07_Biogeophysical Cycles Water Recycling, Climate Regulation.pdf",
+            "part_name": "The Amazon as a Regional Entity of the Earth System",
+            "chapter_name": "Biogeophysical Cycles: Water Recycling, Climate Regulation",
+            "chapter_number": 7,
+            "chunk_seq": 34,
+            "parent_section_number": "27.2",
+            "parent_section_name": "Dirmeyer et al. (2009) Quasi-isentropic back-trajectory (Lagrangian tracking) NCEP/DOE reanalysis 19",
+            "page": 11,
+            "element_id": "bc0e250dc2fde675e8ac8443003177e3",
+            "table_html": "<table><tr><td>Study</td><td>Method</td><td>Data Set</td><td>Period</td><td>p (%)</td></tr><tr><td>Brubaker et al. (1993)</td><td>Atmospheric bulk model</td><td>GFDL and NCAR</td><td>1963-1973</td><td>24</td></tr><tr><td>Eltahir and Bras (1994)</td><td>Atmospheric bulk model</td><td>ECMWF analysis</td><td>1985-1990</td><td>25</td></tr><tr><td>Trenberth (1999)</td><td>Atmospheric bulk model</td><td>CMAP and NCEP-NCAR reanalysis</td><td>1979-1995</td><td>35</td></tr><tr><td>Costa and Foley (1999)</td><td>Atmospheric bulk model</td><td>NCEP/NCAR reanalysis</td><td>1976-1996</td><td>30</td></tr><tr><td>Bosilovich and Chern (2006)</td><td>AGCM with passive water vapor tracers</td><td>initial conditions from the model; no time-evolving boundary conditions</td><td>1948-1997</td><td>27.2</td></tr><tr><td>Dirmeyer et al. (2009)</td><td>Quasi-isentropic back-tra- jectory (Lagrangian track- ing)</td><td>NCEP/DOE reanalysis</td><td>1979-2003</td><td>28</td></tr><tr><td>van der Ent et al. (2010)</td><td>Eulerian atmospheric moisture tracking method</td><td>ERA-Interim reanalysis</td><td>1999-2008</td><td>28</td></tr><tr><td>Zemp et al. (2014)</td><td>Eulerian atmospheric moisture tracking method</td><td>TRMM for (P) and MODIS for ET</td><td>2001-2010</td><td>28</td></tr><tr><td>Zemp et al. (2014)</td><td>Eulerian atmospheric moisture tracking method</td><td>Land surface model for ET, average of CRU, GPCC, GPCP and CPC for P</td><td>1990-1995</td><td>24</td></tr></table>",
+            "table_data_structured": [
+                [
+                    "Study",
+                    "Method",
+                    "Data Set",
+                    "Period",
+                    "p (%)"
+                ],
+                [
+                    "Brubaker et al. (1993)",
+                    "Atmospheric bulk model",
+                    "GFDL and NCAR",
+                    "1963-1973",
+                    "24"
+                ],
+                [
+                    "Eltahir and Bras (1994)",
+                    "Atmospheric bulk model",
+                    "ECMWF analysis",
+                    "1985-1990",
+                    "25"
+                ],
+                [
+                    "Trenberth (1999)",
+                    "Atmospheric bulk model",
+                    "CMAP and NCEP-NCAR reanalysis",
+                    "1979-1995",
+                    "35"
+                ],
+                [
+                    "Costa and Foley (1999)",
+                    "Atmospheric bulk model",
+                    "NCEP/NCAR reanalysis",
+                    "1976-1996",
+                    "30"
+                ],
+                [
+                    "Bosilovich and Chern (2006)",
+                    "AGCM with passive water vapor tracers",
+                    "initial conditions from the model; no time-evolving boundary conditions",
+                    "1948-1997",
+                    "27.2"
+                ],
+                [
+                    "Dirmeyer et al. (2009)",
+                    "Quasi-isentropic back-tra- jectory (Lagrangian track- ing)",
+                    "NCEP/DOE reanalysis",
+                    "1979-2003",
+                    "28"
+                ],
+                [
+                    "van der Ent et al. (2010)",
+                    "Eulerian atmospheric moisture tracking method",
+                    "ERA-Interim reanalysis",
+                    "1999-2008",
+                    "28"
+                ],
+                [
+                    "Zemp et al. (2014)",
+                    "Eulerian atmospheric moisture tracking method",
+                    "TRMM for (P) and MODIS for ET",
+                    "2001-2010",
+                    "28"
+                ],
+                [
+                    "Zemp et al. (2014)",
+                    "Eulerian atmospheric moisture tracking method",
+                    "Land surface model for ET, average of CRU, GPCC, GPCP and CPC for P",
+                    "1990-1995",
+                    "24"
+                ]
+            ]
+        }
+    },
+    {
+        "text": "Staal et al. (2018) Eulerian atmospheric moisture tracking method/ cascade recycling GLDAS 2003-2014",
+        "type": "TableChunk",
+        "metadata": {
+            "source": "Part_I_Cap_07_Biogeophysical Cycles Water Recycling, Climate Regulation.pdf",
+            "part_name": "The Amazon as a Regional Entity of the Earth System",
+            "chapter_name": "Biogeophysical Cycles: Water Recycling, Climate Regulation",
+            "chapter_number": 7,
+            "chunk_seq": 35,
+            "parent_section_number": "27.2",
+            "parent_section_name": "Dirmeyer et al. (2009) Quasi-isentropic back-trajectory (Lagrangian tracking) NCEP/DOE reanalysis 19",
+            "page": 11,
+            "element_id": "cca6aa878e4f53c00bf4833e2506345a",
+            "table_html": "<table><tr><td>Staal et al. (2018)</td><td>Eulerian atmospheric moisture tracking method/ cascade recycling</td><td>GLDAS</td><td>2003-2014</td><td>32</td></tr></table>",
+            "table_data_structured": [
+                [
+                    "Staal et al. (2018)",
+                    "Eulerian atmospheric moisture tracking method/ cascade recycling",
+                    "GLDAS",
+                    "2003-2014",
+                    "32"
+                ]
+            ]
+        }
+    },
+    {
+        "text": "more physically consistent values. On the other hand, running them for a long time to calculate the climatological recycling ratio values will most likely lead to severe biases if boundary conditions are not constantly updated. In summary, all methods have advantages and disadvantages. It is unclear today what would be the effect of substituting the well-mixing assumption by the Lagrangian tracking on calculating the recycling ratio. Nevertheless, these studies also concluded that the recycling ratio varies both spatially, seasonally, and interannually. Several authors, like van der Ent et al. (2010), Zemp et al. (2014), and Staal et al. (2018), provide spatially-explicit calculations of the recycling ratio. They show that ρ is close to zero near the mouth of the Amazon, where moisture from the ocean enters the Amazon, to >50% close to the Andes (Figure 7.3). The mechanical uplift",
+        "type": "CompositeElement",
+        "metadata": {
+            "source": "Part_I_Cap_07_Biogeophysical Cycles Water Recycling, Climate Regulation.pdf",
+            "part_name": "The Amazon as a Regional Entity of the Earth System",
+            "chapter_name": "Biogeophysical Cycles: Water Recycling, Climate Regulation",
+            "chapter_number": 7,
+            "chunk_seq": 36,
+            "parent_section_number": "27.2",
+            "parent_section_name": "Dirmeyer et al. (2009) Quasi-isentropic back-trajectory (Lagrangian tracking) NCEP/DOE reanalysis 19",
+            "page": 11,
+            "element_id": "4b0fe74f0a7a2530309f31e37004eaa8"
+        }
+    },
+    {
+        "text": "Regulation from the mountains and the Andes' concave shape induce low-level convergence several hundred kilometers before the Andes, facilitating high precipitation rates and hindering moisture from crossing the Andes and leaving the basin. Recycling is also higher during the dry season than during the wet season (contrast Figure 7.3a with Figure 7.3b). During the dry season, the input of moisture from the ocean decreases, and the steady flux of water from the rainforest increases the importance of this local source. As explained in Section 5.4 of Chapter 5 and below in Section 7.2.2, in most of the Amazon, ET is not controlled by the availability of soil moisture but rather by the availability of energy to evaporate water, hence the low seasonal variability. This is because Amazonian trees have access to water stored in deep soil layers and consequently do not suffer much water stress.",
+        "type": "CompositeElement",
+        "metadata": {
+            "source": "Part_I_Cap_07_Biogeophysical Cycles Water Recycling, Climate Regulation.pdf",
+            "part_name": "The Amazon as a Regional Entity of the Earth System",
+            "chapter_name": "Biogeophysical Cycles: Water Recycling, Climate Regulation",
+            "chapter_number": 7,
+            "chunk_seq": 37,
+            "parent_section_number": "27.2",
+            "parent_section_name": "Dirmeyer et al. (2009) Quasi-isentropic back-trajectory (Lagrangian tracking) NCEP/DOE reanalysis 19",
+            "page": 12,
+            "element_id": "bfcb635b66a9f366b9c8abba4973cf53"
+        }
+    },
+    {
+        "text": "The stability of local ET is also associated with the variability of ρ at interannual and decadal time scales. For example, Costa and Foley (1999) found a weakening of the trade winds that transport water vapor from the tropical Atlantic ocean into the Amazon basin during 1976-1996, which caused a decrease in the input of water vapor to the Amazon Basin. In this case, the main source of water vapor to the basin decreased by about 720 mm/yr in 20 years (from 3,430 mm/yr in 1976-77 to 2,710 mm/yr in 1995-96, or 36 mm/yr2); however, the Amazon Basin maintained precipitation and runoff by increasing the relative contribution of the local source of water vapor (regional ET) from 28% in 1976-77 to 33% in 1995-96.",
+        "type": "CompositeElement",
+        "metadata": {
+            "source": "Part_I_Cap_07_Biogeophysical Cycles Water Recycling, Climate Regulation.pdf",
+            "part_name": "The Amazon as a Regional Entity of the Earth System",
+            "chapter_name": "Biogeophysical Cycles: Water Recycling, Climate Regulation",
+            "chapter_number": 7,
+            "chunk_seq": 38,
+            "parent_section_number": "27.2",
+            "parent_section_name": "Dirmeyer et al. (2009) Quasi-isentropic back-trajectory (Lagrangian tracking) NCEP/DOE reanalysis 19",
+            "page": 12,
+            "element_id": "342f6dd9474a67abbd20027169eafc64"
+        }
+    },
+    {
+        "text": "7.2.2 Mechanisms to capture deep soil moisture by trees Figure",
+        "type": "CompositeElement",
+        "metadata": {
+            "source": "Part_I_Cap_07_Biogeophysical Cycles Water Recycling, Climate Regulation.pdf",
+            "part_name": "The Amazon as a Regional Entity of the Earth System",
+            "chapter_name": "Biogeophysical Cycles: Water Recycling, Climate Regulation",
+            "chapter_number": 7,
+            "chunk_seq": 39,
+            "parent_section_number": "7.2.2",
+            "parent_section_name": "Mechanisms to capture deep soil moisture by trees",
+            "page": 12,
+            "element_id": "dfffbad931e3b08573b88194afcb3a37"
+        }
+    },
+    {
+        "text": "7.3 Fraction of precipitation originating inside the Amazon Basin (contour in red), using MOD16 ET data and TRMM precipMar). Redrawn from Zemp et al. (2014). . Regulation",
+        "type": "CompositeElement",
+        "metadata": {
+            "source": "Part_I_Cap_07_Biogeophysical Cycles Water Recycling, Climate Regulation.pdf",
+            "part_name": "The Amazon as a Regional Entity of the Earth System",
+            "chapter_name": "Biogeophysical Cycles: Water Recycling, Climate Regulation",
+            "chapter_number": 7,
+            "chunk_seq": 40,
+            "parent_section_number": "7.3",
+            "parent_section_name": "Fraction of precipitation originating inside the Amazon Basin (contour in red), using MOD16 ET data",
+            "page": 12,
+            "element_id": "dfffbad931e3b08573b88194afcb3a37"
+        }
+    },
+    {
+        "text": "Another breakthrough in understanding the rainforest's role in regional climate was direct measurement of ET using eddy-covariance techniques at several Amazonian upland forest experimental sites. These observations indicate that dry-season ET rates across central Amazonian forests peak during the dry season, consistently exceeding wet season values (Shuttleworth 1988). These observations imply that ET in these forests is regulated by the annual cycle of incoming radiation (which typically increases during the dry season due to a more vertical sun and diminished cloud cover), with dry season ET comparable to, or even consistently exceeding, wet season values (Hasler and Avissar 2007). The more complex seasonal ET dynamics of moisture-limited southern Amazonian upland forests indicates joint regulation by environmental (e.g., net radiation, vapor pressure deficit) and biological factors (forest canopy conductance) in these forests (Da-Rocha et al. 2009; Costa et al.",
+        "type": "CompositeElement",
+        "metadata": {
+            "source": "Part_I_Cap_07_Biogeophysical Cycles Water Recycling, Climate Regulation.pdf",
+            "part_name": "The Amazon as a Regional Entity of the Earth System",
+            "chapter_name": "Biogeophysical Cycles: Water Recycling, Climate Regulation",
+            "chapter_number": 7,
+            "chunk_seq": 41,
+            "parent_section_number": "7.3",
+            "parent_section_name": "Fraction of precipitation originating inside the Amazon Basin (contour in red), using MOD16 ET data",
+            "page": 13,
+            "element_id": "89cd9da38ba509aa699e5799635c081e"
+        }
+    },
+    {
+        "text": "2010; Restrepo-Coupe et al. 2021).",
+        "type": "CompositeElement",
+        "metadata": {
+            "source": "Part_I_Cap_07_Biogeophysical Cycles Water Recycling, Climate Regulation.pdf",
+            "part_name": "The Amazon as a Regional Entity of the Earth System",
+            "chapter_name": "Biogeophysical Cycles: Water Recycling, Climate Regulation",
+            "chapter_number": 7,
+            "chunk_seq": 42,
+            "parent_section_number": "7.3",
+            "parent_section_name": "Fraction of precipitation originating inside the Amazon Basin (contour in red), using MOD16 ET data",
+            "page": 13,
+            "element_id": "2900b66d219f27d354dedace8aa7ae50"
+        }
+    },
+    {
+        "text": "These findings contradict common understanding (see the discussion between Werth and Avissar 2004, Costa et al. 2004), and simulation results from most land surface models, which show a decrease in ET and productivity during the dry season and drought periods because of water limitation (Christoffersen et al. 2014; see also Section 5.4 of Chapter 5). This discussion focuses on upland forests’ deepwater uptake mechanisms, as seasonally flooded forests are assumed to be less likely to be waterlimited. Several studies have proposed different mechanisms to explain the drought (seasonal or extreme) tolerance of Amazonian rainforests. These mechanisms include deep-root water uptake, plant hydraulic lift, and leaf regeneration in the dry season.",
+        "type": "CompositeElement",
+        "metadata": {
+            "source": "Part_I_Cap_07_Biogeophysical Cycles Water Recycling, Climate Regulation.pdf",
+            "part_name": "The Amazon as a Regional Entity of the Earth System",
+            "chapter_name": "Biogeophysical Cycles: Water Recycling, Climate Regulation",
+            "chapter_number": 7,
+            "chunk_seq": 43,
+            "parent_section_number": "7.3",
+            "parent_section_name": "Fraction of precipitation originating inside the Amazon Basin (contour in red), using MOD16 ET data",
+            "page": 13,
+            "element_id": "69694db7a0106657b987f18ffb044617"
+        }
+    },
+    {
+        "text": "As discussed in Chapter 5, Amazonian soils, due to their predominant clay texture in the plateau area, store, in the wet season, large amounts of rainfall that is released to plants during the dry season (Bruno et al. 2006; Chauvel et al. 1992; Hodnett et al.",
+        "type": "CompositeElement",
+        "metadata": {
+            "source": "Part_I_Cap_07_Biogeophysical Cycles Water Recycling, Climate Regulation.pdf",
+            "part_name": "The Amazon as a Regional Entity of the Earth System",
+            "chapter_name": "Biogeophysical Cycles: Water Recycling, Climate Regulation",
+            "chapter_number": 7,
+            "chunk_seq": 44,
+            "parent_section_number": "7.3",
+            "parent_section_name": "Fraction of precipitation originating inside the Amazon Basin (contour in red), using MOD16 ET data",
+            "page": 13,
+            "element_id": "448d64c40aa5fed00176c6abd9e8d077"
+        }
+    },
+    {
+        "text": "1995; Nepstad et al. 1994). As the dry season progresses, this water tends to percolate and is stored in deep soil layers, which is mainly composed of the water infiltrated in the previous wet periods (Negron-Juarez et al. 2007), and where mainly deeper roots have the ability to take it up (Nepstad et al. 1994). Very deep (>6 m) fine roots, although rare, have been found in a few sites in the eastern (Nepstad et al. 1994) and central Amazon (Chauvel et al. 1992; Negrón-Juárez et al. 2020). In the eastern Amazon, where precipitation is more seasonal, Nepstad et al. (1994) found roots reaching 18 m. The existence of these roots, associated with low plant-available water in the upper (<1 m) soil layers, give rise to the understanding of the role of deep roots as the primary strategy of plants to deal with seasonal and, potentially, severe droughts (Bruno et al. 2006; Hodnett et al. 1995; Jipp et al. 1998; Nepstad et al. 1994).",
+        "type": "CompositeElement",
+        "metadata": {
+            "source": "Part_I_Cap_07_Biogeophysical Cycles Water Recycling, Climate Regulation.pdf",
+            "part_name": "The Amazon as a Regional Entity of the Earth System",
+            "chapter_name": "Biogeophysical Cycles: Water Recycling, Climate Regulation",
+            "chapter_number": 7,
+            "chunk_seq": 45,
+            "parent_section_number": "7.3",
+            "parent_section_name": "Fraction of precipitation originating inside the Amazon Basin (contour in red), using MOD16 ET data",
+            "page": 13,
+            "element_id": "fd520757584eeeceaa73140cd39d0b36"
+        }
+    },
+    {
+        "text": "Despite the documented occurrence of deep roots, it is well recognized that, in the Amazon, shallow roots (<1 m) are much more abundant than deep ones (Chauvel et al. 1992; Nepstad et al. 1994). The root density decreases from more than a kilogram of roots per cubic meter near the surface to a few tens of grams per cubic meter below two meters, being relatively constant below this level (Nepstad 1989, cited by Bruijnzeel 1996). Although deep roots have low density, research done by Hodnett et al. (1995) near Manaus has demonstrated that, in many years, it is impossible to close the dry season water balance of the Amazonian rain forest without using water stored at depths greater than 2 m. Markewitz et al. (2010), using data from a rainfall exclusion experiment in Santarém, also concluded that deep root water uptake contributions are crucial. Under control conditions, the 250 to 550 cm soil layer contributed ~20% of water demand, while the deepest layers (550–1,150 cm) contributed",
+        "type": "CompositeElement",
+        "metadata": {
+            "source": "Part_I_Cap_07_Biogeophysical Cycles Water Recycling, Climate Regulation.pdf",
+            "part_name": "The Amazon as a Regional Entity of the Earth System",
+            "chapter_name": "Biogeophysical Cycles: Water Recycling, Climate Regulation",
+            "chapter_number": 7,
+            "chunk_seq": 46,
+            "parent_section_number": "7.3",
+            "parent_section_name": "Fraction of precipitation originating inside the Amazon Basin (contour in red), using MOD16 ET data",
+            "page": 13,
+            "element_id": "065e78fa005e0086d782f2033f9b7575"
+        }
+    },
+    {
+        "text": "~10%. Under the exclusion, root water uptake was sustained for the ﬁrst 2 years of the experiment but declined after that.",
+        "type": "CompositeElement",
+        "metadata": {
+            "source": "Part_I_Cap_07_Biogeophysical Cycles Water Recycling, Climate Regulation.pdf",
+            "part_name": "The Amazon as a Regional Entity of the Earth System",
+            "chapter_name": "Biogeophysical Cycles: Water Recycling, Climate Regulation",
+            "chapter_number": 7,
+            "chunk_seq": 47,
+            "parent_section_number": "7.3",
+            "parent_section_name": "Fraction of precipitation originating inside the Amazon Basin (contour in red), using MOD16 ET data",
+            "page": 13,
+            "element_id": "2817aabc07501b6b775efbd9f177a341"
+        }
+    },
+    {
+        "text": "Other studies have suggested the existence of mechanisms to transport water upward from deep Regulation",
+        "type": "CompositeElement",
+        "metadata": {
+            "source": "Part_I_Cap_07_Biogeophysical Cycles Water Recycling, Climate Regulation.pdf",
+            "part_name": "The Amazon as a Regional Entity of the Earth System",
+            "chapter_name": "Biogeophysical Cycles: Water Recycling, Climate Regulation",
+            "chapter_number": 7,
+            "chunk_seq": 48,
+            "parent_section_number": "7.3",
+            "parent_section_name": "Fraction of precipitation originating inside the Amazon Basin (contour in red), using MOD16 ET data",
+            "page": 13,
+            "element_id": "52f9716e313177aa17086405c97789c1"
+        }
+    },
+    {
+        "text": "to shallow soil layers, either through the root system, i.e., plant hydraulic lift (Dawson et al. 2002; Oliveira et al. 2005), or through fine-textured soils by the capillary rise mechanism (Fan and MiguezMacho 2010; Romero-Saltos et al. 2005). However, hydraulic lift also relies on deep root water uptake and, when included in a land surface model, moderately increased the dry season ET rates (Lee et al. 2005). Capillary rise, in general, only drives water upward through a few centimeters (Romero-Saltos et al. 2005), and is more important in regions where the water table is shallow (Fan and Miguez-Macho 2010), which is not the case for most of the plateau areas where the water table is 30-40 m deep (Fan and Miguez-Macho 2010; Tomasella et al. 2008). Other studies have suggested the existence of a third mechanism, root niche partitioning (Brum et al. 2019; Ivanov et al. 2012), by which plants uptake soil water from different sources, as a function of their height, root depth, and",
+        "type": "CompositeElement",
+        "metadata": {
+            "source": "Part_I_Cap_07_Biogeophysical Cycles Water Recycling, Climate Regulation.pdf",
+            "part_name": "The Amazon as a Regional Entity of the Earth System",
+            "chapter_name": "Biogeophysical Cycles: Water Recycling, Climate Regulation",
+            "chapter_number": 7,
+            "chunk_seq": 49,
+            "parent_section_number": "7.3",
+            "parent_section_name": "Fraction of precipitation originating inside the Amazon Basin (contour in red), using MOD16 ET data",
+            "page": 14,
+            "element_id": "a599d4d7b5a60d57d84bae3d319e2b39"
+        }
+    },
+    {
+        "text": "plant hydraulic attributes such as resistance to xylem vessels embolism (Rowland et al. 2015).",
+        "type": "CompositeElement",
+        "metadata": {
+            "source": "Part_I_Cap_07_Biogeophysical Cycles Water Recycling, Climate Regulation.pdf",
+            "part_name": "The Amazon as a Regional Entity of the Earth System",
+            "chapter_name": "Biogeophysical Cycles: Water Recycling, Climate Regulation",
+            "chapter_number": 7,
+            "chunk_seq": 50,
+            "parent_section_number": "7.3",
+            "parent_section_name": "Fraction of precipitation originating inside the Amazon Basin (contour in red), using MOD16 ET data",
+            "page": 14,
+            "element_id": "109ab82c6cba75242e9a28e646a414ca"
+        }
+    },
+    {
+        "text": "Mechanisms of root access to soil water are also coupled to biological regulation of water flux through leaves. Because leaf stomata link ET to photosynthetic flux (Gross Primary Productivity, GPP), stomatal regulation that allows increasing dry season GPP (Huete et al. 2006; Wu et al. 2016; Saleska et al. 2016; see also Chapter 6) also facilitates the corresponding dry-season maxima in forest ET discussed above (Shuttleworth 1988; Hasler and Avissar 2007). Recent work shows that high dry-season leaf photosynthetic capacity and high stomatal conductance are both driven by leaf phenology, i.e., the biological synchronization of new leaf emergence and old leaf senescence during the dry season causes large shifts in canopy leaf composition toward younger, more conductive leaves, likely facilitating seasonal increases in ET in the central Amazon (Albert et al. 2018; Wu et al. 2016). Christoffersen et al. (2014) highlight the important complementary roles of root dynamics and leaf",
+        "type": "CompositeElement",
+        "metadata": {
+            "source": "Part_I_Cap_07_Biogeophysical Cycles Water Recycling, Climate Regulation.pdf",
+            "part_name": "The Amazon as a Regional Entity of the Earth System",
+            "chapter_name": "Biogeophysical Cycles: Water Recycling, Climate Regulation",
+            "chapter_number": 7,
+            "chunk_seq": 51,
+            "parent_section_number": "7.3",
+            "parent_section_name": "Fraction of precipitation originating inside the Amazon Basin (contour in red), using MOD16 ET data",
+            "page": 14,
+            "element_id": "a1fcfbbb28a4d428279d8cdfb2e2562b"
+        }
+    },
+    {
+        "text": "phenology in regulating ET.",
+        "type": "CompositeElement",
+        "metadata": {
+            "source": "Part_I_Cap_07_Biogeophysical Cycles Water Recycling, Climate Regulation.pdf",
+            "part_name": "The Amazon as a Regional Entity of the Earth System",
+            "chapter_name": "Biogeophysical Cycles: Water Recycling, Climate Regulation",
+            "chapter_number": 7,
+            "chunk_seq": 52,
+            "parent_section_number": "7.3",
+            "parent_section_name": "Fraction of precipitation originating inside the Amazon Basin (contour in red), using MOD16 ET data",
+            "page": 14,
+            "element_id": "daead0d73f96e718883f6793b1d25b4c"
+        }
+    },
+    {
+        "text": "In conclusion, if the rainforest is replaced with another land cover and use, the Amazon would not be able to keep ET at the same rate, particularly during the dry season. As a result, the rooting depths would be much smaller, hydraulic redistribution would cease, and the evaporating surface (leaf area) would be smaller and possibly present lower greenness than it does today.",
+        "type": "CompositeElement",
+        "metadata": {
+            "source": "Part_I_Cap_07_Biogeophysical Cycles Water Recycling, Climate Regulation.pdf",
+            "part_name": "The Amazon as a Regional Entity of the Earth System",
+            "chapter_name": "Biogeophysical Cycles: Water Recycling, Climate Regulation",
+            "chapter_number": 7,
+            "chunk_seq": 53,
+            "parent_section_number": "7.3",
+            "parent_section_name": "Fraction of precipitation originating inside the Amazon Basin (contour in red), using MOD16 ET data",
+            "page": 14,
+            "element_id": "8d181cb2915e65cf1f6118c7787497f9"
+        }
+    },
+    {
+        "text": "7.2.2.1 The role of Amazon tropical forests producing its own climate As said earlier, tropical rainforests are an obvious consequence of the warm and humid climate in that region. However, in the past decades, evidence is accumulating that the rainforest and the warm and humid climate are strongly connected, forming a two-way interacting system that perpetuates each other (positive feedback). In other words, the humid tropical climate allows the rainforest's existence, which, in turn, helps to produce the rainy climate it needs. A rainy climate requires two necessary conditions: a humid atmosphere and sufficient ascending vertical motion to form clouds and induce precipitation.",
+        "type": "CompositeElement",
+        "metadata": {
+            "source": "Part_I_Cap_07_Biogeophysical Cycles Water Recycling, Climate Regulation.pdf",
+            "part_name": "The Amazon as a Regional Entity of the Earth System",
+            "chapter_name": "Biogeophysical Cycles: Water Recycling, Climate Regulation",
+            "chapter_number": 7,
+            "chunk_seq": 54,
+            "parent_section_number": "7.2.2.1",
+            "parent_section_name": "The role of Amazon tropical forests producing its own climate",
+            "page": 14,
+            "element_id": "013fb18c5b9bcbcef7fa1952f918ee5e"
+        }
+    },
+    {
+        "text": "As stated in previous sections, on an annual average basis in the Amazon, around 72% of the water vapor that enters the atmospheric column is of oceanic origin, and 28% is evaporated locally (Table 7.1). In addition to this role as a water vapor source, the evergreen tropical forest has yet another role in the local climate. Theoretical (Eltahir 1996; Zeng and Neelin 1999) and modeling studies (Dirmeyer and Shukla 1994) demonstrate that the rainforest's low albedo favors convection over the basin, while an increase in the surface albedo causes a subsidence anomaly over the region. In addition, forests also emit volatile organic compounds (VOCs, for example terpenes) that become cloud condensation nuclei (CCN) and favor the formation of rain droplets (see also Chapter 6). Because water vapor and convection are key contributors to precipitation, large-scale rainforests likely have some ability to maintain their own climate. It is puzzling why deep moisture capture mecha-",
+        "type": "CompositeElement",
+        "metadata": {
+            "source": "Part_I_Cap_07_Biogeophysical Cycles Water Recycling, Climate Regulation.pdf",
+            "part_name": "The Amazon as a Regional Entity of the Earth System",
+            "chapter_name": "Biogeophysical Cycles: Water Recycling, Climate Regulation",
+            "chapter_number": 7,
+            "chunk_seq": 55,
+            "parent_section_number": "7.2.2.1",
+            "parent_section_name": "The role of Amazon tropical forests producing its own climate",
+            "page": 14,
+            "element_id": "f61911b32bf80e039b5f467f320af69d"
+        }
+    },
+    {
+        "text": "Regulation nisms were selected in some tropical rainforests in a climate so wet. In a competitive environment, species that unnecessarily allocate a big fraction of fixed carbon to grow roots, at the expense of leaves and branches, would be at a disadvantage when competing against species that concentrated the allocation of carbon above ground (Stephenson et al. 2011).",
+        "type": "CompositeElement",
+        "metadata": {
+            "source": "Part_I_Cap_07_Biogeophysical Cycles Water Recycling, Climate Regulation.pdf",
+            "part_name": "The Amazon as a Regional Entity of the Earth System",
+            "chapter_name": "Biogeophysical Cycles: Water Recycling, Climate Regulation",
+            "chapter_number": 7,
+            "chunk_seq": 56,
+            "parent_section_number": "7.2.2.1",
+            "parent_section_name": "The role of Amazon tropical forests producing its own climate",
+            "page": 14,
+            "element_id": "7bb6c8b59816f4420edc64ef10449143"
+        }
+    },
+    {
+        "text": "Although extreme evolutionary traits like 18 m deep roots may be unnecessary today, they might have represented an advantage in the past. During the Last Glacial Maximum (21,000 years BP) and until the mid-Holocene (14,000 years BP), the trade winds were more zonal, precipitation rates were lower, and parts of the rainforest were replaced by savannas (Haffer 1969; Van-der-Hammen and Absy 1994; Kubatski and Claussen 1998; Maslin and Burns 2000; Mayle et al. 2000). If environmental pressures resulted in the selection of trees with very deep roots to compete for water during the Last Glacial Maximum, it is likely that the climate then also had a strong interannual variability. Dry periods may have been long enough to require deep roots (several years), followed by long wet periods that would recharge the soil. Under such a climate, deep roots may have represented a decisive trait for the survival of tropical trees (Kleidon and Lorenz, 2001).",
+        "type": "CompositeElement",
+        "metadata": {
+            "source": "Part_I_Cap_07_Biogeophysical Cycles Water Recycling, Climate Regulation.pdf",
+            "part_name": "The Amazon as a Regional Entity of the Earth System",
+            "chapter_name": "Biogeophysical Cycles: Water Recycling, Climate Regulation",
+            "chapter_number": 7,
+            "chunk_seq": 57,
+            "parent_section_number": "7.2.2.1",
+            "parent_section_name": "The role of Amazon tropical forests producing its own climate",
+            "page": 15,
+            "element_id": "5a6ef39c3cee5692377293f0c57d5db6"
+        }
+    },
+    {
+        "text": "Mechanisms like deep root development, plant hydraulic uplift, and leaf regeneration in the dry season suggest that Amazonian forests can be resilient to extreme droughts. With these mechanisms, the rainforest may have access to around 3,000 mm of water stored in a thick soil layer. These mechanisms may not be present in every tropical forest. First, we still do not know if the ability to grow deep roots is limited to a few species or shared by many. Moreover, Canadell et al. (1996) report that the average maximum root depth of deciduous tropical forests is only 3.7 m. Besides, the maximum root depth can be geologically limited. For example, in a part of the Guyanas, roots cannot penetrate deeper than a few meters because of less deeply weathered rocks (Brouwer 1996, p.22).",
+        "type": "CompositeElement",
+        "metadata": {
+            "source": "Part_I_Cap_07_Biogeophysical Cycles Water Recycling, Climate Regulation.pdf",
+            "part_name": "The Amazon as a Regional Entity of the Earth System",
+            "chapter_name": "Biogeophysical Cycles: Water Recycling, Climate Regulation",
+            "chapter_number": 7,
+            "chunk_seq": 58,
+            "parent_section_number": "7.2.2.1",
+            "parent_section_name": "The role of Amazon tropical forests producing its own climate",
+            "page": 15,
+            "element_id": "859deb07df5a30ad8ab98bd20e4a2f1e"
+        }
+    },
+    {
+        "text": "Despite these uncertainties, Singh et al. (2020) were able to map root zone storage capacity and crossanalyze them against transects of tree cover along the rainforest-savanna border in South America. Their results indicate that currently, parts of the Amazon rainforest have access to up to 800 mm of stored water in the root zone, although local measurements suggest higher values (see above). They conclude that rainforest species invest in their rooting strategy and modify aboveground allocation in response to water stress. These responses are focused on allocating carbon in the most efficient way possible to maximize hydrologic benefit.",
+        "type": "CompositeElement",
+        "metadata": {
+            "source": "Part_I_Cap_07_Biogeophysical Cycles Water Recycling, Climate Regulation.pdf",
+            "part_name": "The Amazon as a Regional Entity of the Earth System",
+            "chapter_name": "Biogeophysical Cycles: Water Recycling, Climate Regulation",
+            "chapter_number": 7,
+            "chunk_seq": 59,
+            "parent_section_number": "7.2.2.1",
+            "parent_section_name": "The role of Amazon tropical forests producing its own climate",
+            "page": 15,
+            "element_id": "219da7d140cca84d512570d4a85b1bd4"
+        }
+    },
+    {
+        "text": "7.2.2.2 The biotic pump and the role of the forest in the onset of the rainy season",
+        "type": "CompositeElement",
+        "metadata": {
+            "source": "Part_I_Cap_07_Biogeophysical Cycles Water Recycling, Climate Regulation.pdf",
+            "part_name": "The Amazon as a Regional Entity of the Earth System",
+            "chapter_name": "Biogeophysical Cycles: Water Recycling, Climate Regulation",
+            "chapter_number": 7,
+            "chunk_seq": 60,
+            "parent_section_number": "7.2.2.2",
+            "parent_section_name": "The biotic pump and the role of the forest in the onset of the rainy season",
+            "page": 15,
+            "element_id": "ab56e22d0c969de5be53e3b29cd6a012"
+        }
+    },
+    {
+        "text": "The forest's fundamental role in regional moisture transport and balance has been discussed in the context of the biotic pump theory. This theory suggests that atmospheric condensation of water vapor supplied by plant transpiration from forests is a mechanism that not only contributes to recycling of rain (as described in section 7.2.1 above), but also exerts a major influence over atmospheric dynamics (Makarieva and Gorshkov, 2007; Makarieva et al. 2013). Specifically, re-condensation of the forest’s evapotranspired water is a mass removal of water from the gas phase that induces a decline in air pressure in the lower atmosphere, with consequent horizontal pressure gradients that accelerate air motion. ET-supplied water vapor thus provides a store of potential energy available to drive additional winds (beyond what would be expected from the general atmospheric circulation) that then contribute to the transport of ocean-evaporated water vapor to continental forests.",
+        "type": "CompositeElement",
+        "metadata": {
+            "source": "Part_I_Cap_07_Biogeophysical Cycles Water Recycling, Climate Regulation.pdf",
+            "part_name": "The Amazon as a Regional Entity of the Earth System",
+            "chapter_name": "Biogeophysical Cycles: Water Recycling, Climate Regulation",
+            "chapter_number": 7,
+            "chunk_seq": 61,
+            "parent_section_number": "7.2.2.2",
+            "parent_section_name": "The biotic pump and the role of the forest in the onset of the rainy season",
+            "page": 15,
+            "element_id": "9ddae1c63fcb1bd9e46bf5b8fe8ac678"
+        }
+    },
+    {
+        "text": "There is a debate about whether this is a fundamentally different theory or another perspective on classic atmospheric circulation theory, differing in the role of internal versus external sources of water vapor (Meesters et al., 2009; Makarieva and Gorshkov, 2009; Makarieva et al. 2014; Makarieva et al., 2017; Jaramillo et al., 2018). In any case, this theory has been increasingly adopted in the literature to ex-",
+        "type": "CompositeElement",
+        "metadata": {
+            "source": "Part_I_Cap_07_Biogeophysical Cycles Water Recycling, Climate Regulation.pdf",
+            "part_name": "The Amazon as a Regional Entity of the Earth System",
+            "chapter_name": "Biogeophysical Cycles: Water Recycling, Climate Regulation",
+            "chapter_number": 7,
+            "chunk_seq": 62,
+            "parent_section_number": "7.2.2.2",
+            "parent_section_name": "The biotic pump and the role of the forest in the onset of the rainy season",
+            "page": 15,
+            "element_id": "7aacafa152b50cbbff336756ae4d2e97"
+        }
+    },
+    {
+        "text": "Regulation plain the exponential increase of rainfall over forested areas of the Amazon (Poveda et al. 2014; Sheil, 2018; Molina et al. 2019).",
+        "type": "CompositeElement",
+        "metadata": {
+            "source": "Part_I_Cap_07_Biogeophysical Cycles Water Recycling, Climate Regulation.pdf",
+            "part_name": "The Amazon as a Regional Entity of the Earth System",
+            "chapter_name": "Biogeophysical Cycles: Water Recycling, Climate Regulation",
+            "chapter_number": 7,
+            "chunk_seq": 63,
+            "parent_section_number": "7.2.2.2",
+            "parent_section_name": "The biotic pump and the role of the forest in the onset of the rainy season",
+            "page": 16,
+            "element_id": "42713c2f6b1bd990f7314352fa1bce72"
+        }
+    },
+    {
+        "text": "Closely related to the biotic pump is the concept that high water fluxes from rainforest transpiration during the dry season stimulate an earlier return of wet season rains than would be expected from atmospheric dynamics alone (Wright et al. 2017). Specifically, rainforest transpiration increases shallow convection that moistens and destabilizes the atmosphere during the initial stages of the dry-to-wet season transition, conditioning the regional atmosphere for a rapid increase in rain-bearing deep convection. In turn, this process drives moisture convergence and wet season onset 2–3 months before the arrival of the Amazon Convergence Zone. Recent evidence using both rain gauge and the Tropical Rainfall Measuring Mission (TRMM) data empirically demonstrates the role of rainforests in several critical features of the Southern Amazon rainy season. Leite-Filho et al. (2020) have shown that forests' presence is associated with an earlier onset and later end of the rainy sea-",
+        "type": "CompositeElement",
+        "metadata": {
+            "source": "Part_I_Cap_07_Biogeophysical Cycles Water Recycling, Climate Regulation.pdf",
+            "part_name": "The Amazon as a Regional Entity of the Earth System",
+            "chapter_name": "Biogeophysical Cycles: Water Recycling, Climate Regulation",
+            "chapter_number": 7,
+            "chunk_seq": 64,
+            "parent_section_number": "7.2.2.2",
+            "parent_section_name": "The biotic pump and the role of the forest in the onset of the rainy season",
+            "page": 16,
+            "element_id": "4fcff06c595b9d0805c73bc8fa264618"
+        }
+    },
+    {
+        "text": "son, leading to a longer rainy season. Moreover, Leite-Filho et al. (2019) have shown that higher forest cover is associated with a low frequency of dry spells of any duration in September, October, April, and May, the transition months between the dry and rainy seasons. In other words, in well-preserved areas, the rainy season begins earlier and is less likely to be interrupted by a long dry spell in its initial days. On the other hand, in heavily deforested areas, the rainy season starts late and is more likely to be interrupted.",
+        "type": "CompositeElement",
+        "metadata": {
+            "source": "Part_I_Cap_07_Biogeophysical Cycles Water Recycling, Climate Regulation.pdf",
+            "part_name": "The Amazon as a Regional Entity of the Earth System",
+            "chapter_name": "Biogeophysical Cycles: Water Recycling, Climate Regulation",
+            "chapter_number": 7,
+            "chunk_seq": 65,
+            "parent_section_number": "7.2.2.2",
+            "parent_section_name": "The biotic pump and the role of the forest in the onset of the rainy season",
+            "page": 16,
+            "element_id": "22ef97efbda118b7bf40835dc98c6575"
+        }
+    },
+    {
+        "text": "Observational studies of Spracklen et al. (2012) confirm the dependence of rainfall amounts on the cumulative exposure of 10-day air back-trajectories to vegetation leaf area index (LAI). They used satellite remote-sensing data of tropical precipitation and LAI, combined with simulated atmospheric transport patterns, and concluded that air that has passed over extensive vegetation in the preceding 10 days produces at least twice as much rain as air that has passed over little vegetation. This empirical correlation is consistent with ET maintaining atmospheric moisture in air that passes over extensive vegetation. These mechanisms imply active, positive feedback. The amount of forest cover regulates the amount and timing of precipitation received by those forests, with forest loss/increase leading to reductions/increases in rainfall and subsequent further impacts on forest cover (see also discussion on Chapter 21).",
+        "type": "CompositeElement",
+        "metadata": {
+            "source": "Part_I_Cap_07_Biogeophysical Cycles Water Recycling, Climate Regulation.pdf",
+            "part_name": "The Amazon as a Regional Entity of the Earth System",
+            "chapter_name": "Biogeophysical Cycles: Water Recycling, Climate Regulation",
+            "chapter_number": 7,
+            "chunk_seq": 66,
+            "parent_section_number": "7.2.2.2",
+            "parent_section_name": "The biotic pump and the role of the forest in the onset of the rainy season",
+            "page": 16,
+            "element_id": "d9501e6201544cea99652e43a951633b"
+        }
+    },
+    {
+        "text": "7.2.3 The role of the forest as a source of water vapor to other regions",
+        "type": "CompositeElement",
+        "metadata": {
+            "source": "Part_I_Cap_07_Biogeophysical Cycles Water Recycling, Climate Regulation.pdf",
+            "part_name": "The Amazon as a Regional Entity of the Earth System",
+            "chapter_name": "Biogeophysical Cycles: Water Recycling, Climate Regulation",
+            "chapter_number": 7,
+            "chunk_seq": 67,
+            "parent_section_number": "7.2.3",
+            "parent_section_name": "The role of the forest as a source of water vapor to other regions",
+            "page": 16,
+            "element_id": "4d91892c694167509a3008eb57949607"
+        }
+    },
+    {
+        "text": "The Amazon region is also an important source of moisture for several regions of South America, such as providing moisture and rainfall to glaciers in the Andes, paramos, major cities, and the La Plata River Basin (Marengo et al. 2004, Arraut et al. 2012; Zemp et al., 2014; Drumond et al., 2014; Poveda et al., 2014; Gimeno et al. 2019). Over the La Plata River Basin, and possibly over the Pantanal (wetlands in Brazil) and Andean regions, the Amazon is the second-highest continental contributor to annual mean precipitation (Martinez and Dominguez, 2014), with local recycling over the La Plata Basin being the main source. This water vapor transport happens in relatively narrow spaces of the atmosphere nicknamed “aerial rivers” (Box 7.1). Moreover, external sources from the southern Pacific and Tropical Atlantic oceans also contribute to precipitation in the basin (Drumond et al., 2008). Drumond et al. (2008) highlighted that the influence of the tropical Atlantic Ocean varies sea-",
+        "type": "CompositeElement",
+        "metadata": {
+            "source": "Part_I_Cap_07_Biogeophysical Cycles Water Recycling, Climate Regulation.pdf",
+            "part_name": "The Amazon as a Regional Entity of the Earth System",
+            "chapter_name": "Biogeophysical Cycles: Water Recycling, Climate Regulation",
+            "chapter_number": 7,
+            "chunk_seq": 68,
+            "parent_section_number": "7.2.3",
+            "parent_section_name": "The role of the forest as a source of water vapor to other regions",
+            "page": 16,
+            "element_id": "82bab206a3f3ff807a25b5e7e288d0e2"
+        }
+    },
+    {
+        "text": "sonally from the northern regions in the austral summer months (Martinez and Dominguez, 2014).",
+        "type": "CompositeElement",
+        "metadata": {
+            "source": "Part_I_Cap_07_Biogeophysical Cycles Water Recycling, Climate Regulation.pdf",
+            "part_name": "The Amazon as a Regional Entity of the Earth System",
+            "chapter_name": "Biogeophysical Cycles: Water Recycling, Climate Regulation",
+            "chapter_number": 7,
+            "chunk_seq": 69,
+            "parent_section_number": "7.2.3",
+            "parent_section_name": "The role of the forest as a source of water vapor to other regions",
+            "page": 16,
+            "element_id": "63bdbf413817b2dcab3a0f02c1c495fb"
+        }
+    },
+    {
+        "text": "The southwestern part of the Amazon basin is an important direct source of incoming moisture over the La Plata Basin, the Andean Amazon, and the Pantanal regions all year round. Water from the Amazon is exported out of the basin and transported via the South American Low-Level Jet (SALLJ) along the Andes (Marengo et al. 2004, Drumond et al., 2008, 2014; Arraut et al. 2012; van der Ent et al., 2010, Poveda et al., 2014). This warmseason regional circulation feature represents a Regulation",
+        "type": "CompositeElement",
+        "metadata": {
+            "source": "Part_I_Cap_07_Biogeophysical Cycles Water Recycling, Climate Regulation.pdf",
+            "part_name": "The Amazon as a Regional Entity of the Earth System",
+            "chapter_name": "Biogeophysical Cycles: Water Recycling, Climate Regulation",
+            "chapter_number": 7,
+            "chunk_seq": 70,
+            "parent_section_number": "7.2.3",
+            "parent_section_name": "The role of the forest as a source of water vapor to other regions",
+            "page": 16,
+            "element_id": "c0904625e34839faaee9f2bd70754c2a"
+        }
+    },
+    {
+        "text": "nucleus of strong low-level winds (See Chapter 5, Section 5.2) in the middle of moisture transport by the trade winds coming from the tropical Atlantic ocean. This system transports and distributes moisture from the entire Amazon Basin into the La Plata Basin and the Andean Amazon region, producing rainfall, as well as over the Pantanal and the agricultural lands of west-central Brazil. Moisture transport associated with SALLJ and the role of the LLJ east of the Andes in precipitation events that occasionally lead to extreme precipitation and major floods are discussed in studies such as Gimeno et al. (2016, 2019) and Marengo et al. (2020). This system also transports smoke and aerosols from biomass burning in the Amazon to adjacent regions favoring atmospheric pollution over cities in those regions (Mendez-Espinosa et al., 2019).",
+        "type": "CompositeElement",
+        "metadata": {
+            "source": "Part_I_Cap_07_Biogeophysical Cycles Water Recycling, Climate Regulation.pdf",
+            "part_name": "The Amazon as a Regional Entity of the Earth System",
+            "chapter_name": "Biogeophysical Cycles: Water Recycling, Climate Regulation",
+            "chapter_number": 7,
+            "chunk_seq": 71,
+            "parent_section_number": "7.2.3",
+            "parent_section_name": "The role of the forest as a source of water vapor to other regions",
+            "page": 17,
+            "element_id": "3ad750506da1d38e23fe1fd752728da1"
+        }
+    },
+    {
+        "text": "7.3 Climate regulation provided by the forests",
+        "type": "CompositeElement",
+        "metadata": {
+            "source": "Part_I_Cap_07_Biogeophysical Cycles Water Recycling, Climate Regulation.pdf",
+            "part_name": "The Amazon as a Regional Entity of the Earth System",
+            "chapter_name": "Biogeophysical Cycles: Water Recycling, Climate Regulation",
+            "chapter_number": 7,
+            "chunk_seq": 72,
+            "parent_section_number": "7.3",
+            "parent_section_name": "Climate regulation provided by the forests",
+            "page": 17,
+            "element_id": "c9836b497deb00f34dbd9d8a4730125d"
+        }
+    },
+    {
+        "text": "7.3.1 Temperature regulation",
+        "type": "CompositeElement",
+        "metadata": {
+            "source": "Part_I_Cap_07_Biogeophysical Cycles Water Recycling, Climate Regulation.pdf",
+            "part_name": "The Amazon as a Regional Entity of the Earth System",
+            "chapter_name": "Biogeophysical Cycles: Water Recycling, Climate Regulation",
+            "chapter_number": 7,
+            "chunk_seq": 73,
+            "parent_section_number": "7.3.1",
+            "parent_section_name": "Temperature regulation",
+            "page": 17,
+            "element_id": "c9836b497deb00f34dbd9d8a4730125d"
+        }
+    },
+    {
+        "text": "Why are Amazonian forests much cooler than the land uses that often replace them? The answer to this question is crucial to understanding the Amazon’s capacity to provide ecosystem services and how this capacity may diminish with deforestation, forest degradation, and global climate change (Foley et al. 2007, Coe et al. 2016). Recent studies on land surface temperature regulation indicate that Amazonian forests act like giant air-conditioners (Silvério et al. 2015, Coe et al., 2017). This characteristic relates primarily to forests’ ability to cycle large amounts of water vapor from the soil to the atmosphere via ET (Nobre et al., 2016) (see previous sections). Compared with most crops cultivated in the region, Amazon forests have rougher canopies, denser canopy cover throughout most of the year, deeper roots, and an overall higher capacity to absorb solar energy and return it back to the atmosphere overwhelmingly as latent heat (Coe et al. 2016). Combined with the high net",
+        "type": "CompositeElement",
+        "metadata": {
+            "source": "Part_I_Cap_07_Biogeophysical Cycles Water Recycling, Climate Regulation.pdf",
+            "part_name": "The Amazon as a Regional Entity of the Earth System",
+            "chapter_name": "Biogeophysical Cycles: Water Recycling, Climate Regulation",
+            "chapter_number": 7,
+            "chunk_seq": 74,
+            "parent_section_number": "7.3.1",
+            "parent_section_name": "Temperature regulation",
+            "page": 17,
+            "element_id": "35c94d249f66a90ad3d8e7e03a4aee55"
+        }
+    },
+    {
+        "text": "surface radiation and precipitation inherent to the region, these characteristics result in a disproportional capacity of forests to cool down their leaves. For instance, the daytime land surface temperature in forested areas of the southeastern Amazon tends to be 5ºC",
+        "type": "CompositeElement",
+        "metadata": {
+            "source": "Part_I_Cap_07_Biogeophysical Cycles Water Recycling, Climate Regulation.pdf",
+            "part_name": "The Amazon as a Regional Entity of the Earth System",
+            "chapter_name": "Biogeophysical Cycles: Water Recycling, Climate Regulation",
+            "chapter_number": 7,
+            "chunk_seq": 75,
+            "parent_section_number": "7.3.1",
+            "parent_section_name": "Temperature regulation",
+            "page": 17,
+            "element_id": "1ccb9e266cb29aa3498d8f8fa33d0e94"
+        }
+    },
+    {
+        "text": "lower than deforested areas during the dry season, a result of ET decreasing, on average, by a third as forests are replaced by pastures and croplands (Silvério et al. 2015).",
+        "type": "CompositeElement",
+        "metadata": {
+            "source": "Part_I_Cap_07_Biogeophysical Cycles Water Recycling, Climate Regulation.pdf",
+            "part_name": "The Amazon as a Regional Entity of the Earth System",
+            "chapter_name": "Biogeophysical Cycles: Water Recycling, Climate Regulation",
+            "chapter_number": 7,
+            "chunk_seq": 76,
+            "parent_section_number": "7.3.1",
+            "parent_section_name": "Temperature regulation",
+            "page": 17,
+            "element_id": "36762d2ec63141e968de2caf3c39906c"
+        }
+    },
+    {
+        "text": "The relatively cool surface of Amazon forests relates to complex interactions between biological, physical, and chemical processes (Still et al., 2019). Most Amazonian tree species prevent leaf temperatures from increasing above critical levels, which can avoid overheating and associated reductions in carbon assimilation, growth, and carbon storage, all of which influence the odds of plant survival (Brando et al., 2019). Some studies suggest that the optimal temperature for leaf photosynthesis is less than 30°C, with leaf photosynthesis dropping abruptly when temperatures rise above 35ºC (Doughty and Goulden 2008), though there is debate about whether the mechanism of photosynthesis limitation is temperature or associated vapor pressure deficit (Smith et al. 2020). A recent long-term study found that South America’s rainforests carbon stocks and carbon gains decrease significantly (P <0.001) with the mean daily maximum temperature in the warmest month (Sullivan et",
+        "type": "CompositeElement",
+        "metadata": {
+            "source": "Part_I_Cap_07_Biogeophysical Cycles Water Recycling, Climate Regulation.pdf",
+            "part_name": "The Amazon as a Regional Entity of the Earth System",
+            "chapter_name": "Biogeophysical Cycles: Water Recycling, Climate Regulation",
+            "chapter_number": 7,
+            "chunk_seq": 77,
+            "parent_section_number": "7.3.1",
+            "parent_section_name": "Temperature regulation",
+            "page": 17,
+            "element_id": "8862894cc0fbb0a1bdb76b0c22b93ba1"
+        }
+    },
+    {
+        "text": "al. 2020). This process helps to explain why the average surface temperature of Amazonian forests is usually below 30ºC (Coe et al., 2016). While ET controls much of this capacity to regulate surface temperatures, other foliar characteristics contributing to leaf cooling include leaf angle, size, shape, and pubescence; canopy position; number of leaves per stem; and canopy structure (Brando et al. 2019).",
+        "type": "CompositeElement",
+        "metadata": {
+            "source": "Part_I_Cap_07_Biogeophysical Cycles Water Recycling, Climate Regulation.pdf",
+            "part_name": "The Amazon as a Regional Entity of the Earth System",
+            "chapter_name": "Biogeophysical Cycles: Water Recycling, Climate Regulation",
+            "chapter_number": 7,
+            "chunk_seq": 78,
+            "parent_section_number": "7.3.1",
+            "parent_section_name": "Temperature regulation",
+            "page": 17,
+            "element_id": "48ca68c59f3b386caa6b2e0075682d0a"
+        }
+    },
+    {
+        "text": "ET and land surface temperatures appear to be relatively constant across the Amazon Basin. Yet, there are important finer-scale spatial and temporal variability in canopy properties, ET, and land surface temperature. The main environmental process controlling this spatial variability is solar radiation (Fisher et al., 2009). Although potential incoming shortwave radiation is high across the entire region, some portions of the Amazon (e.g., near the Andes) receive less radiation due to cloudier conditions than others (the southeastern Amazon). The second factor relates to soil water availa Regulation",
+        "type": "CompositeElement",
+        "metadata": {
+            "source": "Part_I_Cap_07_Biogeophysical Cycles Water Recycling, Climate Regulation.pdf",
+            "part_name": "The Amazon as a Regional Entity of the Earth System",
+            "chapter_name": "Biogeophysical Cycles: Water Recycling, Climate Regulation",
+            "chapter_number": 7,
+            "chunk_seq": 79,
+            "parent_section_number": "7.3.1",
+            "parent_section_name": "Temperature regulation",
+            "page": 17,
+            "element_id": "308b37ea3f27a38c73f7dd58f30b489a"
+        }
+    },
+    {
+        "text": "7.1 Aerial rivers In recent years the term atmospheric river has evolved and is now established as describing a narrow band of atmospheric moisture, usually originating from the tropics, making landfall in the mid-latitudes. Low-level jets (LLJs) are defined as regions of anomalously high wind speeds occurring within the first kilometer of the troposphere (see Section 5.2, Chapter 5). In the case of the Amazon Basin, these columns of vapor move with the weather, carrying an amount of water vapor roughly equivalent to the average flow of water at the mouth of the Amazon River (Arraut et al. 2012), and are referred as aerial rivers, a nick name for the South American LLJ east of the Andes (SALLJ).",
+        "type": "CompositeElement",
+        "metadata": {
+            "source": "Part_I_Cap_07_Biogeophysical Cycles Water Recycling, Climate Regulation.pdf",
+            "part_name": "The Amazon as a Regional Entity of the Earth System",
+            "chapter_name": "Biogeophysical Cycles: Water Recycling, Climate Regulation",
+            "chapter_number": 7,
+            "chunk_seq": 80,
+            "parent_section_number": "7.1",
+            "parent_section_name": "Aerial rivers",
+            "page": 18,
+            "element_id": "323093431f2b44c995d5ccc799b1ac55"
+        }
+    },
+    {
+        "text": "When the atmospheric rivers make landfall, they often release this water vapor in the form of rain. The figure shows a schematic representation of moisture transport in the Amazon region. Moisture evaporated from the Atlantic Ocean is carried by surface winds into the region, with stronger transport along the SALLJ. The winds get even more humidity from the moisture recycling provided by the forest. The moist air first moves westward, but as it approaches the eastern flank of the Andes, it is deflected toward southeastern South America, generating the SALLJ. This moisture transport is like a river in the air that brings moisture and rain to the southern Amazon, Pantanal, and the La Plata Basin, with the SALLJ the core of the river (Arraut et al. 2012). That is why this transport is referred to as “aerial rivers” over land, where the moisture flow is in the form of water vapor and clouds.",
+        "type": "CompositeElement",
+        "metadata": {
+            "source": "Part_I_Cap_07_Biogeophysical Cycles Water Recycling, Climate Regulation.pdf",
+            "part_name": "The Amazon as a Regional Entity of the Earth System",
+            "chapter_name": "Biogeophysical Cycles: Water Recycling, Climate Regulation",
+            "chapter_number": 7,
+            "chunk_seq": 81,
+            "parent_section_number": "7.1",
+            "parent_section_name": "Aerial rivers",
+            "page": 18,
+            "element_id": "ead1a7c71a0da2f447cf788d8ba5a483"
+        }
+    },
+    {
+        "text": "flow is in the form of water vapor and clouds. Th winds bring atmospheric Water evaporated from the moisture from the Atlantic, Tropical Atlantic Ocean producing rain - but the air is recharging by recycled forest moisture ol N X NN\\ X N N Afterreaching the moutains, moisture condenses and produces precipitation along the Andes N\\ \\ ANN N\\ N X AN Y The rest of moisture produces rainfall in southeastern South America Source: R ww Maren (0) Regulation",
+        "type": "CompositeElement",
+        "metadata": {
+            "source": "Part_I_Cap_07_Biogeophysical Cycles Water Recycling, Climate Regulation.pdf",
+            "part_name": "The Amazon as a Regional Entity of the Earth System",
+            "chapter_name": "Biogeophysical Cycles: Water Recycling, Climate Regulation",
+            "chapter_number": 7,
+            "chunk_seq": 82,
+            "parent_section_number": "7.1",
+            "parent_section_name": "Aerial rivers",
+            "page": 18,
+            "element_id": "671ff54987702eda1f91d113125df469"
+        }
+    },
+    {
+        "text": "bility. Where there is an intense dry season (or in extremely dry years like the 2015-2016 El Niño event), low soil water availability towards the late dry season can constrain ET and cause related increases in land surface temperature (Gimenez et al. 2019). In the southeastern basin, where the dominant land cover is cerrado (mainly savannas), dry season ET may be less than half of that of the wet season (Costa and Pires 2010), with surface temperatures increasing proportionally to decreases in ET during the late dry season. Similarly, when soil moisture drops below critical levels during drought years, plant water stress can trigger reductions in stomatal conductance and ET, resulting in increased land surface temperatures (Toomey et al., 2011). Thus, while the climate over much of the Amazon is adequate for plants to maintain high ET and associated cooler temperatures, broad patterns across the region exist.",
+        "type": "CompositeElement",
+        "metadata": {
+            "source": "Part_I_Cap_07_Biogeophysical Cycles Water Recycling, Climate Regulation.pdf",
+            "part_name": "The Amazon as a Regional Entity of the Earth System",
+            "chapter_name": "Biogeophysical Cycles: Water Recycling, Climate Regulation",
+            "chapter_number": 7,
+            "chunk_seq": 83,
+            "parent_section_number": "7.1",
+            "parent_section_name": "Aerial rivers",
+            "page": 19,
+            "element_id": "181726e9fc061325a0ecc5f934e0d59a"
+        }
+    },
+    {
+        "text": "Air temperature and land surface temperature, although with the same tendency, often differ, with differences between them resulting from differences in the specific heat values of air, soil, and water, and from complex interactions among atmospheric properties, soil moisture, net radiation, and elevation. In general, air and land surface temperatures converge to similar values during the night but diverge during the hotter parts of the day, when land surface temperatures usually surpass air temperature by several degrees (Still et al., 2019). As large tracts of Amazonian forests are deforested, we expect major increases in surface temperatures (Silvério et al., 2015), given that deforestation results in decreased ET. This warming can be larger than the cooling effects that deforestation causes by increasing albedo.",
+        "type": "CompositeElement",
+        "metadata": {
+            "source": "Part_I_Cap_07_Biogeophysical Cycles Water Recycling, Climate Regulation.pdf",
+            "part_name": "The Amazon as a Regional Entity of the Earth System",
+            "chapter_name": "Biogeophysical Cycles: Water Recycling, Climate Regulation",
+            "chapter_number": 7,
+            "chunk_seq": 84,
+            "parent_section_number": "7.1",
+            "parent_section_name": "Aerial rivers",
+            "page": 19,
+            "element_id": "c243931fb2fd94181b672d0cff73b28a"
+        }
+    },
+    {
+        "text": "7.3.2 Edge effects on temperature and moisture More than 70% of the world’s remaining forest is less than 1 km from an edge (border adjacent to a field), and 20% is less than 100 m from an edge (Haddad et al., 2015). In human-dominated tropical landscapes, forest edges and their effects are pervasive (Skole and Tucker 1993, Pfeifer et al. 2017). As people clear-cut forests to expand pastures, croplands, and palm oil plantations, associated changes in disturbance regimes and the regional energy balance can degrade much of the residual forest. Thus, we expect additional carbon losses for each hectare deforested, especially along forest edges neighboring agricultural fields. In the ‘arc of deforestation’ in the southeastern Amazon, nearly 14% of Amazonian forests now grow less than 100 m from a deforested area (Brando et al., 2014).",
+        "type": "CompositeElement",
+        "metadata": {
+            "source": "Part_I_Cap_07_Biogeophysical Cycles Water Recycling, Climate Regulation.pdf",
+            "part_name": "The Amazon as a Regional Entity of the Earth System",
+            "chapter_name": "Biogeophysical Cycles: Water Recycling, Climate Regulation",
+            "chapter_number": 7,
+            "chunk_seq": 85,
+            "parent_section_number": "7.3.2",
+            "parent_section_name": "Edge effects on temperature and moisture",
+            "page": 19,
+            "element_id": "47a74399dd0f8bca215a4313288928fd"
+        }
+    },
+    {
+        "text": "Forest edges adjacent to cleared fields are subject to prolonged forest degradation. These edges and forest patches are exposed to hotter, dryer, and windier conditions (Didham and Lawton 1999, Schwartz et al. 2017). These edge effects degrade forests over time and have important implications for forest structure, especially because they tend to disproportionately increase mortality of canopy dominant trees over the short-term (Laurance et al. 2000). The resulting changes in microclimate then facilitate the establishment of light-wooded (low wood density), small-sized, fast-growing pioneer species (Laurance et al. 2002), causing regional reductions in forest carbon stocks over the long-term (Chaplin-Kramer et al., 2015, Silva Junior et al., 2020).",
+        "type": "CompositeElement",
+        "metadata": {
+            "source": "Part_I_Cap_07_Biogeophysical Cycles Water Recycling, Climate Regulation.pdf",
+            "part_name": "The Amazon as a Regional Entity of the Earth System",
+            "chapter_name": "Biogeophysical Cycles: Water Recycling, Climate Regulation",
+            "chapter_number": 7,
+            "chunk_seq": 86,
+            "parent_section_number": "7.3.2",
+            "parent_section_name": "Edge effects on temperature and moisture",
+            "page": 19,
+            "element_id": "481fa8db2c6e03cdfb52e980f56b416d"
+        }
+    },
+    {
+        "text": "Tropical forests are highly resilient to occasional disturbances, but increased frequency or intensity of disturbance events are expected to dramatically change forest structure, composition, and function (Brando et al. 2014, Lewis et al., 2015, Nobre et al., 2016). When combined with climate change, these disturbances may outpace adaptation processes (Lewis et al. 2015, Trumbore et al., 2015). The combined effects of continued deforestation and a changing climate place large areas of the Amazon at risk of greater degradation in the coming decades (Maxwell et al., 2019), particularly along forest edges neighboring deforested fields and in isolated forest patches (Gascon et al. 2000, Matricardi et al., 2020). Quantifying the drivers of forest degradation in the Amazon (see Chapter 19) is key to developing, validating, and parameterizing Earth system models (ESM) that mechanistically simulate changes in",
+        "type": "CompositeElement",
+        "metadata": {
+            "source": "Part_I_Cap_07_Biogeophysical Cycles Water Recycling, Climate Regulation.pdf",
+            "part_name": "The Amazon as a Regional Entity of the Earth System",
+            "chapter_name": "Biogeophysical Cycles: Water Recycling, Climate Regulation",
+            "chapter_number": 7,
+            "chunk_seq": 87,
+            "parent_section_number": "7.3.2",
+            "parent_section_name": "Edge effects on temperature and moisture",
+            "page": 19,
+            "element_id": "042b927bdf01fcd91df5f8faa2a2ed2f"
+        }
+    },
+    {
+        "text": "Regulation carbon pools and fluxes between the biosphere and atmosphere (Rödig et al. 2018). Advances in mapping forest degradation and its drivers have permitted substantial improvements in ESMs’ ability to project potential pathways of Amazonian forests. However, very few (if any) of these new advancements have addressed the issue of forest edge degradation. Hence, projecting the future of Amazonian forests requires a better representation of forest edge effects in ESMs.",
+        "type": "CompositeElement",
+        "metadata": {
+            "source": "Part_I_Cap_07_Biogeophysical Cycles Water Recycling, Climate Regulation.pdf",
+            "part_name": "The Amazon as a Regional Entity of the Earth System",
+            "chapter_name": "Biogeophysical Cycles: Water Recycling, Climate Regulation",
+            "chapter_number": 7,
+            "chunk_seq": 88,
+            "parent_section_number": "7.3.2",
+            "parent_section_name": "Edge effects on temperature and moisture",
+            "page": 20,
+            "element_id": "3fa4acc63ae644e18152da29f97fa421"
+        }
+    },
+    {
+        "text": "7.4 Conclusions Internal biogeophysical processes strongly control the hydrological and climate system of the Amazon Basin. This is possible because several mechanisms to access water stored in deep soil layers were selected for in rainforest tree species and provide the energy necessary to trigger and maintain convection. These combined mechanisms lead to a more humid climate on average and an earlier start and later end of the rainy season. Simultaneously, they maintain surface air warm enough for instability and convection, but within limits that do not hinder the photosynthetic capacity of the trees.",
+        "type": "CompositeElement",
+        "metadata": {
+            "source": "Part_I_Cap_07_Biogeophysical Cycles Water Recycling, Climate Regulation.pdf",
+            "part_name": "The Amazon as a Regional Entity of the Earth System",
+            "chapter_name": "Biogeophysical Cycles: Water Recycling, Climate Regulation",
+            "chapter_number": 7,
+            "chunk_seq": 89,
+            "parent_section_number": "7.4",
+            "parent_section_name": "Conclusions",
+            "page": 20,
+            "element_id": "a93849bf2685dedf0791eedff8f55ad5"
+        }
+    },
+    {
+        "text": "Such mechanisms, along with the microclimate temperature and humidity control at the edges of the forest, are fundamental features of the coupled biosphere-atmosphere system in the Amazon, helping define the Amazon’s climate and the climate in other parts of South America. Moreover, these mechanisms ensure this coupled system's ability to endure the dry season along its southern borders and provide a steady source of water vapor to the Amazon’s atmosphere when inputs from the Atlantic ocean weaken.",
+        "type": "CompositeElement",
+        "metadata": {
+            "source": "Part_I_Cap_07_Biogeophysical Cycles Water Recycling, Climate Regulation.pdf",
+            "part_name": "The Amazon as a Regional Entity of the Earth System",
+            "chapter_name": "Biogeophysical Cycles: Water Recycling, Climate Regulation",
+            "chapter_number": 7,
+            "chunk_seq": 90,
+            "parent_section_number": "7.4",
+            "parent_section_name": "Conclusions",
+            "page": 20,
+            "element_id": "add73e8fb298d2cb55d7744eba3eeeca"
+        }
+    },
+    {
+        "text": "7.5 Recommendations Forest cover regulates the amount and timing of precipitation received by those forests, with forest loss/increase leading to reductions/increases in rainfall and subsequent further reductions in forest cover. If the rainforest is replaced with another land cover, the Amazon would have a hotter climate and would not maintain ET at the same rate, particularly during the dry season, changing rainfall amounts and decreasing the duration of the rainy season, with implications for forest degradation, forest flammability, and crop yields.",
+        "type": "CompositeElement",
+        "metadata": {
+            "source": "Part_I_Cap_07_Biogeophysical Cycles Water Recycling, Climate Regulation.pdf",
+            "part_name": "The Amazon as a Regional Entity of the Earth System",
+            "chapter_name": "Biogeophysical Cycles: Water Recycling, Climate Regulation",
+            "chapter_number": 7,
+            "chunk_seq": 91,
+            "parent_section_number": "7.5",
+            "parent_section_name": "Recommendations",
+            "page": 20,
+            "element_id": "4ab0987eee4b5a5026ce61ceaf0ad1cb"
+        }
+    },
+    {
+        "text": "The most important changes in the hydroclimate system are happening in the transition between the dry and the rainy seasons, with a lengthening of the dry season, which has important consequences to ecosystem ecology, surface hydrology, and intensive agriculture in the region. In particular, the lengthening of the dry season makes the climate more seasonal – a tropical savanna climate instead of a tropical rainforest climate. Future biosphere-atmosphere interaction studies should focus on these particular seasons.",
+        "type": "CompositeElement",
+        "metadata": {
+            "source": "Part_I_Cap_07_Biogeophysical Cycles Water Recycling, Climate Regulation.pdf",
+            "part_name": "The Amazon as a Regional Entity of the Earth System",
+            "chapter_name": "Biogeophysical Cycles: Water Recycling, Climate Regulation",
+            "chapter_number": 7,
+            "chunk_seq": 92,
+            "parent_section_number": "7.5",
+            "parent_section_name": "Recommendations",
+            "page": 20,
+            "element_id": "af5a7cb572c52a4bd53a6a6aba11e105"
+        }
+    },
+    {
+        "text": "7.6 References Albert LP, Wu J, Prohaska N, et al. 2018. Age-dependent leaf physiology and consequences for crown-scale carbon uptake during the dry season in an Amazon evergreen forest. New Phytol 219: 870-84. Algarra, Eiras-Barca J, Nieto R, and Gimeno L. 2019. Global climatology of nocturnal low-level jets and associated moisture sources and sinks. Atmos Res 229: 39-59. Arraut JM, Nobre C, Barbosa HMJ, et al. 2012. Aerial Rivers and Lakes: Looking at Large-Scale Moisture Transport and Its Relation to Amazonia and to Subtropical Rainfall in South America. J Clim 25: 543-56. Benton GS and Estoque MA. 1954. Water-Vapor Transfer Over the North American Continent. J Meteorol 11: 462-77. Bosilovich MG and Chern J-D. 2006. Simulation of Water Sources and Precipitation Recycling for the MacKenzie, Mississippi, and Amazon River Basins. J Hydrometeorol 7: 312-29.",
+        "type": "CompositeElement",
+        "metadata": {
+            "source": "Part_I_Cap_07_Biogeophysical Cycles Water Recycling, Climate Regulation.pdf",
+            "part_name": "The Amazon as a Regional Entity of the Earth System",
+            "chapter_name": "Biogeophysical Cycles: Water Recycling, Climate Regulation",
+            "chapter_number": 7,
+            "chunk_seq": 93,
+            "parent_section_number": "7.6",
+            "parent_section_name": "References",
+            "page": 20,
+            "element_id": "b33276bdc52b8074624febddc9244a91"
+        }
+    },
+    {
+        "text": "Brando PM, Balch JK, Nepstad DC, et al. 2014. Abrupt increases in Amazonian tree mortality due to drought-fire interactions. Proc Natl Acad Sci 111: 6347-52. Brando PM, Paolucci L, Ummenhofer CC, et al. 2019. Droughts, Wildfires, and Forest Carbon Cycling: A Pantropical Synthesis. Annu Rev Earth Planet Sci 47: 555—-81. Brouwer LC. 1996. Nutrient cycling in pristine and logged tropical rain forest a study in Guyana - Tropenbos Guyana Series 1. Brubaker KL, Entekhabi D, and Eagleson PS. 1993. Estimation of Continental Precipitation Recycling. J Clim 6: 1077-89. Bruijnzeel LA. 1996. Predicting the hydrological impacts of land cover transformations in the humid tropics: the need for integrated research. In: Gash JHC (Ed). Amazonian Deforestation and Climate. J. Wiley & Sons. Brum M, Vadeboncoeur MA, Ivanov V, et al. 2019. Hydrological niche segregation defines forest structure and drought",
+        "type": "CompositeElement",
+        "metadata": {
+            "source": "Part_I_Cap_07_Biogeophysical Cycles Water Recycling, Climate Regulation.pdf",
+            "part_name": "The Amazon as a Regional Entity of the Earth System",
+            "chapter_name": "Biogeophysical Cycles: Water Recycling, Climate Regulation",
+            "chapter_number": 7,
+            "chunk_seq": 94,
+            "parent_section_number": "7.6",
+            "parent_section_name": "References",
+            "page": 20,
+            "element_id": "e8b9ac14a181e83119a7492241f52cfe"
+        }
+    },
+    {
+        "text": "Regulation Dirmeyer PA, Brubaker KL, and DelSole T. 2009. Import and export of atmospheric water vapor between nations. J Hydrol 365: 11–22. tolerance strategies in a seasonal Amazon forest. J Ecol 107: 318–33.",
+        "type": "CompositeElement",
+        "metadata": {
+            "source": "Part_I_Cap_07_Biogeophysical Cycles Water Recycling, Climate Regulation.pdf",
+            "part_name": "The Amazon as a Regional Entity of the Earth System",
+            "chapter_name": "Biogeophysical Cycles: Water Recycling, Climate Regulation",
+            "chapter_number": 7,
+            "chunk_seq": 95,
+            "parent_section_number": "7.6",
+            "parent_section_name": "References",
+            "page": 21,
+            "element_id": "aacf700afd91c0d6394623aaad8f9c0f"
+        }
+    },
+    {
+        "text": "Bruno RD, Rocha HR da, Freitas HC de, et al. 2006. Soil moisture dynamics in an eastern Amazonian tropical forest. Hydrol Dirmeyer PA and Shukla J. 1994. Albedo as a modulator of cliProcess 20: 2477-89. mate response to tropical deforestation. J Geophys Res 99: 20863. Dominguez F, Hu H, and Martinez JA. 2020. Two-Layer Dynamic Canadell J, Jackson RB, Ehleringer JB, et al. 1996. Maximum Recycling Model (2L-DRM): Learning from Moisture rooting depth of vegetation types at the global scale. OecoTracking Models of Different Complexity. J Hydrometeorol logia 108: 583-95. 21: 3-16. Chaplin-Kramer R, Sharp RP, Mandle L, et al. 2015. Spatial patterns of agricultural expansion determine impacts on biodiversity and carbon storage. Proc Natl Acad Sci 112: 7402-7. Budyko MI, Miller DH, and Miller DH. 1974. Climate and life. Academic press New York. Doughty CE and Goulden ML. 2008. Are tropical forests near a high temperature threshold? J Geophys Res Biogeosciences 113: n/a-n/a.",
+        "type": "CompositeElement",
+        "metadata": {
+            "source": "Part_I_Cap_07_Biogeophysical Cycles Water Recycling, Climate Regulation.pdf",
+            "part_name": "The Amazon as a Regional Entity of the Earth System",
+            "chapter_name": "Biogeophysical Cycles: Water Recycling, Climate Regulation",
+            "chapter_number": 7,
+            "chunk_seq": 96,
+            "parent_section_number": "7.6",
+            "parent_section_name": "References",
+            "page": 21,
+            "element_id": "847d1c76d4d05fbc7fdc9c429ed3a28b"
+        }
+    },
+    {
+        "text": "Chauvel A, Vital ART, Lucas Y, et al. 1992. O papel das raizes no ciclo hidrologico da floresta amazonica. VII Congr Bras Meteorol: 298–302. Christoffersen BO, Restrepo-Coupe N, Arain MA, et al. 2014. Mechanisms of water supply and vegetation demand govern the seasonality and magnitude of evapotranspiration in Amazonia and Cerrado. Agric For Meteorol 191: 33–50. Coe MT, Brando PM, Deegan LA, et al. 2017. The Forests of the Amazon and Cerrado Moderate Regional Climate and Are the Key to the Future. Trop Conserv Sci 10: 194008291772067. Coe MT, Macedo MN, Brando PM, et al. 2016. The Hydrology and Energy Balance of the Amazon Basin. In: Interactions Between Biosphere, Atmosphere and Human Land Use in the Amazon Basin. Ecological Studies (Analysis and Synthesis). Springer, Berlin, Heidelberg: Springer, Berlin, Heidelberg.",
+        "type": "CompositeElement",
+        "metadata": {
+            "source": "Part_I_Cap_07_Biogeophysical Cycles Water Recycling, Climate Regulation.pdf",
+            "part_name": "The Amazon as a Regional Entity of the Earth System",
+            "chapter_name": "Biogeophysical Cycles: Water Recycling, Climate Regulation",
+            "chapter_number": 7,
+            "chunk_seq": 97,
+            "parent_section_number": "7.6",
+            "parent_section_name": "References",
+            "page": 21,
+            "element_id": "54f056f4275cce24e3a972bdbc63d9ab"
+        }
+    },
+    {
+        "text": "Costa MH, Biajoli MC, Sanches L, et al. 2010. Atmospheric versus vegetation controls of Amazonian tropical rain forest evapotranspiration: Are the wet and seasonally dry rain forests any different? J Geophys Res 115: G04021. Costa MH and Foley JA. 1999. Trends in the hydrologic cycle of the Amazon Basin. J Geophys Res Atmos 104: 14189–98. Costa MH and Pires GF. 2010. Effects of Amazon and Central Brazil deforestation scenarios on the duration of the dry season in the arc of deforestation. Int J Climatol 30: 1970– 9. Costa MH, Souza-Filho JC, and Ribeiro A. 2004. Comments on “The Regional Evapotranspiration of the Amazon.” J Hydrometeorol 5: 1279–80. Dall’Olio A, Salati E, Azevedo CT de, and Matsui E. 1979. Modelo de fracionamento isotópico da água na bacia Amazônica (Primeira aproximação). Acta Amaz 9: 675–87.",
+        "type": "CompositeElement",
+        "metadata": {
+            "source": "Part_I_Cap_07_Biogeophysical Cycles Water Recycling, Climate Regulation.pdf",
+            "part_name": "The Amazon as a Regional Entity of the Earth System",
+            "chapter_name": "Biogeophysical Cycles: Water Recycling, Climate Regulation",
+            "chapter_number": 7,
+            "chunk_seq": 98,
+            "parent_section_number": "7.6",
+            "parent_section_name": "References",
+            "page": 21,
+            "element_id": "9fc7d7700795d4cc03bb3d18e34f8c98"
+        }
+    },
+    {
+        "text": "Da-Rocha HR, Manzi AO, Cabral OM, et al. 2009. Patterns of water and heat flux across a biome gradient from tropical forest to savanna in Brazil. J Geophys Res 114: G00B12. Dawson TE, Mambelli S, Plamboeck AH, et al. 2002. Stable Isotopes in Plant Ecology. Annu Rev Ecol Syst 33: 507–59. Didham RK and Lawton JH. 1999. Edge structure determines the magnitude of changes in microclimate and vegetation structure in tropical forest fragments. Biotropica 31: 17– 30. Drumond A, Marengo J, Ambrizzi T, et al. 2014. The role of the Amazon Basin moisture in the atmospheric branch of the hydrological cycle: a Lagrangian analysis. Hydrol Earth Syst Sci 18: 2577-98. Drumond A, Nieto R, Gimeno L, and Ambrizzi T. 2008. A Lagrangian identification of major sources of moisture over Central Brazil and La Plata Basin. J Geophys Res Atmos 113. Eltahir EAB and Bras RL. 1994. Precipitation recycling in the Amazon basin. Q J R Meteorol Soc 120: 861–80.",
+        "type": "CompositeElement",
+        "metadata": {
+            "source": "Part_I_Cap_07_Biogeophysical Cycles Water Recycling, Climate Regulation.pdf",
+            "part_name": "The Amazon as a Regional Entity of the Earth System",
+            "chapter_name": "Biogeophysical Cycles: Water Recycling, Climate Regulation",
+            "chapter_number": 7,
+            "chunk_seq": 99,
+            "parent_section_number": "7.6",
+            "parent_section_name": "References",
+            "page": 21,
+            "element_id": "1b80d6d83867e3c5d892f882a68d0ac6"
+        }
+    },
+    {
+        "text": "Eltahir EAB. 1996. Role of vegetation in sustaining large-scale atmospheric circulations in the tropics. J Geophys Res Atmos 101: 4255–68. Eltahir EAB and Bras RL. 1996. Precipitation recycling. Rev Geophys 34: 367–78. Fan Y and Miguez-Macho G. 2010. Potential groundwater contribution to Amazon evapotranspiration. Hydrol Earth Syst Sci 14: 2039–56. Fisher JB, Malhi Y, Bonal D, et al. 2009. The land-atmosphere water flux in the tropics. Glob Chang Biol 15: 2694–714. Foley JA, Asner GP, Costa MH, et al. 2007. Amazonia revealed: Forest degradation and loss of ecosystem goods and services in the Amazon Basin. Front Ecol Environ 5: 25–32. Gascon C, Williamson GB, and Fonseca GAB Da. 2000. Receding forest edges and vanishing reserves. Science 288: 1356–8.",
+        "type": "CompositeElement",
+        "metadata": {
+            "source": "Part_I_Cap_07_Biogeophysical Cycles Water Recycling, Climate Regulation.pdf",
+            "part_name": "The Amazon as a Regional Entity of the Earth System",
+            "chapter_name": "Biogeophysical Cycles: Water Recycling, Climate Regulation",
+            "chapter_number": 7,
+            "chunk_seq": 100,
+            "parent_section_number": "7.6",
+            "parent_section_name": "References",
+            "page": 21,
+            "element_id": "b905d76119e88e19969e21d25384779d"
+        }
+    },
+    {
+        "text": "Gimenez BO, Jardine KJ, Higuchi N, et al. 2019. Species-Specific Shifts in Diurnal Sap Velocity Dynamics and Hysteretic Behavior of Ecophysiological Variables During the 2015– 2016 El Niño Event in the Amazon Forest. Front Plant Sci 10. Gimeno L, Dominguez F, Nieto R, et al. 2016. Major mechanisms of atmospheric moisture transport and their role in extreme precipitation events. Annu Rev Environ Resour 41: 117–41. Gimeno L, Vázquez M, Eiras-Barca J, et al. 2019. Recent progress on the sources of continental precipitation as revealed by moisture transport analysis. Earth-Science Rev 201: 103070. Goessling HF and Reick CH. 2013. On the “well-mixed” assumption and numerical 2-D tracing of atmospheric moisture. Atmos Chem Phys 13: 5567–85. Haddad NM, Brudvig LA, Clobert J, et al. 2015. Habitat fragmentation and its lasting impact on Earth ’ s ecosystems. Sci Adv 1: e1500052. Haffer J. 1969. Speciation in Amazonian Forest Birds. Science 165: 131–7.",
+        "type": "CompositeElement",
+        "metadata": {
+            "source": "Part_I_Cap_07_Biogeophysical Cycles Water Recycling, Climate Regulation.pdf",
+            "part_name": "The Amazon as a Regional Entity of the Earth System",
+            "chapter_name": "Biogeophysical Cycles: Water Recycling, Climate Regulation",
+            "chapter_number": 7,
+            "chunk_seq": 101,
+            "parent_section_number": "7.6",
+            "parent_section_name": "References",
+            "page": 21,
+            "element_id": "4f30ac069d364c720b06e2deda80c979"
+        }
+    },
+    {
+        "text": "Regulation Hasler N and Avissar R. 2007. What controls evapotranspiration in the Amazon basin? J Hydrometeorol 8: 380–95. Hodnett MG, Silva LP da, Rocha HR da, and Cruz Senna R. 1995. Seasonal soil water storage changes beneath central Amazonian rainforest and pasture. J Hydrol 170: 233–54. Huete AR, Didan K, Shimabukuro YE, et al. 2006. Amazon rainforests green-up with sunlight in dry season. Geophys Res Lett 33. Insua-Costa D and Miguez-Macho G. 2018. A new moisture tagging capability in the Weather Research and Forecasting model: formulation, validation and application to the 2014 Great Lake-effect snowstorm. Earth Syst Dyn 9: 167– 85. Ivanov VY, Hutyra LR, Wofsy SC, et al. 2012. Root niche separation can explain avoidance of seasonal drought stress and vulnerability of overstory trees to extended drought in a mature Amazonian forest. Water Resour Res 48: 12507.",
+        "type": "CompositeElement",
+        "metadata": {
+            "source": "Part_I_Cap_07_Biogeophysical Cycles Water Recycling, Climate Regulation.pdf",
+            "part_name": "The Amazon as a Regional Entity of the Earth System",
+            "chapter_name": "Biogeophysical Cycles: Water Recycling, Climate Regulation",
+            "chapter_number": 7,
+            "chunk_seq": 102,
+            "parent_section_number": "7.6",
+            "parent_section_name": "References",
+            "page": 21,
+            "element_id": "22b188b39bead8d44889fefdf82efe63"
+        }
+    },
+    {
+        "text": "Jaramillo, A., O. J. Mesa, and D. J. Raymond. 2018. Is condensation-induced atmospheric dynamics a new theory of the origin of the winds? J. Atmos. Sci. Vol 75 (10): 3305-3312. https://doi.org/10.1175/JAS-D-17-0293.1 Jipp PH, Nepstad DC, Cassel DK, and Reis De Carvalho C. 1998. Deep Soil Moisture Storage and Transpiration in Forests and Pastures of Seasonally-Dry Amazonia. Clim Change 39: 395–412. Juárez RIN, Hodnett MG, Fu R, et al. 2007. Control of Dry Season Evapotranspiration over the Amazonian Forest as Inferred from Observations at a Southern Amazon Forest Site. J Clim 20: 2827–39. Kleidon A and Lorenz S. 2001. Deep roots sustain Amzonian rainforest in climate model simulations of the last ice age. Geophys Res Lett 28: 2425–8. Kubatzki C and Claussen M. 1998. Simulation of the global biogeophysical interactions during the Last Glacial Maximum. Clim Dyn 14: 461–71.",
+        "type": "CompositeElement",
+        "metadata": {
+            "source": "Part_I_Cap_07_Biogeophysical Cycles Water Recycling, Climate Regulation.pdf",
+            "part_name": "The Amazon as a Regional Entity of the Earth System",
+            "chapter_name": "Biogeophysical Cycles: Water Recycling, Climate Regulation",
+            "chapter_number": 7,
+            "chunk_seq": 103,
+            "parent_section_number": "7.6",
+            "parent_section_name": "References",
+            "page": 22,
+            "element_id": "b6104f2b2f6b4abe846e6e03671666b4"
+        }
+    },
+    {
+        "text": "Laurance WF, Delamônica P, Laurance SG, et al. 2000. Rainforest fragmentation kills big trees. Nature 404: 836–836. Laurance WF, Lovejoy TE, Vasconcelos HL, et al. 2002. Ecosystem decay of Amazonian forest fragments: a 22-year investigation. Conserv Biol 16: 605–18. Lee J-E, Oliveira RS, Dawson TE, and Fung I. 2005. Root functioning modifies seasonal climate. Proc Natl Acad Sci 102: 17576–81. Leite‐Filho AT, Costa MH, and Fu R. 2020. The southern Amazon rainy season: The role of deforestation and its interactions with large‐scale mechanisms. Int J Climatol 40: 2328–41. Leite‐Filho AT, Sousa Pontes VY, and Costa MH. 2019. Effects of Deforestation on the Onset of the Rainy Season and the Duration of Dry Spells in Southern Amazonia. J Geophys Res Atmos 124: 5268–81. Lettau H, Lettau K, and Molion LCB. 1979. Amazonia’s Hydrologic Cycle and the Role of Atmospheric Recycling in Assessing Deforestation Effects. Mon Weather Rev 107: 227– 38.",
+        "type": "CompositeElement",
+        "metadata": {
+            "source": "Part_I_Cap_07_Biogeophysical Cycles Water Recycling, Climate Regulation.pdf",
+            "part_name": "The Amazon as a Regional Entity of the Earth System",
+            "chapter_name": "Biogeophysical Cycles: Water Recycling, Climate Regulation",
+            "chapter_number": 7,
+            "chunk_seq": 104,
+            "parent_section_number": "7.6",
+            "parent_section_name": "References",
+            "page": 22,
+            "element_id": "e93f27cef041d613bd10acd7d935063e"
+        }
+    },
+    {
+        "text": "Lewis SL, Edwards DP, and Galbraith D. 2015. Increasing human dominance of tropical forests. Science 349: 827–32. Makarieva AM and Gorshkov VG. 2009. Reply to A. G. C. A. Meesters et al.’s comment on “Biotic pump of atmospheric moisture as driver of the hydrological cycle on land.” Hydrol Earth Syst Sci 13: 1307–11. Makarieva AM and Gorshkov VG. 2007. Biotic pump of atmospheric moisture as driver of the hydrological cycle on land. Hydrol Earth Syst Sci 11: 1013–33. Makarieva AM, Gorshkov VG, Sheil D, et al. 2013. Where do winds come from? A new theory on how water vapor condensation influences atmospheric pressure and dynamics. Atmos Chem Phys 13: 1039–56. Makarieva, A. M., Gorshkov, V. G., Sheil, D., Nobre, A. D., Bunyard, P., & Li, B. (2014). Why Does Air Passage over Forest Yield More Rain? Examining the Coupling between Rainfall, Pressure, and Atmospheric Moisture Content, Journal of Hydrometeorology, 15(1), 411-426.",
+        "type": "CompositeElement",
+        "metadata": {
+            "source": "Part_I_Cap_07_Biogeophysical Cycles Water Recycling, Climate Regulation.pdf",
+            "part_name": "The Amazon as a Regional Entity of the Earth System",
+            "chapter_name": "Biogeophysical Cycles: Water Recycling, Climate Regulation",
+            "chapter_number": 7,
+            "chunk_seq": 105,
+            "parent_section_number": "7.6",
+            "parent_section_name": "References",
+            "page": 22,
+            "element_id": "6458bb88d6b8ab213d61982a6bdfffe3"
+        }
+    },
+    {
+        "text": "Makarieva AM, Gorshkov VG, Nefiodov A V., et al. 2017. The equations of motion for moist atmospheric air. J Geophys Res Atmos 122: 7300–7. Marengo JA. 2020. Drought, Floods, Climate Change, and Forest Loss in the Amazon Region: A Present and Future Danger? Front Young Minds 7. Marengo JA, Soares WR, Saulo C, and Nicolini M. 2004. Climatology of the low-level jet east of the Andes as derived from the NCEP--NCAR reanalyses: Characteristics and temporal variability. J Clim 17: 2261–80. Markewitz D, Devine S, Davidson EA, et al. 2010. Soil moisture depletion under simulated drought in the Amazon: Impacts on deep root uptake. New Phytol 187: 592–607. Martinez JA and Dominguez F. 2014. Sources of Atmospheric Moisture for the La Plata River Basin*. J Clim 27: 6737–53. Maslin MA and Burns SJ. 2000. Reconstruction of the Amazon Basin effective moisture availability over the past 14,000 years. Science 290: 2285–7.",
+        "type": "CompositeElement",
+        "metadata": {
+            "source": "Part_I_Cap_07_Biogeophysical Cycles Water Recycling, Climate Regulation.pdf",
+            "part_name": "The Amazon as a Regional Entity of the Earth System",
+            "chapter_name": "Biogeophysical Cycles: Water Recycling, Climate Regulation",
+            "chapter_number": 7,
+            "chunk_seq": 106,
+            "parent_section_number": "7.6",
+            "parent_section_name": "References",
+            "page": 22,
+            "element_id": "c31f5ed51a54e3154fe80d0fa01292b8"
+        }
+    },
+    {
+        "text": "Matricardi EAT, Skole DL, Costa OB, et al. 2020. Long-term forest degradation surpasses deforestation in the Brazilian Amazon. Science 369: 1378–82. Maxwell SL, Evans T, Watson JEM, et al. 2019. Degradation and forgone removals increase the carbon impact of intact forest loss by 626%. Sci Adv 5: eaax2546. Mayle FE. 2000. Millennial-Scale Dynamics of Southern Amazonian Rain Forests. Science 290: 2291–4. Meesters AGCA, Dolman AJ, and Bruijnzeel LA. 2009. Comment on “Biotic pump of atmospheric moisture as driver of the hydrological cycle on land.” Hydrol Earth Syst Sci 13: 1299– 305. Mendez-Espinosa JF, Belalcazar LC, and Morales Betancourt R. 2019. Regional air quality impact of northern South America biomass burning emissions. Atmos Environ 203: 131–40. Molion LCB and Lettau HH. 1975. A climatonomic study of the energy and moisture fluxes of the Amazonas basin with considerations of deforestation effects.",
+        "type": "CompositeElement",
+        "metadata": {
+            "source": "Part_I_Cap_07_Biogeophysical Cycles Water Recycling, Climate Regulation.pdf",
+            "part_name": "The Amazon as a Regional Entity of the Earth System",
+            "chapter_name": "Biogeophysical Cycles: Water Recycling, Climate Regulation",
+            "chapter_number": 7,
+            "chunk_seq": 107,
+            "parent_section_number": "7.6",
+            "parent_section_name": "References",
+            "page": 22,
+            "element_id": "ef7cd70b90bd31166a176f12cdc99c6f"
+        }
+    },
+    {
+        "text": "Molina, R. D., Salazar, J. F., Martínez, J. A., Villegas, J. C., & Arias, P. A. (2019). Forest-induced exponential growth of precipitation along climatological wind streamlines over the Amazon. Journal of Geophysical Research: Atmospheres, 124, 2589– 2599. http://doi.org/10.1029/2018JD029534 Regulation Shuttleworth WJ. 1988. Evaporation from Amazonian rainforest. Proc R Soc London Ser B Biol Sci 233: 321–46. Silva Junior CHL, Aragao LEOC, Anderson LO, et al. 2020. Persistent collapse of biomass in Amazonian forest edges following deforestation leads to unaccounted carbon losses. Sci Adv 6: eaaz8360. Silvério D V, Brando PM, Macedo MN, et al. 2015. Agricultural expansion dominates climate changes in southeastern Amazonia: the overlooked non-GHG forcing. Environ Res Lett 10: 104015.",
+        "type": "CompositeElement",
+        "metadata": {
+            "source": "Part_I_Cap_07_Biogeophysical Cycles Water Recycling, Climate Regulation.pdf",
+            "part_name": "The Amazon as a Regional Entity of the Earth System",
+            "chapter_name": "Biogeophysical Cycles: Water Recycling, Climate Regulation",
+            "chapter_number": 7,
+            "chunk_seq": 108,
+            "parent_section_number": "7.6",
+            "parent_section_name": "References",
+            "page": 22,
+            "element_id": "6ae0a8a5206e81d2ac932b03d0f8485f"
+        }
+    },
+    {
+        "text": "Singh C, Wang-Erlandsson L, Fetzer I, et al. 2020. Rootzone storage capacity reveals drought coping strategies along rainforest-savanna transitions. Environ Res Lett 15: 124021. Skole D and Tucker C. 1993. Tropical Deforestation and Habitat Fragmentation in the Amazon: Satellite Data from 1978 to 1988. Science 260: 1905-10. Negron-Judrez R, Ferreira SJF, Mota MC, et al. 2020. Calibration, measurement, and characterization of soil moisture dynamics in a central Amazonian tropical forest. Vadose Zo J 19: 0-16. Nepstad DC, Carvalho CR de, Davidson EA, et al. 1994. The role of deep roots in the hydrological and carbon cycles of Amazonian forests and pastures. Nature 372: 666-9. Nobre CA, Sellers PJ, and Shukla J. 1991. Amazonian Deforestation and Regional Climate Change. J Clim 4: 957-88. Nobre CA, Sampaio G, Borma LS, et al. 2016. Land-use and climate change risks in the Amazon and the need of a novel sustainable development paradigm. Proc Natl Acad Sci 113:10759-68.",
+        "type": "CompositeElement",
+        "metadata": {
+            "source": "Part_I_Cap_07_Biogeophysical Cycles Water Recycling, Climate Regulation.pdf",
+            "part_name": "The Amazon as a Regional Entity of the Earth System",
+            "chapter_name": "Biogeophysical Cycles: Water Recycling, Climate Regulation",
+            "chapter_number": 7,
+            "chunk_seq": 109,
+            "parent_section_number": "7.6",
+            "parent_section_name": "References",
+            "page": 23,
+            "element_id": "739a8a771d644916d5737c68c00eaf05"
+        }
+    },
+    {
+        "text": "Oliveira RS, Dawson TE, Burgess SSO, and Nepstad DC. 2005. Hydraulic redistribution in three Amazonian trees. Oecologia 145: 354-63. Pfeifer M, Lefebvre V, Peres CA, et al. 2017. Creation of forest edges has a global impact on forest vertebrates. Nature 551:187-91.",
+        "type": "CompositeElement",
+        "metadata": {
+            "source": "Part_I_Cap_07_Biogeophysical Cycles Water Recycling, Climate Regulation.pdf",
+            "part_name": "The Amazon as a Regional Entity of the Earth System",
+            "chapter_name": "Biogeophysical Cycles: Water Recycling, Climate Regulation",
+            "chapter_number": 7,
+            "chunk_seq": 110,
+            "parent_section_number": "7.6",
+            "parent_section_name": "References",
+            "page": 23,
+            "element_id": "f522f10ea1f6ff1f951068a5b7640a41"
+        }
+    },
+    {
+        "text": "Smith MN, Taylor TC, Haren J van, et al. 2020. Empirical evidence for resilience of tropical forest photosynthesis in a warmer world. Nat Plants 6: 1225-30. Poveda G, Jaramillo L, and Vallejo LF. 2014. Seasonal precipitaSombroek W. 2001. Spatial and Temporal Patterns of Amazon tion patterns along pathways of South American low-level Rainfall. AMBIO A J Hum Environ 30: 388-96. jets and aerial rivers. Water Resour Res 50: 98-118. Spracklen D V., Arnold SR, and Taylor CM. 2012. Observations of RAISG. 2020. Amazonian Network of Georeferenced Socio-Enincreased tropical rainfall preceded by air passage over vironmental Informationhttps://www.amazoniasocioamforests. Nature 489: 282-5. biental.org/en/. Staal A, Tuinenburg OA, Bosmans JHC, et al. 2018. Forest-rainRestrepo-Coupe N, Albert LP, Longo M, et al. 2021. Understandfall cascades buffer against drought across the Amazon. ing water and energy fluxes in the Amazonia: Lessons Nat Clim Chang 8: 539—-43. from an observation-model",
+        "type": "CompositeElement",
+        "metadata": {
+            "source": "Part_I_Cap_07_Biogeophysical Cycles Water Recycling, Climate Regulation.pdf",
+            "part_name": "The Amazon as a Regional Entity of the Earth System",
+            "chapter_name": "Biogeophysical Cycles: Water Recycling, Climate Regulation",
+            "chapter_number": 7,
+            "chunk_seq": 111,
+            "parent_section_number": "7.6",
+            "parent_section_name": "References",
+            "page": 23,
+            "element_id": "4215576ffecb3a35508f535ed9e17d9f"
+        }
+    },
+    {
+        "text": "intercomparison. Glob Chang Biol: gch.15555.",
+        "type": "CompositeElement",
+        "metadata": {
+            "source": "Part_I_Cap_07_Biogeophysical Cycles Water Recycling, Climate Regulation.pdf",
+            "part_name": "The Amazon as a Regional Entity of the Earth System",
+            "chapter_name": "Biogeophysical Cycles: Water Recycling, Climate Regulation",
+            "chapter_number": 7,
+            "chunk_seq": 112,
+            "parent_section_number": "7.6",
+            "parent_section_name": "References",
+            "page": 23,
+            "element_id": "5000452b0dd339ad94a73c7cfe585df9"
+        }
+    },
+    {
+        "text": "Stein AF, Draxler RR, Rolph GD, et al. 2015. NOAA’s HYSPLIT Atmospheric Transport and Dispersion Modeling System. Bull Am Meteorol Soc 96: 2059–77. Stephenson NL, Mantgem PJ van, Bunn AG, et al. 2011. Causes and implications of the correlation between forest productivity and tree mortality rates. Ecol Monogr 81: 527– 55. Still C, Powell R, Aubrecht D, et al. 2019. Thermal imaging in plant and ecosystem ecology: applications and challenges. Ecosphere 10. Sullivan MJP, Lewis SL, Affum-Baffoe K, et al. 2020. Long-term thermal sensitivity of Earth’s tropical forests. Science 368: 869–74.",
+        "type": "CompositeElement",
+        "metadata": {
+            "source": "Part_I_Cap_07_Biogeophysical Cycles Water Recycling, Climate Regulation.pdf",
+            "part_name": "The Amazon as a Regional Entity of the Earth System",
+            "chapter_name": "Biogeophysical Cycles: Water Recycling, Climate Regulation",
+            "chapter_number": 7,
+            "chunk_seq": 113,
+            "parent_section_number": "7.6",
+            "parent_section_name": "References",
+            "page": 23,
+            "element_id": "2730bdbd15a381f410419597a25e1cb0"
+        }
+    },
+    {
+        "text": "Tomasella J, Hodnett MG, Cuartas LA, et al. 2008. The water balance of an Amazonian micro-catchment: the effect of interannual variability of rainfall on hydrological behaviour. Hydrol Process 22: 2133-47. Toomey M, Roberts DA, Still C, et al. 2011. Remotely sensed heat anomalies linked with Amazonian forest biomass declines. Geophys Res Lett 38: n/a-n/a. Trenberth KE. 1999. Atmospheric Moisture Recycling: Role of Advection and Local Evaporation. J Clim 12: 1368-81. Trumbore S, Brando P, and Hartmann H. 2015. Forest health and global change. Science 349: 814-8. van der Ent R, Savenije HHG, Schaefli B, and Steele-Dunne SC. 2010. Origin and fate of atmospheric moisture over continents. Water Resour Res 46. van der-Hammen T and Absy ML. 1994. Amazonia during the last glacial. Palaeogeogr Palaeoclimatol Palaeoecol 109: 247— 61 Rödig E, Cuntz M, Rammig A, et al. 2018. The importance of forest structure for carbon fluxes of the Amazon rainforest. Environ Res Lett 13: 054013.",
+        "type": "CompositeElement",
+        "metadata": {
+            "source": "Part_I_Cap_07_Biogeophysical Cycles Water Recycling, Climate Regulation.pdf",
+            "part_name": "The Amazon as a Regional Entity of the Earth System",
+            "chapter_name": "Biogeophysical Cycles: Water Recycling, Climate Regulation",
+            "chapter_number": 7,
+            "chunk_seq": 114,
+            "parent_section_number": "7.6",
+            "parent_section_name": "References",
+            "page": 23,
+            "element_id": "3a58ba5f0329d7a846f56b4ebd38cf51"
+        }
+    },
+    {
+        "text": "Romero-Saltos H, Sternberg LDSL, Moreira MZ, and Nepstad DC. 2005. Rainfall exclusion in an eastern Amazonian forest alters soil water movement and depth of water uptake. Am J Bot 92: 443–55. Rowland L, Costa ACL da, Galbraith DR, et al. 2015. Death from drought in tropical forests is triggered by hydraulics not carbon starvation. Nature 528: 119–22. Salati E and Vose PB. 1984. Amazon Basin: A System in Equilibrium. Science 225: 129–38. Salati E, Dall’Olio A, Matsui E, and Gat JR. 1979. Recycling of water in the Amazon Basin: An isotopic study. Water Resour Res 15:1250-8. Saleska SR, Wu J, Guan K, et al. 2016. Dry-season greening of Amazon forests. Nature 531: E4-5. Savenije HHG. 1996. The runoff coefficient as the key to moisture recycling. J Hydrol 176: 219-25. Schwartz NB, Uriarte M, DeFries R, et al. 2017. Fragmentation increases wind disturbance impacts on forest structure and carbon stocks in a western Amazonian landscape. Ecol Appl 27: 1901–15.",
+        "type": "CompositeElement",
+        "metadata": {
+            "source": "Part_I_Cap_07_Biogeophysical Cycles Water Recycling, Climate Regulation.pdf",
+            "part_name": "The Amazon as a Regional Entity of the Earth System",
+            "chapter_name": "Biogeophysical Cycles: Water Recycling, Climate Regulation",
+            "chapter_number": 7,
+            "chunk_seq": 115,
+            "parent_section_number": "7.6",
+            "parent_section_name": "References",
+            "page": 23,
+            "element_id": "deaedc9f4b6cbf17a7ce823266e738e5"
+        }
+    },
+    {
+        "text": "Sellers WD. 1965. Physical climatology. University of Chicago Press. Sheil D. 2018. Forests, atmospheric water and an uncertain future: the new biology of the global water cycle. For Ecosyst 5: 19. Regulation Venticinque E, Forsberg B, Barthem R et al. 2016. An explicit GIS-based river basin framework for aquatic ecosystem conservation in the Amazon. Earth Systematic Sciences Data 8:651-661. doi:10.5194/essd-8-651-Venticinque 58 Werth D and Avissar R. 2004. The Regional Evapotranspiration of the Amazon. J Hydrometeorol 5: 100–9. Wright JS, Fu R, Worden JR, et al. 2017. Rainforest-initiated wet season onset over the southern Amazon. Proc Natl Acad Sci 114: 8481–6. Wu J, Albert LP, Lopes AP, et al. 2016. Leaf development and demography explain photosynthetic seasonality in Amazon evergreen forests. Science 351: 972–6.",
+        "type": "CompositeElement",
+        "metadata": {
+            "source": "Part_I_Cap_07_Biogeophysical Cycles Water Recycling, Climate Regulation.pdf",
+            "part_name": "The Amazon as a Regional Entity of the Earth System",
+            "chapter_name": "Biogeophysical Cycles: Water Recycling, Climate Regulation",
+            "chapter_number": 7,
+            "chunk_seq": 116,
+            "parent_section_number": "7.6",
+            "parent_section_name": "References",
+            "page": 23,
+            "element_id": "f6ee1ca91f8f01730a542db5f6bafe76"
+        }
+    },
+    {
+        "text": "Zemp DC, Schleussner C-F, Barbosa HMJ, et al. 2014. On the importance of cascading moisture recycling in South America. Atmos Chem Phys 14: 13337–59. Zeng N and Neelin JD. 1999. A Land–Atmosphere Interaction Theory for the Tropical Deforestation Problem. J Clim 12: 857–72. 22",
+        "type": "CompositeElement",
+        "metadata": {
+            "source": "Part_I_Cap_07_Biogeophysical Cycles Water Recycling, Climate Regulation.pdf",
+            "part_name": "The Amazon as a Regional Entity of the Earth System",
+            "chapter_name": "Biogeophysical Cycles: Water Recycling, Climate Regulation",
+            "chapter_number": 7,
+            "chunk_seq": 117,
+            "parent_section_number": "7.6",
+            "parent_section_name": "References",
+            "page": 24,
+            "element_id": "a956a3ececa4ba582b7cc0fb785a0403"
+        }
+    }
+]

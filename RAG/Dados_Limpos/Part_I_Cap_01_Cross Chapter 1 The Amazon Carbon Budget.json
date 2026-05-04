@@ -1,0 +1,1829 @@
+[
+    {
+        "text": "Cross-Chapter: The Amazon Carbon Budget Luciana V. Gatti*a,b, John Melack*c, Luana S. Bassoa, Natalia Restrepo-Couped, Ana Paula Aguiara, Sunitha Pangalae, Scott R. Saleskad, Luiz Aragãoa, Oliver L. Phillipsf, Dolors Armenterasg",
+        "type": "CompositeElement",
+        "metadata": {
+            "source": "Part_I_Cap_01_Cross Chapter 1 The Amazon Carbon Budget.pdf",
+            "part_name": "The Amazon as a Regional Entity of the Earth System",
+            "chapter_name": "Geology and Geodiversity of the Amazon: Three Billion Years of History",
+            "chapter_number": 1,
+            "chunk_seq": 1,
+            "parent_section_number": "1",
+            "parent_section_name": "General Content",
+            "page": 4,
+            "element_id": "b8b467768cd34f98ebd872b728a286dd"
+        }
+    },
+    {
+        "text": "Abstract The main objective of this cross-chapter is to summarize the status of the Amazon as a source or sink of carbon (C). The processes and studies involved are detailed in other SPA chapters. The major challenge of determining the Amazon’s status as a net C source or sink at a continental scale is that many complex processes contribute to C fluxes. Unlike in other regions, emissions from the burning of fossil fuels are minor contributors to Amazonian fluxes. Instead, the major sinks and sources of C to the atmosphere are associated with the net accumulation or loss of biomass, with losses including deforestation, biomass burning, and tree mortality followed by decomposition. Biomass accumulates in areas where tree growth exceeds losses. The Amazon includes not only intact forests, also but degraded and logged forests, natural non-forests, agricultural and urban areas, and aquatic systems including wetlands that all contribute to regional carbon cycling.",
+        "type": "CompositeElement",
+        "metadata": {
+            "source": "Part_I_Cap_01_Cross Chapter 1 The Amazon Carbon Budget.pdf",
+            "part_name": "The Amazon as a Regional Entity of the Earth System",
+            "chapter_name": "Geology and Geodiversity of the Amazon: Three Billion Years of History",
+            "chapter_number": 1,
+            "chunk_seq": 2,
+            "parent_section_number": "1",
+            "parent_section_name": "Abstract",
+            "page": 4,
+            "element_id": "7397cdbea1ee2d50e60cc093411d00ed"
+        }
+    },
+    {
+        "text": "Two methods are used to estimate land-atmosphere carbon balance at broad spatial scales. Bottom-up estimates use field measurements of biomass accumulation and loss (through mortality) in plots, and scale these based on remote sensing and modeling to characterize broad regions of similar vegetation type. Top-down approaches use measurements of CO2 concentrations taken by satellites and aircraft together with atmospheric transport models to estimate net land-atmosphere fluxes. These fluxes represent all processes, including deforestation, degradation, forest mortality, imbalances between respiration and photosynthesis during dry season stress, biomass burning, agricultural activities, fossil fuel emissions, regrowth of secondary forests, and growth of intact (primary) forests. While forest plot measurements have been in place for several decades, only in the last decade or so have measurements of biomass change from satellites, aircraft, or airborne sensors been available. Thus,",
+        "type": "CompositeElement",
+        "metadata": {
+            "source": "Part_I_Cap_01_Cross Chapter 1 The Amazon Carbon Budget.pdf",
+            "part_name": "The Amazon as a Regional Entity of the Earth System",
+            "chapter_name": "Geology and Geodiversity of the Amazon: Three Billion Years of History",
+            "chapter_number": 1,
+            "chunk_seq": 3,
+            "parent_section_number": "1",
+            "parent_section_name": "Abstract",
+            "page": 4,
+            "element_id": "cb9ec502ecd513f23c76617a41fb2b94"
+        }
+    },
+    {
+        "text": "estimates of the net C balance at the scale of the whole Amazon have only been produced for the last decade, and there are high levels of uncertainty associated with the integration of different approaches, process, and regions.",
+        "type": "CompositeElement",
+        "metadata": {
+            "source": "Part_I_Cap_01_Cross Chapter 1 The Amazon Carbon Budget.pdf",
+            "part_name": "The Amazon as a Regional Entity of the Earth System",
+            "chapter_name": "Geology and Geodiversity of the Amazon: Three Billion Years of History",
+            "chapter_number": 1,
+            "chunk_seq": 4,
+            "parent_section_number": "1",
+            "parent_section_name": "Abstract",
+            "page": 4,
+            "element_id": "282ff25a55615a4ba03cb3740d0662db"
+        }
+    },
+    {
+        "text": "Results from top-down and bottom-up studies for the period 2010 through 2019 indicate that the Amazon region as a whole, including all uptake and loss processes describe above, is a carbon source on the order of 0.30 ±",
+        "type": "CompositeElement",
+        "metadata": {
+            "source": "Part_I_Cap_01_Cross Chapter 1 The Amazon Carbon Budget.pdf",
+            "part_name": "The Amazon as a Regional Entity of the Earth System",
+            "chapter_name": "Geology and Geodiversity of the Amazon: Three Billion Years of History",
+            "chapter_number": 1,
+            "chunk_seq": 5,
+            "parent_section_number": "1",
+            "parent_section_name": "Abstract",
+            "page": 4,
+            "element_id": "3f4eeee025293c43eb73132253900a18"
+        }
+    },
+    {
+        "text": "0.20 Pg C y-1, respectively. It is important to acknowledge and understand the assumptions behind these two approaches, and further research is needed to understand and reduce differences between them. CB1. CO2 Uptake and Emissions tation and land use change. According to the Brazilian Annual Land Use and Land Cover Mapping During the last 40 to 50 years, the Amazon has exProject (Mapbiomas Amazonia 2020), a cumulative perienced strong human impacts from deforestotal of 17% was deforested by 2019, of which a Earth System Science Center (CCST), National Institute for Space Research (INPE), Av. dos Astronautas, 1.758, Jardim da Granja, São José dos Campos SP 12227-010, Brazil",
+        "type": "CompositeElement",
+        "metadata": {
+            "source": "Part_I_Cap_01_Cross Chapter 1 The Amazon Carbon Budget.pdf",
+            "part_name": "The Amazon as a Regional Entity of the Earth System",
+            "chapter_name": "Geology and Geodiversity of the Amazon: Three Billion Years of History",
+            "chapter_number": 1,
+            "chunk_seq": 6,
+            "parent_section_number": "0.20",
+            "parent_section_name": "Pg C y-1, respectively. It is important to acknowledge and understand the assumptions behind these t",
+            "page": 4,
+            "element_id": "3f4eeee025293c43eb73132253900a18"
+        }
+    },
+    {
+        "text": "b Nuclear and Energy Research Institute, IPEN-CNEN/SP, Av. Prof. Lineu Prestes, 2242, Butantã, São Paulo SP 05508-000, Brazil c Bren School of Environmental Science and Management, University of California,, Santa Barbara CA 93117, USA d Department of Ecology and Evolutionary Biology, University of Arizona, Tucson AZ 85721, USA e Lancaster Environment Centre, Lancaster University, Library Avenue, Bailrigg, Lancaster LA1 4YQ, UK f School of Geography, University of Leeds, Leeds, United Kingdom g Ecología del Paisaje y Modelación de Ecosistemas ECOLMOD, Departamento de Biología, Facultad de Ciencias, Universidad Nacional de Colombia, Cra 45 #2685, Bogotá, Colombia 2 Cross Chapter: The Amazon Carbon Budget",
+        "type": "CompositeElement",
+        "metadata": {
+            "source": "Part_I_Cap_01_Cross Chapter 1 The Amazon Carbon Budget.pdf",
+            "part_name": "The Amazon as a Regional Entity of the Earth System",
+            "chapter_name": "Geology and Geodiversity of the Amazon: Three Billion Years of History",
+            "chapter_number": 1,
+            "chunk_seq": 7,
+            "parent_section_number": "0.20",
+            "parent_section_name": "Pg C y-1, respectively. It is important to acknowledge and understand the assumptions behind these t",
+            "page": 4,
+            "element_id": "8c9bc27818669af21a015604f9ddd1b1"
+        }
+    },
+    {
+        "text": "agriculture represents 14% (89% pasture and 11% crops) (MapBiomas Amazonia 2020). Inventories from long-term forest plot networks (e.g., RAINFOR), many beginning in the 1980s, provide data on carbon dynamics for intact, mature forests at nearly 300 sites. These individual plots, scaled to the total forested area, indicate that intact forests are a net sink for carbon, although the rate of carbon uptake has decreased over the past three decades, mainly due to increases in mortality (Brienen et al. 2015; Phillips and Brienen, 2017; Hubau et al. 2020) (see Chapter 6). The carbon sink or uptake (i.e., carbon removal from the atmosphere, reported here with a negative sign) estimated for mature upland forests, scaled to an area of 7.25 x 106 km2, results in an estimate of mean net carbon uptake in intact forests for the 1990s of -0.59 ±",
+        "type": "CompositeElement",
+        "metadata": {
+            "source": "Part_I_Cap_01_Cross Chapter 1 The Amazon Carbon Budget.pdf",
+            "part_name": "The Amazon as a Regional Entity of the Earth System",
+            "chapter_name": "Geology and Geodiversity of the Amazon: Three Billion Years of History",
+            "chapter_number": 1,
+            "chunk_seq": 8,
+            "parent_section_number": "0.20",
+            "parent_section_name": "Pg C y-1, respectively. It is important to acknowledge and understand the assumptions behind these t",
+            "page": 5,
+            "element_id": "93fa045e191fc48e2db64bedf11a2ff8"
+        }
+    },
+    {
+        "text": "0.18 Pg C y-1. In the first decade of the 2000s, carbon uptake decreased to -0.41 ±",
+        "type": "CompositeElement",
+        "metadata": {
+            "source": "Part_I_Cap_01_Cross Chapter 1 The Amazon Carbon Budget.pdf",
+            "part_name": "The Amazon as a Regional Entity of the Earth System",
+            "chapter_name": "Geology and Geodiversity of the Amazon: Three Billion Years of History",
+            "chapter_number": 1,
+            "chunk_seq": 9,
+            "parent_section_number": "0.18",
+            "parent_section_name": "Pg C y-1. In the first decade of the 2000s, carbon uptake decreased to -0.41 ±",
+            "page": 5,
+            "element_id": "93fa045e191fc48e2db64bedf11a2ff8"
+        }
+    },
+    {
+        "text": "0.20 Pg C y-1, and in the decade of the 2010s was -0.22 ±",
+        "type": "CompositeElement",
+        "metadata": {
+            "source": "Part_I_Cap_01_Cross Chapter 1 The Amazon Carbon Budget.pdf",
+            "part_name": "The Amazon as a Regional Entity of the Earth System",
+            "chapter_name": "Geology and Geodiversity of the Amazon: Three Billion Years of History",
+            "chapter_number": 1,
+            "chunk_seq": 10,
+            "parent_section_number": "0.20",
+            "parent_section_name": "Pg C y-1, and in the decade of the 2010s was -0.22 ±",
+            "page": 5,
+            "element_id": "93fa045e191fc48e2db64bedf11a2ff8"
+        }
+    },
+    {
+        "text": "0.30 Pg C y-1 (see Table CC1; note all studies were scaled to the same area). Reported uncertainties are those reported in the publications and based on the variability among studies. According to these studies, the carbon sink has weakened by around 60% over the course of the last three decades; however, this decrease was not evenly distributed across the Amazon basin (Phillips and Brienen 2017). Historical deforestation and degradation affect the dry season, producing a dryer, hotter, and longer dry season; this is associated with climate trends that make forests more susceptible to fire and increased tree mortality, affecting carbon sinks, including in adjacent forests not directly impacted by fire. These fluxes also vary geographically (Gatti et al. 2021).",
+        "type": "CompositeElement",
+        "metadata": {
+            "source": "Part_I_Cap_01_Cross Chapter 1 The Amazon Carbon Budget.pdf",
+            "part_name": "The Amazon as a Regional Entity of the Earth System",
+            "chapter_name": "Geology and Geodiversity of the Amazon: Three Billion Years of History",
+            "chapter_number": 1,
+            "chunk_seq": 11,
+            "parent_section_number": "0.30",
+            "parent_section_name": "Pg C y-1 (see Table CC1; note all studies were scaled to the same area). Reported uncertainties are",
+            "page": 5,
+            "element_id": "6b0313e4f8d8352f7ef043a6cc04b1f9"
+        }
+    },
+    {
+        "text": "In the last decade, complementary bottom-up studies have focused on estimating carbon emissions and uptake from different land use and land cover changes (LUCC) (Aguiar et al. 2016; Assis et al. 2020; Aragão et al. 2018; Silva Junior et al. 2020; Crippa et al. 2019; Smith et al. 2020). These studies combined knowledge derived from fieldwork and remote sensing in models. The INPE-EM model (Aguiar et al. 2016; Assis et al. 2020) considered all LUCC components, and the results are similar to those of component-specific studies (Assis et al. 2020; Baccini et al. 2017), indicating positive net emissions related to LUCC processes of around 0.37 to",
+        "type": "CompositeElement",
+        "metadata": {
+            "source": "Part_I_Cap_01_Cross Chapter 1 The Amazon Carbon Budget.pdf",
+            "part_name": "The Amazon as a Regional Entity of the Earth System",
+            "chapter_name": "Geology and Geodiversity of the Amazon: Three Billion Years of History",
+            "chapter_number": 1,
+            "chunk_seq": 12,
+            "parent_section_number": "0.30",
+            "parent_section_name": "Pg C y-1 (see Table CC1; note all studies were scaled to the same area). Reported uncertainties are",
+            "page": 5,
+            "element_id": "ead2ea2a310734060133089a19d39a84"
+        }
+    },
+    {
+        "text": "0.48 Pg C y-1. However, there are many uncertainties in such measures, related to estimating",
+        "type": "CompositeElement",
+        "metadata": {
+            "source": "Part_I_Cap_01_Cross Chapter 1 The Amazon Carbon Budget.pdf",
+            "part_name": "The Amazon as a Regional Entity of the Earth System",
+            "chapter_name": "Geology and Geodiversity of the Amazon: Three Billion Years of History",
+            "chapter_number": 1,
+            "chunk_seq": 13,
+            "parent_section_number": "0.48",
+            "parent_section_name": "Pg C y-1. However, there are many uncertainties in such measures, related to estimating",
+            "page": 5,
+            "element_id": "ead2ea2a310734060133089a19d39a84"
+        }
+    },
+    {
+        "text": "actual C emissions during biomass burning, processes of loss, and uptake subsequent to disturbance. All studies in Table CC1 and CC2 are scaled to the area of the Amazon sensu latissimo, i.e., the entire Amazon Rainforest ecoregion without the Planalto (cerrado) (as delineated in Figure CC.2b) (Eva et al. 2005). Studies done in the Brazilian Amazon were scaled to the Amazon sensu latissimo without the Brazilian Planalto, based on the proportion of deforested area based on MapBioma analyses for both regions.",
+        "type": "CompositeElement",
+        "metadata": {
+            "source": "Part_I_Cap_01_Cross Chapter 1 The Amazon Carbon Budget.pdf",
+            "part_name": "The Amazon as a Regional Entity of the Earth System",
+            "chapter_name": "Geology and Geodiversity of the Amazon: Three Billion Years of History",
+            "chapter_number": 1,
+            "chunk_seq": 14,
+            "parent_section_number": "0.48",
+            "parent_section_name": "Pg C y-1. However, there are many uncertainties in such measures, related to estimating",
+            "page": 5,
+            "element_id": "6287a5b662a63401f909b42ef138c4d8"
+        }
+    },
+    {
+        "text": "Based on eddy flux towers (Restrepo-Coupe et al. 2013; Saleska et al. 2013) and aircraft vertical profiles (Gatti et al. 2021), Figure CC.1 illustrates regional differences in carbon flux related to land use change and the occurrence of intact forests. In general, more carbon is absorbed in the western Amazon than the eastern (Malhi et al. 2015; Gatti et al. 2021) (see Chapters 4 and 6). Regional distributions of carbon emissions and uptake are shown in Figure CC.2 (adapted from Phillips and Brienen 2017), and are associated with geographical differences in climate (mainly the dry season), deforestation, and carbon sinks or sources (Gatti et al. 2021).",
+        "type": "CompositeElement",
+        "metadata": {
+            "source": "Part_I_Cap_01_Cross Chapter 1 The Amazon Carbon Budget.pdf",
+            "part_name": "The Amazon as a Regional Entity of the Earth System",
+            "chapter_name": "Geology and Geodiversity of the Amazon: Three Billion Years of History",
+            "chapter_number": 1,
+            "chunk_seq": 15,
+            "parent_section_number": "0.48",
+            "parent_section_name": "Pg C y-1. However, there are many uncertainties in such measures, related to estimating",
+            "page": 5,
+            "element_id": "e2d41cda0ac221d21121a5de75abc13f"
+        }
+    },
+    {
+        "text": "As noted in Chapter 6, rivers and associated floodplains move and distribute carbon laterally across the Amazon. High rates of gross and net primary production (GPP and NPP) by plants occur in Amazonian aquatic environments, and large amounts of carbon dioxide are emitted from rivers, lakes, and wetlands (Richey et al. 2002; Melack et al. 2009). Photosynthetic activity by emergent trees and herbaceous plants fixes atmospheric CO2 and adds organic carbon or respired CO2 to aquatic environments. Algal (phytoplankton and periphyton) NPP derived from dissolved inorganic carbon smaller, mostly recycling carbon within the aquatic environment. Few measurements of flooded forest productivity are available, and photosynthesis by herbaceous plants is difficult to extrapolate spatially from specific sites. Hence, the estimates of water to atmosphere fluxes of",
+        "type": "CompositeElement",
+        "metadata": {
+            "source": "Part_I_Cap_01_Cross Chapter 1 The Amazon Carbon Budget.pdf",
+            "part_name": "The Amazon as a Regional Entity of the Earth System",
+            "chapter_name": "Geology and Geodiversity of the Amazon: Three Billion Years of History",
+            "chapter_number": 1,
+            "chunk_seq": 16,
+            "parent_section_number": "0.48",
+            "parent_section_name": "Pg C y-1. However, there are many uncertainties in such measures, related to estimating",
+            "page": 5,
+            "element_id": "dbbe49b931aeeaa84b893c85a39ad315"
+        }
+    },
+    {
+        "text": "0.7 Pg C y-1 in Table CC1 have considerable uncertainty and large seasonal and interannual variability (Melack et al. 2009;",
+        "type": "CompositeElement",
+        "metadata": {
+            "source": "Part_I_Cap_01_Cross Chapter 1 The Amazon Carbon Budget.pdf",
+            "part_name": "The Amazon as a Regional Entity of the Earth System",
+            "chapter_name": "Geology and Geodiversity of the Amazon: Three Billion Years of History",
+            "chapter_number": 1,
+            "chunk_seq": 17,
+            "parent_section_number": "0.7",
+            "parent_section_name": "Pg C y-1 in Table CC1 have considerable uncertainty and large seasonal and interannual variability (",
+            "page": 5,
+            "element_id": "dbbe49b931aeeaa84b893c85a39ad315"
+        }
+    },
+    {
+        "text": "Abril et al. 2014) (see Chapter 6). Annual inputs of carbon are estimated to be of similar order to estimates of CO2 degassed from these habitats. is",
+        "type": "CompositeElement",
+        "metadata": {
+            "source": "Part_I_Cap_01_Cross Chapter 1 The Amazon Carbon Budget.pdf",
+            "part_name": "The Amazon as a Regional Entity of the Earth System",
+            "chapter_name": "Geology and Geodiversity of the Amazon: Three Billion Years of History",
+            "chapter_number": 1,
+            "chunk_seq": 18,
+            "parent_section_number": "0.7",
+            "parent_section_name": "Pg C y-1 in Table CC1 have considerable uncertainty and large seasonal and interannual variability (",
+            "page": 5,
+            "element_id": "9c56469908527f50cb5f9ba28d3dd58d"
+        }
+    },
+    {
+        "text": "3 Cross Chapter: The Amazon Carbon Budget w w w g SAN 0| = o [=] K67 ' TAB-TEF NBE (gC m2d) J FMAM J ASOND NEE (gC m?2 d) JFMAM] J ASOND NEE (gCm2d) FMAM ] ASOND NBE (gC m2d) FMAM ) ] ASOND 7 V| F A RBA NBE (gC m2 d) J FMAM] ] ASOND & NEE (gC m2 d) J FMAM J ASOND K34 CAX 3 RJA K67, TEF SAN JAV TAB ALF \" A l RBA 8 AV, NEE (gC m2d?) -10 N o) JFMAMJ ] ASOND NEE (gC m2d J FMAM ] ASOND AMAZON N b/ -20, I 80 -70 60 50 ALF NBE (gC m2 d') J FMAM J ASOND ot e 0.10 0.15 0.20 0.25 0.30 0.35",
+        "type": "CompositeElement",
+        "metadata": {
+            "source": "Part_I_Cap_01_Cross Chapter 1 The Amazon Carbon Budget.pdf",
+            "part_name": "The Amazon as a Regional Entity of the Earth System",
+            "chapter_name": "Geology and Geodiversity of the Amazon: Three Billion Years of History",
+            "chapter_number": 1,
+            "chunk_seq": 19,
+            "parent_section_number": "0.7",
+            "parent_section_name": "Pg C y-1 in Table CC1 have considerable uncertainty and large seasonal and interannual variability (",
+            "page": 5,
+            "element_id": "fc59d5beb3dcefc646dd466d945a23dc"
+        }
+    },
+    {
+        "text": "0.40 NBE (gC m?2 d) ] FMAM ] J ASOND Mean annual Enhanced Vegetation Index (EVI) 2000-2009 2010-2020",
+        "type": "CompositeElement",
+        "metadata": {
+            "source": "Part_I_Cap_01_Cross Chapter 1 The Amazon Carbon Budget.pdf",
+            "part_name": "The Amazon as a Regional Entity of the Earth System",
+            "chapter_name": "Geology and Geodiversity of the Amazon: Three Billion Years of History",
+            "chapter_number": 1,
+            "chunk_seq": 20,
+            "parent_section_number": "0.40",
+            "parent_section_name": "NBE (gC m?2 d) ] FMAM ] J ASOND Mean annual Enhanced Vegetation Index (EVI) 2000-2009 2010-2020",
+            "page": 5,
+            "element_id": "fc59d5beb3dcefc646dd466d945a23dc"
+        }
+    },
+    {
+        "text": "Figure CC.1 Map of mean annual Enhanced Vegetation Index (EVI) across the Amazon (scale at bottom, with greener colors indicating more photosynthesis; BRDF corrected MCD43C1 product for solar zenith angle of 15o and observed in nadir view (Schaaf and Wang 2015). Location of eddy covariance forest tower sites (Restrepo-Coupe et al. 2013, Saleska et al. 2013) (black dots) where measurements of annual average cycles of net ecosystem exchange (NEE) were included in this analysis (graphs in margin, gray shading indicates dry season months): Manaus forest (K34) 1999–2006, Santarém forest (K67) 2001–2005, 2008-2011 and 2015- 2019, forest of Caxiuana (CAX) 1999-2003, Reserva Jarú southern forest (RJA) 2000-2002 and the seasonal inundated forest of Bananal (JAV) 2003-2006. Location of vertical profile sites (red crosses), and monthly mean net biome exchange (NBE) from the aircraft vertical profiles (2010-2018) at Santarem (SAN), Alta Floresta (ALF), Rio Branco, Acre (RBA), and Tabatinga (TAB;",
+        "type": "CompositeElement",
+        "metadata": {
+            "source": "Part_I_Cap_01_Cross Chapter 1 The Amazon Carbon Budget.pdf",
+            "part_name": "The Amazon as a Regional Entity of the Earth System",
+            "chapter_name": "Geology and Geodiversity of the Amazon: Three Billion Years of History",
+            "chapter_number": 1,
+            "chunk_seq": 21,
+            "parent_section_number": "0.40",
+            "parent_section_name": "NBE (gC m?2 d) ] FMAM ] J ASOND Mean annual Enhanced Vegetation Index (EVI) 2000-2009 2010-2020",
+            "page": 6,
+            "element_id": "2a37db6dc46dcbc90103daadf29e29d9"
+        }
+    },
+    {
+        "text": "measures taken from 2010 to 2012) and Tefé (TEF; measures taken from 2013). Amazonian monthly mean NBE (2010-2018) was based on the weighted mean of fluxes for the 4 aircraft vertical profile sites (Gatti et al. 2021). The regions of influence for each vertical profile site are presented at Figure CC2b.",
+        "type": "CompositeElement",
+        "metadata": {
+            "source": "Part_I_Cap_01_Cross Chapter 1 The Amazon Carbon Budget.pdf",
+            "part_name": "The Amazon as a Regional Entity of the Earth System",
+            "chapter_name": "Geology and Geodiversity of the Amazon: Three Billion Years of History",
+            "chapter_number": 1,
+            "chunk_seq": 22,
+            "parent_section_number": "0.40",
+            "parent_section_name": "NBE (gC m?2 d) ] FMAM ] J ASOND Mean annual Enhanced Vegetation Index (EVI) 2000-2009 2010-2020",
+            "page": 6,
+            "element_id": "9406512e519280f0550169d02abd9ebd"
+        }
+    },
+    {
+        "text": "Hence, inputs and emissions of CO2 in aquatic environments are approximately in balance, when integrated over the whole basin. For the last decade (2010 through 2019), top-down studies based on vertical profiles, satellite data, and modelling provide estimates of the Amazon’s carbon balance. These studies show large interannual variations. Top-down estimates indicate the Amazon as a whole is a carbon source (losses to the atmosphere) on the order of +0.30 ±",
+        "type": "CompositeElement",
+        "metadata": {
+            "source": "Part_I_Cap_01_Cross Chapter 1 The Amazon Carbon Budget.pdf",
+            "part_name": "The Amazon as a Regional Entity of the Earth System",
+            "chapter_name": "Geology and Geodiversity of the Amazon: Three Billion Years of History",
+            "chapter_number": 1,
+            "chunk_seq": 23,
+            "parent_section_number": "0.40",
+            "parent_section_name": "NBE (gC m?2 d) ] FMAM ] J ASOND Mean annual Enhanced Vegetation Index (EVI) 2000-2009 2010-2020",
+            "page": 6,
+            "element_id": "79b351b20d6d911be0abf1aceba47eeb"
+        }
+    },
+    {
+        "text": "(Gatti et al. 2014; Feng et al. 2017; Baccini et al. 2017; Assis et al. 2020; Gatti et al. 2021), where mean fire emiss ions represent 0.44 ±",
+        "type": "CompositeElement",
+        "metadata": {
+            "source": "Part_I_Cap_01_Cross Chapter 1 The Amazon Carbon Budget.pdf",
+            "part_name": "The Amazon as a Regional Entity of the Earth System",
+            "chapter_name": "Geology and Geodiversity of the Amazon: Three Billion Years of History",
+            "chapter_number": 1,
+            "chunk_seq": 24,
+            "parent_section_number": "0.20",
+            "parent_section_name": "Pg C y-1",
+            "page": 6,
+            "element_id": "9e4c8aeebb56b97cd31cc25a62d3bf1a"
+        }
+    },
+    {
+        "text": "0.10 Pg C y-1 (Gatti et al. 2014, 2021; van der Laan-Luijkx et al. 2015; Baccini et al. 2017) (Table CC1) and mean forest uptake is - 0.15 ±",
+        "type": "CompositeElement",
+        "metadata": {
+            "source": "Part_I_Cap_01_Cross Chapter 1 The Amazon Carbon Budget.pdf",
+            "part_name": "The Amazon as a Regional Entity of the Earth System",
+            "chapter_name": "Geology and Geodiversity of the Amazon: Three Billion Years of History",
+            "chapter_number": 1,
+            "chunk_seq": 25,
+            "parent_section_number": "0.10",
+            "parent_section_name": "Pg C y-1 (Gatti et al. 2014, 2021; van der Laan-Luijkx et al. 2015; Baccini et al. 2017) (Table CC1)",
+            "page": 6,
+            "element_id": "9e4c8aeebb56b97cd31cc25a62d3bf1a"
+        }
+    },
+    {
+        "text": "0.20 Pg C y-1 (van der Laan-Luijkx et al. 2015; Alden et al. 2016; Baccini et al. 2017). These studies include all processes in the Amazon, including sinks in mature and secondary forests, recovery from disturbed forests, and carbon emissions from deforestation, degradation, logging, decomposi",
+        "type": "CompositeElement",
+        "metadata": {
+            "source": "Part_I_Cap_01_Cross Chapter 1 The Amazon Carbon Budget.pdf",
+            "part_name": "The Amazon as a Regional Entity of the Earth System",
+            "chapter_name": "Geology and Geodiversity of the Amazon: Three Billion Years of History",
+            "chapter_number": 1,
+            "chunk_seq": 26,
+            "parent_section_number": "0.20",
+            "parent_section_name": "Pg C y-1 (van der Laan-Luijkx et al. 2015; Alden et al. 2016; Baccini et al. 2017). These studies in",
+            "page": 6,
+            "element_id": "9e4c8aeebb56b97cd31cc25a62d3bf1a"
+        }
+    },
+    {
+        "text": "Cross Chapter: The Amazon Carbon Budget Tropical Forest Regions Brazilian Shield Amazonian East Central M Guiana shield o I Lower Amazon W-C 1 upperAmazon W-C &P Amazon sensu latissimo (without Brazilian Planalto) e Flight site Country boundaries ‘50 50 00 e | 2 i 09 os a7 | 103 | 3 b RBASs: ALFe* . Water Ry N l Defc ion up to 2018 Deforestation Total CFlux (g€ md?) I} Precipitation ASO 1 T Temperature ASO NBE C Flux (g€ md) FIRE C Flux (g€ md)",
+        "type": "CompositeElement",
+        "metadata": {
+            "source": "Part_I_Cap_01_Cross Chapter 1 The Amazon Carbon Budget.pdf",
+            "part_name": "The Amazon as a Regional Entity of the Earth System",
+            "chapter_name": "Geology and Geodiversity of the Amazon: Three Billion Years of History",
+            "chapter_number": 1,
+            "chunk_seq": 27,
+            "parent_section_number": "0.20",
+            "parent_section_name": "Pg C y-1 (van der Laan-Luijkx et al. 2015; Alden et al. 2016; Baccini et al. 2017). These studies in",
+            "page": 7,
+            "element_id": "c369fe1b914cd61c2ea42186c29e95fe"
+        }
+    },
+    {
+        "text": "Figure CC.2 A) Amazon carbon fluxes in mature forests 1980s–2000s per region (black bars), measured in long-term plots of the RAINFOR network. Negative values represent uptake. Units are in Tg carbon per year (1012g C y-1). Adapted from Phillips and Brienen (2017) and Feldpausch et al. (2011). B) Accumulated deforestation per region of influence (limited by light blue lines) for vertical profiles sites (orange arrows), 40-year reduction in precipitation during the months of August, September and October (ASO) (light blue arrows), increase in temperature in ASO (white arrows) and 2010-18 carbon fluxes (Total: dark blue bars, net biome exchange (NBE): green bars, fire: red bars) (Gatti et al. 2021). tion, fires, fossil fuels, and agriculture (pasture and crops).",
+        "type": "CompositeElement",
+        "metadata": {
+            "source": "Part_I_Cap_01_Cross Chapter 1 The Amazon Carbon Budget.pdf",
+            "part_name": "The Amazon as a Regional Entity of the Earth System",
+            "chapter_name": "Geology and Geodiversity of the Amazon: Three Billion Years of History",
+            "chapter_number": 1,
+            "chunk_seq": 28,
+            "parent_section_number": "0.20",
+            "parent_section_name": "Pg C y-1 (van der Laan-Luijkx et al. 2015; Alden et al. 2016; Baccini et al. 2017). These studies in",
+            "page": 7,
+            "element_id": "4edd8f71afa81be4499a75a9fd81a3fe"
+        }
+    },
+    {
+        "text": "For the last decade (2010 through 2019), bottom-up studies indicate that mature forests are carbon sinks of -0.22 ±",
+        "type": "CompositeElement",
+        "metadata": {
+            "source": "Part_I_Cap_01_Cross Chapter 1 The Amazon Carbon Budget.pdf",
+            "part_name": "The Amazon as a Regional Entity of the Earth System",
+            "chapter_name": "Geology and Geodiversity of the Amazon: Three Billion Years of History",
+            "chapter_number": 1,
+            "chunk_seq": 29,
+            "parent_section_number": "0.20",
+            "parent_section_name": "Pg C y-1 (van der Laan-Luijkx et al. 2015; Alden et al. 2016; Baccini et al. 2017). These studies in",
+            "page": 7,
+            "element_id": "fa6eac1a27bce3fb5e9594e4f00fd945"
+        }
+    },
+    {
+        "text": "0.30 Pg C y-1 (Brienen et al. 2015; Phillips and Brienen, 2017; Hubau et al. 2020), and secondary forests -0.10 ±",
+        "type": "CompositeElement",
+        "metadata": {
+            "source": "Part_I_Cap_01_Cross Chapter 1 The Amazon Carbon Budget.pdf",
+            "part_name": "The Amazon as a Regional Entity of the Earth System",
+            "chapter_name": "Geology and Geodiversity of the Amazon: Three Billion Years of History",
+            "chapter_number": 1,
+            "chunk_seq": 30,
+            "parent_section_number": "0.30",
+            "parent_section_name": "Pg C y-1 (Brienen et al. 2015; Phillips and Brienen, 2017; Hubau et al. 2020), and secondary forests",
+            "page": 7,
+            "element_id": "fa6eac1a27bce3fb5e9594e4f00fd945"
+        }
+    },
+    {
+        "text": "0.02 Pg C y-1. Carbon emissions include forest fires of 0.20 ±",
+        "type": "CompositeElement",
+        "metadata": {
+            "source": "Part_I_Cap_01_Cross Chapter 1 The Amazon Carbon Budget.pdf",
+            "part_name": "The Amazon as a Regional Entity of the Earth System",
+            "chapter_name": "Geology and Geodiversity of the Amazon: Three Billion Years of History",
+            "chapter_number": 1,
+            "chunk_seq": 31,
+            "parent_section_number": "0.02",
+            "parent_section_name": "Pg C y-1. Carbon emissions include forest fires of 0.20 ±",
+            "page": 7,
+            "element_id": "fa6eac1a27bce3fb5e9594e4f00fd945"
+        }
+    },
+    {
+        "text": "0.20 Pg C y- 1 (van der Werf et al. 2010; van der Laan-Luijkx et al. 2015; Baccini et al. 2017; Aragão et al. 2018; Silva et al. 2020), forest degradation, deforestation, and other carbon emissions of 0.32 ±",
+        "type": "CompositeElement",
+        "metadata": {
+            "source": "Part_I_Cap_01_Cross Chapter 1 The Amazon Carbon Budget.pdf",
+            "part_name": "The Amazon as a Regional Entity of the Earth System",
+            "chapter_name": "Geology and Geodiversity of the Amazon: Three Billion Years of History",
+            "chapter_number": 1,
+            "chunk_seq": 32,
+            "parent_section_number": "0.20",
+            "parent_section_name": "Pg C y- 1 (van der Werf et al. 2010; van der Laan-Luijkx et al. 2015; Baccini et al. 2017; Aragão et",
+            "page": 7,
+            "element_id": "fa6eac1a27bce3fb5e9594e4f00fd945"
+        }
+    },
+    {
+        "text": "0.10 Pg C y-1 (Aguiar et al. 2016; Assis et al. 2020; Smith et al. 2020; Silva Junior et al. 2020), where fire emissions from deforestation are 0.05 ±",
+        "type": "CompositeElement",
+        "metadata": {
+            "source": "Part_I_Cap_01_Cross Chapter 1 The Amazon Carbon Budget.pdf",
+            "part_name": "The Amazon as a Regional Entity of the Earth System",
+            "chapter_name": "Geology and Geodiversity of the Amazon: Three Billion Years of History",
+            "chapter_number": 1,
+            "chunk_seq": 33,
+            "parent_section_number": "0.10",
+            "parent_section_name": "Pg C y-1 (Aguiar et al. 2016; Assis et al. 2020; Smith et al. 2020; Silva Junior et al. 2020), where",
+            "page": 7,
+            "element_id": "fa6eac1a27bce3fb5e9594e4f00fd945"
+        }
+    },
+    {
+        "text": "0.01 Pg C y-1 (Aguiar et al. 2016; Assis et al. 2020), representing 14% of",
+        "type": "CompositeElement",
+        "metadata": {
+            "source": "Part_I_Cap_01_Cross Chapter 1 The Amazon Carbon Budget.pdf",
+            "part_name": "The Amazon as a Regional Entity of the Earth System",
+            "chapter_name": "Geology and Geodiversity of the Amazon: Three Billion Years of History",
+            "chapter_number": 1,
+            "chunk_seq": 34,
+            "parent_section_number": "0.01",
+            "parent_section_name": "Pg C y-1 (Aguiar et al. 2016; Assis et al. 2020), representing 14% of",
+            "page": 7,
+            "element_id": "fa6eac1a27bce3fb5e9594e4f00fd945"
+        }
+    },
+    {
+        "text": "total fires, included in the total fire emission estimate. Estimated energy sector emissions are",
+        "type": "CompositeElement",
+        "metadata": {
+            "source": "Part_I_Cap_01_Cross Chapter 1 The Amazon Carbon Budget.pdf",
+            "part_name": "The Amazon as a Regional Entity of the Earth System",
+            "chapter_name": "Geology and Geodiversity of the Amazon: Three Billion Years of History",
+            "chapter_number": 1,
+            "chunk_seq": 35,
+            "parent_section_number": "0.01",
+            "parent_section_name": "Pg C y-1 (Aguiar et al. 2016; Assis et al. 2020), representing 14% of",
+            "page": 7,
+            "element_id": "a8377ef9e48375edeaa8c733e24628a8"
+        }
+    },
+    {
+        "text": "0.03 Pg C y-1 (Crippa et al. 2019). Combining mature forest growth, secondary regrowth, LUCC processes, and fire emissions (subtracting fires included in deforestation), the Amazon is currently a carbon source, representing 0.23 ±",
+        "type": "CompositeElement",
+        "metadata": {
+            "source": "Part_I_Cap_01_Cross Chapter 1 The Amazon Carbon Budget.pdf",
+            "part_name": "The Amazon as a Regional Entity of the Earth System",
+            "chapter_name": "Geology and Geodiversity of the Amazon: Three Billion Years of History",
+            "chapter_number": 1,
+            "chunk_seq": 36,
+            "parent_section_number": "0.03",
+            "parent_section_name": "Pg C y-1 (Crippa et al. 2019). Combining mature forest growth, secondary regrowth, LUCC processes, a",
+            "page": 7,
+            "element_id": "a8377ef9e48375edeaa8c733e24628a8"
+        }
+    },
+    {
+        "text": "0.20 Pg C y-1, slightly less than the net emissions estimated from topdown studies. Large uncertainties, especially due to lack of knowledge about the emissions from degradation, decomposition, and fire emissions, (see Chapter 19) remain. The results from top-down and bottom-up indicate that the Amazon as a whole is a carbon source, 0.30 ±",
+        "type": "CompositeElement",
+        "metadata": {
+            "source": "Part_I_Cap_01_Cross Chapter 1 The Amazon Carbon Budget.pdf",
+            "part_name": "The Amazon as a Regional Entity of the Earth System",
+            "chapter_name": "Geology and Geodiversity of the Amazon: Three Billion Years of History",
+            "chapter_number": 1,
+            "chunk_seq": 37,
+            "parent_section_number": "0.20",
+            "parent_section_name": "Pg C y-1, slightly less than the net emissions estimated from topdown studies. Large uncertainties,",
+            "page": 7,
+            "element_id": "a8377ef9e48375edeaa8c733e24628a8"
+        }
+    },
+    {
+        "text": "0.20 Pg C y-1, respectively. 5 Cross Chapter: The Amazon Carbon Budget Table CC.1 Amazon carbon balance, from bottom-up and top-down studies of various sources (C losses) and sinks (C uptake) for the area of 7.25 x 106 km2.",
+        "type": "CompositeElement",
+        "metadata": {
+            "source": "Part_I_Cap_01_Cross Chapter 1 The Amazon Carbon Budget.pdf",
+            "part_name": "The Amazon as a Regional Entity of the Earth System",
+            "chapter_name": "Geology and Geodiversity of the Amazon: Three Billion Years of History",
+            "chapter_number": 1,
+            "chunk_seq": 38,
+            "parent_section_number": "0.20",
+            "parent_section_name": "Pg C y-1, respectively.",
+            "page": 7,
+            "element_id": "a8377ef9e48375edeaa8c733e24628a8"
+        }
+    },
+    {
+        "text": "Period C uptake (PgCy™) Closses (PgCy) Total C Balance (PgCy) Bottom-up studies Phillips and Brienen 2017 (Mature forest growth: uptake; LUCC: losses) 1990-99 -0.54+0.18 0.27 (LUCC)! -0.27 2000-09 -0.38+0.20 0.28 (LUCC)! -0.10 2010-19 -0.202 Brienen et al. 2015 (Mature forest growth: uptake; LUCC: losses) 1990-99 -0.62 +0.09 2000-09 -0.44+0.10 2010-19 -0.232 Hubau et al 2020 (Mature forest growth: uptake; LUCC: losses) 1990-99 -0.68 +0.15 2000-09 -0.45+0.13 2010-19 -0.25 +0.30 INPE-EM System?* (Deg+Def+SF, not PF) 2010-19 -0.16 £0.01 0.34 £ 0.09 0.18 £0.09 Assis et al. 2020° (Deg+Def+SF, not PF) 2007-16 -0.15 +0.02 0.37 +0.08 0.23+0.13 Aguiar et al. 20162 (Deg+Def, not PF/SF) 2007-13 -0.06 +0.003 0.26 +0.06 0.20+0.11 Silva Jr. et al. 2020 (Deg+Def) 2001-15 0.26 +",
+        "type": "TableChunk",
+        "metadata": {
+            "source": "Part_I_Cap_01_Cross Chapter 1 The Amazon Carbon Budget.pdf",
+            "part_name": "The Amazon as a Regional Entity of the Earth System",
+            "chapter_name": "Geology and Geodiversity of the Amazon: Three Billion Years of History",
+            "chapter_number": 1,
+            "chunk_seq": 39,
+            "parent_section_number": "0.20",
+            "parent_section_name": "Pg C y-1, respectively.",
+            "page": 8,
+            "element_id": "5d07714f8ff4d176e58771f311934927",
+            "table_html": "<table><tr><td/><td>Period</td><td>C uptake (PgCy™)</td><td>Closses (PgCy)</td><td>Total C Balance (PgCy)</td></tr><tr><td/><td/></tr><tr><td>Bottom-up studies</td></tr><tr><td>Phillips and Brienen 2017 (Mature forest growth: uptake; LUCC: losses)</td><td>1990-99</td><td>-0.54+0.18</td><td>0.27 (LUCC)!</td><td>-0.27</td></tr><tr><td>2000-09</td><td>-0.38+0.20</td><td>0.28 (LUCC)!</td><td>-0.10</td></tr><tr><td>2010-19</td><td>-0.202</td><td/><td/></tr><tr><td>Brienen et al. 2015 (Mature forest growth: up- take; LUCC: losses)</td><td>1990-99</td><td>-0.62 +0.09</td><td/><td/></tr><tr><td>2000-09</td><td>-0.44+0.10</td><td/><td/></tr><tr><td>2010-19</td><td>-0.232</td><td/><td/></tr><tr><td>Hubau et al 2020 (Mature forest growth: up- take; LUCC: losses)</td><td>1990-99</td><td>-0.68 +0.15</td><td/><td/></tr><tr><td>2000-09</td><td>-0.45+0.13</td><td/><td/></tr><tr><td>2010-19</td><td>-0.25 +0.30</td><td/><td/></tr><tr><td>INPE-EM System?* (Deg+Def+SF, not PF)</td><td>2010-19</td><td>-0.16 £0.01</td><td>0.34 £ 0.09</td><td>0.18 £0.09</td></tr><tr><td>Assis et al. 2020° (Deg+Def+SF, not PF)</td><td>2007-16</td><td>-0.15 +0.02</td><td>0.37 +0.08</td><td>0.23+0.13</td></tr><tr><td>Aguiar et al. 20162 (Deg+Def, not PF/SF)</td><td>2007-13</td><td>-0.06 +0.003</td><td>0.26 +0.06</td><td>0.20+0.11</td></tr><tr><td>Silva Jr. et al. 2020 (Deg+Def)</td><td>2001-15</td><td/><td>0.26 + 0.05</td><td/></tr><tr><td>Smith et al, 2020° (Secondary forests)</td><td>1985-17</td><td>-0.10+0.02</td><td/><td/></tr><tr><td>GFED (Global fire data)</td><td>2010-18</td><td/><td>0.18</td><td/></tr><tr><td>Aragao et al. 2018 (Fire emissions)</td><td>2003-15</td><td/><td>0.21+0.23</td><td/></tr><tr><td>Crippa et al. 2019 (EDGAR data base)®</td><td>2015</td><td/><td>0.03</td><td/></tr></table>",
+            "table_data_structured": [
+                [
+                    "",
+                    "Period",
+                    "C uptake (PgCy™)",
+                    "Closses (PgCy)",
+                    "Total C Balance (PgCy)"
+                ],
+                [
+                    "",
+                    ""
+                ],
+                [
+                    "Bottom-up studies"
+                ],
+                [
+                    "Phillips and Brienen 2017 (Mature forest growth: uptake; LUCC: losses)",
+                    "1990-99",
+                    "-0.54+0.18",
+                    "0.27 (LUCC)!",
+                    "-0.27"
+                ],
+                [
+                    "2000-09",
+                    "-0.38+0.20",
+                    "0.28 (LUCC)!",
+                    "-0.10"
+                ],
+                [
+                    "2010-19",
+                    "-0.202",
+                    "",
+                    ""
+                ],
+                [
+                    "Brienen et al. 2015 (Mature forest growth: up- take; LUCC: losses)",
+                    "1990-99",
+                    "-0.62 +0.09",
+                    "",
+                    ""
+                ],
+                [
+                    "2000-09",
+                    "-0.44+0.10",
+                    "",
+                    ""
+                ],
+                [
+                    "2010-19",
+                    "-0.232",
+                    "",
+                    ""
+                ],
+                [
+                    "Hubau et al 2020 (Mature forest growth: up- take; LUCC: losses)",
+                    "1990-99",
+                    "-0.68 +0.15",
+                    "",
+                    ""
+                ],
+                [
+                    "2000-09",
+                    "-0.45+0.13",
+                    "",
+                    ""
+                ],
+                [
+                    "2010-19",
+                    "-0.25 +0.30",
+                    "",
+                    ""
+                ],
+                [
+                    "INPE-EM System?* (Deg+Def+SF, not PF)",
+                    "2010-19",
+                    "-0.16 £0.01",
+                    "0.34 £ 0.09",
+                    "0.18 £0.09"
+                ],
+                [
+                    "Assis et al. 2020° (Deg+Def+SF, not PF)",
+                    "2007-16",
+                    "-0.15 +0.02",
+                    "0.37 +0.08",
+                    "0.23+0.13"
+                ],
+                [
+                    "Aguiar et al. 20162 (Deg+Def, not PF/SF)",
+                    "2007-13",
+                    "-0.06 +0.003",
+                    "0.26 +0.06",
+                    "0.20+0.11"
+                ],
+                [
+                    "Silva Jr. et al. 2020 (Deg+Def)",
+                    "2001-15",
+                    "",
+                    "0.26 + 0.05",
+                    ""
+                ],
+                [
+                    "Smith et al, 2020° (Secondary forests)",
+                    "1985-17",
+                    "-0.10+0.02",
+                    "",
+                    ""
+                ],
+                [
+                    "GFED (Global fire data)",
+                    "2010-18",
+                    "",
+                    "0.18",
+                    ""
+                ],
+                [
+                    "Aragao et al. 2018 (Fire emissions)",
+                    "2003-15",
+                    "",
+                    "0.21+0.23",
+                    ""
+                ],
+                [
+                    "Crippa et al. 2019 (EDGAR data base)®",
+                    "2015",
+                    "",
+                    "0.03",
+                    ""
+                ]
+            ]
+        }
+    },
+    {
+        "text": "0.05 Smith et al, 2020° (Secondary forests) 1985-17 -0.10+0.02 GFED (Global fire data) 2010-18",
+        "type": "TableChunk",
+        "metadata": {
+            "source": "Part_I_Cap_01_Cross Chapter 1 The Amazon Carbon Budget.pdf",
+            "part_name": "The Amazon as a Regional Entity of the Earth System",
+            "chapter_name": "Geology and Geodiversity of the Amazon: Three Billion Years of History",
+            "chapter_number": 1,
+            "chunk_seq": 40,
+            "parent_section_number": "0.05",
+            "parent_section_name": "Smith et al, 2020° (Secondary forests) 1985-17 -0.10+0.02 GFED (Global fire data) 2010-18",
+            "page": 8,
+            "element_id": "5d07714f8ff4d176e58771f311934927",
+            "table_html": "<table><tr><td/><td>Period</td><td>C uptake (PgCy™)</td><td>Closses (PgCy)</td><td>Total C Balance (PgCy)</td></tr><tr><td/><td/></tr><tr><td>Bottom-up studies</td></tr><tr><td>Phillips and Brienen 2017 (Mature forest growth: uptake; LUCC: losses)</td><td>1990-99</td><td>-0.54+0.18</td><td>0.27 (LUCC)!</td><td>-0.27</td></tr><tr><td>2000-09</td><td>-0.38+0.20</td><td>0.28 (LUCC)!</td><td>-0.10</td></tr><tr><td>2010-19</td><td>-0.202</td><td/><td/></tr><tr><td>Brienen et al. 2015 (Mature forest growth: up- take; LUCC: losses)</td><td>1990-99</td><td>-0.62 +0.09</td><td/><td/></tr><tr><td>2000-09</td><td>-0.44+0.10</td><td/><td/></tr><tr><td>2010-19</td><td>-0.232</td><td/><td/></tr><tr><td>Hubau et al 2020 (Mature forest growth: up- take; LUCC: losses)</td><td>1990-99</td><td>-0.68 +0.15</td><td/><td/></tr><tr><td>2000-09</td><td>-0.45+0.13</td><td/><td/></tr><tr><td>2010-19</td><td>-0.25 +0.30</td><td/><td/></tr><tr><td>INPE-EM System?* (Deg+Def+SF, not PF)</td><td>2010-19</td><td>-0.16 £0.01</td><td>0.34 £ 0.09</td><td>0.18 £0.09</td></tr><tr><td>Assis et al. 2020° (Deg+Def+SF, not PF)</td><td>2007-16</td><td>-0.15 +0.02</td><td>0.37 +0.08</td><td>0.23+0.13</td></tr><tr><td>Aguiar et al. 20162 (Deg+Def, not PF/SF)</td><td>2007-13</td><td>-0.06 +0.003</td><td>0.26 +0.06</td><td>0.20+0.11</td></tr><tr><td>Silva Jr. et al. 2020 (Deg+Def)</td><td>2001-15</td><td/><td>0.26 + 0.05</td><td/></tr><tr><td>Smith et al, 2020° (Secondary forests)</td><td>1985-17</td><td>-0.10+0.02</td><td/><td/></tr><tr><td>GFED (Global fire data)</td><td>2010-18</td><td/><td>0.18</td><td/></tr><tr><td>Aragao et al. 2018 (Fire emissions)</td><td>2003-15</td><td/><td>0.21+0.23</td><td/></tr><tr><td>Crippa et al. 2019 (EDGAR data base)®</td><td>2015</td><td/><td>0.03</td><td/></tr></table>",
+            "table_data_structured": [
+                [
+                    "",
+                    "Period",
+                    "C uptake (PgCy™)",
+                    "Closses (PgCy)",
+                    "Total C Balance (PgCy)"
+                ],
+                [
+                    "",
+                    ""
+                ],
+                [
+                    "Bottom-up studies"
+                ],
+                [
+                    "Phillips and Brienen 2017 (Mature forest growth: uptake; LUCC: losses)",
+                    "1990-99",
+                    "-0.54+0.18",
+                    "0.27 (LUCC)!",
+                    "-0.27"
+                ],
+                [
+                    "2000-09",
+                    "-0.38+0.20",
+                    "0.28 (LUCC)!",
+                    "-0.10"
+                ],
+                [
+                    "2010-19",
+                    "-0.202",
+                    "",
+                    ""
+                ],
+                [
+                    "Brienen et al. 2015 (Mature forest growth: up- take; LUCC: losses)",
+                    "1990-99",
+                    "-0.62 +0.09",
+                    "",
+                    ""
+                ],
+                [
+                    "2000-09",
+                    "-0.44+0.10",
+                    "",
+                    ""
+                ],
+                [
+                    "2010-19",
+                    "-0.232",
+                    "",
+                    ""
+                ],
+                [
+                    "Hubau et al 2020 (Mature forest growth: up- take; LUCC: losses)",
+                    "1990-99",
+                    "-0.68 +0.15",
+                    "",
+                    ""
+                ],
+                [
+                    "2000-09",
+                    "-0.45+0.13",
+                    "",
+                    ""
+                ],
+                [
+                    "2010-19",
+                    "-0.25 +0.30",
+                    "",
+                    ""
+                ],
+                [
+                    "INPE-EM System?* (Deg+Def+SF, not PF)",
+                    "2010-19",
+                    "-0.16 £0.01",
+                    "0.34 £ 0.09",
+                    "0.18 £0.09"
+                ],
+                [
+                    "Assis et al. 2020° (Deg+Def+SF, not PF)",
+                    "2007-16",
+                    "-0.15 +0.02",
+                    "0.37 +0.08",
+                    "0.23+0.13"
+                ],
+                [
+                    "Aguiar et al. 20162 (Deg+Def, not PF/SF)",
+                    "2007-13",
+                    "-0.06 +0.003",
+                    "0.26 +0.06",
+                    "0.20+0.11"
+                ],
+                [
+                    "Silva Jr. et al. 2020 (Deg+Def)",
+                    "2001-15",
+                    "",
+                    "0.26 + 0.05",
+                    ""
+                ],
+                [
+                    "Smith et al, 2020° (Secondary forests)",
+                    "1985-17",
+                    "-0.10+0.02",
+                    "",
+                    ""
+                ],
+                [
+                    "GFED (Global fire data)",
+                    "2010-18",
+                    "",
+                    "0.18",
+                    ""
+                ],
+                [
+                    "Aragao et al. 2018 (Fire emissions)",
+                    "2003-15",
+                    "",
+                    "0.21+0.23",
+                    ""
+                ],
+                [
+                    "Crippa et al. 2019 (EDGAR data base)®",
+                    "2015",
+                    "",
+                    "0.03",
+                    ""
+                ]
+            ]
+        }
+    },
+    {
+        "text": "0.18 Aragao et al. 2018 (Fire emissions) 2003-15 0.21+0.23 Crippa et al. 2019 (EDGAR data base)® 2015 0.03",
+        "type": "TableChunk",
+        "metadata": {
+            "source": "Part_I_Cap_01_Cross Chapter 1 The Amazon Carbon Budget.pdf",
+            "part_name": "The Amazon as a Regional Entity of the Earth System",
+            "chapter_name": "Geology and Geodiversity of the Amazon: Three Billion Years of History",
+            "chapter_number": 1,
+            "chunk_seq": 41,
+            "parent_section_number": "0.18",
+            "parent_section_name": "Aragao et al. 2018 (Fire emissions) 2003-15 0.21+0.23 Crippa et al. 2019 (EDGAR data base)® 2015 0.0",
+            "page": 8,
+            "element_id": "5d07714f8ff4d176e58771f311934927",
+            "table_html": "<table><tr><td/><td>Period</td><td>C uptake (PgCy™)</td><td>Closses (PgCy)</td><td>Total C Balance (PgCy)</td></tr><tr><td/><td/></tr><tr><td>Bottom-up studies</td></tr><tr><td>Phillips and Brienen 2017 (Mature forest growth: uptake; LUCC: losses)</td><td>1990-99</td><td>-0.54+0.18</td><td>0.27 (LUCC)!</td><td>-0.27</td></tr><tr><td>2000-09</td><td>-0.38+0.20</td><td>0.28 (LUCC)!</td><td>-0.10</td></tr><tr><td>2010-19</td><td>-0.202</td><td/><td/></tr><tr><td>Brienen et al. 2015 (Mature forest growth: up- take; LUCC: losses)</td><td>1990-99</td><td>-0.62 +0.09</td><td/><td/></tr><tr><td>2000-09</td><td>-0.44+0.10</td><td/><td/></tr><tr><td>2010-19</td><td>-0.232</td><td/><td/></tr><tr><td>Hubau et al 2020 (Mature forest growth: up- take; LUCC: losses)</td><td>1990-99</td><td>-0.68 +0.15</td><td/><td/></tr><tr><td>2000-09</td><td>-0.45+0.13</td><td/><td/></tr><tr><td>2010-19</td><td>-0.25 +0.30</td><td/><td/></tr><tr><td>INPE-EM System?* (Deg+Def+SF, not PF)</td><td>2010-19</td><td>-0.16 £0.01</td><td>0.34 £ 0.09</td><td>0.18 £0.09</td></tr><tr><td>Assis et al. 2020° (Deg+Def+SF, not PF)</td><td>2007-16</td><td>-0.15 +0.02</td><td>0.37 +0.08</td><td>0.23+0.13</td></tr><tr><td>Aguiar et al. 20162 (Deg+Def, not PF/SF)</td><td>2007-13</td><td>-0.06 +0.003</td><td>0.26 +0.06</td><td>0.20+0.11</td></tr><tr><td>Silva Jr. et al. 2020 (Deg+Def)</td><td>2001-15</td><td/><td>0.26 + 0.05</td><td/></tr><tr><td>Smith et al, 2020° (Secondary forests)</td><td>1985-17</td><td>-0.10+0.02</td><td/><td/></tr><tr><td>GFED (Global fire data)</td><td>2010-18</td><td/><td>0.18</td><td/></tr><tr><td>Aragao et al. 2018 (Fire emissions)</td><td>2003-15</td><td/><td>0.21+0.23</td><td/></tr><tr><td>Crippa et al. 2019 (EDGAR data base)®</td><td>2015</td><td/><td>0.03</td><td/></tr></table>",
+            "table_data_structured": [
+                [
+                    "",
+                    "Period",
+                    "C uptake (PgCy™)",
+                    "Closses (PgCy)",
+                    "Total C Balance (PgCy)"
+                ],
+                [
+                    "",
+                    ""
+                ],
+                [
+                    "Bottom-up studies"
+                ],
+                [
+                    "Phillips and Brienen 2017 (Mature forest growth: uptake; LUCC: losses)",
+                    "1990-99",
+                    "-0.54+0.18",
+                    "0.27 (LUCC)!",
+                    "-0.27"
+                ],
+                [
+                    "2000-09",
+                    "-0.38+0.20",
+                    "0.28 (LUCC)!",
+                    "-0.10"
+                ],
+                [
+                    "2010-19",
+                    "-0.202",
+                    "",
+                    ""
+                ],
+                [
+                    "Brienen et al. 2015 (Mature forest growth: up- take; LUCC: losses)",
+                    "1990-99",
+                    "-0.62 +0.09",
+                    "",
+                    ""
+                ],
+                [
+                    "2000-09",
+                    "-0.44+0.10",
+                    "",
+                    ""
+                ],
+                [
+                    "2010-19",
+                    "-0.232",
+                    "",
+                    ""
+                ],
+                [
+                    "Hubau et al 2020 (Mature forest growth: up- take; LUCC: losses)",
+                    "1990-99",
+                    "-0.68 +0.15",
+                    "",
+                    ""
+                ],
+                [
+                    "2000-09",
+                    "-0.45+0.13",
+                    "",
+                    ""
+                ],
+                [
+                    "2010-19",
+                    "-0.25 +0.30",
+                    "",
+                    ""
+                ],
+                [
+                    "INPE-EM System?* (Deg+Def+SF, not PF)",
+                    "2010-19",
+                    "-0.16 £0.01",
+                    "0.34 £ 0.09",
+                    "0.18 £0.09"
+                ],
+                [
+                    "Assis et al. 2020° (Deg+Def+SF, not PF)",
+                    "2007-16",
+                    "-0.15 +0.02",
+                    "0.37 +0.08",
+                    "0.23+0.13"
+                ],
+                [
+                    "Aguiar et al. 20162 (Deg+Def, not PF/SF)",
+                    "2007-13",
+                    "-0.06 +0.003",
+                    "0.26 +0.06",
+                    "0.20+0.11"
+                ],
+                [
+                    "Silva Jr. et al. 2020 (Deg+Def)",
+                    "2001-15",
+                    "",
+                    "0.26 + 0.05",
+                    ""
+                ],
+                [
+                    "Smith et al, 2020° (Secondary forests)",
+                    "1985-17",
+                    "-0.10+0.02",
+                    "",
+                    ""
+                ],
+                [
+                    "GFED (Global fire data)",
+                    "2010-18",
+                    "",
+                    "0.18",
+                    ""
+                ],
+                [
+                    "Aragao et al. 2018 (Fire emissions)",
+                    "2003-15",
+                    "",
+                    "0.21+0.23",
+                    ""
+                ],
+                [
+                    "Crippa et al. 2019 (EDGAR data base)®",
+                    "2015",
+                    "",
+                    "0.03",
+                    ""
+                ]
+            ]
+        }
+    },
+    {
+        "text": "Bottom-up Total balance 2010-2020 -0.32 +0.20° 0.55 0.20” +0.23 +0.20 Aquatic systems Rivers 0.14 +0.04 Lakes and floating plants 0.03 +0.01 Streams 0.10+0.03 Forested floodplains 0.26+0.8 Other wetlands 0.16 +",
+        "type": "TableChunk",
+        "metadata": {
+            "source": "Part_I_Cap_01_Cross Chapter 1 The Amazon Carbon Budget.pdf",
+            "part_name": "The Amazon as a Regional Entity of the Earth System",
+            "chapter_name": "Geology and Geodiversity of the Amazon: Three Billion Years of History",
+            "chapter_number": 1,
+            "chunk_seq": 42,
+            "parent_section_number": "0.18",
+            "parent_section_name": "Aragao et al. 2018 (Fire emissions) 2003-15 0.21+0.23 Crippa et al. 2019 (EDGAR data base)® 2015 0.0",
+            "page": 8,
+            "element_id": "f29ed7e0560205814c569a5f435860e9",
+            "table_html": "<table><tr><td>Bottom-up Total balance 2010-2020</td><td/><td>-0.32 +0.20°</td><td>0.55 0.20”</td><td>+0.23 +0.20</td></tr><tr><td>Aquatic systems</td></tr><tr><td>Rivers</td><td/><td/><td>0.14 +0.04</td><td/></tr><tr><td>Lakes and floating plants</td><td/><td/><td>0.03 +0.01</td><td/></tr><tr><td>Streams</td><td/><td/><td>0.10+0.03</td><td/></tr><tr><td>Forested floodplains</td><td/><td/><td>0.26+0.8</td><td/></tr><tr><td>Other wetlands</td><td/><td/><td>0.16 + 0.5</td><td/></tr><tr><td>Hydroelectric reservoirs</td><td/><td/><td>0.01 +0.003</td><td/></tr><tr><td>Total aquatic C balance</td><td/><td>-0.7+0.3</td><td>0.7+0.2</td><td>~0</td></tr><tr><td>Top-down Studies</td></tr><tr><td>Gatti et al. 2021 (Aircraft/ Inv. modeling)</td><td>2010-18</td><td>-0.12 + 0.40 (NBE)?</td><td>0.41 + 0.05 (Fire)</td><td>0.29 +0.40</td></tr><tr><td>Gatti et al. 2014 (Aircraft/ Inv. modeling) Alden al. 2016 Inver-</td><td>2010-11 2010-12</td><td>-0.15+0.18 (NBE)® -0.14 +£0.32</td><td>0.43 +0.10 (Fire)</td><td>0.28 £0.14</td></tr><tr><td>et (Regional Bayesian sion modelling) Van der Laan-Luijkx et al. 2015 (models: IASI,</td><td>2010-11</td><td>-0.27 £0.42°</td><td>0.24 £ 0.42 (Fire)</td><td/></tr><tr><td>GFED4, GFAS, FINN, SiBCASA-GFED4)</td></tr><tr><td>Feng et al. 2017 (Satelite/aircraft/modeling)</td><td>2010-14</td><td/><td/><td>0.32+.14</td></tr><tr><td>Baccini et al. 2017(MODIS pantropical satel-</td><td>2003-14</td><td>-0.18 +0.02</td><td>0.48 +0.07</td><td>0.30+0.07</td></tr><tr><td>lite and modeling)</td></tr><tr><td>Ton-down Total balance 2010-20</td><td/><td>-0.15+0.20</td><td>044 +0.10</td><td>+0.30+0.20</td></tr></table>",
+            "table_data_structured": [
+                [
+                    "Bottom-up Total balance 2010-2020",
+                    "",
+                    "-0.32 +0.20°",
+                    "0.55 0.20”",
+                    "+0.23 +0.20"
+                ],
+                [
+                    "Aquatic systems"
+                ],
+                [
+                    "Rivers",
+                    "",
+                    "",
+                    "0.14 +0.04",
+                    ""
+                ],
+                [
+                    "Lakes and floating plants",
+                    "",
+                    "",
+                    "0.03 +0.01",
+                    ""
+                ],
+                [
+                    "Streams",
+                    "",
+                    "",
+                    "0.10+0.03",
+                    ""
+                ],
+                [
+                    "Forested floodplains",
+                    "",
+                    "",
+                    "0.26+0.8",
+                    ""
+                ],
+                [
+                    "Other wetlands",
+                    "",
+                    "",
+                    "0.16 + 0.5",
+                    ""
+                ],
+                [
+                    "Hydroelectric reservoirs",
+                    "",
+                    "",
+                    "0.01 +0.003",
+                    ""
+                ],
+                [
+                    "Total aquatic C balance",
+                    "",
+                    "-0.7+0.3",
+                    "0.7+0.2",
+                    "~0"
+                ],
+                [
+                    "Top-down Studies"
+                ],
+                [
+                    "Gatti et al. 2021 (Aircraft/ Inv. modeling)",
+                    "2010-18",
+                    "-0.12 + 0.40 (NBE)?",
+                    "0.41 + 0.05 (Fire)",
+                    "0.29 +0.40"
+                ],
+                [
+                    "Gatti et al. 2014 (Aircraft/ Inv. modeling) Alden al. 2016 Inver-",
+                    "2010-11 2010-12",
+                    "-0.15+0.18 (NBE)® -0.14 +£0.32",
+                    "0.43 +0.10 (Fire)",
+                    "0.28 £0.14"
+                ],
+                [
+                    "et (Regional Bayesian sion modelling) Van der Laan-Luijkx et al. 2015 (models: IASI,",
+                    "2010-11",
+                    "-0.27 £0.42°",
+                    "0.24 £ 0.42 (Fire)",
+                    ""
+                ],
+                [
+                    "GFED4, GFAS, FINN, SiBCASA-GFED4)"
+                ],
+                [
+                    "Feng et al. 2017 (Satelite/aircraft/modeling)",
+                    "2010-14",
+                    "",
+                    "",
+                    "0.32+.14"
+                ],
+                [
+                    "Baccini et al. 2017(MODIS pantropical satel-",
+                    "2003-14",
+                    "-0.18 +0.02",
+                    "0.48 +0.07",
+                    "0.30+0.07"
+                ],
+                [
+                    "lite and modeling)"
+                ],
+                [
+                    "Ton-down Total balance 2010-20",
+                    "",
+                    "-0.15+0.20",
+                    "044 +0.10",
+                    "+0.30+0.20"
+                ]
+            ]
+        }
+    },
+    {
+        "text": "0.5 Hydroelectric reservoirs 0.01 +0.003 Total aquatic C balance -0.7+0.3 0.7+0.2 ~0 Top-down Studies Gatti et al. 2021 (Aircraft/ Inv. modeling) 2010-18 -0.12 + 0.40 (NBE)? 0.41 + 0.05 (Fire) 0.29 +0.40 Gatti et al. 2014 (Aircraft/ Inv. modeling) Alden al. 2016 Inver- 2010-11 2010-12 -0.15+0.18 (NBE)® -0.14 +£0.32 0.43 +0.10 (Fire) 0.28 £0.14 et (Regional Bayesian sion modelling) Van der Laan-Luijkx et al. 2015 (models: IASI, 2010-11 -0.27 £0.42° 0.24 £ 0.42 (Fire) GFED4, GFAS, FINN, SiBCASA-GFED4) Feng et al. 2017 (Satelite/aircraft/modeling) 2010-14 0.32+.14 Baccini et al. 2017(MODIS pantropical satel- 2003-14 -0.18 +0.02 0.48 +0.07 0.30+0.07 lite and modeling) Ton-down Total balance 2010-20 -0.15+0.20 044 +0.10 +0.30+0.20",
+        "type": "TableChunk",
+        "metadata": {
+            "source": "Part_I_Cap_01_Cross Chapter 1 The Amazon Carbon Budget.pdf",
+            "part_name": "The Amazon as a Regional Entity of the Earth System",
+            "chapter_name": "Geology and Geodiversity of the Amazon: Three Billion Years of History",
+            "chapter_number": 1,
+            "chunk_seq": 43,
+            "parent_section_number": "0.5",
+            "parent_section_name": "Hydroelectric reservoirs 0.01 +0.003 Total aquatic C balance -0.7+0.3 0.7+0.2 ~0 Top-down Studies Ga",
+            "page": 8,
+            "element_id": "f29ed7e0560205814c569a5f435860e9",
+            "table_html": "<table><tr><td>Bottom-up Total balance 2010-2020</td><td/><td>-0.32 +0.20°</td><td>0.55 0.20”</td><td>+0.23 +0.20</td></tr><tr><td>Aquatic systems</td></tr><tr><td>Rivers</td><td/><td/><td>0.14 +0.04</td><td/></tr><tr><td>Lakes and floating plants</td><td/><td/><td>0.03 +0.01</td><td/></tr><tr><td>Streams</td><td/><td/><td>0.10+0.03</td><td/></tr><tr><td>Forested floodplains</td><td/><td/><td>0.26+0.8</td><td/></tr><tr><td>Other wetlands</td><td/><td/><td>0.16 + 0.5</td><td/></tr><tr><td>Hydroelectric reservoirs</td><td/><td/><td>0.01 +0.003</td><td/></tr><tr><td>Total aquatic C balance</td><td/><td>-0.7+0.3</td><td>0.7+0.2</td><td>~0</td></tr><tr><td>Top-down Studies</td></tr><tr><td>Gatti et al. 2021 (Aircraft/ Inv. modeling)</td><td>2010-18</td><td>-0.12 + 0.40 (NBE)?</td><td>0.41 + 0.05 (Fire)</td><td>0.29 +0.40</td></tr><tr><td>Gatti et al. 2014 (Aircraft/ Inv. modeling) Alden al. 2016 Inver-</td><td>2010-11 2010-12</td><td>-0.15+0.18 (NBE)® -0.14 +£0.32</td><td>0.43 +0.10 (Fire)</td><td>0.28 £0.14</td></tr><tr><td>et (Regional Bayesian sion modelling) Van der Laan-Luijkx et al. 2015 (models: IASI,</td><td>2010-11</td><td>-0.27 £0.42°</td><td>0.24 £ 0.42 (Fire)</td><td/></tr><tr><td>GFED4, GFAS, FINN, SiBCASA-GFED4)</td></tr><tr><td>Feng et al. 2017 (Satelite/aircraft/modeling)</td><td>2010-14</td><td/><td/><td>0.32+.14</td></tr><tr><td>Baccini et al. 2017(MODIS pantropical satel-</td><td>2003-14</td><td>-0.18 +0.02</td><td>0.48 +0.07</td><td>0.30+0.07</td></tr><tr><td>lite and modeling)</td></tr><tr><td>Ton-down Total balance 2010-20</td><td/><td>-0.15+0.20</td><td>044 +0.10</td><td>+0.30+0.20</td></tr></table>",
+            "table_data_structured": [
+                [
+                    "Bottom-up Total balance 2010-2020",
+                    "",
+                    "-0.32 +0.20°",
+                    "0.55 0.20”",
+                    "+0.23 +0.20"
+                ],
+                [
+                    "Aquatic systems"
+                ],
+                [
+                    "Rivers",
+                    "",
+                    "",
+                    "0.14 +0.04",
+                    ""
+                ],
+                [
+                    "Lakes and floating plants",
+                    "",
+                    "",
+                    "0.03 +0.01",
+                    ""
+                ],
+                [
+                    "Streams",
+                    "",
+                    "",
+                    "0.10+0.03",
+                    ""
+                ],
+                [
+                    "Forested floodplains",
+                    "",
+                    "",
+                    "0.26+0.8",
+                    ""
+                ],
+                [
+                    "Other wetlands",
+                    "",
+                    "",
+                    "0.16 + 0.5",
+                    ""
+                ],
+                [
+                    "Hydroelectric reservoirs",
+                    "",
+                    "",
+                    "0.01 +0.003",
+                    ""
+                ],
+                [
+                    "Total aquatic C balance",
+                    "",
+                    "-0.7+0.3",
+                    "0.7+0.2",
+                    "~0"
+                ],
+                [
+                    "Top-down Studies"
+                ],
+                [
+                    "Gatti et al. 2021 (Aircraft/ Inv. modeling)",
+                    "2010-18",
+                    "-0.12 + 0.40 (NBE)?",
+                    "0.41 + 0.05 (Fire)",
+                    "0.29 +0.40"
+                ],
+                [
+                    "Gatti et al. 2014 (Aircraft/ Inv. modeling) Alden al. 2016 Inver-",
+                    "2010-11 2010-12",
+                    "-0.15+0.18 (NBE)® -0.14 +£0.32",
+                    "0.43 +0.10 (Fire)",
+                    "0.28 £0.14"
+                ],
+                [
+                    "et (Regional Bayesian sion modelling) Van der Laan-Luijkx et al. 2015 (models: IASI,",
+                    "2010-11",
+                    "-0.27 £0.42°",
+                    "0.24 £ 0.42 (Fire)",
+                    ""
+                ],
+                [
+                    "GFED4, GFAS, FINN, SiBCASA-GFED4)"
+                ],
+                [
+                    "Feng et al. 2017 (Satelite/aircraft/modeling)",
+                    "2010-14",
+                    "",
+                    "",
+                    "0.32+.14"
+                ],
+                [
+                    "Baccini et al. 2017(MODIS pantropical satel-",
+                    "2003-14",
+                    "-0.18 +0.02",
+                    "0.48 +0.07",
+                    "0.30+0.07"
+                ],
+                [
+                    "lite and modeling)"
+                ],
+                [
+                    "Ton-down Total balance 2010-20",
+                    "",
+                    "-0.15+0.20",
+                    "044 +0.10",
+                    "+0.30+0.20"
+                ]
+            ]
+        }
+    },
+    {
+        "text": "Top-down Total balance 2010-20 - 0.15 ± 0.20 0.44 ± 0.10 + 0.30 ± 0.20 1- LUCC land-use changes—including fragmentation and edge effects, logging, fire, secondary re-growth and subsequent disturbance 2- Extrapolated using the trend 3- Scaled to Amazon sensu latissimo, without Planalto using MapBiomas deforestation 4- INPE-EM Operational System: http://inpe-em.ccst.inpe.br/en/ 5- Energy sector, Industrial Processes and Product Use, and Agricultural waste burning 6- Uptake PF + SF (-0.22 + (-10)). Primary Forest (PF), Secondary Forest (SF); 7- Losses Assis (2020) losses from Deforestation (Def) + Degradation (Deg): 0.37 + Fire: 0.15 (0.20 - 0.05 (computed by Assis)) + energy: 0.03 8- NBE (Net Biome Exchange: Total C flux less Fire); 9- Qualitative results for comparison between 2010 and 2011, not used quantitatively. 6 Cross Chapter: The Amazon Carbon Budget Table CC.2 Methane Emissions",
+        "type": "CompositeElement",
+        "metadata": {
+            "source": "Part_I_Cap_01_Cross Chapter 1 The Amazon Carbon Budget.pdf",
+            "part_name": "The Amazon as a Regional Entity of the Earth System",
+            "chapter_name": "Geology and Geodiversity of the Amazon: Three Billion Years of History",
+            "chapter_number": 1,
+            "chunk_seq": 44,
+            "parent_section_number": "0.5",
+            "parent_section_name": "Hydroelectric reservoirs 0.01 +0.003 Total aquatic C balance -0.7+0.3 0.7+0.2 ~0 Top-down Studies Ga",
+            "page": 8,
+            "element_id": "b0d99ad842079441aecb99e62ba72816"
+        }
+    },
+    {
+        "text": "Period CHs uptake (TgCHay ) CH Fire emission (TgCHay) Total CHs emission (TgCHy Area normalized 7.25 x 10 km? Bottom-up studies Natural emissions Rivers 0.7+0.2 Lakes 0.7+0.2 Streams 0.4+0.2 Forested floodplains Flux from water surface 16.4+5 Flux from trees 18.2+5.5 Flux from exposed soil 1.1£0.2 Other wetlands 72 Upland soils* 1.0-3.0 Anthropogenic reservoirs 2.0+0.6 Hydroelectric Energy sector** 2015",
+        "type": "TableChunk",
+        "metadata": {
+            "source": "Part_I_Cap_01_Cross Chapter 1 The Amazon Carbon Budget.pdf",
+            "part_name": "The Amazon as a Regional Entity of the Earth System",
+            "chapter_name": "Geology and Geodiversity of the Amazon: Three Billion Years of History",
+            "chapter_number": 1,
+            "chunk_seq": 45,
+            "parent_section_number": "0.5",
+            "parent_section_name": "Hydroelectric reservoirs 0.01 +0.003 Total aquatic C balance -0.7+0.3 0.7+0.2 ~0 Top-down Studies Ga",
+            "page": 9,
+            "element_id": "5be1e27dc5113235d5c89f02b9f12927",
+            "table_html": "<table><tr><td/><td>Period</td><td>CHs uptake (TgCHay )</td><td>CH Fire emission (TgCHay)</td><td>Total CHs emission (TgCHy</td></tr><tr><td>Area normalized 7.25 x 10 km?</td></tr><tr><td>Bottom-up studies</td></tr><tr><td>Natural emissions</td></tr><tr><td>Rivers</td><td/><td/><td/><td>0.7+0.2</td></tr><tr><td>Lakes</td><td/><td/><td/><td>0.7+0.2</td></tr><tr><td>Streams</td><td/><td/><td/><td>0.4+0.2</td></tr><tr><td>Forested floodplains</td></tr><tr><td>Flux from water surface</td><td/><td/><td/><td>16.4+5</td></tr><tr><td>Flux from trees</td><td/><td/><td/><td>18.2+5.5</td></tr><tr><td>Flux from exposed soil</td><td/><td/><td/><td>1.1£0.2</td></tr><tr><td>Other wetlands</td><td/><td/><td/><td>72</td></tr><tr><td>Upland soils* 1.0-3.0</td></tr><tr><td>Anthropogenic</td></tr><tr><td>reservoirs</td><td/><td/><td/><td>2.0+0.6</td></tr><tr><td>Hydroelectric</td><td/><td/><td/><td/></tr><tr><td>Energy sector**</td><td>2015</td><td/><td/><td>0.8</td></tr><tr><td>Waste**</td><td>2015</td><td/><td/><td>0.5</td></tr><tr><td>Agriculture** 2015 4.7 Top-down Studies</td></tr><tr><td>Aircraft/Modelling Studies</td></tr><tr><td>Basso et al. 2021</td><td>2010-18</td><td/><td>7.7+1.6</td><td>46.2 +10.3</td></tr><tr><td>Wilson et al. 2021</td><td>2010-13</td><td/><td/><td>40.1+5.6</td></tr><tr><td/><td>2014-17</td><td/><td/><td>47.9+5.5</td></tr><tr><td>Pangala et al. 2017 (Column Budget Technique)</td><td>2010-13</td><td/><td>4.2+0.7</td><td>46.2+6.1</td></tr><tr><td>Wilson et al. 2016 (3-D atmospheric chemical transport model)</td><td>2010-11</td><td/><td>22+15</td><td>37.5-50.8</td></tr><tr><td>Satelite/modelling Studies</td></tr><tr><td>Bergamaschi et al. 2009 (inverse mod- eling + revised SCTAMACHY retriev- als)</td><td>2004</td><td/><td/><td>40.0-44.7</td></tr><tr><td>Fraser et al. 2014 (inverse modeling and GOSAT)</td><td>2010</td><td/><td/><td>44.6£2.4</td></tr></table>",
+            "table_data_structured": [
+                [
+                    "",
+                    "Period",
+                    "CHs uptake (TgCHay )",
+                    "CH Fire emission (TgCHay)",
+                    "Total CHs emission (TgCHy"
+                ],
+                [
+                    "Area normalized 7.25 x 10 km?"
+                ],
+                [
+                    "Bottom-up studies"
+                ],
+                [
+                    "Natural emissions"
+                ],
+                [
+                    "Rivers",
+                    "",
+                    "",
+                    "",
+                    "0.7+0.2"
+                ],
+                [
+                    "Lakes",
+                    "",
+                    "",
+                    "",
+                    "0.7+0.2"
+                ],
+                [
+                    "Streams",
+                    "",
+                    "",
+                    "",
+                    "0.4+0.2"
+                ],
+                [
+                    "Forested floodplains"
+                ],
+                [
+                    "Flux from water surface",
+                    "",
+                    "",
+                    "",
+                    "16.4+5"
+                ],
+                [
+                    "Flux from trees",
+                    "",
+                    "",
+                    "",
+                    "18.2+5.5"
+                ],
+                [
+                    "Flux from exposed soil",
+                    "",
+                    "",
+                    "",
+                    "1.1£0.2"
+                ],
+                [
+                    "Other wetlands",
+                    "",
+                    "",
+                    "",
+                    "72"
+                ],
+                [
+                    "Upland soils* 1.0-3.0"
+                ],
+                [
+                    "Anthropogenic"
+                ],
+                [
+                    "reservoirs",
+                    "",
+                    "",
+                    "",
+                    "2.0+0.6"
+                ],
+                [
+                    "Hydroelectric",
+                    "",
+                    "",
+                    "",
+                    ""
+                ],
+                [
+                    "Energy sector**",
+                    "2015",
+                    "",
+                    "",
+                    "0.8"
+                ],
+                [
+                    "Waste**",
+                    "2015",
+                    "",
+                    "",
+                    "0.5"
+                ],
+                [
+                    "Agriculture** 2015 4.7 Top-down Studies"
+                ],
+                [
+                    "Aircraft/Modelling Studies"
+                ],
+                [
+                    "Basso et al. 2021",
+                    "2010-18",
+                    "",
+                    "7.7+1.6",
+                    "46.2 +10.3"
+                ],
+                [
+                    "Wilson et al. 2021",
+                    "2010-13",
+                    "",
+                    "",
+                    "40.1+5.6"
+                ],
+                [
+                    "",
+                    "2014-17",
+                    "",
+                    "",
+                    "47.9+5.5"
+                ],
+                [
+                    "Pangala et al. 2017 (Column Budget Technique)",
+                    "2010-13",
+                    "",
+                    "4.2+0.7",
+                    "46.2+6.1"
+                ],
+                [
+                    "Wilson et al. 2016 (3-D atmospheric chemical transport model)",
+                    "2010-11",
+                    "",
+                    "22+15",
+                    "37.5-50.8"
+                ],
+                [
+                    "Satelite/modelling Studies"
+                ],
+                [
+                    "Bergamaschi et al. 2009 (inverse mod- eling + revised SCTAMACHY retriev- als)",
+                    "2004",
+                    "",
+                    "",
+                    "40.0-44.7"
+                ],
+                [
+                    "Fraser et al. 2014 (inverse modeling and GOSAT)",
+                    "2010",
+                    "",
+                    "",
+                    "44.6£2.4"
+                ]
+            ]
+        }
+    },
+    {
+        "text": "4.7 Top-down Studies Aircraft/Modelling Studies Basso et al. 2021 2010-18 7.7+1.6 46.2 +10.3 Wilson et al. 2021 2010-13 40.1+5.6 2014-17 47.9+5.5 Pangala et al. 2017 (Column Budget Technique) 2010-13 4.2+0.7 46.2+6.1 Wilson et al. 2016 (3-D atmospheric chemical transport model) 2010-11 22+15 37.5-50.8 Satelite/modelling Studies Bergamaschi et al. 2009 (inverse modeling + revised SCTAMACHY retrievals) 2004 40.0-44.7 Fraser et al. 2014 (inverse modeling and GOSAT) 2010 44.6£2.4",
+        "type": "TableChunk",
+        "metadata": {
+            "source": "Part_I_Cap_01_Cross Chapter 1 The Amazon Carbon Budget.pdf",
+            "part_name": "The Amazon as a Regional Entity of the Earth System",
+            "chapter_name": "Geology and Geodiversity of the Amazon: Three Billion Years of History",
+            "chapter_number": 1,
+            "chunk_seq": 46,
+            "parent_section_number": "4.7",
+            "parent_section_name": "Top-down Studies Aircraft/Modelling Studies Basso et al. 2021 2010-18 7.7+1.6 46.2 +10.3 Wilson et a",
+            "page": 9,
+            "element_id": "5be1e27dc5113235d5c89f02b9f12927",
+            "table_html": "<table><tr><td/><td>Period</td><td>CHs uptake (TgCHay )</td><td>CH Fire emission (TgCHay)</td><td>Total CHs emission (TgCHy</td></tr><tr><td>Area normalized 7.25 x 10 km?</td></tr><tr><td>Bottom-up studies</td></tr><tr><td>Natural emissions</td></tr><tr><td>Rivers</td><td/><td/><td/><td>0.7+0.2</td></tr><tr><td>Lakes</td><td/><td/><td/><td>0.7+0.2</td></tr><tr><td>Streams</td><td/><td/><td/><td>0.4+0.2</td></tr><tr><td>Forested floodplains</td></tr><tr><td>Flux from water surface</td><td/><td/><td/><td>16.4+5</td></tr><tr><td>Flux from trees</td><td/><td/><td/><td>18.2+5.5</td></tr><tr><td>Flux from exposed soil</td><td/><td/><td/><td>1.1£0.2</td></tr><tr><td>Other wetlands</td><td/><td/><td/><td>72</td></tr><tr><td>Upland soils* 1.0-3.0</td></tr><tr><td>Anthropogenic</td></tr><tr><td>reservoirs</td><td/><td/><td/><td>2.0+0.6</td></tr><tr><td>Hydroelectric</td><td/><td/><td/><td/></tr><tr><td>Energy sector**</td><td>2015</td><td/><td/><td>0.8</td></tr><tr><td>Waste**</td><td>2015</td><td/><td/><td>0.5</td></tr><tr><td>Agriculture** 2015 4.7 Top-down Studies</td></tr><tr><td>Aircraft/Modelling Studies</td></tr><tr><td>Basso et al. 2021</td><td>2010-18</td><td/><td>7.7+1.6</td><td>46.2 +10.3</td></tr><tr><td>Wilson et al. 2021</td><td>2010-13</td><td/><td/><td>40.1+5.6</td></tr><tr><td/><td>2014-17</td><td/><td/><td>47.9+5.5</td></tr><tr><td>Pangala et al. 2017 (Column Budget Technique)</td><td>2010-13</td><td/><td>4.2+0.7</td><td>46.2+6.1</td></tr><tr><td>Wilson et al. 2016 (3-D atmospheric chemical transport model)</td><td>2010-11</td><td/><td>22+15</td><td>37.5-50.8</td></tr><tr><td>Satelite/modelling Studies</td></tr><tr><td>Bergamaschi et al. 2009 (inverse mod- eling + revised SCTAMACHY retriev- als)</td><td>2004</td><td/><td/><td>40.0-44.7</td></tr><tr><td>Fraser et al. 2014 (inverse modeling and GOSAT)</td><td>2010</td><td/><td/><td>44.6£2.4</td></tr></table>",
+            "table_data_structured": [
+                [
+                    "",
+                    "Period",
+                    "CHs uptake (TgCHay )",
+                    "CH Fire emission (TgCHay)",
+                    "Total CHs emission (TgCHy"
+                ],
+                [
+                    "Area normalized 7.25 x 10 km?"
+                ],
+                [
+                    "Bottom-up studies"
+                ],
+                [
+                    "Natural emissions"
+                ],
+                [
+                    "Rivers",
+                    "",
+                    "",
+                    "",
+                    "0.7+0.2"
+                ],
+                [
+                    "Lakes",
+                    "",
+                    "",
+                    "",
+                    "0.7+0.2"
+                ],
+                [
+                    "Streams",
+                    "",
+                    "",
+                    "",
+                    "0.4+0.2"
+                ],
+                [
+                    "Forested floodplains"
+                ],
+                [
+                    "Flux from water surface",
+                    "",
+                    "",
+                    "",
+                    "16.4+5"
+                ],
+                [
+                    "Flux from trees",
+                    "",
+                    "",
+                    "",
+                    "18.2+5.5"
+                ],
+                [
+                    "Flux from exposed soil",
+                    "",
+                    "",
+                    "",
+                    "1.1£0.2"
+                ],
+                [
+                    "Other wetlands",
+                    "",
+                    "",
+                    "",
+                    "72"
+                ],
+                [
+                    "Upland soils* 1.0-3.0"
+                ],
+                [
+                    "Anthropogenic"
+                ],
+                [
+                    "reservoirs",
+                    "",
+                    "",
+                    "",
+                    "2.0+0.6"
+                ],
+                [
+                    "Hydroelectric",
+                    "",
+                    "",
+                    "",
+                    ""
+                ],
+                [
+                    "Energy sector**",
+                    "2015",
+                    "",
+                    "",
+                    "0.8"
+                ],
+                [
+                    "Waste**",
+                    "2015",
+                    "",
+                    "",
+                    "0.5"
+                ],
+                [
+                    "Agriculture** 2015 4.7 Top-down Studies"
+                ],
+                [
+                    "Aircraft/Modelling Studies"
+                ],
+                [
+                    "Basso et al. 2021",
+                    "2010-18",
+                    "",
+                    "7.7+1.6",
+                    "46.2 +10.3"
+                ],
+                [
+                    "Wilson et al. 2021",
+                    "2010-13",
+                    "",
+                    "",
+                    "40.1+5.6"
+                ],
+                [
+                    "",
+                    "2014-17",
+                    "",
+                    "",
+                    "47.9+5.5"
+                ],
+                [
+                    "Pangala et al. 2017 (Column Budget Technique)",
+                    "2010-13",
+                    "",
+                    "4.2+0.7",
+                    "46.2+6.1"
+                ],
+                [
+                    "Wilson et al. 2016 (3-D atmospheric chemical transport model)",
+                    "2010-11",
+                    "",
+                    "22+15",
+                    "37.5-50.8"
+                ],
+                [
+                    "Satelite/modelling Studies"
+                ],
+                [
+                    "Bergamaschi et al. 2009 (inverse mod- eling + revised SCTAMACHY retriev- als)",
+                    "2004",
+                    "",
+                    "",
+                    "40.0-44.7"
+                ],
+                [
+                    "Fraser et al. 2014 (inverse modeling and GOSAT)",
+                    "2010",
+                    "",
+                    "",
+                    "44.6£2.4"
+                ]
+            ]
+        }
+    },
+    {
+        "text": "* Estimated by Davidson and Artaxo 2004 ** Emissions based on EDGAR database for the year 2015 CB2. Methane Emissions Descriptions of terrestrial and aquatic methane fluxes, processes, and the CH4 budget are provided in Chapter 6. For comparison to the CO2 budget, we scaled CH4 estimates to the same area (7.25x106 km2); a proportional adjustment based on the two areas and assuming sufficiently similar habitats are represented. Top-down and bottom-up estimates for this region have reasonable agreement given the considerable uncertainties in these fluxes (Table CC2). Fluxes of CH4 from natural aquatic environments in the Amazon Basin are estimated to be approximately",
+        "type": "CompositeElement",
+        "metadata": {
+            "source": "Part_I_Cap_01_Cross Chapter 1 The Amazon Carbon Budget.pdf",
+            "part_name": "The Amazon as a Regional Entity of the Earth System",
+            "chapter_name": "Geology and Geodiversity of the Amazon: Three Billion Years of History",
+            "chapter_number": 1,
+            "chunk_seq": 47,
+            "parent_section_number": "4.7",
+            "parent_section_name": "Top-down Studies Aircraft/Modelling Studies Basso et al. 2021 2010-18 7.7+1.6 46.2 +10.3 Wilson et a",
+            "page": 9,
+            "element_id": "a2328eb616c2addf5e1716a4b0ef54e2"
+        }
+    },
+    {
+        "text": "44.5 Tg CH4 y-1. Interannual variations in the area of inundated habitats",
+        "type": "CompositeElement",
+        "metadata": {
+            "source": "Part_I_Cap_01_Cross Chapter 1 The Amazon Carbon Budget.pdf",
+            "part_name": "The Amazon as a Regional Entity of the Earth System",
+            "chapter_name": "Geology and Geodiversity of the Amazon: Three Billion Years of History",
+            "chapter_number": 1,
+            "chunk_seq": 48,
+            "parent_section_number": "44.5",
+            "parent_section_name": "Tg CH4 y-1. Interannual variations in the area of inundated habitats",
+            "page": 9,
+            "element_id": "a2328eb616c2addf5e1716a4b0ef54e2"
+        }
+    },
+    {
+        "text": "and highly variable fluxes associated with ebullition outgassing by trees, and temporal and spatial differences in dissolved CH4 concentrations and gas exchange velocities (Melack et al. 2004; Pangala et al. 2017; Barbosa et al. 2020) make uncertainty estimates only approximate. Estimates of anthropogenic CH4 emissions based on the EDGAR v.5.0 model include energy production, agriculture, industrial processes, product uses, and waste management. These sources contribute 6 Tg CH4 y-1, with emissions from agriculture responsible for 78% and enteric fermentation the main source from this sector (93%), highlighting the importance of cattle in anthropogenic Amazonian methane emissions. Fluxes from the 159 medium",
+        "type": "CompositeElement",
+        "metadata": {
+            "source": "Part_I_Cap_01_Cross Chapter 1 The Amazon Carbon Budget.pdf",
+            "part_name": "The Amazon as a Regional Entity of the Earth System",
+            "chapter_name": "Geology and Geodiversity of the Amazon: Three Billion Years of History",
+            "chapter_number": 1,
+            "chunk_seq": 49,
+            "parent_section_number": "44.5",
+            "parent_section_name": "Tg CH4 y-1. Interannual variations in the area of inundated habitats",
+            "page": 9,
+            "element_id": "afe029628c6d2e55e8f1303e8af25fe2"
+        }
+    },
+    {
+        "text": "Cross Chapter: The Amazon Carbon Budget to large hydroelectric reservoirs currently in the Amazon Basin, excluding those in the lower Tocantins Basin and including major ones in Venezuela, Suriname, and French Guiana, total 2 Tg CH4 y-1. XCH4:XCO2 retrievals, 2010-2014. Atmos Chem Phys 17: 4781– 97. Feldpausch T., Banin L., Phillips O. L. et al. 2011. Height-diameter allometry of tropical forest trees. Biogeosciences, 8: 1081— 1106. Fraser A, Palmer PIL, Feng L, et al. 2014. Estimating regional fluxes of CO and CH4 using space-borne observations of XCH : XCO2. Atmos Chem Phys Discuss 14: 15867-94. Gatti L V., Basso LS, Miller JB, et al. 2021. Amazonia as a carbon source linked to deforestation and climate change. Nature",
+        "type": "CompositeElement",
+        "metadata": {
+            "source": "Part_I_Cap_01_Cross Chapter 1 The Amazon Carbon Budget.pdf",
+            "part_name": "The Amazon as a Regional Entity of the Earth System",
+            "chapter_name": "Geology and Geodiversity of the Amazon: Three Billion Years of History",
+            "chapter_number": 1,
+            "chunk_seq": 50,
+            "parent_section_number": "44.5",
+            "parent_section_name": "Tg CH4 y-1. Interannual variations in the area of inundated habitats",
+            "page": 10,
+            "element_id": "4eb778794c2784d5ca9d4f4cd2706276"
+        }
+    },
+    {
+        "text": "Abril G, Martinez J-M, Artigas LF, et al. 2014. Amazon River carbon dioxide outgassing fuelled by wetlands. Nature 505: 395-8. Aguiar APD, Vieira ICG, Assis TO, et al. 2016. Land use change emission scenarios: anticipating a forest transition process urements. Nature 506: 76—80. Hubau W, Lewis SL, Phillips OL, et al. 2020. Asynchronous carin the Brazilian Amazon. Glob Chang Biol 22: 1821-40. Alden CB, Miller JB, Gatti L V., et al. 2016. Regional atmospheric bon sink saturation in African and Amazonian tropical forCO 2 inversion reveals seasonal and geographic differences in Amazon net biome exchange. Glob Chang Biol 22: 3427—-43. Laan-Luijkx IT van der, Velde IR van der, Krol MC, et al. 2015. Aragdo LEOC, Anderson LO, Fonseca MG, et al. 2018. 21st CenResponse of the Amazon carbon balance to the 2010 drought derived with CarbonTracker South America. Global Biogeotury drought-related fires counteract the decline of Amazon deforestation carbon emissions. Nat Commun 9: 536. Assis",
+        "type": "CompositeElement",
+        "metadata": {
+            "source": "Part_I_Cap_01_Cross Chapter 1 The Amazon Carbon Budget.pdf",
+            "part_name": "The Amazon as a Regional Entity of the Earth System",
+            "chapter_name": "Geology and Geodiversity of the Amazon: Three Billion Years of History",
+            "chapter_number": 1,
+            "chunk_seq": 51,
+            "parent_section_number": "44.5",
+            "parent_section_name": "Tg CH4 y-1. Interannual variations in the area of inundated habitats",
+            "page": 10,
+            "element_id": "4225e7a7b4ea465c9023343b7be6c4e6"
+        }
+    },
+    {
+        "text": "TO, Aguiar APD de, Randow C von, et al. 2020. CO2 emissions from forest degradation in Brazilian Amazon. Environ Res Lett 15: 104035.",
+        "type": "CompositeElement",
+        "metadata": {
+            "source": "Part_I_Cap_01_Cross Chapter 1 The Amazon Carbon Budget.pdf",
+            "part_name": "The Amazon as a Regional Entity of the Earth System",
+            "chapter_name": "Geology and Geodiversity of the Amazon: Three Billion Years of History",
+            "chapter_number": 1,
+            "chunk_seq": 52,
+            "parent_section_number": "44.5",
+            "parent_section_name": "Tg CH4 y-1. Interannual variations in the area of inundated habitats",
+            "page": 10,
+            "element_id": "1d3ac15c5fff62fb9a0155ea6e528db2"
+        }
+    },
+    {
+        "text": "595: 388-93. Gatti L V., Gloor M, Miller JB, et al. 2014. Drought sensitivity of Amazonian carbon balance revealed by atmospheric measests. Nature 579: 80-7.",
+        "type": "CompositeElement",
+        "metadata": {
+            "source": "Part_I_Cap_01_Cross Chapter 1 The Amazon Carbon Budget.pdf",
+            "part_name": "The Amazon as a Regional Entity of the Earth System",
+            "chapter_name": "Geology and Geodiversity of the Amazon: Three Billion Years of History",
+            "chapter_number": 1,
+            "chunk_seq": 53,
+            "parent_section_number": "44.5",
+            "parent_section_name": "Tg CH4 y-1. Interannual variations in the area of inundated habitats",
+            "page": 10,
+            "element_id": "0768c7ee75111831e3f3d6303f666df8"
+        }
+    },
+    {
+        "text": "chem Cycles 29: 1092-108. Malhi Y, Doughty CE, Goldsmith GR, et al. 2015. The linkages between photosynthesis, productivity, growth and biomass in lowland Amazonian forests. Glob Chang Biol 21: 2283-95. Baccini A, Walker W, Carvalho L, et al. 2017. Tropical forests are MapBiomas Amazonia. 2020. Collection 2.0 of annual maps of land cover, land use and land use changes between 1985 to a net carbon source based on aboveground measurements of gain and loss. Science 358: 230-4. 2018 in the Pan-Amazon. https://amazonia.mapbiomas.org/. Barbosa PM, Melack JM, Amaral JHF, et al. 2020. Dissolved meMelack JM, Hess LL, Gastil M, et al. 2004. Regionalization of methane emissions in the Amazon Basin with microwave remote thane concentrations and fluxs to the atmosphere from a tropical floodplain lake. Biogeochemistry 148: 129-51. sensing. Glob Chang Biol 10: 53044. Melack JM, Novo EMLM, Forsberg BR, et al. 2009. Floodplain ecoBergamaschi P, Frankenberg C, Meirink JF, et al. 2009. Inverse",
+        "type": "CompositeElement",
+        "metadata": {
+            "source": "Part_I_Cap_01_Cross Chapter 1 The Amazon Carbon Budget.pdf",
+            "part_name": "The Amazon as a Regional Entity of the Earth System",
+            "chapter_name": "Geology and Geodiversity of the Amazon: Three Billion Years of History",
+            "chapter_number": 1,
+            "chunk_seq": 54,
+            "parent_section_number": "44.5",
+            "parent_section_name": "Tg CH4 y-1. Interannual variations in the area of inundated habitats",
+            "page": 10,
+            "element_id": "770de98849d44a0ca122d7d85cc3328b"
+        }
+    },
+    {
+        "text": "modeling of global and regional CH4 emissions using SCIsystem processes. Pages 525-541. In J. Gash, M. Keller and P. Silva-Dias (eds.). Amazonia and Global Change. Geophysical AMACHY satellite retrievals. J Geophys Res 114: D22301. Basso, L.S., Marani, L., Gatti, L.V., et al. 2021. Amazon methane Monograph Series 186. American Geophysical Union. Pangala SR, Enrich-Prast A, Basso LS, ezal. 2017. Large emissions budget derived from multi-year airborne observations highlights regional variations in emissions. Communications Earth from floodplain trees close the Amazon methane budget. Naand Environment. ture 552: 230-4. Phillips OL and Brienen RJW. 2017. Carbon uptake by mature Brienen RJW, Phillips OL, Feldpausch TR, et al. 2015. Long-term decline of the Amazon carbon sink. Nature 519: 344-8. Amazon forests has mitigated Amazon nations’ carbon emissions. Carbon Balance Manag 12: 1-9. Crippa, M, Guizzardi, D, Muntean, M, et al. 2019. EDGAR v5.0 Greenhouse Gas Emissions. European",
+        "type": "CompositeElement",
+        "metadata": {
+            "source": "Part_I_Cap_01_Cross Chapter 1 The Amazon Carbon Budget.pdf",
+            "part_name": "The Amazon as a Regional Entity of the Earth System",
+            "chapter_name": "Geology and Geodiversity of the Amazon: Three Billion Years of History",
+            "chapter_number": 1,
+            "chunk_seq": 55,
+            "parent_section_number": "44.5",
+            "parent_section_name": "Tg CH4 y-1. Interannual variations in the area of inundated habitats",
+            "page": 10,
+            "element_id": "09e3092b7cd77a7faf358afe3de0ec18"
+        }
+    },
+    {
+        "text": "Commission, Joint Restrepo-Coupe N, Rocha HR da, Hutyra LR, et al. 2013. What drives the seasonality of photosynthesis across the Amazon Research Centre (JRC) [Dataset] PID: http://data.europa.eu/89h/488dc3de-f072-4810-ab83-47185158ce2a. basin? A cross-site analysis of eddy flux tower measurements from the Brasil flux network. Agric For Meteorol 182: 128-44. Davidson EA and Artaxo P. 2004. Globally significant changes in biological processes of the Amazon Basin: results of the Richey JE, Melack JM, Aufdenkampe AK, et al. 2002. Outgassing Large-scale Biosphere-Atmosphere Experiment. Glob Chang from Amazonian rivers and wetlands as a large tropical source of atmospheric COz. Nature 416: 617-20. Biol10: 519-29. Saleska, S.R., H.R. da Rocha, A.R. Huete et al. 2013. LBA-ECO CD- 32 Flux Tower Network Data Compilation, Brazilian Amazon: 1999-2006. ORNL DAAC, Oak Ridge, Tennessee, USA. Schaaf C and Wang Z. 2015. MCD43C1 MODIS/Terra+Aqua BRDF/AlbedoModel Parameters Daily L3 Global 0.05Deg CMG",
+        "type": "CompositeElement",
+        "metadata": {
+            "source": "Part_I_Cap_01_Cross Chapter 1 The Amazon Carbon Budget.pdf",
+            "part_name": "The Amazon as a Regional Entity of the Earth System",
+            "chapter_name": "Geology and Geodiversity of the Amazon: Three Billion Years of History",
+            "chapter_number": 1,
+            "chunk_seq": 56,
+            "parent_section_number": "44.5",
+            "parent_section_name": "Tg CH4 y-1. Interannual variations in the area of inundated habitats",
+            "page": 10,
+            "element_id": "552adde3e1d215577b43569e95d1e6b1"
+        }
+    },
+    {
+        "text": "V006 [Data set]. NASA EOSDIS Land Processes DAAC Hoorn C, Wesselingh FP, Steege H ter, et al. 2010. Amazonia https://Ipdaac.usgs.gov/products/mcd43c1v006/#citation. through time: Andean uplift, climate change, landscape evoSilva CVJ, Aragdo LEOC, Young PJ, et al. 2020. Estimating the multi-decadal carbon deficit of burned Amazonian forests. lution, and biodiversity. Science 330: 927-31. Feng L, Palmer PI, Bosch H, et al. 2017. Consistent regional fluxes of CH4 and CO2 inferred from GOSAT proxy",
+        "type": "CompositeElement",
+        "metadata": {
+            "source": "Part_I_Cap_01_Cross Chapter 1 The Amazon Carbon Budget.pdf",
+            "part_name": "The Amazon as a Regional Entity of the Earth System",
+            "chapter_name": "Geology and Geodiversity of the Amazon: Three Billion Years of History",
+            "chapter_number": 1,
+            "chunk_seq": 57,
+            "parent_section_number": "44.5",
+            "parent_section_name": "Tg CH4 y-1. Interannual variations in the area of inundated habitats",
+            "page": 10,
+            "element_id": "07abf848941466d089defae4ef1ec133"
+        }
+    },
+    {
+        "text": "Eva HD, Huber O., Achard F., et al. 2005. A proposal for defining the geographical boundaries of Amazonia [Synthesis of the results from an Expert Consultation Workshop organized by the European Commis-sion in collaboration with the Amazon Cooperation Treaty Organization-JRC Ispra, 7-8 June 2005]. Lux-embourg. Environ Res Lett 15: 114023. 8 Cross Chapter: The Amazon Carbon Budget Silva Junior CHL, Aragão LEOC, Anderson LO, et al. 2020. Persistent collapse of biomass in Amazonian forest edges following deforestation leads to unaccounted carbon losses. Sci Adv 6: eaaz8360. Smith CC, Espírito‐Santo FDB, Healey JR, et al. 2020. Secondary forests offset less than 10% of deforestation‐mediated carbon emissions in the Brazilian Amazon. Glob Chang Biol 26: 7006– 20.",
+        "type": "CompositeElement",
+        "metadata": {
+            "source": "Part_I_Cap_01_Cross Chapter 1 The Amazon Carbon Budget.pdf",
+            "part_name": "The Amazon as a Regional Entity of the Earth System",
+            "chapter_name": "Geology and Geodiversity of the Amazon: Three Billion Years of History",
+            "chapter_number": 1,
+            "chunk_seq": 58,
+            "parent_section_number": "44.5",
+            "parent_section_name": "Tg CH4 y-1. Interannual variations in the area of inundated habitats",
+            "page": 10,
+            "element_id": "44622f83e5cf0e5b2c009018025ae78d"
+        }
+    },
+    {
+        "text": "van der Werf, G.R, Randerson JT, Giglio L, et al. 2010. Global fire emissions and the contribution of deforestation, savanna, forest, agricultural, and peat fires (1997–2009). Atmos Chem Phys 10: 11707–35. van der Laan-Luijkx, I. T, Velde IR van der, Krol MC, et al. 2015. Response of the Amazon carbon balance to the 2010 drought derived with CarbonTracker South America. Global Biogeochem Cycles 29: 1092–108. Wilson C, Chipperfield MP, Gloor M, et al. 2021. Large and increasing methane emissions from eastern Amazonia derived from satellite data, 2010–2018. Atmos Chem Phys 21: 10643– 69.",
+        "type": "CompositeElement",
+        "metadata": {
+            "source": "Part_I_Cap_01_Cross Chapter 1 The Amazon Carbon Budget.pdf",
+            "part_name": "The Amazon as a Regional Entity of the Earth System",
+            "chapter_name": "Geology and Geodiversity of the Amazon: Three Billion Years of History",
+            "chapter_number": 1,
+            "chunk_seq": 59,
+            "parent_section_number": "44.5",
+            "parent_section_name": "Tg CH4 y-1. Interannual variations in the area of inundated habitats",
+            "page": 11,
+            "element_id": "d84cb7568a9c652cdcfa48e7d9f3bff2"
+        }
+    }
+]

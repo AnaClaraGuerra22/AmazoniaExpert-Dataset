@@ -1,0 +1,1997 @@
+[
+    {
+        "text": "Key Messages • Substantial evidence exists that environmental degradation can have acute and chronic impacts on human health. • Outbreaks and increased incidence of different emerging, re-emerging, and endemic infectious diseases in the Amazon are associated with environmental changes, driven by a range of factors such as rapid human population growth, urbanization, and/or economic development activities. Deforestation and associated degradation of forest and aquatic ecosystems may facilitate the spread of infectious diseases and increase the likelihood of emergence of new zoonotic diseases. The shortand long-term health impacts of fire-related air pollution and mercury contamination from deforestation, dams, and mining activities are also well-described.",
+        "type": "CompositeElement",
+        "metadata": {
+            "source": "Part_II_Cap_21_Human Well-Being and Health Impacts of the Degradation of Terrestrial and Aquatic Ecosystems.pdf",
+            "part_name": "Social-Ecological Transformations: Changes in the Amazon",
+            "chapter_name": "Human Well-Being and Health Impacts of the Degradation of Terrestrial and Aquatic Ecosystems",
+            "chapter_number": 21,
+            "chunk_seq": 1,
+            "parent_section_number": "21",
+            "parent_section_name": "Key Messages",
+            "page": 5,
+            "element_id": "10f6a575c0e30a53b984b6623d138cfa"
+        }
+    },
+    {
+        "text": "• Although we don’t know all of the detailed mechanisms of how synergistic impacts work, the evidence to date suggests an urgent need for action to avoid severe and persistent declines in human health and well-being due to environmental degradation throughout the Amazon. Abstract",
+        "type": "CompositeElement",
+        "metadata": {
+            "source": "Part_II_Cap_21_Human Well-Being and Health Impacts of the Degradation of Terrestrial and Aquatic Ecosystems.pdf",
+            "part_name": "Social-Ecological Transformations: Changes in the Amazon",
+            "chapter_name": "Human Well-Being and Health Impacts of the Degradation of Terrestrial and Aquatic Ecosystems",
+            "chapter_number": 21,
+            "chunk_seq": 2,
+            "parent_section_number": "21",
+            "parent_section_name": "Key Messages",
+            "page": 5,
+            "element_id": "93c96a66c07e0045dc54683023ec6472"
+        }
+    },
+    {
+        "text": "Terrestrial and aquatic ecosystems are the basis for ecosystem services, which play a crucial role in people’s livelihoods, human well-being, and health. Some of the most relevant and challenging current health problems in Amazonia are associated with deforestation and degradation of terrestrial and aquatic ecosystems, including the risk of contracting infectious diseases, respiratory and cardiovascular problems caused by exposure to smoke from forest fires, and mercury (Hg) contamination due to mining. Emergent, re-emergent, and endemic infectious diseases in the Amazon have all been associated with environmental changes driven by rapid human population growth and/or socioeconomic transition. Yet the relationship between forest conversion and fragmentation and the incidence of infectious disease is complex, scaledependent, and heavily modulated by socio-ecological feedbacks. Amazonia is also a region of exceptionally high (yet poorly known) diversity of viruses and viral",
+        "type": "CompositeElement",
+        "metadata": {
+            "source": "Part_II_Cap_21_Human Well-Being and Health Impacts of the Degradation of Terrestrial and Aquatic Ecosystems.pdf",
+            "part_name": "Social-Ecological Transformations: Changes in the Amazon",
+            "chapter_name": "Human Well-Being and Health Impacts of the Degradation of Terrestrial and Aquatic Ecosystems",
+            "chapter_number": 21,
+            "chunk_seq": 3,
+            "parent_section_number": "21",
+            "parent_section_name": "Key Messages",
+            "page": 5,
+            "element_id": "d0dd020fdd3aaa4247c6e1760661d107"
+        }
+    },
+    {
+        "text": "hosts, exacerbating the risks of potential zoonotic spillovers. Another major environmental and public health concern in the Amazon basin is mercury contamination resulting from gold mining, hydropower dams and deforestation. Not only are Amazon basin communities exposed to high Hg concentrations at risk of toxicological contamination, but environmental effects on fisheries and wildlife are seen throughout Amazonia. As a result, communities with high levels",
+        "type": "CompositeElement",
+        "metadata": {
+            "source": "Part_II_Cap_21_Human Well-Being and Health Impacts of the Degradation of Terrestrial and Aquatic Ecosystems.pdf",
+            "part_name": "Social-Ecological Transformations: Changes in the Amazon",
+            "chapter_name": "Human Well-Being and Health Impacts of the Degradation of Terrestrial and Aquatic Ecosystems",
+            "chapter_number": 21,
+            "chunk_seq": 4,
+            "parent_section_number": "21",
+            "parent_section_name": "Key Messages",
+            "page": 5,
+            "element_id": "752796d1e1e88929d2120e20610a19bc"
+        }
+    },
+    {
+        "text": "a Ecología del Paisaje y Modelación de Ecosistemas ECOLMOD, Departamento de Biología, Facultad de Ciencias, Universidad Nacional de Colombia Sede Bogotá, Colombia, armenterasp@unal.edu.co b Environmental Change Institute, School of Geography and the Environment, University of Oxford, OX1 3QY, Oxford, UK. erika.berenguer@ouce.ox.ac.uk c Lancaster Environment Centre, Lancaster University, LA1 4YQ, Lancaster, UK dInstituto Oswaldo Cruz (I0C), FIOCRUZ, Av. Brasil, 4365, Manguinhos, Rio de Janeiro RJ, d Instituto Oswaldo Cruz (IOC), FIOCRUZ, Av. Brasil, 4365, Manguinhos, Rio de Janeiro RJ, 21040-900, Brazil Brazil e State University of New York at Stony Brook, 100 Nicolls Rd, Stony Brook NY 11794, United States. f Institut de Recherche pour le Développement (IRD), MARBEC (Univ Montpellier, CNRS, IFREMER, IRD), Montpellier, France. g Universidad Peruana Cayetano Heredia, Latin American Center of Excellence for Climate Change and Health, San Martín de Porres, Peru.",
+        "type": "CompositeElement",
+        "metadata": {
+            "source": "Part_II_Cap_21_Human Well-Being and Health Impacts of the Degradation of Terrestrial and Aquatic Ecosystems.pdf",
+            "part_name": "Social-Ecological Transformations: Changes in the Amazon",
+            "chapter_name": "Human Well-Being and Health Impacts of the Degradation of Terrestrial and Aquatic Ecosystems",
+            "chapter_number": 21,
+            "chunk_seq": 5,
+            "parent_section_number": "21",
+            "parent_section_name": "Key Messages",
+            "page": 5,
+            "element_id": "4c93e7beb615c1cfd5b041ec3bcd3e8e"
+        }
+    },
+    {
+        "text": "h Woodwell Climate Research Center, Falmouth, USA / Amazon Environmental Research Center (IPAM), Brasilia, Brazil i Universidade Federal do Espírito Santo - UFES, Instituto de Estudos Climáticos, Vitória, Espírito Santo, Brazil Impacts of the Degradation of Terrestrial and Aquatic Ecosystems of fish consumption present some of the world’s highest recorded Hg levels. The impact of fires is also a big concern, since they emit large quantities of particulate matter and other pollutants that degrade air quality and affect human health, especially among vulnerable groups in the Amazon. Here we demonstrate that environmental degradation is also a socio-economic issue, affecting the health of millions of Amazonians and compromises the quality of life and human health of future generations. Keywords: human well-being, human health, environmental degradation, pollution, tropical disease.",
+        "type": "CompositeElement",
+        "metadata": {
+            "source": "Part_II_Cap_21_Human Well-Being and Health Impacts of the Degradation of Terrestrial and Aquatic Ecosystems.pdf",
+            "part_name": "Social-Ecological Transformations: Changes in the Amazon",
+            "chapter_name": "Human Well-Being and Health Impacts of the Degradation of Terrestrial and Aquatic Ecosystems",
+            "chapter_number": 21,
+            "chunk_seq": 6,
+            "parent_section_number": "21",
+            "parent_section_name": "Key Messages",
+            "page": 5,
+            "element_id": "3fa3b0ff85488bd08cc18f11eb2f8ce5"
+        }
+    },
+    {
+        "text": "According to the World Health Organization (WHO), health is “a state of complete physical, mental and social well-being”, going beyond the absence of disease or illness (World Health Organization 1947). Enjoying a clean and sustainable environment is critical for human health and well-being (European Environment Agency 2020) and preserving crucial regions, such as the Amazon Basin, is central to achieving this goal. However, quantifying the risks and impacts of environmental degradation to human health poses several methodological challenges, particularly when considering complex issues, such as mental health or social well-being. For example, the loss of culture, language, and traditions of Indigenous populations and traditional communities undoubtedly have a profound long-term impact on the well-being of already vulnerable populations (Athayde and SilvaLugo 2018; Damiani 2020), but these impacts are hard to measure. On the other hand, there is a substantial body of",
+        "type": "CompositeElement",
+        "metadata": {
+            "source": "Part_II_Cap_21_Human Well-Being and Health Impacts of the Degradation of Terrestrial and Aquatic Ecosystems.pdf",
+            "part_name": "Social-Ecological Transformations: Changes in the Amazon",
+            "chapter_name": "Human Well-Being and Health Impacts of the Degradation of Terrestrial and Aquatic Ecosystems",
+            "chapter_number": 21,
+            "chunk_seq": 7,
+            "parent_section_number": "21",
+            "parent_section_name": "Key Messages",
+            "page": 6,
+            "element_id": "66f688ca0b3233b52c512d0a0f95bf3e"
+        }
+    },
+    {
+        "text": "literature that specifically addresses the impacts of deforestation and environmental degradation on physical health (Ellwanger 2020; White and Razgour 2020), which will be the focus of this chapter. Here, we address physical health problems in the Amazon resulting from deforestation and the degradation of terrestrial and aquatic ecosystems, focusing on the risks of contracting infectious diseases, respiratory problems caused by fires, and mercury contamination due to pollution from illegal and legal gold mining activities.",
+        "type": "CompositeElement",
+        "metadata": {
+            "source": "Part_II_Cap_21_Human Well-Being and Health Impacts of the Degradation of Terrestrial and Aquatic Ecosystems.pdf",
+            "part_name": "Social-Ecological Transformations: Changes in the Amazon",
+            "chapter_name": "Human Well-Being and Health Impacts of the Degradation of Terrestrial and Aquatic Ecosystems",
+            "chapter_number": 21,
+            "chunk_seq": 8,
+            "parent_section_number": "21",
+            "parent_section_name": "Key Messages",
+            "page": 6,
+            "element_id": "a18071b530f10a162175df49d3e523da"
+        }
+    },
+    {
+        "text": "There are multiple drivers of deforestation and overall environmental degradation in the Amazon, including agricultural expansion, logging, fires, mining, urban expansion, and hydropower dams, among others (Kalamandeen 2018; Piotrowski",
+        "type": "CompositeElement",
+        "metadata": {
+            "source": "Part_II_Cap_21_Human Well-Being and Health Impacts of the Degradation of Terrestrial and Aquatic Ecosystems.pdf",
+            "part_name": "Social-Ecological Transformations: Changes in the Amazon",
+            "chapter_name": "Human Well-Being and Health Impacts of the Degradation of Terrestrial and Aquatic Ecosystems",
+            "chapter_number": 21,
+            "chunk_seq": 9,
+            "parent_section_number": "21",
+            "parent_section_name": "Key Messages",
+            "page": 6,
+            "element_id": "9fd108794d320545f8154cef5d817515"
+        }
+    },
+    {
+        "text": "2019). The type and level of degradation associated with each activity can have specific impacts on infectious disease transmission, particularly zoonotic and/or vector-borne diseases (Ellwanger 2020). They may also contribute to other health problems such as respiratory syndromes, waterborne diseases, and malnutrition (food insecurity). Processes related to these activities can have additional, often compounding impacts on well-being, many of which are beyond the scope of this chapter. For example, illegal logging and mining can lead to forced labor and human trade, drug use, and an increase in HIV and sexually transmitted diseases (Wagner and Hoang 2020). Increased population density in urban settings facilitates the transmission of respiratory infections, as seen with COVID-19 (Rader 2020) – which can be further exacerbated by poor air quality and exposure to smoke from biomass burning. Uncontrolled urbanization and the lack of sanitation and urban planning can also",
+        "type": "CompositeElement",
+        "metadata": {
+            "source": "Part_II_Cap_21_Human Well-Being and Health Impacts of the Degradation of Terrestrial and Aquatic Ecosystems.pdf",
+            "part_name": "Social-Ecological Transformations: Changes in the Amazon",
+            "chapter_name": "Human Well-Being and Health Impacts of the Degradation of Terrestrial and Aquatic Ecosystems",
+            "chapter_number": 21,
+            "chunk_seq": 10,
+            "parent_section_number": "21",
+            "parent_section_name": "Key Messages",
+            "page": 6,
+            "element_id": "06cf906b786cc2f06f1fdacbb65405d1"
+        }
+    },
+    {
+        "text": "increase the incidence of arboviruses and diarrheal diseases in growing Amazonian cities (Viana 2016; Lowe 2020). Finally, environmental degradation and urbanization can lead to food insecurity by undermining diverse, sustainable diets (Sundstrom 2014).",
+        "type": "CompositeElement",
+        "metadata": {
+            "source": "Part_II_Cap_21_Human Well-Being and Health Impacts of the Degradation of Terrestrial and Aquatic Ecosystems.pdf",
+            "part_name": "Social-Ecological Transformations: Changes in the Amazon",
+            "chapter_name": "Human Well-Being and Health Impacts of the Degradation of Terrestrial and Aquatic Ecosystems",
+            "chapter_number": 21,
+            "chunk_seq": 11,
+            "parent_section_number": "21",
+            "parent_section_name": "Key Messages",
+            "page": 6,
+            "element_id": "e725362ef2bfe5a6a7165d0f0c9aec0c"
+        }
+    },
+    {
+        "text": "21. 2 Impacts of deforestation on the diversity and spread of diseases Environmental changes in the Amazon -- particularly shifts in climate, microclimates, and land use -- have been repeatedly linked to the increased risk (and incidence) of emerging and re-emerging infectious diseases. Emerging diseases are those that have recently been discovered, while re-emerging diseases are those that were controlled in the past but have emerged as a problem once again. The incidence of emerging and re-emerging infectious",
+        "type": "CompositeElement",
+        "metadata": {
+            "source": "Part_II_Cap_21_Human Well-Being and Health Impacts of the Degradation of Terrestrial and Aquatic Ecosystems.pdf",
+            "part_name": "Social-Ecological Transformations: Changes in the Amazon",
+            "chapter_name": "Human Well-Being and Health Impacts of the Degradation of Terrestrial and Aquatic Ecosystems",
+            "chapter_number": 21,
+            "chunk_seq": 12,
+            "parent_section_number": "21",
+            "parent_section_name": "Key Messages",
+            "page": 6,
+            "element_id": "27e0ffbe2183e1b41e115b509d3ce72c"
+        }
+    },
+    {
+        "text": "Impacts of the Degradation of Terrestrial and Aquatic Ecosystems",
+        "type": "CompositeElement",
+        "metadata": {
+            "source": "Part_II_Cap_21_Human Well-Being and Health Impacts of the Degradation of Terrestrial and Aquatic Ecosystems.pdf",
+            "part_name": "Social-Ecological Transformations: Changes in the Amazon",
+            "chapter_name": "Human Well-Being and Health Impacts of the Degradation of Terrestrial and Aquatic Ecosystems",
+            "chapter_number": 21,
+            "chunk_seq": 13,
+            "parent_section_number": "21",
+            "parent_section_name": "Key Messages",
+            "page": 7,
+            "element_id": "f7e5d8162f5c5494a89c223ab2e9550f"
+        }
+    },
+    {
+        "text": "diseases in the Amazon is expected to rise with increased deforestation and anthropogenic climate change, but there are important factors and differences depending on the dynamics of each infectious agent. For example, vector-borne diseases such as malaria have received much attention because of their incidence, events of re-emergence, and important socio-ecological determinants of transmission and control. In contrast, the potential for emerging zoonotic diseases, particularly of viral origin, has received far less attention (Box 1). Surveillance for wildlife viruses has revealed the Amazon to be a hotspot of coronavirus diversity (Anthony 2017), for example, with essentially unknown risks for spillover to human populations. Rabies is perhaps the best documented viral zoonotic disease in the region (Gilbert 2012). Finally, while the risk of zoonotic acquisition of infectious diseases such as yellow fever is well-documented, less is known about the risk of environmental",
+        "type": "CompositeElement",
+        "metadata": {
+            "source": "Part_II_Cap_21_Human Well-Being and Health Impacts of the Degradation of Terrestrial and Aquatic Ecosystems.pdf",
+            "part_name": "Social-Ecological Transformations: Changes in the Amazon",
+            "chapter_name": "Human Well-Being and Health Impacts of the Degradation of Terrestrial and Aquatic Ecosystems",
+            "chapter_number": 21,
+            "chunk_seq": 14,
+            "parent_section_number": "21",
+            "parent_section_name": "Key Messages",
+            "page": 7,
+            "element_id": "c28d5cd276b9cde2648fadef28c3da2a"
+        }
+    },
+    {
+        "text": "change generating human-to-wildlife spillbacks, establishing wildlife reservoirs for other arboviruses (e.g., the causal agents of dengue fever, chikungunya, and zika) (Valentine 2019), or even of SARS-CoV-2 (Botto 2020). Here, we summarize the literature on the association between environmental change and risks from emerging and re-emerging infectious diseases in the Amazon.",
+        "type": "CompositeElement",
+        "metadata": {
+            "source": "Part_II_Cap_21_Human Well-Being and Health Impacts of the Degradation of Terrestrial and Aquatic Ecosystems.pdf",
+            "part_name": "Social-Ecological Transformations: Changes in the Amazon",
+            "chapter_name": "Human Well-Being and Health Impacts of the Degradation of Terrestrial and Aquatic Ecosystems",
+            "chapter_number": 21,
+            "chunk_seq": 15,
+            "parent_section_number": "21",
+            "parent_section_name": "Key Messages",
+            "page": 7,
+            "element_id": "5122212160f8b761e05fa5cad1f03486"
+        }
+    },
+    {
+        "text": "21.2.1 Malaria Decades of work on deforestation and malaria in the Amazon have yielded evidence for non-linear, scale-dependent relationships with disease incidence (Laporta 2019), and important feedbacks from disease incidence to deforestation (MacDonald and Mordecai 2019). Analyses of the density of Anopheles darlingi, the main malaria vector in South America, show a positive relationship with recent deforestation (Vittor 2006, 2009; Burkett-Cadena and Vittor 2018), suggesting that forest clearing could increase the risk of malaria near forest edges. In regions with consolidated human settlements, however, the incidence of malaria is positively correlated with forest cover (Valle and Clark 2013; Valle and Tucker Lima 2014). This apparent nonlinearity can be explained in part by A.",
+        "type": "CompositeElement",
+        "metadata": {
+            "source": "Part_II_Cap_21_Human Well-Being and Health Impacts of the Degradation of Terrestrial and Aquatic Ecosystems.pdf",
+            "part_name": "Social-Ecological Transformations: Changes in the Amazon",
+            "chapter_name": "Human Well-Being and Health Impacts of the Degradation of Terrestrial and Aquatic Ecosystems",
+            "chapter_number": 21,
+            "chunk_seq": 16,
+            "parent_section_number": "21.2.1",
+            "parent_section_name": "Malaria",
+            "page": 7,
+            "element_id": "f4f7438f9292c5b966e7c84f1f3d56ad"
+        }
+    },
+    {
+        "text": "darlingi’s ecology, which favors forest edges, translating into increased malaria risk in both newly deforested areas (Barros and Honório 2015; Terrazas et al. 2015) and forest patches in urban areas. Malaria transmission has been associated with several factors: (1) legal and illegal mining with high human exposure to mosquito bites, human movement and extensive environmental changes (Ferreira and Castro 2016); (2) expansion of agricultural frontiers, leading to deforestation, land-use changes and human invasion in forested areas (Chaves et al. 2018), (3) discontinuity of malaria control programmes in poorly accessed remote areas (Terrazas et al. 2015); and (4) ecological factors, which can drastically increase vector abundance, such as fish farms in rural, periurban and urban areas (dos Reis et al. 2015).",
+        "type": "CompositeElement",
+        "metadata": {
+            "source": "Part_II_Cap_21_Human Well-Being and Health Impacts of the Degradation of Terrestrial and Aquatic Ecosystems.pdf",
+            "part_name": "Social-Ecological Transformations: Changes in the Amazon",
+            "chapter_name": "Human Well-Being and Health Impacts of the Degradation of Terrestrial and Aquatic Ecosystems",
+            "chapter_number": 21,
+            "chunk_seq": 17,
+            "parent_section_number": "21.2.1",
+            "parent_section_name": "Malaria",
+            "page": 7,
+            "element_id": "78ba15b3a715d525a56bc59ec3870e83"
+        }
+    },
+    {
+        "text": "Socioeconomic factors, including the hours of human activity and migration patterns, may also play important roles in modulating risk and disease outcomes. For example, crepuscular activities before dawn or at sunset were associated with higher risk of malaria in the Peruvian Amazon (Andersen 2000), highlighting strong interactions between vector ecology and human activities. Likewise, at a different spatial scale, the presence of both gold mining and higher rural incomes were linked to higher malaria incidence in Brazil (Valle and Tucker Lima 2014), demonstrating how rapid environmental change coupled with economic development can increase exposure to vectors of infectious diseases. Finally, at the scale of the Brazilian Amazon as a whole, recent work suggests a complex, bidirectional relationship between malaria risk and deforestation. Although deforestation significantly increased malaria transmission (a 10% increase in deforestation led to a 3.3% increase in malaria",
+        "type": "CompositeElement",
+        "metadata": {
+            "source": "Part_II_Cap_21_Human Well-Being and Health Impacts of the Degradation of Terrestrial and Aquatic Ecosystems.pdf",
+            "part_name": "Social-Ecological Transformations: Changes in the Amazon",
+            "chapter_name": "Human Well-Being and Health Impacts of the Degradation of Terrestrial and Aquatic Ecosystems",
+            "chapter_number": 21,
+            "chunk_seq": 18,
+            "parent_section_number": "21.2.1",
+            "parent_section_name": "Malaria",
+            "page": 7,
+            "element_id": "1df7fe11f19ff88b47c49996397771d8"
+        }
+    },
+    {
+        "text": "incidence), a high malaria burden simultaneously reduced forest clearing (a 1% increase in malaria incidence led to a 1.4% decrease in deforestation). The latter was presumably associated with changes in human behavior, economic activity, migration, and settlement, and the strength of the interaction attenuated as land use intensified (MacDonald and Mordecai 2019). Such complex socioecological feedbacks are still poorly understood,",
+        "type": "CompositeElement",
+        "metadata": {
+            "source": "Part_II_Cap_21_Human Well-Being and Health Impacts of the Degradation of Terrestrial and Aquatic Ecosystems.pdf",
+            "part_name": "Social-Ecological Transformations: Changes in the Amazon",
+            "chapter_name": "Human Well-Being and Health Impacts of the Degradation of Terrestrial and Aquatic Ecosystems",
+            "chapter_number": 21,
+            "chunk_seq": 19,
+            "parent_section_number": "21.2.1",
+            "parent_section_name": "Malaria",
+            "page": 7,
+            "element_id": "6d540dad058517565005a8f3f5d8333e"
+        }
+    },
+    {
+        "text": "Impacts of the Degradation of Terrestrial and Aquatic Ecosystems but they underscore the intimate relationship between environmental change and human health.",
+        "type": "CompositeElement",
+        "metadata": {
+            "source": "Part_II_Cap_21_Human Well-Being and Health Impacts of the Degradation of Terrestrial and Aquatic Ecosystems.pdf",
+            "part_name": "Social-Ecological Transformations: Changes in the Amazon",
+            "chapter_name": "Human Well-Being and Health Impacts of the Degradation of Terrestrial and Aquatic Ecosystems",
+            "chapter_number": 21,
+            "chunk_seq": 20,
+            "parent_section_number": "21.2.1",
+            "parent_section_name": "Malaria",
+            "page": 7,
+            "element_id": "46f63c563d76be4aced0c5cb3abd6396"
+        }
+    },
+    {
+        "text": "21.2.2 Chagas Although less studied than anophelines that transmit malaria, the vectors for Chagas disease (i.e., the triatomine bugs Rhodnius and Triatoma) also respond to environmental changes. At the interface between human settlements and forest habitats. Chagas vectors appear to have quickly adapted to makeshift settlements, leading to a positive correlation between forest fragmentation and disease incidence (Brito 2017). Urbanized environments, however, are not completely exempt from transmission despite the lack of forest cover. This is because Chagas may be acquired orally via ingestion of contaminated fruit juices, such as açaí and bacaba. It is still unclear whether these juices become contaminated due to the presence of bug feces or because infected bugs themselves are mixed in with the fruit during food preparation (Valente 2009; Beltrão 2009; Sousa Júnior 2017). Thus, new",
+        "type": "CompositeElement",
+        "metadata": {
+            "source": "Part_II_Cap_21_Human Well-Being and Health Impacts of the Degradation of Terrestrial and Aquatic Ecosystems.pdf",
+            "part_name": "Social-Ecological Transformations: Changes in the Amazon",
+            "chapter_name": "Human Well-Being and Health Impacts of the Degradation of Terrestrial and Aquatic Ecosystems",
+            "chapter_number": 21,
+            "chunk_seq": 21,
+            "parent_section_number": "21.2.2",
+            "parent_section_name": "Chagas",
+            "page": 8,
+            "element_id": "a9699830f26eb1f08855e48a95edff43"
+        }
+    },
+    {
+        "text": "21.1 Neglected Viruses in the Amazon Cecilia S. Andreazzi forest settlements experience sylvatic Chagas cycles, but more urbanized settlements —which would be expected to have lower vector abundances due to higher temperatures and low forest cover (Brito 2017) — experience outbreaks from a different epidemiological mechanism (Ellwanger 2020).",
+        "type": "CompositeElement",
+        "metadata": {
+            "source": "Part_II_Cap_21_Human Well-Being and Health Impacts of the Degradation of Terrestrial and Aquatic Ecosystems.pdf",
+            "part_name": "Social-Ecological Transformations: Changes in the Amazon",
+            "chapter_name": "Human Well-Being and Health Impacts of the Degradation of Terrestrial and Aquatic Ecosystems",
+            "chapter_number": 21,
+            "chunk_seq": 22,
+            "parent_section_number": "21.1",
+            "parent_section_name": "Neglected Viruses in the Amazon",
+            "page": 8,
+            "element_id": "597eeba2399803ba3d5c9348d991093a"
+        }
+    },
+    {
+        "text": "21.2.3 American Cutaneous Leishmaniasis Socioecological interactions are also evident for Leishmaniasis, another important and neglected vector-borne disease in the Amazon. Like malaria, environmental factors such as deforestation may correlate positively with the incidence of Cutaneous Leishmaniasis (Olalla 2015; GonçalvesOliveira 2019), but at least one study has found decreasing incidence as a function of forest loss (Rodrigues et al. 2019). Socioeconomic factors, and a strong dependence on longer-term landscape trajectories might explain these conflicting results. For example, across Amazonian municipalities, cutaneous leishmaniasis decreases with health",
+        "type": "CompositeElement",
+        "metadata": {
+            "source": "Part_II_Cap_21_Human Well-Being and Health Impacts of the Degradation of Terrestrial and Aquatic Ecosystems.pdf",
+            "part_name": "Social-Ecological Transformations: Changes in the Amazon",
+            "chapter_name": "Human Well-Being and Health Impacts of the Degradation of Terrestrial and Aquatic Ecosystems",
+            "chapter_number": 21,
+            "chunk_seq": 23,
+            "parent_section_number": "21.2.3",
+            "parent_section_name": "American Cutaneous Leishmaniasis",
+            "page": 8,
+            "element_id": "9deeaee6ebcbc53970eea919059b77f8"
+        }
+    },
+    {
+        "text": "Outbreaks of febrile disease and hemorrhagic fevers have fostered virology research in the Amazon region and provided opportunities to find new viruses in humans and animals. Arthropod-borne viruses (arboviruses) research in the Amazon region started in the beginning of the 20th century, led by the Rockefeller Foundation research program to understand and control yellow fever (Downs 1982). Over the past seven decades, studies conducted in the Brazilian Amazon have already isolated and characterized around 220 different arboviruses species, which is remarkable considering that there are around 500 species registered in the International Catalog of Arboviruses (Medeiros et al. 2019). Several evidence of orthohantaviruses and mammarenaviruses have also been identified in the Amazon region (Gimaque et al. 2012; Fernandes et al. 2020; Delgado et al. 2008; Terças-Trettel et al. 2019; Medeiros et al. 2010; Oliveira et al. 2014). Such large numbers of viruses can be explained by the large",
+        "type": "CompositeElement",
+        "metadata": {
+            "source": "Part_II_Cap_21_Human Well-Being and Health Impacts of the Degradation of Terrestrial and Aquatic Ecosystems.pdf",
+            "part_name": "Social-Ecological Transformations: Changes in the Amazon",
+            "chapter_name": "Human Well-Being and Health Impacts of the Degradation of Terrestrial and Aquatic Ecosystems",
+            "chapter_number": 21,
+            "chunk_seq": 24,
+            "parent_section_number": "21.2.3",
+            "parent_section_name": "American Cutaneous Leishmaniasis",
+            "page": 8,
+            "element_id": "14dc10816d84f594157beb1a343a96b1"
+        }
+    },
+    {
+        "text": "biodiversity of both arthropod vectors and vertebrate hosts, as well as by the huge variety of ecological conditions that maintain and promote virus biodiversity (Rosa 2016; Medeiros et al. 2019). Despite the enthusiastic efforts of Latin American scientists (Rosa 2016), such viruses are underdiagnosed and neglected by health systems, despite being the most common infections among the world's poorest people (Hotez et al. 2008). Here, we describe some of these viruses found in Amazonia in more detail and evaluate the possibility of disease emergence in the region.",
+        "type": "CompositeElement",
+        "metadata": {
+            "source": "Part_II_Cap_21_Human Well-Being and Health Impacts of the Degradation of Terrestrial and Aquatic Ecosystems.pdf",
+            "part_name": "Social-Ecological Transformations: Changes in the Amazon",
+            "chapter_name": "Human Well-Being and Health Impacts of the Degradation of Terrestrial and Aquatic Ecosystems",
+            "chapter_number": 21,
+            "chunk_seq": 25,
+            "parent_section_number": "21.2.3",
+            "parent_section_name": "American Cutaneous Leishmaniasis",
+            "page": 8,
+            "element_id": "1c3ff9b69b8da29684c5f6363ef8fef1"
+        }
+    },
+    {
+        "text": "Arboviruses are generally transmitted by arthropod vectors to their vertebrate host and circulate among wild animals, serving as reservoirs in the sylvatic life cycle. The most frequent hematophagous arthropods that may serve as arbovirus vectors include mosquitoes, ticks, sandflies, midges, and Impacts of the Degradation of Terrestrial and Aquatic Ecosystems Box",
+        "type": "CompositeElement",
+        "metadata": {
+            "source": "Part_II_Cap_21_Human Well-Being and Health Impacts of the Degradation of Terrestrial and Aquatic Ecosystems.pdf",
+            "part_name": "Social-Ecological Transformations: Changes in the Amazon",
+            "chapter_name": "Human Well-Being and Health Impacts of the Degradation of Terrestrial and Aquatic Ecosystems",
+            "chapter_number": 21,
+            "chunk_seq": 26,
+            "parent_section_number": "21.2.3",
+            "parent_section_name": "American Cutaneous Leishmaniasis",
+            "page": 8,
+            "element_id": "ee40c92324f2f7be62a2622989109b4a"
+        }
+    },
+    {
+        "text": "21.1 Neglected Viruses in the Amazon (cont.)",
+        "type": "CompositeElement",
+        "metadata": {
+            "source": "Part_II_Cap_21_Human Well-Being and Health Impacts of the Degradation of Terrestrial and Aquatic Ecosystems.pdf",
+            "part_name": "Social-Ecological Transformations: Changes in the Amazon",
+            "chapter_name": "Human Well-Being and Health Impacts of the Degradation of Terrestrial and Aquatic Ecosystems",
+            "chapter_number": 21,
+            "chunk_seq": 27,
+            "parent_section_number": "21.1",
+            "parent_section_name": "Neglected Viruses in the Amazon (cont.)",
+            "page": 8,
+            "element_id": "ee40c92324f2f7be62a2622989109b4a"
+        }
+    },
+    {
+        "text": "possibly mites (Medeiros et al. 2019). Through spillover transmission from enzootic amplification cycles, humans can be infected as incidental and dead-end hosts (Vasconcelos et al. 1991). By contrast, some arboviruses undergo an urban cycle involving humans as amplifying hosts and have caused several epidemics in urban areas (Medeiros et al. 2019). Most of the arboviruses that cause human/animal diseases belong to the Togaviridae, Flaviviridae, Reoviridae and Rhabdoviridae virus families and to the Bunyavirales order (Figueiredo 2007; Kuhn et al. 2020). Infections in humans and animals could range from subclinical or mild to encephalic or hemorrhagic, with a significant proportion of fatalities. Thirty-six arboviruses have been associated with human disease in the Amazonian region; seven of them are important in public health and are involved in epidemics. They are dengue, Chikungunya, Zika, Mayaro, Oropouche, Rocio, and yellow fever viruses (Rosa 2016). Other important",
+        "type": "CompositeElement",
+        "metadata": {
+            "source": "Part_II_Cap_21_Human Well-Being and Health Impacts of the Degradation of Terrestrial and Aquatic Ecosystems.pdf",
+            "part_name": "Social-Ecological Transformations: Changes in the Amazon",
+            "chapter_name": "Human Well-Being and Health Impacts of the Degradation of Terrestrial and Aquatic Ecosystems",
+            "chapter_number": 21,
+            "chunk_seq": 28,
+            "parent_section_number": "21.1",
+            "parent_section_name": "Neglected Viruses in the Amazon (cont.)",
+            "page": 9,
+            "element_id": "003829223f70351a3dc7b6d9a3fbb795"
+        }
+    },
+    {
+        "text": "arboviruses are those associated with encephalitis, which in the Amazon are represented by the equine encephalitis viruses (Eastern, Western, and Venezuelan) and the Saint Louis encephalitis virus. Aside from these, several other arboviruses have been isolated from cases of acute febrile illness, including many species of the orthobunyavirus genus (Ellwanger et al. 2020; Vasconcelos et al. 2001).",
+        "type": "CompositeElement",
+        "metadata": {
+            "source": "Part_II_Cap_21_Human Well-Being and Health Impacts of the Degradation of Terrestrial and Aquatic Ecosystems.pdf",
+            "part_name": "Social-Ecological Transformations: Changes in the Amazon",
+            "chapter_name": "Human Well-Being and Health Impacts of the Degradation of Terrestrial and Aquatic Ecosystems",
+            "chapter_number": 21,
+            "chunk_seq": 29,
+            "parent_section_number": "21.1",
+            "parent_section_name": "Neglected Viruses in the Amazon (cont.)",
+            "page": 9,
+            "element_id": "40ccf2e6fd93834ef8b23543325e3f0d"
+        }
+    },
+    {
+        "text": "Viral hemorrhagic fevers are highly lethal diseases that produce hemorrhagic disorders and fluid leakage syndromes, with or without capillary damage, which affect the liver, kidneys, and central nervous system (Bausch and Ksiazek 2002). Viral transmission to humans occurs through the bite of an infected arthropod (which includes some arboviruses), or inhalation of particles from the excreta of infected rodents (Figueiredo 2006). More than 25 different viruses from six families are related to hemorrhagic fevers worldwide. In the Amazon region, Flaviviridae (hemorrhagic dengue / dengue shock syndrome and yellow fever), Arenaviridae (arenavirus hemorrhagic fevers) and Hantaviridae (hantavirus pulmonary syndrome) hemorrhagic fevers deserves special attention (Figueiredo 2006).",
+        "type": "CompositeElement",
+        "metadata": {
+            "source": "Part_II_Cap_21_Human Well-Being and Health Impacts of the Degradation of Terrestrial and Aquatic Ecosystems.pdf",
+            "part_name": "Social-Ecological Transformations: Changes in the Amazon",
+            "chapter_name": "Human Well-Being and Health Impacts of the Degradation of Terrestrial and Aquatic Ecosystems",
+            "chapter_number": 21,
+            "chunk_seq": 30,
+            "parent_section_number": "21.1",
+            "parent_section_name": "Neglected Viruses in the Amazon (cont.)",
+            "page": 9,
+            "element_id": "7b6c90ec758134dcc5e0eba40d10c392"
+        }
+    },
+    {
+        "text": "As unsustainable economic activities increasingly expand over the Amazon, so does the risk of contact between humans and vectors/reservoirs of zoonotic disease agents including arboviruses, orthohantaviruses, mammarenaviruses and rabies. There is evidence showing that construction of the Tucuruí hydroelectric dam in the Tocantins River led to the emergence of almost 40 arboviruses, 30 of them described for the first time after the dam construction (Vasconcelos et al. 2001). Experts list a number of viruses of concern that have the potential to emerge or increase incidence in the Amazon due to increased human migration and interference in the region. Those include the Flaviviridae (yellow fever, dengue, and hepatitis C viruses), Bunyavirales (orthohantavirus, Oropouche, and some hemorrhagic fever viruses), Rhabdoviridae (rabies virus), Togaviridae (Chikungunya and Mayaro viruses), Papillomaviridae (human papillomavirus), Hepadnaviridae (hepatitis B virus), Orthomyxoviridae",
+        "type": "CompositeElement",
+        "metadata": {
+            "source": "Part_II_Cap_21_Human Well-Being and Health Impacts of the Degradation of Terrestrial and Aquatic Ecosystems.pdf",
+            "part_name": "Social-Ecological Transformations: Changes in the Amazon",
+            "chapter_name": "Human Well-Being and Health Impacts of the Degradation of Terrestrial and Aquatic Ecosystems",
+            "chapter_number": 21,
+            "chunk_seq": 31,
+            "parent_section_number": "21.1",
+            "parent_section_name": "Neglected Viruses in the Amazon (cont.)",
+            "page": 9,
+            "element_id": "ebe4b7f211fc1ed70d8acf894505a14d"
+        }
+    },
+    {
+        "text": "(Influenza virus), Coronaviridae (severe acute respiratory syndrome coronavirus), Kolmioviridae (Hepatitis delta virus), and Retroviridae (human T-cell lymphotropic virus) (do Vale Gomes et al. 2009). One of the main challenges involved in early detection, prevention, and mitigation of emerging viruses in the Pan-Amazonian region is the lack of molecular diagnosis in the syndromic surveillance of febrile diseases. Many infections result in similar symptoms and because there is a high diversity of prevalent viruses such as Dengue, it is crucial to improve local health units, implementing sentinel areas and systematic monitoring of viral circulation in humans, vectors, and reservoirs. An integrated surveillance, monitoring and networking system with strong intersectoral collaboration and coordination between animal, human health and environmental sectors is necessary to prevent, control, and mitigate emerging diseases (Andreazzi et al. 2020).",
+        "type": "CompositeElement",
+        "metadata": {
+            "source": "Part_II_Cap_21_Human Well-Being and Health Impacts of the Degradation of Terrestrial and Aquatic Ecosystems.pdf",
+            "part_name": "Social-Ecological Transformations: Changes in the Amazon",
+            "chapter_name": "Human Well-Being and Health Impacts of the Degradation of Terrestrial and Aquatic Ecosystems",
+            "chapter_number": 21,
+            "chunk_seq": 32,
+            "parent_section_number": "21.1",
+            "parent_section_name": "Neglected Viruses in the Amazon (cont.)",
+            "page": 9,
+            "element_id": "414959f7041dd26a81c7884e274d65e3"
+        }
+    },
+    {
+        "text": "Impacts of the Degradation of Terrestrial and Aquatic Ecosystems system effectiveness (Rodrigues et al. 2019). The introduction of domestic animals into recently settled areas may also contribute to the acclimation of vectors to human landscapes, increasing disease risks from deforestation (Rosário 2016). Thus, nonlinear relationships between forest loss and disease risk are mediated by their interactions with a diverse vector fauna and local health systems.",
+        "type": "CompositeElement",
+        "metadata": {
+            "source": "Part_II_Cap_21_Human Well-Being and Health Impacts of the Degradation of Terrestrial and Aquatic Ecosystems.pdf",
+            "part_name": "Social-Ecological Transformations: Changes in the Amazon",
+            "chapter_name": "Human Well-Being and Health Impacts of the Degradation of Terrestrial and Aquatic Ecosystems",
+            "chapter_number": 21,
+            "chunk_seq": 33,
+            "parent_section_number": "21.1",
+            "parent_section_name": "Neglected Viruses in the Amazon (cont.)",
+            "page": 9,
+            "element_id": "c73d7a655122a0f47fcc9e0b4bb14dec"
+        }
+    },
+    {
+        "text": "21.2.4 Emergence of new diseases",
+        "type": "CompositeElement",
+        "metadata": {
+            "source": "Part_II_Cap_21_Human Well-Being and Health Impacts of the Degradation of Terrestrial and Aquatic Ecosystems.pdf",
+            "part_name": "Social-Ecological Transformations: Changes in the Amazon",
+            "chapter_name": "Human Well-Being and Health Impacts of the Degradation of Terrestrial and Aquatic Ecosystems",
+            "chapter_number": 21,
+            "chunk_seq": 34,
+            "parent_section_number": "21.2.4",
+            "parent_section_name": "Emergence of new diseases",
+            "page": 10,
+            "element_id": "d91a3988c3aa2ca7a2d16b5db3b556ad"
+        }
+    },
+    {
+        "text": "Surveillance efforts to identify hotspots of zoonotic coronaviruses with spillover potential have flagged the Amazon as a region with an exceptionally high, yet poorly known, diversity of viral hosts and viruses (Anthony et al. 2017). Increased human population densities also increase the potential for zoonotic spillovers (Olival et al. 2017). Risk predictions were originally based on bat species richness, after finding both alphaand beta-coronaviruses in a few bat species, notably the virus subfamily including the human pathogens that cause SARS, MERS and SARS-CoV-2 (Anthony et al. 2017). Other viruses also circulate in the Amazon region and present serious risks of widespread outbreaks, including the Rocio, Oropouche, Mayaro and Saint Louis arboviruses (Vasconcelos 2001; Araújo 2019) as well as hantaviruses (Guterres 2015) and arenaviruses (Bausch and Mills 2014). Given the scant record, our understanding of the potential for land-use change to increase spillover risk",
+        "type": "CompositeElement",
+        "metadata": {
+            "source": "Part_II_Cap_21_Human Well-Being and Health Impacts of the Degradation of Terrestrial and Aquatic Ecosystems.pdf",
+            "part_name": "Social-Ecological Transformations: Changes in the Amazon",
+            "chapter_name": "Human Well-Being and Health Impacts of the Degradation of Terrestrial and Aquatic Ecosystems",
+            "chapter_number": 21,
+            "chunk_seq": 35,
+            "parent_section_number": "21.2.4",
+            "parent_section_name": "Emergence of new diseases",
+            "page": 10,
+            "element_id": "bbf65c67887b980f8c45f648be1912dc"
+        }
+    },
+    {
+        "text": "Nevertheless, global surveillance for viruses of zoonotic potential offers key lessons for preventing future zoonotic spillovers. Because the diversity of viruses in wild animal populations is vast, but spillover potential for most viruses is limited, close surveillance of infectious diseases in the human population is an effective way to avert future pandemics (Holmes 2018; Carlson 2020). Region-wide improvements to public health services, would also reduce the burden of well-known pathogens such as Plasmodium or Leishmania, and are necessary to reduce the risk of viral emergence from wild populations. While the Amazon harbors a hyper diverse range of hosts and diverse communities of viruses of unknown human pathogenic potential, preventing a catastrophic pandemic requires implementing strategies that will improve human health more broadly.",
+        "type": "CompositeElement",
+        "metadata": {
+            "source": "Part_II_Cap_21_Human Well-Being and Health Impacts of the Degradation of Terrestrial and Aquatic Ecosystems.pdf",
+            "part_name": "Social-Ecological Transformations: Changes in the Amazon",
+            "chapter_name": "Human Well-Being and Health Impacts of the Degradation of Terrestrial and Aquatic Ecosystems",
+            "chapter_number": 21,
+            "chunk_seq": 36,
+            "parent_section_number": "21.2.4",
+            "parent_section_name": "Emergence of new diseases",
+            "page": 10,
+            "element_id": "af0d5712aecb5ec57422454b742a1115"
+        }
+    },
+    {
+        "text": "One global coronavirus pandemic, COVID-19 has reminded the world about the risks of zoonotic spillovers. However, the potential for spillback from humans to wildlife is just as important for biodiversity (Nuñez et al. 2020). Decades of research on vector-borne arboviruses have already revealed the consequences of spillback. Outside the Amazon, in Espírito Santo (Brazil), a yellow fever outbreak killing dozens of non-human primates prompted an early public health response to vaccinate people (Fernandes 2017). Although a chain of transmission has not been established among wild primates, sylvatic mosquitoes harboring the recently introduced Chikungunya and Zika viruses have been documented, indicating a plausible risk to wildlife (Valentine 2019). The finding that endemic Aotus Night-Monkeys do not contract dengue after exposure to infected mosquitoes in Iquitos suggests that dengue transmission remains confined to humans and insect vectors rather than generating a sylvatic",
+        "type": "CompositeElement",
+        "metadata": {
+            "source": "Part_II_Cap_21_Human Well-Being and Health Impacts of the Degradation of Terrestrial and Aquatic Ecosystems.pdf",
+            "part_name": "Social-Ecological Transformations: Changes in the Amazon",
+            "chapter_name": "Human Well-Being and Health Impacts of the Degradation of Terrestrial and Aquatic Ecosystems",
+            "chapter_number": 21,
+            "chunk_seq": 37,
+            "parent_section_number": "21.2.4",
+            "parent_section_name": "Emergence of new diseases",
+            "page": 10,
+            "element_id": "1ab604acbb8df53de31cf94b6efa8bc9"
+        }
+    },
+    {
+        "text": "cycle (Valentine 2019). As with the risk of zoonotic emergence, averting the establishment of zoonotic reservoirs for arboviruses requires sustained investments in public health, including the necessary tools to diagnose the diversity of viruses circulating in the human population. As the COVID-19 crisis has revealed, public health infrastructure is woefully inadequate throughout the Amazon (de Castro 2020; Navarro 2020), emphasizing the need to consider socioecological risks arising from human migration, contact with wildlife and disease vectors, and deforestation.",
+        "type": "CompositeElement",
+        "metadata": {
+            "source": "Part_II_Cap_21_Human Well-Being and Health Impacts of the Degradation of Terrestrial and Aquatic Ecosystems.pdf",
+            "part_name": "Social-Ecological Transformations: Changes in the Amazon",
+            "chapter_name": "Human Well-Being and Health Impacts of the Degradation of Terrestrial and Aquatic Ecosystems",
+            "chapter_number": 21,
+            "chunk_seq": 38,
+            "parent_section_number": "21.2.4",
+            "parent_section_name": "Emergence of new diseases",
+            "page": 10,
+            "element_id": "18d318e354dd2439c123ec256fdf5342"
+        }
+    },
+    {
+        "text": "21.3 Impacts of mercury contamination from mining on human health Between 2000 and 2010, the price of gold quadrupled, stimulating gold mining activities in Amazonia (Swenson 2011; Alvarez-Berríos and Aide 2015), with severe environmental consequences for terrestrial and aquatic ecosystems in the region Impacts of the Degradation of Terrestrial and Aquatic Ecosystems",
+        "type": "CompositeElement",
+        "metadata": {
+            "source": "Part_II_Cap_21_Human Well-Being and Health Impacts of the Degradation of Terrestrial and Aquatic Ecosystems.pdf",
+            "part_name": "Social-Ecological Transformations: Changes in the Amazon",
+            "chapter_name": "Human Well-Being and Health Impacts of the Degradation of Terrestrial and Aquatic Ecosystems",
+            "chapter_number": 21,
+            "chunk_seq": 39,
+            "parent_section_number": "21.3",
+            "parent_section_name": "Impacts of mercury contamination from mining on human health",
+            "page": 10,
+            "element_id": "b56ac4b827b58e7ccac912853847eb6c"
+        }
+    },
+    {
+        "text": "(See Chapter 19 and Chapter 20, respectively). Gold mining sites are commonly associated with contamination by several elements, including arsenic (As), cobalt (Co), lead (Pb), manganese (Mn), and zinc (Zn) (Filho and Maddock 1997; Pereira 2020). These elements are associated with a variety of adverse health effects elsewhere, including childhood mortality. However, the impacts of these elements and compounds on human health in Amazonia are still largely unknown. It is estimated that there are 453 illegal mining sites in the Brazilian Amazon and more than 2500 for the entire Amazonian basin (Basta et al. 2021; RAISG 2020). The main impact of gold mines on human health is mercury (Hg) contamination – a result of both legal and illegal mining. Communities living near gold mining operations are exposed to harmful Hg concentrations released during gold extraction and discharged into waterways, soils, and the atmosphere (Gibb and O’Leary 2014). Once the inorganic metallic",
+        "type": "CompositeElement",
+        "metadata": {
+            "source": "Part_II_Cap_21_Human Well-Being and Health Impacts of the Degradation of Terrestrial and Aquatic Ecosystems.pdf",
+            "part_name": "Social-Ecological Transformations: Changes in the Amazon",
+            "chapter_name": "Human Well-Being and Health Impacts of the Degradation of Terrestrial and Aquatic Ecosystems",
+            "chapter_number": 21,
+            "chunk_seq": 40,
+            "parent_section_number": "21.3",
+            "parent_section_name": "Impacts of mercury contamination from mining on human health",
+            "page": 11,
+            "element_id": "454ad2641a927eaa02b8a397a0c34b9e"
+        }
+    },
+    {
+        "text": "mercury is released by anthropogenic activities, it is transformed into its more toxic organic form (methylmercury, MeHg) by specific bacteria, usually in anoxic conditions. This process of mercury methylation allows MeHg to enter aquatic food webs, where it may accumulate in individual organisms (bioaccumulation) or be magnified as it moves into higher trophic levels (e.g., biomagnification in predatory fish) (Morel 1998; Ullrich 2001) and can affect fish that are of great importance for food security of local communities (Diringer 2015), (Box 2).",
+        "type": "CompositeElement",
+        "metadata": {
+            "source": "Part_II_Cap_21_Human Well-Being and Health Impacts of the Degradation of Terrestrial and Aquatic Ecosystems.pdf",
+            "part_name": "Social-Ecological Transformations: Changes in the Amazon",
+            "chapter_name": "Human Well-Being and Health Impacts of the Degradation of Terrestrial and Aquatic Ecosystems",
+            "chapter_number": 21,
+            "chunk_seq": 41,
+            "parent_section_number": "21.3",
+            "parent_section_name": "Impacts of mercury contamination from mining on human health",
+            "page": 11,
+            "element_id": "1322ade3c87939ba170e2f8525b75714"
+        }
+    },
+    {
+        "text": "Despite the lack of systematic analyses, studies from Colombia, Peru, and Bolivia over the course of the last 20 years have documented mercury poisoning even in remote Indigenous populations. Kayabi populations from the Teles Pires River, in the Brazilian Amazon, presented 12.7 μg/g of mercury in their hair, while the Munduruku from the Tapajós River, also in the Brazilian Amazon, presented levels ranging between 1.4 to 23.9μg/g (Dórea et al. 2005; Basta et al. 2021). The internationally recommended limit of hair mercury concentration varying from 1-2 μg/g (WHO 1990). Similar studies were conducted in populations in the Caquetá River basin in the Colombian Amazon, with 79% of individuals with mercury levels in their hair greater than 10 μg/g (Olivero-Verbel 2016).",
+        "type": "CompositeElement",
+        "metadata": {
+            "source": "Part_II_Cap_21_Human Well-Being and Health Impacts of the Degradation of Terrestrial and Aquatic Ecosystems.pdf",
+            "part_name": "Social-Ecological Transformations: Changes in the Amazon",
+            "chapter_name": "Human Well-Being and Health Impacts of the Degradation of Terrestrial and Aquatic Ecosystems",
+            "chapter_number": 21,
+            "chunk_seq": 42,
+            "parent_section_number": "21.3",
+            "parent_section_name": "Impacts of mercury contamination from mining on human health",
+            "page": 11,
+            "element_id": "83175ad0dd5095edbff8b7f88da32187"
+        }
+    },
+    {
+        "text": "Further, mercury exposure can be toxic even at very low doses, and the toxicological effects of MeHg are of special public health concern, given its capacity to cross the placenta and the blood-brain barrier (Rice 2014). MeHg reaches high levels in both maternal and fetal circulation, with the potential to cause irreversible damage to child development, including decreased intellectual and motor capacity (Gibb and O’Leary 2014). Studies investigating associations between Hg levels in hair and neuropsychological performance found strong links between mercury and cognitive deficiencies in children and adolescents across the Amazon, including the Madeira (Santos-Lima 2020) and Tapajós rivers in Brazil (Grandjean 1999) and the Madre de Dios region in Peru (Reuben 2020). The World Health Organization recommends the monitoring of MeHg concentration in pregnant women’s hair and argues that the level of 10 μg/g or above can increase the risk of fetal neurological effects (Alhib-",
+        "type": "CompositeElement",
+        "metadata": {
+            "source": "Part_II_Cap_21_Human Well-Being and Health Impacts of the Degradation of Terrestrial and Aquatic Ecosystems.pdf",
+            "part_name": "Social-Ecological Transformations: Changes in the Amazon",
+            "chapter_name": "Human Well-Being and Health Impacts of the Degradation of Terrestrial and Aquatic Ecosystems",
+            "chapter_number": 21,
+            "chunk_seq": 43,
+            "parent_section_number": "21.3",
+            "parent_section_name": "Impacts of mercury contamination from mining on human health",
+            "page": 11,
+            "element_id": "b57cef33f00748b46856c73ce72ce41e"
+        }
+    },
+    {
+        "text": "shi 2012). Hg can also impact the health of adults, as it affects the nervous, digestive, renal, and cardiovascular systems. Central nervous system effects include depression and extreme irritability; hallucinations and memory loss; tremors affecting the hands, head, lips, and tongue; blindness, retinopathy, and optic neuropathy; hearing loss; and a reduced sense of smell (WHO 2008). Minamata disease was recently confirmed in Amazonian communities -- a result of exposure to high levels of MeHg, with symptoms including tremors, insomnia, anxiety, altered tactile and vibration sensations, and visual perimeter deficit.",
+        "type": "CompositeElement",
+        "metadata": {
+            "source": "Part_II_Cap_21_Human Well-Being and Health Impacts of the Degradation of Terrestrial and Aquatic Ecosystems.pdf",
+            "part_name": "Social-Ecological Transformations: Changes in the Amazon",
+            "chapter_name": "Human Well-Being and Health Impacts of the Degradation of Terrestrial and Aquatic Ecosystems",
+            "chapter_number": 21,
+            "chunk_seq": 44,
+            "parent_section_number": "21.3",
+            "parent_section_name": "Impacts of mercury contamination from mining on human health",
+            "page": 11,
+            "element_id": "24bdf94c1b58b863670e65d47636d5ea"
+        }
+    },
+    {
+        "text": "21.4 Impacts of forest fires on air quality and human health Both deforestation and forest fires emit large quantities of particulate matter and other pollutants to the atmosphere. This degrades air quality, affecting human health, especially among vulnerable groups, such as young children (Smith 2015). The dry season is the most critical period for pop Impacts of the Degradation of Terrestrial and Aquatic Ecosystems",
+        "type": "CompositeElement",
+        "metadata": {
+            "source": "Part_II_Cap_21_Human Well-Being and Health Impacts of the Degradation of Terrestrial and Aquatic Ecosystems.pdf",
+            "part_name": "Social-Ecological Transformations: Changes in the Amazon",
+            "chapter_name": "Human Well-Being and Health Impacts of the Degradation of Terrestrial and Aquatic Ecosystems",
+            "chapter_number": 21,
+            "chunk_seq": 45,
+            "parent_section_number": "21.4",
+            "parent_section_name": "Impacts of forest fires on air quality and human health",
+            "page": 11,
+            "element_id": "40ddf7a1fead31f9f0bd1d2568cec270"
+        }
+    },
+    {
+        "text": "21.2 Food security and fisheries Fabrice Duponchelle, Sebastian Heilpern, Marcia Macedo, David McGrath",
+        "type": "CompositeElement",
+        "metadata": {
+            "source": "Part_II_Cap_21_Human Well-Being and Health Impacts of the Degradation of Terrestrial and Aquatic Ecosystems.pdf",
+            "part_name": "Social-Ecological Transformations: Changes in the Amazon",
+            "chapter_name": "Human Well-Being and Health Impacts of the Degradation of Terrestrial and Aquatic Ecosystems",
+            "chapter_number": 21,
+            "chunk_seq": 46,
+            "parent_section_number": "21.2",
+            "parent_section_name": "Food security and fisheries",
+            "page": 12,
+            "element_id": "912eaa2cfe70e16bfa2ed0c98fb52e23"
+        }
+    },
+    {
+        "text": "Fish historically have great societal importance as one of the main sources of protein and other essential animal-derived nutrients (e.g., fatty acids, iron, zinc) for people of the Amazon (Veríssimo 1895). They accounted for up to 75% of the vertebrate species consumed in early human settlements (750 to 1020 A.D.) in Brazil, for example (Prestes-Carneiro et al. 2016). The long cultural and socioeconomic dependence on fish is also illustrated by the fact that fishing was one of the first subsistence and economic activities in the Amazon (Furtado 1981; Erickson 2000; Blatrix et al. 2018). Today, even outside professional fisher communities, most Amazonians living in riverbank cities and riverine communities have some members of the family engaged in this activity (Cerdeira et al. 2000; Agudelo Córdoba et al. 2006; Doria et al. 2016). Fishing is not always a core activity but can complement other productive activities that sustain livelihoods such as farming, animal husbandry, and",
+        "type": "CompositeElement",
+        "metadata": {
+            "source": "Part_II_Cap_21_Human Well-Being and Health Impacts of the Degradation of Terrestrial and Aquatic Ecosystems.pdf",
+            "part_name": "Social-Ecological Transformations: Changes in the Amazon",
+            "chapter_name": "Human Well-Being and Health Impacts of the Degradation of Terrestrial and Aquatic Ecosystems",
+            "chapter_number": 21,
+            "chunk_seq": 47,
+            "parent_section_number": "21.2",
+            "parent_section_name": "Food security and fisheries",
+            "page": 12,
+            "element_id": "a28cc064be4ebec3ef5e6df96d622e04"
+        }
+    },
+    {
+        "text": "harvesting of natural products (Agudelo Córdoba et al. 2000; Cerdeira et al. 2000). Floodplain fisheries often act as safety nets for many Indigenous and poor rural communities who turn to fish more than to forest products when faced with adversity (Coomes et al. 2010).",
+        "type": "CompositeElement",
+        "metadata": {
+            "source": "Part_II_Cap_21_Human Well-Being and Health Impacts of the Degradation of Terrestrial and Aquatic Ecosystems.pdf",
+            "part_name": "Social-Ecological Transformations: Changes in the Amazon",
+            "chapter_name": "Human Well-Being and Health Impacts of the Degradation of Terrestrial and Aquatic Ecosystems",
+            "chapter_number": 21,
+            "chunk_seq": 48,
+            "parent_section_number": "21.2",
+            "parent_section_name": "Food security and fisheries",
+            "page": 12,
+            "element_id": "075d77c721547220937a68fe1576163a"
+        }
+    },
+    {
+        "text": "The importance of fish to Amazonians is also emphasized by some of the world’s highest consumption rates, although they can vary substantially across river basins (Isaac and Almeida 2011); with conservation status and isolation of the region (Isaac et al. 2015; Van Vliet et al. 2015); or with cultural and regional preferences (Begossi et al. 2019). The average per capita rate ranges from 30-40 kg year-1 for urban populations and from 70-200 kg year-1 for rural populations (Batista 1998; Isaac and Almeida 2011; Doria et al. 2016; Doria et al. 2018; Isaac et al. 2015). These per capita rates are well above the world average of ~ 20 kg year-1 (Tacon and Metian 2013) and the recommendation by the World Health Organization of 12 kg year-1.",
+        "type": "CompositeElement",
+        "metadata": {
+            "source": "Part_II_Cap_21_Human Well-Being and Health Impacts of the Degradation of Terrestrial and Aquatic Ecosystems.pdf",
+            "part_name": "Social-Ecological Transformations: Changes in the Amazon",
+            "chapter_name": "Human Well-Being and Health Impacts of the Degradation of Terrestrial and Aquatic Ecosystems",
+            "chapter_number": 21,
+            "chunk_seq": 49,
+            "parent_section_number": "21.2",
+            "parent_section_name": "Food security and fisheries",
+            "page": 12,
+            "element_id": "08e556f303c94e7506be700697b73739"
+        }
+    },
+    {
+        "text": "Estimates indicate that ~ 600,000 tons year-1 of fish are consumed in the Brazilian Amazon (Isaac and Almeida 2011) and 29,000 tons year-1 in the Colombian Amazon (Agudelo Córdoba 2015). This represents three times the total commercial landings reported for the Amazon basin as a whole (173,000 to 199,000 tons year-1, Bayley and Petrere 1989; Barthem and Goulding 2007). Although part of this consumption could be accounted for by marine fisheries and aquaculture in the large Amazonian cities, these figures clearly indicate that in the Amazon basin (as in other tropical freshwater fisheries), unreported subsistence catches are strongly underestimated (Fluet-Chouinard et al. 2018) and may be of the same order of magnitude as commercial fish landings (Tello-Martín and Bayley 2001; Crampton et al. 2004). Another figure illustrates the importance of fish for the food security of Amazonian people: in the Brazilian Amazon alone, the fisheries sector directly employs 168,000 people and",
+        "type": "CompositeElement",
+        "metadata": {
+            "source": "Part_II_Cap_21_Human Well-Being and Health Impacts of the Degradation of Terrestrial and Aquatic Ecosystems.pdf",
+            "part_name": "Social-Ecological Transformations: Changes in the Amazon",
+            "chapter_name": "Human Well-Being and Health Impacts of the Degradation of Terrestrial and Aquatic Ecosystems",
+            "chapter_number": 21,
+            "chunk_seq": 50,
+            "parent_section_number": "21.2",
+            "parent_section_name": "Food security and fisheries",
+            "page": 12,
+            "element_id": "31be0d6204c674c81b558ff3679cc613"
+        }
+    },
+    {
+        "text": "generates a total yearly income of up to US $200 million (Petrere 1992; Barthem et al. 1997).",
+        "type": "CompositeElement",
+        "metadata": {
+            "source": "Part_II_Cap_21_Human Well-Being and Health Impacts of the Degradation of Terrestrial and Aquatic Ecosystems.pdf",
+            "part_name": "Social-Ecological Transformations: Changes in the Amazon",
+            "chapter_name": "Human Well-Being and Health Impacts of the Degradation of Terrestrial and Aquatic Ecosystems",
+            "chapter_number": 21,
+            "chunk_seq": 51,
+            "parent_section_number": "21.2",
+            "parent_section_name": "Food security and fisheries",
+            "page": 12,
+            "element_id": "88c992781cfb81b4a4cc710f54900335"
+        }
+    },
+    {
+        "text": "Although declines in total fish biomass have yet to be documented conclusively, signs of overexploitation are evident in changes to fish biodiversity. In Brazil, for example, large tambaqui are virtually absent near urban centres (Tregidgo et al. 2017). These ongoing changes in biodiversity have two implications for food security. First, changes in species composition reflect a sequential replacement of large and high-biomass species such as catfish and boquichico with smaller, faster growing species. This pattern of “fishing down a size” could result in declining long-term resilience, and eventual biomass collapses (Heilpern et al. 2021a). The second implication for food security is that fish provide people with a variety of nutrients beyond protein, but they vary in nutritional quality (Tacon and Metian",
+        "type": "CompositeElement",
+        "metadata": {
+            "source": "Part_II_Cap_21_Human Well-Being and Health Impacts of the Degradation of Terrestrial and Aquatic Ecosystems.pdf",
+            "part_name": "Social-Ecological Transformations: Changes in the Amazon",
+            "chapter_name": "Human Well-Being and Health Impacts of the Degradation of Terrestrial and Aquatic Ecosystems",
+            "chapter_number": 21,
+            "chunk_seq": 52,
+            "parent_section_number": "21.2",
+            "parent_section_name": "Food security and fisheries",
+            "page": 12,
+            "element_id": "f5c6ea1ca58790c11d4097f37060939e"
+        }
+    },
+    {
+        "text": "Impacts of the Degradation of Terrestrial and Aquatic Ecosystems Box",
+        "type": "CompositeElement",
+        "metadata": {
+            "source": "Part_II_Cap_21_Human Well-Being and Health Impacts of the Degradation of Terrestrial and Aquatic Ecosystems.pdf",
+            "part_name": "Social-Ecological Transformations: Changes in the Amazon",
+            "chapter_name": "Human Well-Being and Health Impacts of the Degradation of Terrestrial and Aquatic Ecosystems",
+            "chapter_number": 21,
+            "chunk_seq": 53,
+            "parent_section_number": "21.2",
+            "parent_section_name": "Food security and fisheries",
+            "page": 13,
+            "element_id": "8ae840b028d7a4ff02b80838ead419d5"
+        }
+    },
+    {
+        "text": "21.2 Food security and fisheries (cont.) 2013; Khalili Tilami and Samples 2018; Hicks et al. 2019). By changing biodiversity, anthropogenic threats to freshwater ecosystems may affect both the amount of nutrients available to people and the probability of meeting nutritional adequacy (Heilpern et al. 2021a).",
+        "type": "CompositeElement",
+        "metadata": {
+            "source": "Part_II_Cap_21_Human Well-Being and Health Impacts of the Degradation of Terrestrial and Aquatic Ecosystems.pdf",
+            "part_name": "Social-Ecological Transformations: Changes in the Amazon",
+            "chapter_name": "Human Well-Being and Health Impacts of the Degradation of Terrestrial and Aquatic Ecosystems",
+            "chapter_number": 21,
+            "chunk_seq": 54,
+            "parent_section_number": "21.2",
+            "parent_section_name": "Food security and fisheries (cont.)",
+            "page": 13,
+            "element_id": "8ae840b028d7a4ff02b80838ead419d5"
+        }
+    },
+    {
+        "text": "Increased urbanization in the Amazon basin is also shifting food habits. While riverine communities still consume high amounts of wild-caught fish and some bushmeat, urban and peri-urban communities are consuming higher proportions of aquaculture-fish, chicken and other derivative products (Nardoto et al. 2011; Van Vliet et al. 2015, Pettigrew et al., 2019, Oestreicher et al. 2020). Such changes in the food habits of Amazonian people, together with reduced diversity in the fish species consumed, could exacerbate existing nutritional deficiencies since farmed animal foods can have lower nutritional value, particularly omega-3 fatty acids and minerals (e.g., iron, selenium; Heilpern et al. 2021b, Pettigrew et al. 2019).",
+        "type": "CompositeElement",
+        "metadata": {
+            "source": "Part_II_Cap_21_Human Well-Being and Health Impacts of the Degradation of Terrestrial and Aquatic Ecosystems.pdf",
+            "part_name": "Social-Ecological Transformations: Changes in the Amazon",
+            "chapter_name": "Human Well-Being and Health Impacts of the Degradation of Terrestrial and Aquatic Ecosystems",
+            "chapter_number": 21,
+            "chunk_seq": 55,
+            "parent_section_number": "21.2",
+            "parent_section_name": "Food security and fisheries (cont.)",
+            "page": 13,
+            "element_id": "1d172d9043017b548e54853255037aef"
+        }
+    },
+    {
+        "text": "The shift to domesticated sources of animal foods has another profound implication for food security – a shift from subsistence, wild-caught foods to foods that are more capital intensive and depend on access to cash. Because they are less affordable, this shift can ultimately affect livelihoods and access to healthy diets. Compounding these issues, the nutritional transition to a more industrialized diet is also associated with higher fat and sugar intake, which can exacerbate the dual burden of malnutrition and obesity playing out through the Amazon.",
+        "type": "CompositeElement",
+        "metadata": {
+            "source": "Part_II_Cap_21_Human Well-Being and Health Impacts of the Degradation of Terrestrial and Aquatic Ecosystems.pdf",
+            "part_name": "Social-Ecological Transformations: Changes in the Amazon",
+            "chapter_name": "Human Well-Being and Health Impacts of the Degradation of Terrestrial and Aquatic Ecosystems",
+            "chapter_number": 21,
+            "chunk_seq": 56,
+            "parent_section_number": "21.2",
+            "parent_section_name": "Food security and fisheries (cont.)",
+            "page": 13,
+            "element_id": "14d21ea203bf9be77cb35c660e48d3c9"
+        }
+    },
+    {
+        "text": "ulation exposure to smoke from fires - particulate matter levels during these months (Figure 1) are usually well above the World Health Organisation’s recommended levels. Emergency room visits increase during the dry season, especially among children under the age of 10. They are positively correlated with PM2.5 concentrations (i.e., particulate matter <2.5 micrometers in diameter), which correspond to fine particles present in smoke (Mascarenhas 2008). Fine particles can remain in the atmosphere for up to one week and may be transported far downwind to urban areas, where they may impact the health of populations far from the fire origin (Freitas 2005; Liana Anderson and Marchezini 2020).",
+        "type": "CompositeElement",
+        "metadata": {
+            "source": "Part_II_Cap_21_Human Well-Being and Health Impacts of the Degradation of Terrestrial and Aquatic Ecosystems.pdf",
+            "part_name": "Social-Ecological Transformations: Changes in the Amazon",
+            "chapter_name": "Human Well-Being and Health Impacts of the Degradation of Terrestrial and Aquatic Ecosystems",
+            "chapter_number": 21,
+            "chunk_seq": 57,
+            "parent_section_number": "21.2",
+            "parent_section_name": "Food security and fisheries (cont.)",
+            "page": 13,
+            "element_id": "8727e12a0e28b6c15d76dcc127f7e23b"
+        }
+    },
+    {
+        "text": "Other components of smoke are PM10 (i.e., particulate matter <10 micrometers in diameter), soot and Black Carbon – all of which are also very toxic to humans. PM10, for example, has the potential to cause DNA damage and cell death (Alves 2020), leading to the development of PM10-mediated lung cancer (Alves et al., 2017). These inhalable particles were classified as class 1 carcinogens in 2016 (IARC Working Group on The Evaluation Of",
+        "type": "CompositeElement",
+        "metadata": {
+            "source": "Part_II_Cap_21_Human Well-Being and Health Impacts of the Degradation of Terrestrial and Aquatic Ecosystems.pdf",
+            "part_name": "Social-Ecological Transformations: Changes in the Amazon",
+            "chapter_name": "Human Well-Being and Health Impacts of the Degradation of Terrestrial and Aquatic Ecosystems",
+            "chapter_number": 21,
+            "chunk_seq": 58,
+            "parent_section_number": "21.2",
+            "parent_section_name": "Food security and fisheries (cont.)",
+            "page": 13,
+            "element_id": "62de535b79cc4a13fd0b9125b48b1f9e"
+        }
+    },
+    {
+        "text": "Carcinogenic Risks To Humans; International Agency For Research On Cancer 2016). They can penetrate the alveolar regions of the lung, pass through the cell membrane, reach the bloodstream, and accumulate in other organs. PM2.5 and Black Carbon are associated with reduced lung function in children 6 to 15 years old (Jacobson 2012; 2013; 2014). School children from municipalities with high levels of deforestation, and therefore exposed to deforestation fires and smoke, have a high asthma prevalence (Rosa et al. 2009; Farias et al. 2010). Smoke can also affect children’s well-being indirectly, for example, by reducing outdoor time and, thus, compromising cognitive development. Pregnant women are also highly vulnerable to smoke pollution. Silva et al. (2014) showed that exposure to PM2.5 and carbon monoxide (CO) from biomass burning during the second and third trimesters of pregnancy increased the incidence of low birth weight by 50%. This is consistent with previous studies",
+        "type": "CompositeElement",
+        "metadata": {
+            "source": "Part_II_Cap_21_Human Well-Being and Health Impacts of the Degradation of Terrestrial and Aquatic Ecosystems.pdf",
+            "part_name": "Social-Ecological Transformations: Changes in the Amazon",
+            "chapter_name": "Human Well-Being and Health Impacts of the Degradation of Terrestrial and Aquatic Ecosystems",
+            "chapter_number": 21,
+            "chunk_seq": 59,
+            "parent_section_number": "21.2",
+            "parent_section_name": "Food security and fisheries (cont.)",
+            "page": 13,
+            "element_id": "952fac4262b5fbd1e1feae6d71cc0480"
+        }
+    },
+    {
+        "text": "demonstrating that the exposure of pregnant women to deforestation and forest fires during pregnancy may increase the risk of premature birth and jeopardize the child's development.",
+        "type": "CompositeElement",
+        "metadata": {
+            "source": "Part_II_Cap_21_Human Well-Being and Health Impacts of the Degradation of Terrestrial and Aquatic Ecosystems.pdf",
+            "part_name": "Social-Ecological Transformations: Changes in the Amazon",
+            "chapter_name": "Human Well-Being and Health Impacts of the Degradation of Terrestrial and Aquatic Ecosystems",
+            "chapter_number": 21,
+            "chunk_seq": 60,
+            "parent_section_number": "21.2",
+            "parent_section_name": "Food security and fisheries (cont.)",
+            "page": 13,
+            "element_id": "092c2bc7daccb3b983df757eef3b4e0e"
+        }
+    },
+    {
+        "text": "Impacts of the Degradation of Terrestrial and Aquatic Ecosystems Figure",
+        "type": "CompositeElement",
+        "metadata": {
+            "source": "Part_II_Cap_21_Human Well-Being and Health Impacts of the Degradation of Terrestrial and Aquatic Ecosystems.pdf",
+            "part_name": "Social-Ecological Transformations: Changes in the Amazon",
+            "chapter_name": "Human Well-Being and Health Impacts of the Degradation of Terrestrial and Aquatic Ecosystems",
+            "chapter_number": 21,
+            "chunk_seq": 61,
+            "parent_section_number": "21.2",
+            "parent_section_name": "Food security and fisheries (cont.)",
+            "page": 13,
+            "element_id": "2f0158e1dade4a9fa34746ef20748b8f"
+        }
+    },
+    {
+        "text": "21.1 Smoke plume and particulate matter circulation (PM2.5, PM10) over South America and Amazonia (black limits - limit adopted by SPA for the Amazon basin) in May 2019 (left panels) and August 2019 (right panels). Sources: Copernicus (2020) limit and WCS-Venticinque et al. (2016). Aquatic Ecolimits - (2020) Impacts of the Degradation of Terrestrial and Aquatic Ecosystems",
+        "type": "CompositeElement",
+        "metadata": {
+            "source": "Part_II_Cap_21_Human Well-Being and Health Impacts of the Degradation of Terrestrial and Aquatic Ecosystems.pdf",
+            "part_name": "Social-Ecological Transformations: Changes in the Amazon",
+            "chapter_name": "Human Well-Being and Health Impacts of the Degradation of Terrestrial and Aquatic Ecosystems",
+            "chapter_number": 21,
+            "chunk_seq": 62,
+            "parent_section_number": "21.1",
+            "parent_section_name": "Smoke plume and particulate matter circulation (PM2.5, PM10) over South America and Amazonia (black",
+            "page": 13,
+            "element_id": "2f0158e1dade4a9fa34746ef20748b8f"
+        }
+    },
+    {
+        "text": "21.5 Interactions between impacts The drivers of terrestrial and aquatic ecosystem degradation in the Amazon can have synergistic impacts on human well-being. Interactions among drivers and impacts of degradation are complex phenomena affecting people and biodiversity via multiple, context-specific pathways. For example, gold mining and logging introduce environmental degradation that facilitates the transmission of vector-borne diseases such as malaria (Galardo 2013; Adhin 2014a; Sanchez 2017), Leishmaniasis (Rotureau 2006; Loiseau 2019), Hantaviruses (Terças-Trettel 2019) and even Chagas disease (Almeida 2009). Historically, such activities also attract large numbers of immigrants from non-endemic regions (Godfrey 1992), many of whom are susceptible and immunologically naïve (Bury 2007). If large outbreaks and epidemics take place, insecticide and antimicrobial resistance can follow if drug use is not controlled (Adhin 2014b).",
+        "type": "CompositeElement",
+        "metadata": {
+            "source": "Part_II_Cap_21_Human Well-Being and Health Impacts of the Degradation of Terrestrial and Aquatic Ecosystems.pdf",
+            "part_name": "Social-Ecological Transformations: Changes in the Amazon",
+            "chapter_name": "Human Well-Being and Health Impacts of the Degradation of Terrestrial and Aquatic Ecosystems",
+            "chapter_number": 21,
+            "chunk_seq": 63,
+            "parent_section_number": "21.5",
+            "parent_section_name": "Interactions between impacts",
+            "page": 15,
+            "element_id": "b2cced03c2d07b1b4d20fb3acd664035"
+        }
+    },
+    {
+        "text": "Insecticide resistance arising from excessive use of pesticides in croplands (Schiesari and Grillitsch 2011) can spill over to other vector populations as well (Schiesari 2013). New ecological niches are created that pave the way for the introduction of disease vectors that are well-adapted and can sustain diseases over the long term (Vittor 2006, 2009). Heavy metal poisoning, alcohol and drug use and abuse, prostitution, and human trafficking can further exacerbate conditions, decreasing human well-being (Terrazas et al. 2015). Local Indigenous populations are affected, and many are displaced and forced to leave or clash with illegal settlers (Terrazas et al. 2015). Variations of these scenarios have been observed clearly in Madre de Dios, Peru, the Guiana Shield, the various gold mining sites in the Brazilian state of Pará, and in Yanomami Lands in Roraima, Brazil (Reuters 2021; Terrazas 2015). Countless areas of the Amazon replicate similar conditions at a smaller scale.",
+        "type": "CompositeElement",
+        "metadata": {
+            "source": "Part_II_Cap_21_Human Well-Being and Health Impacts of the Degradation of Terrestrial and Aquatic Ecosystems.pdf",
+            "part_name": "Social-Ecological Transformations: Changes in the Amazon",
+            "chapter_name": "Human Well-Being and Health Impacts of the Degradation of Terrestrial and Aquatic Ecosystems",
+            "chapter_number": 21,
+            "chunk_seq": 64,
+            "parent_section_number": "21.5",
+            "parent_section_name": "Interactions between impacts",
+            "page": 15,
+            "element_id": "05e388d9ca7beb101ceb53041f3eb0e2"
+        }
+    },
+    {
+        "text": "Land transformation for agriculture creates a similar setting for the encroaching of “frontier” malaria (Bourke et al. 2018) and possibly Leishmaniasis. Several studies have shown that populations close to forest edges, such as those engaged in gold mining (Hacon 2020) are at higher risk of contracting infectious diseases due to their increased contact with vectors and hosts (Ellwanger 2020). Over time, large-scale industrial agriculture exacerbates climate change, increases contamination by pesticides (Schiesari and Grillitsch 2011; Schiesari 2013), and reduces the diversity of the food supply. These factors contribute to the double burden of malnutrition and increased risk of obesity and cardiovascular disease later in life (Oresund 2008).",
+        "type": "CompositeElement",
+        "metadata": {
+            "source": "Part_II_Cap_21_Human Well-Being and Health Impacts of the Degradation of Terrestrial and Aquatic Ecosystems.pdf",
+            "part_name": "Social-Ecological Transformations: Changes in the Amazon",
+            "chapter_name": "Human Well-Being and Health Impacts of the Degradation of Terrestrial and Aquatic Ecosystems",
+            "chapter_number": 21,
+            "chunk_seq": 65,
+            "parent_section_number": "21.5",
+            "parent_section_name": "Interactions between impacts",
+            "page": 15,
+            "element_id": "6a628243790072a7050a28f02e1ac73a"
+        }
+    },
+    {
+        "text": "Roads and even rivers eventually facilitate the transit of Aedes mosquitoes to colonize small and previously difficult-to-reach towns and settlements (Guagliardo 2014; Sinti-Hesse 2019). Forest fire exposure introduces acute respiratory conditions and can also induce long-term vulnerabilities such as asthma (D’Amato 2015; Rappold 2017). Among cases of Covid-19 (Box 3), many of these comorbidities have severely increased the risk of adverse outcomes and may have contributed to the devastating impact of the pandemic in the Amazon basin (Filho 2017).",
+        "type": "CompositeElement",
+        "metadata": {
+            "source": "Part_II_Cap_21_Human Well-Being and Health Impacts of the Degradation of Terrestrial and Aquatic Ecosystems.pdf",
+            "part_name": "Social-Ecological Transformations: Changes in the Amazon",
+            "chapter_name": "Human Well-Being and Health Impacts of the Degradation of Terrestrial and Aquatic Ecosystems",
+            "chapter_number": 21,
+            "chunk_seq": 66,
+            "parent_section_number": "21.5",
+            "parent_section_name": "Interactions between impacts",
+            "page": 15,
+            "element_id": "234ebf8c29f08cab3138826b4020f6f5"
+        }
+    },
+    {
+        "text": "Many of the synergies described above have been in place for decades. For example, the gold rush in Madre de Dios dates back to the 1930s. Such synergies have often magnified the inequities that historically plagued the Amazon basin within each country (Dávalos 2020). What is different today is the magnitude and scale of degradation already inflicted, their cumulative effects, and the declining potential to reverse these processes. Decades of degradation have led the Amazon to a critical point today, generating an urgent need to implement integrated strategies and actions for addressing these challenges. The recent growth in the number and extent of drivers of deforestation has further contributed to this critical scenario.",
+        "type": "CompositeElement",
+        "metadata": {
+            "source": "Part_II_Cap_21_Human Well-Being and Health Impacts of the Degradation of Terrestrial and Aquatic Ecosystems.pdf",
+            "part_name": "Social-Ecological Transformations: Changes in the Amazon",
+            "chapter_name": "Human Well-Being and Health Impacts of the Degradation of Terrestrial and Aquatic Ecosystems",
+            "chapter_number": 21,
+            "chunk_seq": 67,
+            "parent_section_number": "21.5",
+            "parent_section_name": "Interactions between impacts",
+            "page": 15,
+            "element_id": "688493253c0a83ac032d76d274ba1ef2"
+        }
+    },
+    {
+        "text": "26.6 Uncertainties and knowledge gaps Complex relationships prevent broad generalizations about the comprehensive impact of environmental degradation on human well-being and health. While extensive evidence exists, it is often Impacts of the Degradation of Terrestrial and Aquatic Ecosystems Box",
+        "type": "CompositeElement",
+        "metadata": {
+            "source": "Part_II_Cap_21_Human Well-Being and Health Impacts of the Degradation of Terrestrial and Aquatic Ecosystems.pdf",
+            "part_name": "Social-Ecological Transformations: Changes in the Amazon",
+            "chapter_name": "Human Well-Being and Health Impacts of the Degradation of Terrestrial and Aquatic Ecosystems",
+            "chapter_number": 21,
+            "chunk_seq": 68,
+            "parent_section_number": "26.6",
+            "parent_section_name": "Uncertainties and knowledge gaps",
+            "page": 15,
+            "element_id": "ba21a99f8ccbecfc16498bf07f59bb23"
+        }
+    },
+    {
+        "text": "21.3 The impact of COVID-19 in the Amazon region Cecilia S. Andreazzi, Tatiana C. Neves and Cláudia T. Codeço",
+        "type": "CompositeElement",
+        "metadata": {
+            "source": "Part_II_Cap_21_Human Well-Being and Health Impacts of the Degradation of Terrestrial and Aquatic Ecosystems.pdf",
+            "part_name": "Social-Ecological Transformations: Changes in the Amazon",
+            "chapter_name": "Human Well-Being and Health Impacts of the Degradation of Terrestrial and Aquatic Ecosystems",
+            "chapter_number": 21,
+            "chunk_seq": 69,
+            "parent_section_number": "21.3",
+            "parent_section_name": "The impact of COVID-19 in the Amazon region",
+            "page": 15,
+            "element_id": "ba21a99f8ccbecfc16498bf07f59bb23"
+        }
+    },
+    {
+        "text": "In December 2019, after investigations on a sudden increase in the number of pneumonia cases in the city of Wuhan, Hubei province, China, it was discovered a new emergent respiratory viral disease caused by a previously unknown coronavirus, the severe acute respiratory syndrome-coronavirus-2 (SARS-CoV-2). The new coronavirus disease-2019 (COVID-19) epidemic rapidly evolved to a Public Health Emergency of International Importance. On March 11, 2020, due to its geographical spread across different continents with sustained human transmission, the World Health Organization declared the COVID-19 pandemic. SARS-CoV-2 reached the Amazon region in Ecuador on March 7 and by the end of March, almost all the Pan Amazonian countries were already affected (Ramírez et al. 2020). In all those countries, the Amazon region accounted for most of the cases and deaths, led by Brazil, Ecuador, and Colombia (Ramírez et al. 2020). The COVID-19 epidemic severely impacted the Amazon, highlighting the",
+        "type": "CompositeElement",
+        "metadata": {
+            "source": "Part_II_Cap_21_Human Well-Being and Health Impacts of the Degradation of Terrestrial and Aquatic Ecosystems.pdf",
+            "part_name": "Social-Ecological Transformations: Changes in the Amazon",
+            "chapter_name": "Human Well-Being and Health Impacts of the Degradation of Terrestrial and Aquatic Ecosystems",
+            "chapter_number": 21,
+            "chunk_seq": 70,
+            "parent_section_number": "21.3",
+            "parent_section_name": "The impact of COVID-19 in the Amazon region",
+            "page": 16,
+            "element_id": "384cf53126687a57c3fd64846dc311e7"
+        }
+    },
+    {
+        "text": "region’s social and environmental vulnerabilities (Codeço et al. 2020). Although the Amazon region encompasses many countries which adopted distinct policies to control the COVID-19 pandemic, the social and economic vulnerabilities of the populations living in this region share great similarities. Brazil holds the largest territorial area of Amazonia and the dynamics of COVID-19 spreading in the Brazilian Amazon is a good proxy of its dynamics in this region - in only four months since its arrival, this region reached a total of 32.259 confirmed cases and 1.957 deaths (Buss et al. 2020; Hallal et al. 2020).",
+        "type": "CompositeElement",
+        "metadata": {
+            "source": "Part_II_Cap_21_Human Well-Being and Health Impacts of the Degradation of Terrestrial and Aquatic Ecosystems.pdf",
+            "part_name": "Social-Ecological Transformations: Changes in the Amazon",
+            "chapter_name": "Human Well-Being and Health Impacts of the Degradation of Terrestrial and Aquatic Ecosystems",
+            "chapter_number": 21,
+            "chunk_seq": 71,
+            "parent_section_number": "21.3",
+            "parent_section_name": "The impact of COVID-19 in the Amazon region",
+            "page": 16,
+            "element_id": "59cba9a5d21e00d64fc3f37ef4d07512"
+        }
+    },
+    {
+        "text": "The disproportionate impact of the COVID-19 epidemic in the Amazon region (Figure 1) is strongly related to access to health assistance (Codeço et al. 2020, Bezerra et al. 2020). Most of the population, including Indigenous Peoples, quilombolas and riverine communities (Codeço et al. 2020), need to travel long distances, and even across borders, to access health services (Canalez et al. 2020, Nicolelis et al. 2021). The Amazon region shows one of the lowest per capita numbers of Intensive Care Unit (ICU) beds. In Ecuador, for example, the departments in the Amazon region had only 10 ICU beds per 100,000 inhabitants (Navarro et al. 2020).",
+        "type": "CompositeElement",
+        "metadata": {
+            "source": "Part_II_Cap_21_Human Well-Being and Health Impacts of the Degradation of Terrestrial and Aquatic Ecosystems.pdf",
+            "part_name": "Social-Ecological Transformations: Changes in the Amazon",
+            "chapter_name": "Human Well-Being and Health Impacts of the Degradation of Terrestrial and Aquatic Ecosystems",
+            "chapter_number": 21,
+            "chunk_seq": 72,
+            "parent_section_number": "21.3",
+            "parent_section_name": "The impact of COVID-19 in the Amazon region",
+            "page": 16,
+            "element_id": "5aef077ea26dbfce13cd741f3d95c2fb"
+        }
+    },
+    {
+        "text": "In Brazil, the number of per capita ICU beds exclusive for COVID-19 patients (Figure 2) was lower in the Amazon region (2.20 ICU/100,000 inhabitants), in comparison with the non-Amazonian regions (3.06 ICU/100,000 inhabitants). This number remained lower even after actions to increase the number of beds in response to the ongoing COVID-19 pandemic (Figure 2). The precarious health system and the high dependence on health services present only in large cities played a major role in the dynamic of the COVID-19 pandemic in Amazonia, with high numbers of incidence and mortality, and overburdened health and funeral systems.",
+        "type": "CompositeElement",
+        "metadata": {
+            "source": "Part_II_Cap_21_Human Well-Being and Health Impacts of the Degradation of Terrestrial and Aquatic Ecosystems.pdf",
+            "part_name": "Social-Ecological Transformations: Changes in the Amazon",
+            "chapter_name": "Human Well-Being and Health Impacts of the Degradation of Terrestrial and Aquatic Ecosystems",
+            "chapter_number": 21,
+            "chunk_seq": 73,
+            "parent_section_number": "21.3",
+            "parent_section_name": "The impact of COVID-19 in the Amazon region",
+            "page": 16,
+            "element_id": "5bfefa7973e6c0182ad36495e53faf2b"
+        }
+    },
+    {
+        "text": "COVID-19 infection rapidly spread from Amazonian cities to rural and forest communities (Codeço et al. 2020), marking the rapid interiorization of COVID-19 in the Amazon region when compared to other regions in Brazil (Figure 3). The disease spread occurred hierarchically, jumping over geographic scales because of the high connection among ports and airports, from larger cities (e.g. Manaus) to smaller towns. Across Amazonia, there is a dense network of waterways with overcrowded boats and intense flow to the larger cities for services, provisioning of goods, and business. These boats favor viral transmission and the spread of COVID-19 (Aleixo et al. 2020). The consequences of these mobility and behavioral patterns on COVID-19 spreading and evolution remains unclear, but studies suggest they might have played a role in the emergence of new variants (Naveca et al. 2021).",
+        "type": "CompositeElement",
+        "metadata": {
+            "source": "Part_II_Cap_21_Human Well-Being and Health Impacts of the Degradation of Terrestrial and Aquatic Ecosystems.pdf",
+            "part_name": "Social-Ecological Transformations: Changes in the Amazon",
+            "chapter_name": "Human Well-Being and Health Impacts of the Degradation of Terrestrial and Aquatic Ecosystems",
+            "chapter_number": 21,
+            "chunk_seq": 74,
+            "parent_section_number": "21.3",
+            "parent_section_name": "The impact of COVID-19 in the Amazon region",
+            "page": 16,
+            "element_id": "5337aa7867ee1cea86ed7ab44a66d507"
+        }
+    },
+    {
+        "text": "Impacts of the Degradation of Terrestrial and Aquatic Ecosystems Box",
+        "type": "CompositeElement",
+        "metadata": {
+            "source": "Part_II_Cap_21_Human Well-Being and Health Impacts of the Degradation of Terrestrial and Aquatic Ecosystems.pdf",
+            "part_name": "Social-Ecological Transformations: Changes in the Amazon",
+            "chapter_name": "Human Well-Being and Health Impacts of the Degradation of Terrestrial and Aquatic Ecosystems",
+            "chapter_number": 21,
+            "chunk_seq": 75,
+            "parent_section_number": "21.3",
+            "parent_section_name": "The impact of COVID-19 in the Amazon region",
+            "page": 17,
+            "element_id": "247f98d6d55377adb7f98494bd7b95e9"
+        }
+    },
+    {
+        "text": "21.3 The impact of COVID-19 in the Amazon region (cont.) Figure 21.B3.1 COVID-19 cases and deaths in the Brazilian, Colombian and Peruvian Amazon. Sources WCS-Venticinque et al. (2016); Brasil.IO.;Ministry of Health of Peru and National Institute of Health Colombia. Impacts of the Degradation of Terrestrial and Aquatic Ecosystems Box",
+        "type": "CompositeElement",
+        "metadata": {
+            "source": "Part_II_Cap_21_Human Well-Being and Health Impacts of the Degradation of Terrestrial and Aquatic Ecosystems.pdf",
+            "part_name": "Social-Ecological Transformations: Changes in the Amazon",
+            "chapter_name": "Human Well-Being and Health Impacts of the Degradation of Terrestrial and Aquatic Ecosystems",
+            "chapter_number": 21,
+            "chunk_seq": 76,
+            "parent_section_number": "21.3",
+            "parent_section_name": "The impact of COVID-19 in the Amazon region (cont.)",
+            "page": 17,
+            "element_id": "247f98d6d55377adb7f98494bd7b95e9"
+        }
+    },
+    {
+        "text": "21.3 The impact of COVID-19 in the Amazon region (cont.)",
+        "type": "CompositeElement",
+        "metadata": {
+            "source": "Part_II_Cap_21_Human Well-Being and Health Impacts of the Degradation of Terrestrial and Aquatic Ecosystems.pdf",
+            "part_name": "Social-Ecological Transformations: Changes in the Amazon",
+            "chapter_name": "Human Well-Being and Health Impacts of the Degradation of Terrestrial and Aquatic Ecosystems",
+            "chapter_number": 21,
+            "chunk_seq": 77,
+            "parent_section_number": "21.3",
+            "parent_section_name": "The impact of COVID-19 in the Amazon region (cont.)",
+            "page": 17,
+            "element_id": "247f98d6d55377adb7f98494bd7b95e9"
+        }
+    },
+    {
+        "text": "Figure 21.B3.2 Boxplot showing lower Intensive Unit Care for COVID-19 per capita in health macro regions in the Legal Brazilian Amazon compared to other other Brazilian regions, both in early and late 2020. Data Source: Brazilian National Register of Health Establishments (CNES), Ministry of Health.",
+        "type": "CompositeElement",
+        "metadata": {
+            "source": "Part_II_Cap_21_Human Well-Being and Health Impacts of the Degradation of Terrestrial and Aquatic Ecosystems.pdf",
+            "part_name": "Social-Ecological Transformations: Changes in the Amazon",
+            "chapter_name": "Human Well-Being and Health Impacts of the Degradation of Terrestrial and Aquatic Ecosystems",
+            "chapter_number": 21,
+            "chunk_seq": 78,
+            "parent_section_number": "21.3",
+            "parent_section_name": "The impact of COVID-19 in the Amazon region (cont.)",
+            "page": 18,
+            "element_id": "de5ddc2eded1eb9fd78f3cb879de17d9"
+        }
+    },
+    {
+        "text": "The COVID-19 pandemic showed a time-lagged spatial dynamic among the urban and rural Amazonian municipalities in Brazil and two waves in early and late 2020. Increased transmission periods correlate to varying levels of adoption of nonpharmaceutical interventions, such as social distancing measures and the use of face masks. A genomic epidemiology study (Naveca et al. 2020) investigated the successive lineage replacements of Sars-Cov-2 in the Amazonas state and the emergence of new variants of concern, in special the P.1 virus, a more transmissible variant coincident with the second wave of COVID-19. The authors suggest that the adopted levels of social distancing were able to reduce Sars-Cov-2 effective reproductive number but were insufficient to control the COVID-19 pandemic. Uncontrolled transmission and high prevalence provide the conditions for the diversification of viral lineages, especially when mitigation measures were relaxed (Naveca et al. 2020).",
+        "type": "CompositeElement",
+        "metadata": {
+            "source": "Part_II_Cap_21_Human Well-Being and Health Impacts of the Degradation of Terrestrial and Aquatic Ecosystems.pdf",
+            "part_name": "Social-Ecological Transformations: Changes in the Amazon",
+            "chapter_name": "Human Well-Being and Health Impacts of the Degradation of Terrestrial and Aquatic Ecosystems",
+            "chapter_number": 21,
+            "chunk_seq": 79,
+            "parent_section_number": "21.3",
+            "parent_section_name": "The impact of COVID-19 in the Amazon region (cont.)",
+            "page": 18,
+            "element_id": "d6450561111ade5f34686d741cb7a323"
+        }
+    },
+    {
+        "text": "COVID-19 propagation patterns in Brazil clearly evidentiate the large disparities in quantity and quality of health resources and income among regions. Despite the evident severe public health emergence, there was a failure in the coordination of control actions, in part due to the governamental denial of the seriousness of the pandemic (Castro et al. 2021). The absence of mobility restrictions and total disregard to social distancing and lockdown policies contributed to the successive collapses in the health system, mortuaries and cemeteries (Ferrante et al. 2020). The excess of deaths included not only COVID-19 cases, but also a large fraction of patients affected by prevalent diseases that are endemic and epidemic in the Amazon region, such as malaria and dengue (Navarro et al. 2020, Torres et al. 2020), and those affected by chronic diseases such as hypertension, obesity, diabetes, cardio",
+        "type": "CompositeElement",
+        "metadata": {
+            "source": "Part_II_Cap_21_Human Well-Being and Health Impacts of the Degradation of Terrestrial and Aquatic Ecosystems.pdf",
+            "part_name": "Social-Ecological Transformations: Changes in the Amazon",
+            "chapter_name": "Human Well-Being and Health Impacts of the Degradation of Terrestrial and Aquatic Ecosystems",
+            "chapter_number": 21,
+            "chunk_seq": 80,
+            "parent_section_number": "21.3",
+            "parent_section_name": "The impact of COVID-19 in the Amazon region (cont.)",
+            "page": 18,
+            "element_id": "96d9c74100b1ae3d68c30cead93aceb3"
+        }
+    },
+    {
+        "text": "Impacts of the Degradation of Terrestrial and Aquatic Ecosystems Box",
+        "type": "CompositeElement",
+        "metadata": {
+            "source": "Part_II_Cap_21_Human Well-Being and Health Impacts of the Degradation of Terrestrial and Aquatic Ecosystems.pdf",
+            "part_name": "Social-Ecological Transformations: Changes in the Amazon",
+            "chapter_name": "Human Well-Being and Health Impacts of the Degradation of Terrestrial and Aquatic Ecosystems",
+            "chapter_number": 21,
+            "chunk_seq": 81,
+            "parent_section_number": "21.3",
+            "parent_section_name": "The impact of COVID-19 in the Amazon region (cont.)",
+            "page": 19,
+            "element_id": "32eaf0d64779dce3e8b1baf6c2cea122"
+        }
+    },
+    {
+        "text": "21.3 The impact of COVID-19 in the Amazon region (cont.) vascular and chronic respiratory diseases, which are also prevalent in the region and require prompt health assistance (Horton 2020). 1.00",
+        "type": "CompositeElement",
+        "metadata": {
+            "source": "Part_II_Cap_21_Human Well-Being and Health Impacts of the Degradation of Terrestrial and Aquatic Ecosystems.pdf",
+            "part_name": "Social-Ecological Transformations: Changes in the Amazon",
+            "chapter_name": "Human Well-Being and Health Impacts of the Degradation of Terrestrial and Aquatic Ecosystems",
+            "chapter_number": 21,
+            "chunk_seq": 82,
+            "parent_section_number": "21.3",
+            "parent_section_name": "The impact of COVID-19 in the Amazon region (cont.)",
+            "page": 19,
+            "element_id": "32eaf0d64779dce3e8b1baf6c2cea122"
+        }
+    },
+    {
+        "text": "0.75 Region — Legal Amazon Midwest",
+        "type": "CompositeElement",
+        "metadata": {
+            "source": "Part_II_Cap_21_Human Well-Being and Health Impacts of the Degradation of Terrestrial and Aquatic Ecosystems.pdf",
+            "part_name": "Social-Ecological Transformations: Changes in the Amazon",
+            "chapter_name": "Human Well-Being and Health Impacts of the Degradation of Terrestrial and Aquatic Ecosystems",
+            "chapter_number": 21,
+            "chunk_seq": 83,
+            "parent_section_number": "0.75",
+            "parent_section_name": "Region — Legal Amazon Midwest",
+            "page": 19,
+            "element_id": "32eaf0d64779dce3e8b1baf6c2cea122"
+        }
+    },
+    {
+        "text": "0.50 North North East South",
+        "type": "CompositeElement",
+        "metadata": {
+            "source": "Part_II_Cap_21_Human Well-Being and Health Impacts of the Degradation of Terrestrial and Aquatic Ecosystems.pdf",
+            "part_name": "Social-Ecological Transformations: Changes in the Amazon",
+            "chapter_name": "Human Well-Being and Health Impacts of the Degradation of Terrestrial and Aquatic Ecosystems",
+            "chapter_number": 21,
+            "chunk_seq": 84,
+            "parent_section_number": "0.50",
+            "parent_section_name": "North North East South",
+            "page": 19,
+            "element_id": "32eaf0d64779dce3e8b1baf6c2cea122"
+        }
+    },
+    {
+        "text": "0.25 Southeast ten accumulated cases of Covid-19 Proportion of municipalities with less than 0.00 100 200 300 Days since the first case in Brazil (25th February 2020)",
+        "type": "CompositeElement",
+        "metadata": {
+            "source": "Part_II_Cap_21_Human Well-Being and Health Impacts of the Degradation of Terrestrial and Aquatic Ecosystems.pdf",
+            "part_name": "Social-Ecological Transformations: Changes in the Amazon",
+            "chapter_name": "Human Well-Being and Health Impacts of the Degradation of Terrestrial and Aquatic Ecosystems",
+            "chapter_number": 21,
+            "chunk_seq": 85,
+            "parent_section_number": "0.25",
+            "parent_section_name": "Southeast ten accumulated cases of Covid-19 Proportion of municipalities with less than 0.00 100 200",
+            "page": 19,
+            "element_id": "32eaf0d64779dce3e8b1baf6c2cea122"
+        }
+    },
+    {
+        "text": "Figure 21.B3.3 Proportion of municipalities with less than ten accumulated cases of COVID-19 among the Legal Brazilian Amazon and geographic regions. The North region (in green - all of which is part of the Amazon) had the fastest rate of spread of covid, with 50% of municipalities being reached in 90 days since the start of the epidemic; followed by the Legal Brazilian Amazon (in red), includes a state located in the Midwest and part of a Northeastern state. The Southeast (in pink), South (in dark blue) and Midwest (in light brown) regions, respectively, spent more than 100 days (after the first case in Brazil) to have half the municipalities with ten or more accumulated COVID-19 cases. Even in late 2020, after more than 300 days, the Midwest region still has more than 10% of its municipalities with less than ten accumulated COVID-19 cases. Data source: Brasil.IO (https://brasil.io/home/)",
+        "type": "CompositeElement",
+        "metadata": {
+            "source": "Part_II_Cap_21_Human Well-Being and Health Impacts of the Degradation of Terrestrial and Aquatic Ecosystems.pdf",
+            "part_name": "Social-Ecological Transformations: Changes in the Amazon",
+            "chapter_name": "Human Well-Being and Health Impacts of the Degradation of Terrestrial and Aquatic Ecosystems",
+            "chapter_number": 21,
+            "chunk_seq": 86,
+            "parent_section_number": "0.25",
+            "parent_section_name": "Southeast ten accumulated cases of Covid-19 Proportion of municipalities with less than 0.00 100 200",
+            "page": 19,
+            "element_id": "783fe910dbddaaae486d1279d3d86a2c"
+        }
+    },
+    {
+        "text": "limited to specific settings using a “case study” research approach (Magliocca et al. 2018). Characterizing these complex relationships requires both more detailed studies and studies that cover broader temporal and spatial scales, as illustrated by research on the relationships between Malaria incidence and deforestation. Furthermore, there is a great need to expand research beyond physical health to broaden our understanding of how environmental degradation affects the mental health of rural and urban Amazonians. Analyzing and predicting diverse impacts interacting at various scales requires broad, flexible",
+        "type": "CompositeElement",
+        "metadata": {
+            "source": "Part_II_Cap_21_Human Well-Being and Health Impacts of the Degradation of Terrestrial and Aquatic Ecosystems.pdf",
+            "part_name": "Social-Ecological Transformations: Changes in the Amazon",
+            "chapter_name": "Human Well-Being and Health Impacts of the Degradation of Terrestrial and Aquatic Ecosystems",
+            "chapter_number": 21,
+            "chunk_seq": 87,
+            "parent_section_number": "0.25",
+            "parent_section_name": "Southeast ten accumulated cases of Covid-19 Proportion of municipalities with less than 0.00 100 200",
+            "page": 19,
+            "element_id": "47fbd38283feb914e53932f9d55dad2f"
+        }
+    },
+    {
+        "text": "conceptual frameworks. Ecosystem approaches can be valuable to better understand the interactions, synergies, and overall complexities inherent in the relationships among forest loss, water resource degradation, and human health. Similarly, multidisciplinary research combining fields such as earth observation, data science, mathematical modelling, economics, social sciences, and anthropology will be critical to quantify these knowledge gaps and address uncertainties. Because the Amazon is highly heterogeneous, studies of the impacts of environmental degradation on human health and well-being are needed at different levels of geographic granularity. These range from Amazon Impacts of the Degradation of Terrestrial and Aquatic Ecosystems",
+        "type": "CompositeElement",
+        "metadata": {
+            "source": "Part_II_Cap_21_Human Well-Being and Health Impacts of the Degradation of Terrestrial and Aquatic Ecosystems.pdf",
+            "part_name": "Social-Ecological Transformations: Changes in the Amazon",
+            "chapter_name": "Human Well-Being and Health Impacts of the Degradation of Terrestrial and Aquatic Ecosystems",
+            "chapter_number": 21,
+            "chunk_seq": 88,
+            "parent_section_number": "0.25",
+            "parent_section_name": "Southeast ten accumulated cases of Covid-19 Proportion of municipalities with less than 0.00 100 200",
+            "page": 19,
+            "element_id": "8fac70b190b80543bd3d7b56c7e01888"
+        }
+    },
+    {
+        "text": "wide and country-level models to estimates for specific locations and issues of individual health and well-being. Similarly, models at different timescales will improve our perspectives on these complex issues. Such information is crucial for effectively guiding decision making at all levels.",
+        "type": "CompositeElement",
+        "metadata": {
+            "source": "Part_II_Cap_21_Human Well-Being and Health Impacts of the Degradation of Terrestrial and Aquatic Ecosystems.pdf",
+            "part_name": "Social-Ecological Transformations: Changes in the Amazon",
+            "chapter_name": "Human Well-Being and Health Impacts of the Degradation of Terrestrial and Aquatic Ecosystems",
+            "chapter_number": 21,
+            "chunk_seq": 89,
+            "parent_section_number": "0.25",
+            "parent_section_name": "Southeast ten accumulated cases of Covid-19 Proportion of municipalities with less than 0.00 100 200",
+            "page": 20,
+            "element_id": "5a1833a6e81efc3f94c45a9f5c63e6c1"
+        }
+    },
+    {
+        "text": "21.7 Conclusions • Degradation of terrestrial and aquatic ecosystems generates complex chain reactions with a range of impacts on human health and well-being increasing existing structural inequality. • Disease outbreaks and the increased incidence of emerging, re-emerging, and endemic infectious diseases in the Amazon are associated with a range of environmental changes. The relationship between forest conversion and fragmentation and the incidence of infectious disease is complex, scale-dependent, and often modulated by socioecological feedbacks. • Certain disease vectors (e.g., Malaria vector Anopheles darlingi, Chagas vector Rhodnius, and Leishmania vector Lutzomya), can increase along deforestation frontiers. However, the spatial matrix, abundance of domestic animals and specific human activities modulate the disease burden in complex ways.",
+        "type": "CompositeElement",
+        "metadata": {
+            "source": "Part_II_Cap_21_Human Well-Being and Health Impacts of the Degradation of Terrestrial and Aquatic Ecosystems.pdf",
+            "part_name": "Social-Ecological Transformations: Changes in the Amazon",
+            "chapter_name": "Human Well-Being and Health Impacts of the Degradation of Terrestrial and Aquatic Ecosystems",
+            "chapter_number": 21,
+            "chunk_seq": 90,
+            "parent_section_number": "21.7",
+            "parent_section_name": "Conclusions",
+            "page": 20,
+            "element_id": "f7654847da8110aa7145bd0be6c1db55"
+        }
+    },
+    {
+        "text": "• Although the burden of malaria and Cutaneous Leishmaniasis may decrease in structured urban areas, heavily urbanized settings in the Amazon can provide niches that facilitate the spread of other arboviruses transmitted by vectors such as Aedes aegypti and Aedes albopictus. • Emerging diseases associated with the zoonotic spillover of hantaviruses and arenaviruses have been linked to specific deforestation activities • Mercury contamination from mining activities has been shown to produce neurological, motor, sensory, and cognitive declines in exposed Amazonian populations. Unless addressed now, mercury toxicity will have lasting effects on future generations, given the scale and growth of mining activities; the processes of bioaccumulation and biomagnification; and specific health impacts on developing embryos and youth.",
+        "type": "CompositeElement",
+        "metadata": {
+            "source": "Part_II_Cap_21_Human Well-Being and Health Impacts of the Degradation of Terrestrial and Aquatic Ecosystems.pdf",
+            "part_name": "Social-Ecological Transformations: Changes in the Amazon",
+            "chapter_name": "Human Well-Being and Health Impacts of the Degradation of Terrestrial and Aquatic Ecosystems",
+            "chapter_number": 21,
+            "chunk_seq": 91,
+            "parent_section_number": "21.7",
+            "parent_section_name": "Conclusions",
+            "page": 20,
+            "element_id": "2002761a443ba5fc8833be24540c04fe"
+        }
+    },
+    {
+        "text": "• The complex interactions and negative synergies between different impacts of both terrestrial and aquatic degradation and their pathways are not clearly understood yet. Moreover, there is a need to understand the relationship between the individual and cumulative impacts of different environmental disturbances.",
+        "type": "CompositeElement",
+        "metadata": {
+            "source": "Part_II_Cap_21_Human Well-Being and Health Impacts of the Degradation of Terrestrial and Aquatic Ecosystems.pdf",
+            "part_name": "Social-Ecological Transformations: Changes in the Amazon",
+            "chapter_name": "Human Well-Being and Health Impacts of the Degradation of Terrestrial and Aquatic Ecosystems",
+            "chapter_number": 21,
+            "chunk_seq": 92,
+            "parent_section_number": "21.7",
+            "parent_section_name": "Conclusions",
+            "page": 20,
+            "element_id": "f805a1e3f2681e5fde98645c23cecc35"
+        }
+    },
+    {
+        "text": "21.8 Recommendations • Given the important influence of socio-ecological factors on disease burden, improving human health in the Amazon will require uncovering all environmental risks, managing landscapes, and promoting equitable solutions. • To reduce the risk of viral emergence from wild populations, region-wide improvements to public health services (including access, environmental sanitation, and health facilities) and close surveillance of infectious diseases in human population are necessary. • Prevention of infectious diseases also requires a robust monitoring system focused on the circulation of pathogens in the environment (water, soil, and sediments), as well as populations of disease vectors and animal reservoirs.",
+        "type": "CompositeElement",
+        "metadata": {
+            "source": "Part_II_Cap_21_Human Well-Being and Health Impacts of the Degradation of Terrestrial and Aquatic Ecosystems.pdf",
+            "part_name": "Social-Ecological Transformations: Changes in the Amazon",
+            "chapter_name": "Human Well-Being and Health Impacts of the Degradation of Terrestrial and Aquatic Ecosystems",
+            "chapter_number": 21,
+            "chunk_seq": 93,
+            "parent_section_number": "21.8",
+            "parent_section_name": "Recommendations",
+            "page": 20,
+            "element_id": "3ff04054b10be4b43e03a5a15ad934c3"
+        }
+    },
+    {
+        "text": "• Complex interactions between drivers of deforestation and ecosystem degradation and the resulting disease burden in the Amazon region need to be further investigated. It is particularly important to emphasize the role of deforestation and climate change in the modelling of vectorborne diseases. • Tailored public health strategies are needed to target each specific problem, but these measures require better integration of actions across different sectors and spheres of society. • Innovative methods and approaches are needed to address the challenge of the broader, cumulative impacts of forest and aquatic ecosystem degradation on human health. • It is necessary to recognize that the Amazon Basin is crucial for human subsistence, especially for traditional communities and Indigenous Peoples who depend on the Amazon’s nat Impacts of the Degradation of Terrestrial and Aquatic Ecosystems",
+        "type": "CompositeElement",
+        "metadata": {
+            "source": "Part_II_Cap_21_Human Well-Being and Health Impacts of the Degradation of Terrestrial and Aquatic Ecosystems.pdf",
+            "part_name": "Social-Ecological Transformations: Changes in the Amazon",
+            "chapter_name": "Human Well-Being and Health Impacts of the Degradation of Terrestrial and Aquatic Ecosystems",
+            "chapter_number": 21,
+            "chunk_seq": 94,
+            "parent_section_number": "21.8",
+            "parent_section_name": "Recommendations",
+            "page": 20,
+            "element_id": "bf0321aa39da4d69e3a85a0dfe0da9ad"
+        }
+    },
+    {
+        "text": "ural resources for their survival. Araujo PA, Freitas MO, Chiang JO, et al. 2019. Investigation about the Occurrence of Transmission Cycles of Arbovirus in the Tropical Forest, Amazon Region. Viruses 11: 774. Athayde S and Silva-Lugo J. 2018. Adaptive Strategies to Displacement and Environmental Change Among the Kaiabi Indigenous People of the Brazilian Amazon. Soc Nat Resour 31: 666—82. • Efforts are necessary to formulate legitimate participatory management policies, developed in an intercultural framework (e.g., Indigenous, academic, and institutional) to enhance strategies for climate resilience, sustainability, food security, and human health. Promoting socially just and culturally sensitive practices can be achieved through action-oriented research where academia and community actors jointly develop practical solutions.",
+        "type": "CompositeElement",
+        "metadata": {
+            "source": "Part_II_Cap_21_Human Well-Being and Health Impacts of the Degradation of Terrestrial and Aquatic Ecosystems.pdf",
+            "part_name": "Social-Ecological Transformations: Changes in the Amazon",
+            "chapter_name": "Human Well-Being and Health Impacts of the Degradation of Terrestrial and Aquatic Ecosystems",
+            "chapter_number": 21,
+            "chunk_seq": 95,
+            "parent_section_number": "21.8",
+            "parent_section_name": "Recommendations",
+            "page": 21,
+            "element_id": "97bc7af4ff847084f47c71673689006d"
+        }
+    },
+    {
+        "text": "Barros Moreira Beltrdo H, Paula Cerroni M de, Freitas DRC de, et al. 2009. Investigation of two outbreaks of suspected oral transmission of acute Chagas disease in the Amazon region, Par4 State, Brazil, in 2007. Trop Doct 39: 231-2. Barros FSM and Honrio NA. 2015. Deforestation and Malaria on the Amazon Frontier: Larval Clustering of Anopheles darlingi (Diptera: Culicidae) Determines Focal Distribution of Malaria. Am J Trop Med Hyg 93: 939-53. Barthem R and Goulding M. 1997. The catfish connection. Ecology, migration, and conservation of Amazon predators. New Adhin M, Labadie-Bracho M, and Vreden S. 2014. Gold mining York: Columbia University Press. Barthem R and Goulding M. An unexpected ecosystem: The Amareas in Suriname: reservoirs of malaria resistance? Infect azon as revealed by fisheries. St. Louis: Missouri Botanical",
+        "type": "CompositeElement",
+        "metadata": {
+            "source": "Part_II_Cap_21_Human Well-Being and Health Impacts of the Degradation of Terrestrial and Aquatic Ecosystems.pdf",
+            "part_name": "Social-Ecological Transformations: Changes in the Amazon",
+            "chapter_name": "Human Well-Being and Health Impacts of the Degradation of Terrestrial and Aquatic Ecosystems",
+            "chapter_number": 21,
+            "chunk_seq": 96,
+            "parent_section_number": "21.8",
+            "parent_section_name": "Recommendations",
+            "page": 21,
+            "element_id": "89fb69cef479ca6eb1fa9115a82cfb6e"
+        }
+    },
+    {
+        "text": "Drug Resist 7: 111. Agudelo CE. 2015. Bases cientificas para contribuir a la gestién Basta PC, Viana PV de S, Vasconcellos ACS de, et al. 2021. Merde la pesqueria comercial de bagres (familia pimelodidae) en la Amazonia colombiana y sus zonas de frontera. Univercury Exposure in Munduruku Indigenous Communities from Brazilian Amazon: Methodological Background and an sitat Automa de Barcelona. Agudelo CE, Alonso J, and Moya L (Eds). 2006. Perspectivas para Overview of the Principal Results. Int J Environ Res Public Health 18: 9222. el ordenamiento de la pesca y la acuicultura en el drea de integracion fronteriza Colombo — Peruana del rio Putumayo. Batista V. 1998. Distribuicdo, dindmica da frota e dos recursos pesqueiros da Amazonia central. Universidade do AmazoInstituto Amazonico de Investigaciones Cientificas (SINCHI) nas and INPA. and Instituto Nacional de Desarrollo (INADE). Agudelo CE, Salinas CY, Sanches PCL, et al. 2000. Bagres de la amazonia colombiana: Un recurso sin",
+        "type": "CompositeElement",
+        "metadata": {
+            "source": "Part_II_Cap_21_Human Well-Being and Health Impacts of the Degradation of Terrestrial and Aquatic Ecosystems.pdf",
+            "part_name": "Social-Ecological Transformations: Changes in the Amazon",
+            "chapter_name": "Human Well-Being and Health Impacts of the Degradation of Terrestrial and Aquatic Ecosystems",
+            "chapter_number": 21,
+            "chunk_seq": 97,
+            "parent_section_number": "21.9",
+            "parent_section_name": "References",
+            "page": 21,
+            "element_id": "3086ad326c7f97ef242cdaea2d58f07e"
+        }
+    },
+    {
+        "text": "fronteras. Bagres de la amazonia colombiana: Un recurso sin fronteras. (N. Fabré, J. Donato, and J. Alonso, Eds). Instituto Amazonico de Investigaciones Cientificas Sinchi. Alhibshi, E. A. 2012. Research Journal of Pharmaceutical, Biological and Chemical Sciences. Aleixo NCR, Neto JCA da S, Pereira H dos S, et al. 2020. Pelos caminhos das 4guas: a mobilidade e evolu¢do da COVID-19 no estado do Amazonas. Confins. Almeida CE, Folly-Ramos E, Peterson AT, et al. 2009. Could the bug triatoma sherlocki be vectoring chagas disease in small mining communities in Bahia, Brazil? Med Vet Entomol 23: 410-7.",
+        "type": "CompositeElement",
+        "metadata": {
+            "source": "Part_II_Cap_21_Human Well-Being and Health Impacts of the Degradation of Terrestrial and Aquatic Ecosystems.pdf",
+            "part_name": "Social-Ecological Transformations: Changes in the Amazon",
+            "chapter_name": "Human Well-Being and Health Impacts of the Degradation of Terrestrial and Aquatic Ecosystems",
+            "chapter_number": 21,
+            "chunk_seq": 98,
+            "parent_section_number": "21.9",
+            "parent_section_name": "References",
+            "page": 21,
+            "element_id": "c38071e50199359f17a45e203045081c"
+        }
+    },
+    {
+        "text": "Bausch DG and Mills JN. 2014. Arenaviruses: Lassa Fever, Lujo Hemorrhagic Fever, Lymphocytic Choriomeningitis, and the South American Hemorrhagic Fevers. In: Viral Infections of Humans. Boston, MA: Springer US. Bayley PB and Petrere Jr M. 1989. Amazon fisheries: assessment methods, current status and management options. (D Dodge, Ed). Can Spec Publ Fish Aquat Sci. Begossi A, Salivonchyk S V., Hallwass G, et al. 2018. Fish consumption on the Amazon: a review of biodiversity, hydropower and food security issues. Brazilian J Biol 79: 345-57. Bezerra ECD, Santos PS dos, Lishinski FC, and Dias LC. 2020. Andlise espacial das condicdes de enfrentamento a COVID- 19: uma proposta de indice da Infraestrutura da Satde do Brasil. Cien Saude Colet 25: 4957—-67. Alvarez-Berrios NL and Mitchell Aide T. 2015. Global demand Bezerra ECD, Santos PS dos, Lishinski FC, and Dias LC. 2020. for gold is another threat for tropical forests. Environ Res Lett Andlise espacial das condicdes de enfrentamento",
+        "type": "CompositeElement",
+        "metadata": {
+            "source": "Part_II_Cap_21_Human Well-Being and Health Impacts of the Degradation of Terrestrial and Aquatic Ecosystems.pdf",
+            "part_name": "Social-Ecological Transformations: Changes in the Amazon",
+            "chapter_name": "Human Well-Being and Health Impacts of the Degradation of Terrestrial and Aquatic Ecosystems",
+            "chapter_number": 21,
+            "chunk_seq": 99,
+            "parent_section_number": "21.9",
+            "parent_section_name": "References",
+            "page": 21,
+            "element_id": "c5a919e7be940a4f7b2274cb409b33d6"
+        }
+    },
+    {
+        "text": "a COVID- 10: 14006. 19: uma proposta de indice da Infraestrutura da Satde do Brasil. Cien Saude Colet 25: 4957—-67. de Oliveira Alves, N., Vessoni, A. T., Quinet, A., Fortunato, R. S., Kajitani, G. S., Peixoto, M. S., & De Medeiros, S. R. B. (2017). Bezerra ECD, Santos PS dos, Lishinski FC, and Dias LC. 2020. Andlise espacial das condicdes de enfrentamento a COVIDBiomass burning in the Amazon region causes DNA damage and cell death in human lung cells. Scientific reports, 7(1), 1- 19: uma proposta de indice da Infraestrutura da Satde do Brasil. Cien Saude Colet 25: 4957—-67. Blatrix R, Roux B, Béarez P, et al. 2018. The unique functioning of a pre-Columbian Amazonian floodplain fishery. Sci Rep 8: 5998. Botto G, Cunningham A, Moise BF, et al. 2020. IUCN SSC Bat Specialist Group (BSG) Recommended Strategy for Researchers to Reduce the Risk of Transmission of SARS-CoV-2 from Hu-",
+        "type": "CompositeElement",
+        "metadata": {
+            "source": "Part_II_Cap_21_Human Well-Being and Health Impacts of the Degradation of Terrestrial and Aquatic Ecosystems.pdf",
+            "part_name": "Social-Ecological Transformations: Changes in the Amazon",
+            "chapter_name": "Human Well-Being and Health Impacts of the Degradation of Terrestrial and Aquatic Ecosystems",
+            "chapter_number": 21,
+            "chunk_seq": 100,
+            "parent_section_number": "21.9",
+            "parent_section_name": "References",
+            "page": 21,
+            "element_id": "47b9000ca7f3a1f048c89f612cb68ca3"
+        }
+    },
+    {
+        "text": "Alves L. 2020. Surge of respiratory illnesses in children due to fires in Brazil’s Amazon region. Lancet Respir Med 8: 21-2. Andersen EM, Goicochea CG, Torres RS, et al. 2000. The epidemiology of malaria in an epidemic area of the Peruvian Amazon. Am J Trop Med Hyg 62: 247-56. Anthony SJ, Johnson CK, Greig DJ, et al. 2017. Global patterns in coronavirus diversity. Virus Evol 3. mans to Bats MAP: Minimize, Assess, Protect.",
+        "type": "CompositeElement",
+        "metadata": {
+            "source": "Part_II_Cap_21_Human Well-Being and Health Impacts of the Degradation of Terrestrial and Aquatic Ecosystems.pdf",
+            "part_name": "Social-Ecological Transformations: Changes in the Amazon",
+            "chapter_name": "Human Well-Being and Health Impacts of the Degradation of Terrestrial and Aquatic Ecosystems",
+            "chapter_number": 21,
+            "chunk_seq": 101,
+            "parent_section_number": "21.9",
+            "parent_section_name": "References",
+            "page": 21,
+            "element_id": "5e1bf009742a6851010ad754ca1c3565"
+        }
+    },
+    {
+        "text": "Impacts of the Degradation of Terrestrial and Aquatic Ecosystems Bourke BP, Conn JE, Oliveira TMP de, et al. 2018. Exploring malaria vector diversity on the Amazon Frontier. Malar J 17: 342. Brito RN, Gorla DE, Diotaiuti L, et al. 2017. Drivers of house invasion by sylvatic Chagas disease vectors in the Amazon-Cerrado transition: A multi-year, state-wide assessment of municipality-aggregated surveillance data (E Dumonteil, Ed). PLoS Negl Trop Dis 11: e0006035. Burkett-Cadena ND and Vittor AY. 2018. Deforestation and vector-borne disease: Forest conversion favors important mosquito vectors of human pathogens. Basic Appl Ecol 26: 101– 10. Bury J. 2007. Mining migrants: Transnational mining and migration patterns in the Peruvian Andes. Prof Geogr 59: 378– 89. Buss LF, Prete CA, Abrahim CMM, et al. 2021. Three-quarters attack rate of SARS-CoV-2 in the Brazilian Amazon during a largely unmitigated epidemic. Science 371: 288–92.",
+        "type": "CompositeElement",
+        "metadata": {
+            "source": "Part_II_Cap_21_Human Well-Being and Health Impacts of the Degradation of Terrestrial and Aquatic Ecosystems.pdf",
+            "part_name": "Social-Ecological Transformations: Changes in the Amazon",
+            "chapter_name": "Human Well-Being and Health Impacts of the Degradation of Terrestrial and Aquatic Ecosystems",
+            "chapter_number": 21,
+            "chunk_seq": 102,
+            "parent_section_number": "21.9",
+            "parent_section_name": "References",
+            "page": 22,
+            "element_id": "2ccba87c6b4f8e9bf6e99b80496ce8e4"
+        }
+    },
+    {
+        "text": "Canalez G de G, Rapozo P, Coutinho T, and Reis R. 2020. Espalhamento da Covid-19 no interior do Amazonas: panorama e reflexões desde o Alto Solimões, Brasil. Mundo Amaz 11: 111– 44. Carlson CJ. 2020. From PREDICT to prevention, one pandemic later. The Lancet Microbe 1: e6–7. Castro F, Lopes GR, and Brondizio ES. 2020. The Brazilian Amazon in times of COVID-19: From crisis to transformation? Ambient e Soc 23: 1–13. Castro MC, Kim S, Barberia L, et al. 2021. Spatiotemporal pattern of COVID-19 spread in Brazil. Science 372: 821–6. Cerdeira RGP, Ruffino ML, and Isaac VJ. 2000. Fish catches among riverside communities around Lago Grande de Monte Alegre, Lower Amazon, Brazil. Fish Manag Ecol 7: 355– 74. Chaves LSM, Conn JE, López RVM, and Sallum MAM. 2018. Abundance of impacted forest patches less than 5 km2 is a key driver of the incidence of malaria in Amazonian Brazil. Sci Rep 8: 7077.",
+        "type": "CompositeElement",
+        "metadata": {
+            "source": "Part_II_Cap_21_Human Well-Being and Health Impacts of the Degradation of Terrestrial and Aquatic Ecosystems.pdf",
+            "part_name": "Social-Ecological Transformations: Changes in the Amazon",
+            "chapter_name": "Human Well-Being and Health Impacts of the Degradation of Terrestrial and Aquatic Ecosystems",
+            "chapter_number": 21,
+            "chunk_seq": 103,
+            "parent_section_number": "21.9",
+            "parent_section_name": "References",
+            "page": 22,
+            "element_id": "d18d54dce33f59992cec3406dff4ce37"
+        }
+    },
+    {
+        "text": "Choi YW, Tuel A, and Eltahir EAB. 2020. An environmental determinant of viral respiratory disease. medRxiv. Codeço CT, Villela D, Coelho F, et al. 2020. Estimativa de risco de espalhamento da COVID-19 no Brasil e o impacto no sistema de saúde e população por microrregião. Coomes OT, Takasaki Y, Abizaid C, and Barham BL. 2010. Floodplain fisheries as natural insurance for the rural poor in tropical forest environments: evidence from Amazonia. Fish Manag Ecol 17: 513–21. Crampton W, Castello L, Viana JP, et al. 2004. Fisheries in the Amazon Várzea: Historical Trends, Current Status, and Factors Affecting Sustainability. In: Silvius KM, Bodmer RE, Fragoso JM. (Eds). People in Nature: Wildlife Conservation in South and Central America.Nature: Wildlife Conservation in South and Central America. Crespo-Lopez ME, Augusto-Oliveira M, Lopes-Araújo A, et al. 2021. Mercury: What can we learn from the Amazon? Environ Int 146: 106223.",
+        "type": "CompositeElement",
+        "metadata": {
+            "source": "Part_II_Cap_21_Human Well-Being and Health Impacts of the Degradation of Terrestrial and Aquatic Ecosystems.pdf",
+            "part_name": "Social-Ecological Transformations: Changes in the Amazon",
+            "chapter_name": "Human Well-Being and Health Impacts of the Degradation of Terrestrial and Aquatic Ecosystems",
+            "chapter_number": 21,
+            "chunk_seq": 104,
+            "parent_section_number": "21.9",
+            "parent_section_name": "References",
+            "page": 22,
+            "element_id": "38691f7df9a9a7332bd82a0795d9f0d3"
+        }
+    },
+    {
+        "text": "D’Amato G, Holgate ST, Pawankar R, et al. 2015. Meteorological conditions, climate change, new emerging factors, and asthma and related allergic disorders. A statement of the World Allergy Organization. World Allergy Organ J 8: 25. Damiani S, Guimarães SMF, Montalvão MTL, and Passos CJS. 2020. “All That’s Left is Bare Land and Sky”: Palm Oil Culture and Socioenvironmental Impacts on a Tembé Indigenous Territory in the Brazilian Amazon. Ambient Soc 23. Dávalos LM, Austin RM, Balisi MA, et al. 2020. Pandemics’ historical role in creating inequality (J Sills, Ed). Science 368: 1322.2-1323. Andreazzi CS de, Brandão ML, Bueno MG, et al. 2020. Brazil’s COVID-19 response. Lancet 396: e30. Barros Moreira Beltrão H de, Paula Cerroni M de, Freitas DRC de, et al. 2009. Investigation of two outbreaks of suspected oral transmission of acute Chagas disease in the Amazon region, Pará State, Brazil, in 2007. Trop Doct 39: 231–2.",
+        "type": "CompositeElement",
+        "metadata": {
+            "source": "Part_II_Cap_21_Human Well-Being and Health Impacts of the Degradation of Terrestrial and Aquatic Ecosystems.pdf",
+            "part_name": "Social-Ecological Transformations: Changes in the Amazon",
+            "chapter_name": "Human Well-Being and Health Impacts of the Degradation of Terrestrial and Aquatic Ecosystems",
+            "chapter_number": 21,
+            "chunk_seq": 105,
+            "parent_section_number": "21.9",
+            "parent_section_name": "References",
+            "page": 22,
+            "element_id": "17e95d83b5747baac86a2fc17f4c3ec1"
+        }
+    },
+    {
+        "text": "Delgado S, Erickson BR, Agudo R, et al. 2008. Chapare Virus, a Newly Discovered Arenavirus Isolated from a Fatal Hemorrhagic Fever Case in Bolivia (MJ Buchmeier, Ed). PLoS Pathog 4: e1000047. Diringer SE, Feingold BJ, Ortiz EJ, et al. 2015. River transport of mercury from artisanal and small-scale gold mining and risks for dietary mercury exposure in Madre de Dios, Peru. Environ Sci Process \\& Impacts 17: 478–87. Dórea JG, Souza JR de, Rodrigues P, et al. 2005. Hair mercury (signature of fish consumption) and cardiovascular risk in Munduruku and Kayabi Indians of Amazonia. Environ Res 97: 209–19. Doria CRC, Duponchelle F, Lima MAL, et al. 2018. Review of Fisheries Resource Use and Status in the Madeira River Basin (Brazil, Bolivia, and Peru) Before Hydroelectric Dam Completion. Rev Fish Sci Aquac 26: 494–514.",
+        "type": "CompositeElement",
+        "metadata": {
+            "source": "Part_II_Cap_21_Human Well-Being and Health Impacts of the Degradation of Terrestrial and Aquatic Ecosystems.pdf",
+            "part_name": "Social-Ecological Transformations: Changes in the Amazon",
+            "chapter_name": "Human Well-Being and Health Impacts of the Degradation of Terrestrial and Aquatic Ecosystems",
+            "chapter_number": 21,
+            "chunk_seq": 106,
+            "parent_section_number": "21.9",
+            "parent_section_name": "References",
+            "page": 22,
+            "element_id": "be76a36385532cdd411112bd929683d8"
+        }
+    },
+    {
+        "text": "Doria CR da C, Machado LF, Brasil de Souza ST, and Lima MAL. 2016. A pesca em comunidades ribeirinhas na região do mé- dio rio Madeira, Rondônia. Novos Cad NAEA 19: 163–88. Downs WG. 1982. The Rockefeller Foundation Virus Program: 1951-1971 with Update to 1981. Annu Rev Med 33: 1–30. Ellwanger JH, Kulmann-Leal B, Kaminski VL, et al. 2020. Beyond diversity loss and climate change: Impacts of Amazon deforestation on infectious diseases and public health. An Acad Bras Cienc 92. Erickson CL. 2000. An artificial landscape-scale fishery in the Bolivian Amazon. Nature 408: 190–3. European Environment Agency. 2016. Environment and health — European Environment Agency. Available https://www.eea.europa.eu/themes/human/intro. Viewed 15 Mar 2021. at: Ferrante, L., Steinmetz, W. A., Almeida, A. C. L., Leão, J., Vassão, R. C., Tupinambás, U., & Duczmal, L. H. (2020). Brazil’s policies condemn Amazonia to a second wave of COVID-19. Nature Medicine, 26(9), 1315-1315.",
+        "type": "CompositeElement",
+        "metadata": {
+            "source": "Part_II_Cap_21_Human Well-Being and Health Impacts of the Degradation of Terrestrial and Aquatic Ecosystems.pdf",
+            "part_name": "Social-Ecological Transformations: Changes in the Amazon",
+            "chapter_name": "Human Well-Being and Health Impacts of the Degradation of Terrestrial and Aquatic Ecosystems",
+            "chapter_number": 21,
+            "chunk_seq": 107,
+            "parent_section_number": "21.9",
+            "parent_section_name": "References",
+            "page": 22,
+            "element_id": "0235c8d1e1632f1b41b6390961642ffc"
+        }
+    },
+    {
+        "text": "Farias, M. R. D. C. D., Rosa, A. M., Hacon, S. D. S., Castro, H. A. D., & Ignotti, E. (2010). Prevalence of asthma in schoolchildren in a municipality in the southeast of the Brazilian Amazon. Revista Brasileira de Epidemiologia, 13(1), 49-57. Fernandes J, Coelho TA, Oliveira RC de, et al. 2020. A Retrospective Survey of Rodent-borne Viruses in Rural Populations of Brazilian Amazon. Rev Soc Bras Med Trop 53. Fernandes NCC de A, Cunha MS, Guerra JM, et al. 2017. Outbreak of Yellow Fever among Nonhuman Primates, Espirito Santo,",
+        "type": "CompositeElement",
+        "metadata": {
+            "source": "Part_II_Cap_21_Human Well-Being and Health Impacts of the Degradation of Terrestrial and Aquatic Ecosystems.pdf",
+            "part_name": "Social-Ecological Transformations: Changes in the Amazon",
+            "chapter_name": "Human Well-Being and Health Impacts of the Degradation of Terrestrial and Aquatic Ecosystems",
+            "chapter_number": 21,
+            "chunk_seq": 108,
+            "parent_section_number": "21.9",
+            "parent_section_name": "References",
+            "page": 22,
+            "element_id": "fe77f4ae967e8e92e4da01d0cc491f11"
+        }
+    },
+    {
+        "text": "Impacts of the Degradation of Terrestrial and Aquatic Ecosystems Brazil, 2017. Emerg Infect Dis 23: 2038–41. Figueiredo LTM. 2007. Emergent arboviruses in Brazil. Rev Soc Bras Med Trop 40: 224–9. Figueiredo LTM. 2007. Emergent arboviruses in Brazil. Rev Soc Bras Med Trop 40: 224–9. Figueiredo LTM. 2006. Febres hemorrágicas por vírus no Brasil. Rev Soc Bras Med Trop 39: 203–10. Filho SR and Maddock JEL. 1997. Mercury pollution in two gold mining areas of the Brazilian Amazon. J Geochemical Explor 58: 231–40. Filho VS de A, Netto PEA, Hacon S de S, and Carmo CN do. 2017. Distribuição espacial de queimadas e mortalidade em idosos em região da amazônia Brasileira, 2001-2012. Cienc e Saude Coletiva 22: 245–53. Fluet-Chouinard E, Funge-Smith S, and McIntyre PB. 2018. Global hidden harvest of freshwater fish revealed by household surveys. Proc Natl Acad Sci 115: 7623–8.",
+        "type": "CompositeElement",
+        "metadata": {
+            "source": "Part_II_Cap_21_Human Well-Being and Health Impacts of the Degradation of Terrestrial and Aquatic Ecosystems.pdf",
+            "part_name": "Social-Ecological Transformations: Changes in the Amazon",
+            "chapter_name": "Human Well-Being and Health Impacts of the Degradation of Terrestrial and Aquatic Ecosystems",
+            "chapter_number": 21,
+            "chunk_seq": 109,
+            "parent_section_number": "21.9",
+            "parent_section_name": "References",
+            "page": 23,
+            "element_id": "d71e94a3c5550a0c79aa53b3a1fb412b"
+        }
+    },
+    {
+        "text": "Freitas SR, Longo KM, Dias MAFS, and Dias PLS. 2005. Emissões de queimadas em ecossistemas da América do Sul. Estud Avançados 19: 167–85. Furtado LG. 2012. Pesca artesanal: um delineamento de sua história no Pará. Belém: Boletim do Museo Paraense Emilio Goeldi - Antropologia. Galardo AKR, Zimmerman R, and Galardo CD. 2013. Larval control of Anopheles (Nyssorhinchus) darlingiusing granular formulation of Bacillus sphaericus in abandoned gold-miners excavation pools in the Brazilian Amazon Rainforest. Rev Soc Bras Med Trop 46: 172–7. Gibb H and O’Leary KG. 2014. Mercury Exposure and Health Impacts among Individuals in the Artisanal and Small-Scale Gold Mining Community: A Comprehensive Review. Environ Health Perspect 122: 667–72. Gilbert AT, Petersen BW, Recuenco S, et al. 2012. Evidence of rabies virus exposure among humans in the Peruvian Amazon. Am J Trop Med Hyg 87: 206–15.",
+        "type": "CompositeElement",
+        "metadata": {
+            "source": "Part_II_Cap_21_Human Well-Being and Health Impacts of the Degradation of Terrestrial and Aquatic Ecosystems.pdf",
+            "part_name": "Social-Ecological Transformations: Changes in the Amazon",
+            "chapter_name": "Human Well-Being and Health Impacts of the Degradation of Terrestrial and Aquatic Ecosystems",
+            "chapter_number": 21,
+            "chunk_seq": 110,
+            "parent_section_number": "21.9",
+            "parent_section_name": "References",
+            "page": 23,
+            "element_id": "0f55d3e4c1710192d68d35c28f813a3d"
+        }
+    },
+    {
+        "text": "Gimaque JBL, Bastos M de S, Braga WSM, et al. 2012. Serological evidence of hantavirus infection in rural and urban regions in the state of Amazonas, Brazil. Mem Inst Oswaldo Cruz 107: 135–7. Gimaque JBL, Bastos MS, Braga WSM, et al. 2012. Serological evidence of hantavirus infection in rural and urban regions in the state of Amazonas, Brazil. Mem Inst Oswaldo Cruz 107: 135–7. Godfrey BJ. 1992. Migration to the gold-mining frontier in Brazilian Amazonia. Geogr Rev 82: 458–69. Gomes AL do V, Magalhães C, Melo F, et al. 2009. International Course on Emerging Viruses in the Amazon Region. Emerg Infect Dis 15: e1–e1. Gomes ALDV, Magalhães C, Melo F, et al. 2009. International course on emerging viruses in the amazon region. In: Emerging Infectious Diseases. Centers for Disease Control and Prevention (CDC).",
+        "type": "CompositeElement",
+        "metadata": {
+            "source": "Part_II_Cap_21_Human Well-Being and Health Impacts of the Degradation of Terrestrial and Aquatic Ecosystems.pdf",
+            "part_name": "Social-Ecological Transformations: Changes in the Amazon",
+            "chapter_name": "Human Well-Being and Health Impacts of the Degradation of Terrestrial and Aquatic Ecosystems",
+            "chapter_number": 21,
+            "chunk_seq": 111,
+            "parent_section_number": "21.9",
+            "parent_section_name": "References",
+            "page": 23,
+            "element_id": "48b76560db18c64aa6fca2f642ca0831"
+        }
+    },
+    {
+        "text": "Gonçalves-Oliveira LF, Souza-Silva F, Castro Côrtes LM de, et al. 2019. The combination therapy of meglumine antimoniate and oxiranes (epoxy-α-lapachone and epoxymethyl-lawsone) enhance the leishmanicidal effect in mice infected by Leishmania (Leishmania) amazonensis. Int J Parasitol Drugs Drug Resist 10: 101–8. Grandjean P, White RF, Nielsen A, et al. 1999. Methylmercury neurotoxicity in Amazonian children downstream from gold mining. Environ Health Perspect 107: 587–91. Guagliardo SA, Barboza JL, Morrison AC, et al. 2014. Patterns of Geographic Expansion of Aedes aegypti in the Peruvian Amazon (R Barrera, Ed). PLoS Negl Trop Dis 8: e3033. Guterres A, Oliveira RC de, Fernandes J, et al. 2015. Detection of different South American hantaviruses. Virus Res 210: 106– 13. Hacon S de S, Oliveira-da-Costa M, Gama C de S, et al. 2020. Mercury Exposure through Fish Consumption in Traditional Communities in the Brazilian Northern Amazon. Int J Environ Res Public Health 17: 5269.",
+        "type": "CompositeElement",
+        "metadata": {
+            "source": "Part_II_Cap_21_Human Well-Being and Health Impacts of the Degradation of Terrestrial and Aquatic Ecosystems.pdf",
+            "part_name": "Social-Ecological Transformations: Changes in the Amazon",
+            "chapter_name": "Human Well-Being and Health Impacts of the Degradation of Terrestrial and Aquatic Ecosystems",
+            "chapter_number": 21,
+            "chunk_seq": 112,
+            "parent_section_number": "21.9",
+            "parent_section_name": "References",
+            "page": 23,
+            "element_id": "5ccb8009fb9a06bbd02e179c002b9eff"
+        }
+    },
+    {
+        "text": "Hallal PC, Hartwig FP, Horta BL, et al. 2020. SARS-CoV-2 antibody prevalence in Brazil: results from two successive nationwide serological household surveys. Lancet Glob Heal 8: e1390–8. Heilpern SA, DeFries R, Fiorella K, et al. 2021. Declining diversity of wild-caught species puts dietary nutrient supplies at risk. Sci Adv 7. Heilpern SA, Fiorella K, Cañas C, et al. 2021. Substitution of inland fisheries with aquaculture and chicken undermines human nutrition in the Peruvian Amazon. Nat Food 2: 192–7. Hicks CC, Cohen PJ, Graham NAJ, et al. 2019. Harnessing global fisheries to tackle micronutrient deficiencies. Nature 574: 95–8. Holmes EC, Rambaut A, and Andersen KG. 2018. Pandemics: Spend on surveillance, not prediction comment. Nature 558: 180–2. Horton R. 2020. Offline: COVID-19 is not a pandemic. Lancet 396: 874.",
+        "type": "CompositeElement",
+        "metadata": {
+            "source": "Part_II_Cap_21_Human Well-Being and Health Impacts of the Degradation of Terrestrial and Aquatic Ecosystems.pdf",
+            "part_name": "Social-Ecological Transformations: Changes in the Amazon",
+            "chapter_name": "Human Well-Being and Health Impacts of the Degradation of Terrestrial and Aquatic Ecosystems",
+            "chapter_number": 21,
+            "chunk_seq": 113,
+            "parent_section_number": "21.9",
+            "parent_section_name": "References",
+            "page": 23,
+            "element_id": "b39967be10a3fd5549eadd10f123bad0"
+        }
+    },
+    {
+        "text": "Hotez PJ, Bottazzi ME, Franco-Paredes C, et al. 2008. The Neglected Tropical Diseases of Latin America and the Caribbean: A Review of Disease Burden and Distribution and a Roadmap for Control and Elimination (PJ Lammie, Ed). PLoS Negl Trop Dis 2: e300. Hotez PJ, Bottazzi ME, Franco-Paredes C, et al. 2008. The Neglected Tropical Diseases of Latin America and the Caribbean: A Review of Disease Burden and Distribution and a Roadmap for Control and Elimination (PJ Lammie, Ed). PLoS Negl Trop Dis 2: e300. IARC Working Group on the Evaluation of Carcinogenic Risks to Humans. (2010). Some non-heterocyclic polycyclic aromatic hydrocarbons and some related exposures. IARC Monographs on the evaluation of carcinogenic risks to humans, 92, 1. Isaac VJ and Almeida MC. 2011. El Consumo de pescado en la Amazonía brasileña. Italy.",
+        "type": "CompositeElement",
+        "metadata": {
+            "source": "Part_II_Cap_21_Human Well-Being and Health Impacts of the Degradation of Terrestrial and Aquatic Ecosystems.pdf",
+            "part_name": "Social-Ecological Transformations: Changes in the Amazon",
+            "chapter_name": "Human Well-Being and Health Impacts of the Degradation of Terrestrial and Aquatic Ecosystems",
+            "chapter_number": 21,
+            "chunk_seq": 114,
+            "parent_section_number": "21.9",
+            "parent_section_name": "References",
+            "page": 23,
+            "element_id": "bf24cecd7db5ad5f8b6cd4a2fc22305a"
+        }
+    },
+    {
+        "text": "Isaac VJ, Almeida MC, Giarrizzo T, et al. 2015. Food consumption as an indicator of the conservation of natural resources in riverine communities of the Brazilian Amazon. An Acad Bras Cienc 87: 2229–42. Jacobson L da SV. 2013. Efeitos adversos da poluição atmosfé- rica em crianças e adolescentes devido a queimadas na Amazônia : uma abordagem de modelos mistos em estudos de painel. Jacobson L da SV, Hacon S de S, Castro HA de, et al. 2012. Association between fine particulate matter and the peak Impacts of the Degradation of Terrestrial and Aquatic Ecosystems expiratory flow of schoolchildren in the Brazilian subequatorial Amazon: A panel study. Environ Res 117: 27–35. Jacobson L da SV, Hacon S de S, Castro HA de, et al. 2014. Acute Effects of Particulate Matter and Black Carbon from Seasonal Fires on Peak Expiratory Flow of Schoolchildren in the Brazilian Amazon (Q Sun, Ed). PLoS One 9: e104177.",
+        "type": "CompositeElement",
+        "metadata": {
+            "source": "Part_II_Cap_21_Human Well-Being and Health Impacts of the Degradation of Terrestrial and Aquatic Ecosystems.pdf",
+            "part_name": "Social-Ecological Transformations: Changes in the Amazon",
+            "chapter_name": "Human Well-Being and Health Impacts of the Degradation of Terrestrial and Aquatic Ecosystems",
+            "chapter_number": 21,
+            "chunk_seq": 115,
+            "parent_section_number": "21.9",
+            "parent_section_name": "References",
+            "page": 23,
+            "element_id": "5845b90d562652874ca628de4134a531"
+        }
+    },
+    {
+        "text": "Jones C, Lowe J, Liddicoat S, and Betts R. 2009. Committed terrestrial ecosystem changes due to climate change. Nat Geosci 2: 484–7. Kalamandeen M, Gloor E, Mitchard E, et al. 2018. Pervasive rise of small-scale deforestation in Amazonia. Sci Rep 8: 1–10. Khalili Tilami S and Sampels S. 2018. Nutritional Value of Fish: Lipids, Proteins, Vitamins, and Minerals. Rev Fish Sci Aquac 26: 243–53. Kuhn JH, Adkins S, Alioto D, et al. 2020. 2020 taxonomic update for phylum Negarnaviricota (Riboviria: Orthornavirae), including the large orders Bunyavirales and Mononegavirales. Arch Virol 165: 3023–72. Laporta GZ. 2019. Amazonian rainforest loss and declining malaria burden in Brazil. Lancet Planet Heal 3: e4–5. Liana Anderson and Marchezini V. 2020. Incêndios Florestais na Amazônia: O Que Dizem os Dados Sobre Desenvolvimento, Desastres e Emergências em Saúde Pública.",
+        "type": "CompositeElement",
+        "metadata": {
+            "source": "Part_II_Cap_21_Human Well-Being and Health Impacts of the Degradation of Terrestrial and Aquatic Ecosystems.pdf",
+            "part_name": "Social-Ecological Transformations: Changes in the Amazon",
+            "chapter_name": "Human Well-Being and Health Impacts of the Degradation of Terrestrial and Aquatic Ecosystems",
+            "chapter_number": 21,
+            "chunk_seq": 116,
+            "parent_section_number": "21.9",
+            "parent_section_name": "References",
+            "page": 24,
+            "element_id": "b567010830dc5d42357e963fee10822d"
+        }
+    },
+    {
+        "text": "Loiseau R, Nabet C, Simon S, et al. 2019. American cutaneous leishmaniasis in French Guiana: an epidemiological update and study of environmental risk factors. Int J Dermatol 58: 1323–8. Lowe R, Lee S, Martins Lana R, et al. 2020. Emerging arboviruses in the urbanized Amazon rainforest. BMJ: m4385. MacDonald AJ and Mordecai EA. 2019. Amazon deforestation drives malaria transmission, and malaria burden reduces forest clearing. Proc Natl Acad Sci U S A 116: 22212–8. Magliocca NR, Ellis EC, Allington GRH, et al. 2018. Closing global knowledge gaps: Producing generalized knowledge from case studies of social-ecological systems. Glob Environ Chang 50: 1–14. Mascarenhas MDM, Vieira LC, Lanzieri TM, et al. 2008. Poluição atmosférica devida à queima de biomassa florestal e atendimentos de emergência por doença respiratória em Rio Branco, Brasil - Setembro, 2005. J Bras Pneumol 34: 42–6.",
+        "type": "CompositeElement",
+        "metadata": {
+            "source": "Part_II_Cap_21_Human Well-Being and Health Impacts of the Degradation of Terrestrial and Aquatic Ecosystems.pdf",
+            "part_name": "Social-Ecological Transformations: Changes in the Amazon",
+            "chapter_name": "Human Well-Being and Health Impacts of the Degradation of Terrestrial and Aquatic Ecosystems",
+            "chapter_number": 21,
+            "chunk_seq": 117,
+            "parent_section_number": "21.9",
+            "parent_section_name": "References",
+            "page": 24,
+            "element_id": "a0e92d5feedf37ca6875ce3614b5776c"
+        }
+    },
+    {
+        "text": "Mascarenhas MDM, Vieira LC, Lanzieri TM, et al. 2008. Anthropogenic air pollution and respiratory disease-related emergency room visits in Rio Branco, Brazil - September, 2005. J Bras Pneumol 34: 42–6. Medeiros DBA and Vasconcelos PFC. 2019. Is the brazilian diverse environment is a crib for the emergence and maintenance of exotic arboviruses? An Acad Bras Cienc 91. Medeiros DB, Rosa EST da, Marques AA, et al. 2010. Circulation of hantaviruses in the influence area of the Cuiabá-Santarém Highway. Mem Inst Oswaldo Cruz 105: 665–71. Medeiros DBA and Vasconcelos PFC. 2019. Is the brazilian diverse environment is a crib for the emergence and maintenance of exotic arboviruses? An Acad Bras Cienc 91. Monteiro AS and Santos LL dos. 2020. Covid-19 e a crescente fragilidade da Amazônia brasileira. Inst Adv Sustain Stud. Monteiro, Sgambatti A Santos L dos L. 2020. Covid-19 e a crescente fragilidade da Amazônia brasileira. IASS Discuss Pap.",
+        "type": "CompositeElement",
+        "metadata": {
+            "source": "Part_II_Cap_21_Human Well-Being and Health Impacts of the Degradation of Terrestrial and Aquatic Ecosystems.pdf",
+            "part_name": "Social-Ecological Transformations: Changes in the Amazon",
+            "chapter_name": "Human Well-Being and Health Impacts of the Degradation of Terrestrial and Aquatic Ecosystems",
+            "chapter_number": 21,
+            "chunk_seq": 118,
+            "parent_section_number": "21.9",
+            "parent_section_name": "References",
+            "page": 24,
+            "element_id": "9371069933b9ebbfb4c6a2b0b1350f01"
+        }
+    },
+    {
+        "text": "Morel FMM, Kraepiel AML, and Amyot M. 1998. The Chemical Cycle and Bioaccumulation Of Mercury. Annu Rev Ecol Syst 29: 543–66. Nardoto GB, Murrieta RSS, Prates LEG, et al. 2011. Frozen chicken for wild fish: Nutritional transition in the Brazilian Amazon region determined by carbon and nitrogen stable isotope ratios in fingernails. Am J Hum Biol 23: 642–50. Navarro JC, Arrivillaga-Henríquez J, Salazar-Loor J, and Rodriguez-Morales AJ. 2020. COVID-19 and dengue, co-epidemics in Ecuador and other countries in Latin America: Pushing strained health care systems over the edge. Travel Med Infect Dis 37. Navarro J-C, Arrivillaga-Henríquez J, Salazar-Loor J, and Rodriguez-Morales AJ. 2020. COVID-19 and dengue, co-epidemics in Ecuador and other countries in Latin America: Pushing strained health care systems over the edge. Travel Med Infect Dis 37: 101656.",
+        "type": "CompositeElement",
+        "metadata": {
+            "source": "Part_II_Cap_21_Human Well-Being and Health Impacts of the Degradation of Terrestrial and Aquatic Ecosystems.pdf",
+            "part_name": "Social-Ecological Transformations: Changes in the Amazon",
+            "chapter_name": "Human Well-Being and Health Impacts of the Degradation of Terrestrial and Aquatic Ecosystems",
+            "chapter_number": 21,
+            "chunk_seq": 119,
+            "parent_section_number": "21.9",
+            "parent_section_name": "References",
+            "page": 24,
+            "element_id": "d0ffa0b4fd21a4be1e5cfe7a30f38021"
+        }
+    },
+    {
+        "text": "Naveca FG, Nascimento V, Souza VC de, et al. 2021. COVID-19 in Amazonas, Brazil, was driven by the persistence of endemic lineages and P.1 emergence. Nat Med 27: 1230–8. Nicolelis MAL, Raimundo RLG, Peixoto PS, and Andreazzi CS. 2021. The impact of super-spreader cities, highways, and intensive care availability in the early stages of the COVID-19 epidemic in Brazil. Sci Rep 11: 13001. Oestreicher JS, Amaral DP Do, Passos CJS, et al. 2020. Rural development and shifts in household dietary practices from 1999 to 2010 in the Tapajós River region, Brazilian Amazon: Empirical evidence from dietary surveys. Global Health 16. Olalla HR, Velez LN, Kato H, et al. 2015. An analysis of reported cases of leishmaniasis in the southern Ecuadorian Amazon region, 1986-2012. Acta Trop 146: 119–26. Olival KJ, Hosseini PR, Zambrana-Torrelio C, et al. 2017. Host and viral traits predict zoonotic spillover from mammals. Nature 546: 646–50.",
+        "type": "CompositeElement",
+        "metadata": {
+            "source": "Part_II_Cap_21_Human Well-Being and Health Impacts of the Degradation of Terrestrial and Aquatic Ecosystems.pdf",
+            "part_name": "Social-Ecological Transformations: Changes in the Amazon",
+            "chapter_name": "Human Well-Being and Health Impacts of the Degradation of Terrestrial and Aquatic Ecosystems",
+            "chapter_number": 21,
+            "chunk_seq": 120,
+            "parent_section_number": "21.9",
+            "parent_section_name": "References",
+            "page": 24,
+            "element_id": "f86585ae98fb6cb5e717722c939ead28"
+        }
+    },
+    {
+        "text": "Oliveira RC de, Santos MC, Guterres A, et al. 2020. Rio Mamoré Virus and Hantavirus Pulmonary Syndrome, Brazilhttps://www.arca.fiocruz.br/handle/icict/10982. Viewed Olivero-Verbel J, Carranza-Lopez L, Caballero-Gallardo K, et al. 2016. Human exposure and risk assessment associated with mercury pollution in the Caqueta River, Colombian Amazon. Environ Sci Pollut Res 23: 20761–71. Organization WH. 2005. Ecosystems and Human Well-being: Health Synthesis. Pereira WV da S, Teixeira RA, Souza ES de, et al. 2020. Chemical fractionation and bioaccessibility of potentially toxic elements in area of artisanal gold mining in the Amazon. J Environ Manage 267: 110644. Petrere JM. 1992. As comunidades humanas ribeirinhas da Amazônia e suas transformações sociais. In: Diegues A (Ed). Populações humanas, rios e mares da Amazônia. São Paulo: Anais do IV Encontro de Ciências Sociais e o Mar no Brasil.",
+        "type": "CompositeElement",
+        "metadata": {
+            "source": "Part_II_Cap_21_Human Well-Being and Health Impacts of the Degradation of Terrestrial and Aquatic Ecosystems.pdf",
+            "part_name": "Social-Ecological Transformations: Changes in the Amazon",
+            "chapter_name": "Human Well-Being and Health Impacts of the Degradation of Terrestrial and Aquatic Ecosystems",
+            "chapter_number": 21,
+            "chunk_seq": 121,
+            "parent_section_number": "21.9",
+            "parent_section_name": "References",
+            "page": 24,
+            "element_id": "04f4be672ec69691c5e47d977dad0df0"
+        }
+    },
+    {
+        "text": "Pettigrew SM, Pan WK, Berky A, et al. 2019. In urban, but not rural, areas of Madre de Dios, Peru, adoption of a Western diet is inversely associated with selenium intake. Sci Total Environ 687: 1046–54. Piotrowski M and Ortiz E. 2019. Nearing the Tipping Point. Drivers of Deforestation in the Amazon Region. Dialogue Leadersh Am: 1–28. Prestes-Carneiro G, Béarez P, Bailon S, et al. 2016. Subsistence",
+        "type": "CompositeElement",
+        "metadata": {
+            "source": "Part_II_Cap_21_Human Well-Being and Health Impacts of the Degradation of Terrestrial and Aquatic Ecosystems.pdf",
+            "part_name": "Social-Ecological Transformations: Changes in the Amazon",
+            "chapter_name": "Human Well-Being and Health Impacts of the Degradation of Terrestrial and Aquatic Ecosystems",
+            "chapter_number": 21,
+            "chunk_seq": 122,
+            "parent_section_number": "21.9",
+            "parent_section_name": "References",
+            "page": 24,
+            "element_id": "dadbfb8aeb6a2c3742fcb8db9f17bf12"
+        }
+    },
+    {
+        "text": "Impacts of the Degradation of Terrestrial and Aquatic Ecosystems fishery at Hatahara (750–1230 CE), a pre-Columbian central Amazonian village. J Archaeol Sci Reports 8: 454–62. Rader B, Scarpino S V., Nande A, et al. 2020. Crowding and the shape of COVID-19 epidemics. Nat Med 26: 1829–34. Ramírez JD, Sordillo EM, Gotuzzo E, et al. 2020. SARS-CoV-2 in the Amazon region: A harbinger of doom for Amerindians (A Mostafa, Ed). PLoS Negl Trop Dis 14: e0008686. Rappold AG, Reyes J, Pouliot G, et al. 2017. Community Vulnerability to Health Impacts of Wildland Fire Smoke Exposure. Environ Sci Technol 51: 6674–82. Reuben A, Frischtak H, Berky A, et al. 2020. Elevated Hair Mercury Levels Are Associated With Neurodevelopmental Deficits in Children Living Near Artisanal and Small‐Scale Gold Mining in Peru. GeoHealth 4. Reuters. 2021. Gold miners fire on Yanomami indigenous community in Brazil.",
+        "type": "CompositeElement",
+        "metadata": {
+            "source": "Part_II_Cap_21_Human Well-Being and Health Impacts of the Degradation of Terrestrial and Aquatic Ecosystems.pdf",
+            "part_name": "Social-Ecological Transformations: Changes in the Amazon",
+            "chapter_name": "Human Well-Being and Health Impacts of the Degradation of Terrestrial and Aquatic Ecosystems",
+            "chapter_number": 21,
+            "chunk_seq": 123,
+            "parent_section_number": "21.9",
+            "parent_section_name": "References",
+            "page": 25,
+            "element_id": "294d0cdd0e9c5284a061220232015199"
+        }
+    },
+    {
+        "text": "Rice KM, Walker EM, Wu M, et al. 2014. Environmental Mercury and Its Toxic Effects. J Prev Med Public Heal 47: 74–83. Rodrigues MG de A, Sousa JD de B, Dias ÁLB, et al. 2019. The role of deforestation on American cutaneous leishmaniasis incidence: spatial-temporal distribution, environmental and socioeconomic factors associated in the Brazilian Amazon. Trop Med Int Heal 24: 348–55. Rosa AP de AT. 2016. The history of Arbovirology at Instituto Evandro Chagas, Belém, Pará, Brazil, from 1954 to 1998. Rev Pan-Amazônica Saúde 7: 61–70. Rosa AP de AT da. 2016. The history of Arbovirology at Instituto Evandro Chagas, Belém, Pará, Brazil, from 1954 to 1998. Rev Pan-Amazônica Saúde 7: 61–70. Rosa, A. M., Ignotti, E., Hacon, S. d. S. & Castro, H. A. d. 2008. Analysis of hospitalizations for respiratory diseases in Tangara da Serra, Brazil. J Bras Pneumol. 34, 575–582.",
+        "type": "CompositeElement",
+        "metadata": {
+            "source": "Part_II_Cap_21_Human Well-Being and Health Impacts of the Degradation of Terrestrial and Aquatic Ecosystems.pdf",
+            "part_name": "Social-Ecological Transformations: Changes in the Amazon",
+            "chapter_name": "Human Well-Being and Health Impacts of the Degradation of Terrestrial and Aquatic Ecosystems",
+            "chapter_number": 21,
+            "chunk_seq": 124,
+            "parent_section_number": "21.9",
+            "parent_section_name": "References",
+            "page": 25,
+            "element_id": "d584dd3c595dec7c3282d40be7133661"
+        }
+    },
+    {
+        "text": "Rosário ING, Andrade AJ, Ligeiro R, et al. 2016. Evaluating the Adaptation Process of Sandfly Fauna to Anthropized Environments in a Leishmaniasis Transmission Area in the Brazilian Amazon. J Med Entomol 54: tjw182. Rotureau B, Joubert M, Clyti E, et al. 2006. Leishmaniasis among gold miners, French Guiana [6]. Emerg Infect Dis 12: 1169–70. Sanchez JF, Carnero AM, Rivera E, et al. 2017. Unstable Malaria Transmission in the Southern Peruvian Amazon and Its Association with Gold Mining, Madre de Dios, 2001–2012. Am J Trop Med Hyg 96: 304–11. Santos-Lima C, Mourão D de S, Carvalho CF de, et al. 2020. Neuropsychological Effects of Mercury Exposure in Children and Adolescents of the Amazon Region, Brazil. Neurotoxicology 79: 48–57. Schiesari L and Grillitsch B. 2011. Pesticides meet megadiversity in the expansion of biofuel crops. Front Ecol Environ 9: 215–21.",
+        "type": "CompositeElement",
+        "metadata": {
+            "source": "Part_II_Cap_21_Human Well-Being and Health Impacts of the Degradation of Terrestrial and Aquatic Ecosystems.pdf",
+            "part_name": "Social-Ecological Transformations: Changes in the Amazon",
+            "chapter_name": "Human Well-Being and Health Impacts of the Degradation of Terrestrial and Aquatic Ecosystems",
+            "chapter_number": 21,
+            "chunk_seq": 125,
+            "parent_section_number": "21.9",
+            "parent_section_name": "References",
+            "page": 25,
+            "element_id": "c9f964d407dd7d2f0412f2f74f4b9710"
+        }
+    },
+    {
+        "text": "Schiesari L, Waichman A, Brock T, et al. 2013. Pesticide use and biodiversity conservation in the Amazonian agricultural frontier. Philos Trans Biol Sci 368: 1–9. Schiesari L, Waichman A, Brock T, et al. 2013. Pesticide use and biodiversity conservation in the Amazonian agricultural frontier. Philos Trans R Soc B Biol Sci 368: 20120378. Silva AMC da, Moi GP, Mattos IE, and Hacon S de S. 2014. Low birth weight at term and the presence of fine particulate matter and carbon monoxide in the Brazilian Amazon: a population-based retrospective cohort study. BMC Pregnancy Childbirth 14: 309. Silva WNT da, Rosa MFP, Mendonça KS, et al. 2021. Síndrome respiratória aguda grave em indígenas no contexto da pandemia da COVID-19 no Brasil: uma análise sob a perspectiva da vigilância epidemiológica. Vigil Sanit em Debate 9: 2–11.",
+        "type": "CompositeElement",
+        "metadata": {
+            "source": "Part_II_Cap_21_Human Well-Being and Health Impacts of the Degradation of Terrestrial and Aquatic Ecosystems.pdf",
+            "part_name": "Social-Ecological Transformations: Changes in the Amazon",
+            "chapter_name": "Human Well-Being and Health Impacts of the Degradation of Terrestrial and Aquatic Ecosystems",
+            "chapter_number": 21,
+            "chunk_seq": 126,
+            "parent_section_number": "21.9",
+            "parent_section_name": "References",
+            "page": 25,
+            "element_id": "6475cd4d9201c21eac49c683b2d1574e"
+        }
+    },
+    {
+        "text": "Sinti-Hesse C, Díaz-Soria F, Casanova-Rojas W, et al. 2019. River boats as a means of expansion of Aedes aegypti towards border zones of the peruvian amazon. Rev Peru Med Exp Salud Publica 36: 392–9. Smith LT, Aragão LEOC, Sabel CE, and Nakaya T. 2015. Drought impacts on children’s respiratory health in the Brazilian Amazon. Sci Rep 4: 3726. Sousa Júnior A da S, Palácios VR da CM, Miranda C do S, et al. 2017. Análise espaço-temporal da doença de Chagas e seus fatores de risco ambientais e demográficos no município de Barcarena, Pará, Brasil. Rev Bras Epidemiol 20: 742–55. Sundström JF, Albihn A, Boqvist S, et al. 2014. Future threats to agricultural food production posed by environmental degradation, climate change, and animal and plant diseases – a risk analysis in three economic and climate settings. Food Secur 6: 201–15.",
+        "type": "CompositeElement",
+        "metadata": {
+            "source": "Part_II_Cap_21_Human Well-Being and Health Impacts of the Degradation of Terrestrial and Aquatic Ecosystems.pdf",
+            "part_name": "Social-Ecological Transformations: Changes in the Amazon",
+            "chapter_name": "Human Well-Being and Health Impacts of the Degradation of Terrestrial and Aquatic Ecosystems",
+            "chapter_number": 21,
+            "chunk_seq": 127,
+            "parent_section_number": "21.9",
+            "parent_section_name": "References",
+            "page": 25,
+            "element_id": "a53a9726d72786c26ecbfd1845334438"
+        }
+    },
+    {
+        "text": "Swenson JJ, Carter CE, Domec J-C, and Delgado CI. 2011. Gold Mining in the Peruvian Amazon: Global Prices, Deforestation, and Mercury Imports (GJ-P Schumann, Ed). PLoS One 6: e18875. Tacon AGJ and Metian M. 2013. Fish matters: Importance of aquatic foods in human nutrition and global food supply. Rev Fish Sci 21: 22–38. Tello-Martín JS and Bayley P. 2001. La Pesquería Comercial de Loreto con Énfasis en el Análisis de la Relación Entre Captura y Esfuerzo Pesquero de la Flota Comercial De Iquitos, Cuenca Del Amazonas (Perú). Folia Amaz 12: 123. Terças-Trettel ACP, Oliveira EC De, Fontes CJF, et al. 2019. Malaria and Hantavirus Pulmonary Syndrome in Gold Mining in the Amazon Region, Brazil. Int J Environ Res Public Health 16: 1852. Terrazas WCM, Sampaio VDS, Castro DB de, et al. 2015. Deforestation, drainage network, indigenous status, and geographical differences of malaria in the State of Amazonas. Malar J 14: 379.",
+        "type": "CompositeElement",
+        "metadata": {
+            "source": "Part_II_Cap_21_Human Well-Being and Health Impacts of the Degradation of Terrestrial and Aquatic Ecosystems.pdf",
+            "part_name": "Social-Ecological Transformations: Changes in the Amazon",
+            "chapter_name": "Human Well-Being and Health Impacts of the Degradation of Terrestrial and Aquatic Ecosystems",
+            "chapter_number": 21,
+            "chunk_seq": 128,
+            "parent_section_number": "21.9",
+            "parent_section_name": "References",
+            "page": 25,
+            "element_id": "a0fe3c7ff5d0df89fe67b8e42200fc4b"
+        }
+    },
+    {
+        "text": "Torres K, Alava F, Soto-Calle V, et al. 2020. Malaria Situation in the Peruvian Amazon during the COVID-19 Pandemic. Am J Trop Med Hyg 103: 1773–6. Tregidgo DJ, Barlow J, Pompeu PS, et al. 2017. Rainforest metropolis casts 1,000-km defaunation shadow. Proc Natl Acad Sci 114: 8655–9. Ullrich SM, Tanton TW, and Abdrashitova SA. 2001. Mercury in the Aquatic Environment: A Review of Factors Affecting Methylation. Crit Rev Environ Sci Technol 31: 241–93. Vale MM, Berenguer E, Argollo de Menezes M, et al. 2021. The COVID-19 pandemic as an opportunity to weaken environmental protection in Brazil. Biol Conserv 255: 108994. Valente SA da S, Costa Valente V da, Neves Pinto AY das, et al. 2009. Analysis of an acute Chagas disease outbreak in the Brazilian Amazon: human cases, triatomines, reservoir mammals and parasites. Trans R Soc Trop Med Hyg 103: 291– 7.",
+        "type": "CompositeElement",
+        "metadata": {
+            "source": "Part_II_Cap_21_Human Well-Being and Health Impacts of the Degradation of Terrestrial and Aquatic Ecosystems.pdf",
+            "part_name": "Social-Ecological Transformations: Changes in the Amazon",
+            "chapter_name": "Human Well-Being and Health Impacts of the Degradation of Terrestrial and Aquatic Ecosystems",
+            "chapter_number": 21,
+            "chunk_seq": 129,
+            "parent_section_number": "21.9",
+            "parent_section_name": "References",
+            "page": 25,
+            "element_id": "f1694b1a116252e383982f81b5cbec39"
+        }
+    },
+    {
+        "text": "Impacts of the Degradation of Terrestrial and Aquatic Ecosystems Valentine MJ, Murdock CC, and Kelly PJ. 2019. Sylvatic cycles of arboviruses in non-human primates. Parasites and Vectors 12. Valle D and Clark J. 2013. Conservation Efforts May Increase Malaria Burden in the Brazilian Amazon (T Eisele, Ed). PLoS One 8: e57519. Valle D and Tucker Lima JM. 2014. Large-scale drivers of malaria and priority areas for prevention and control in the Brazilian Amazon region using a novel multi-pathogen geospatial model. Malar J 13: 443. Vliet N van, Quiceno-Mesa MP, Cruz-Antia D, et al. 2015. From fish and bushmeat to chicken nuggets: the nutrition transition in a continuum from rural to urban settings in the Tri frontier Amazon region. Ethnobiol Conserv 4. Vasconcelos PF, Rosa JF Da, Rosa AP Da, et al. 1991. Epidemiology of encephalitis caused by arbovirus in the Brazilian Amazonia. Rev Inst Med Trop Sao Paulo 33: 465–76.",
+        "type": "CompositeElement",
+        "metadata": {
+            "source": "Part_II_Cap_21_Human Well-Being and Health Impacts of the Degradation of Terrestrial and Aquatic Ecosystems.pdf",
+            "part_name": "Social-Ecological Transformations: Changes in the Amazon",
+            "chapter_name": "Human Well-Being and Health Impacts of the Degradation of Terrestrial and Aquatic Ecosystems",
+            "chapter_number": 21,
+            "chunk_seq": 130,
+            "parent_section_number": "21.9",
+            "parent_section_name": "References",
+            "page": 26,
+            "element_id": "0b63998493d127897d03e42907a7152e"
+        }
+    },
+    {
+        "text": "Vasconcelos PFC, Travassos da Rosa APA, Rodrigues SG, et al. 2001. Inadequate management of natural ecosystem in the Brazilian Amazon region results in the emergence and reemergence of arboviruses. Cad Saude Publica 17: S155–64. Vasconcelos PFC, Travassos da Rosa APA, Rodrigues SG, et al. 2001. Inadequate management of natural ecosystem in the Brazilian Amazon region results in the emergence and reemergence of arboviruses. Cad Saude Publica 17: S155–64. Venticinque E, Forsberg B, Barthem R, et al. 2016. An explicit GISbased river basin framework for aquatic ecosystem conservation in the Amazon. Available at: https://knb.ecoinformatics.org/view/doi%3A10.5063%2FF1BG2KX8#snapp_computing.6.1. Veríssimo J. 1895. A pesca na Amazônia, Vol. 3. Rio de Janeiro, RJ Brazil: Livraria clássica de Alves.",
+        "type": "CompositeElement",
+        "metadata": {
+            "source": "Part_II_Cap_21_Human Well-Being and Health Impacts of the Degradation of Terrestrial and Aquatic Ecosystems.pdf",
+            "part_name": "Social-Ecological Transformations: Changes in the Amazon",
+            "chapter_name": "Human Well-Being and Health Impacts of the Degradation of Terrestrial and Aquatic Ecosystems",
+            "chapter_number": 21,
+            "chunk_seq": 131,
+            "parent_section_number": "21.9",
+            "parent_section_name": "References",
+            "page": 26,
+            "element_id": "9ad13f046919f59a9bbf110aa1e8da19"
+        }
+    },
+    {
+        "text": "Viana RL, Freitas CM de, and Giatti LL. 2016. Saúde ambiental e desenvolvimento na Amazônia legal: indicadores socioeconômicos, ambientais e sanitários, desafios e perspectivas. Saúde e Soc 25: 233–46. Vittor AY, Pan W, Gilman RH, et al. 2009. Linking deforestation to malaria in the Amazon: Characterization of the breeding habitat of the principal malaria vector, Anopheles darlingi. Am J Trop Med Hyg 81: 5–12. Vittor AY, Gilman RH, Tielsch J, et al. 2006. The effect of deforestation on the human-biting rate of Anopheles darlingi, the primary vector of falciparum malaria in the Peruvian Amazon. Am J Trop Med Hyg 74: 3–11. Wagner L and Hoang T. 2020. POLICY BRIEF How coronavirus impacts human trafficking. White RJ and Razgour O. 2020. Emerging zoonotic diseases originating in mammals: a systematic review of effects of anthropogenic land‐use change. Mamm Rev 50: 336–52.",
+        "type": "CompositeElement",
+        "metadata": {
+            "source": "Part_II_Cap_21_Human Well-Being and Health Impacts of the Degradation of Terrestrial and Aquatic Ecosystems.pdf",
+            "part_name": "Social-Ecological Transformations: Changes in the Amazon",
+            "chapter_name": "Human Well-Being and Health Impacts of the Degradation of Terrestrial and Aquatic Ecosystems",
+            "chapter_number": 21,
+            "chunk_seq": 132,
+            "parent_section_number": "21.9",
+            "parent_section_name": "References",
+            "page": 26,
+            "element_id": "de6988504872608d99d694d017aec043"
+        }
+    },
+    {
+        "text": "World Health Organization.WHO .2008.Mercury: Assessing the environmental burden of disease at national and local levels. Editor, Prüss-Üstün A. World Health Organization, Geneva, 2008. World Health Organization.WHO. 1947. CONSTITUTION of the World Health Organizationhttps://www.who.int/about/whowe-are/constitution. Viewed 15 Mar 2021. Wu M-F, Ison JR, Wecker JR, and Lapham LW. 1985. cutaneous and auditory function in rats following methyl mercury poisoning. Toxicol Appl Pharmacol 79: 377–88.",
+        "type": "CompositeElement",
+        "metadata": {
+            "source": "Part_II_Cap_21_Human Well-Being and Health Impacts of the Degradation of Terrestrial and Aquatic Ecosystems.pdf",
+            "part_name": "Social-Ecological Transformations: Changes in the Amazon",
+            "chapter_name": "Human Well-Being and Health Impacts of the Degradation of Terrestrial and Aquatic Ecosystems",
+            "chapter_number": 21,
+            "chunk_seq": 133,
+            "parent_section_number": "21.9",
+            "parent_section_name": "References",
+            "page": 26,
+            "element_id": "2cbe2877badce15c59c3ed3997cea36e"
+        }
+    }
+]
