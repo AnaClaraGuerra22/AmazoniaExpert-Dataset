@@ -44,22 +44,22 @@ A base de conhecimento é fundamentada nos relatórios do **Science Panel for th
 AmazoniaExpert-Dataset/
 │
 ├── PAR QA/                          # Benchmark e geração de dados
-│   ├── gold_standard_amazonia.json # Dataset padrão-ouro
-│   ├── gerar_json.py               # Script de geração do benchmark
-│   └── titulos.txt                 # Metadados auxiliares
+│   ├── gold_standard_amazonia.json  # Dataset padrão-ouro
+│   ├── gerar_json.py                # Script de geração do benchmark
+│   └── titulos.txt                  # Metadados auxiliares
 │
 ├── RAG/                             # Pipeline completo RAG
-│   ├── Dados_Limpos/               # JSON com Corpus extraído, tratado e enriquecido
-│   ├── Dados_Tratados_CC/          # JSON Corpus tratado e enriquecido dos Cross Chapters
+│   ├── Dados_Limpos/                # JSON com Corpus extraído, tratado e enriquecido
+│   ├── Dados_Tratados_CC/           # JSON Corpus tratado e enriquecido dos Cross Chapters
 │   │
-│   ├── app.py                      # Interface / execução principal
-│   ├── main.py                     # Pipeline principal RAG
-│   ├── mainCross.py                # Execução cross-model
+│   ├── app.py                       # Interface / execução principal
+│   ├── main.py                      # Pipeline principal RAG
+│   ├── mainCross.py                 # Execução cross-model
 │   │
-│   ├── vetorizacao.py              # Indexação vetorial (ChromaDB)
-│   ├── teste_busca.py              # Testes de recuperação
+│   ├── vetorizacao.py               # Indexação vetorial (ChromaDB)
+│   ├── teste_busca.py               # Testes de recuperação
 │   │
-│   └── auditoria.py                # Auditoria das respostas
+│   └── auditoria.py                 # Auditoria das respostas
 │
 ├── assets/                          # Imagens do projeto
 │   ├── fluxograma_metodologia.png
@@ -89,7 +89,6 @@ O processo de construção do dataset envolve:
 ### 3. Enriquecimento
 
 * Inclusão de metadados:
-
   * Capítulo
   * Página
   * Contexto semântico
@@ -112,19 +111,16 @@ PAR QA/gold_standard_amazonia.json
 ### Estrutura do Dataset
 
 * **metadados_pergunta**
-
   * Dificuldade (Easy, Medium, Hard)
   * Tipo (Direct / Indirect)
   * Capítulo do SPA
   * Índice de subjetividade
 
 * **padrao_ouro**
-
   * Pergunta
   * Resposta esperada
 
 * **avaliacoes_modelos**
-
   * GPT-4
   * Claude 3.5
   * Gemini 2.5
@@ -132,7 +128,6 @@ PAR QA/gold_standard_amazonia.json
   * AmazoniaExpert
 
 * **similaridade_faiss_percentual**
-
   * Similaridade semântica (Cosseno)
   * Diagnóstico de falsa similaridade
 
@@ -202,7 +197,7 @@ Este projeto está sob a licença MIT.
 
 ---
 
-## ⭐ Contribuição
+## Contribuição
 
 Pull requests são bem-vindos!
 Para mudanças maiores, abra uma issue primeiro.
