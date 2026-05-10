@@ -9,8 +9,14 @@ from html.parser import HTMLParser
 load_dotenv()
 
 
-PASTA_ORIGEM = r"C:\Users\anacl\OneDrive\Área de Trabalho\periodos\XI periodo\TCCII\Artigos\Ingles"
-PASTA_DESTINO = r"C:\Users\anacl\OneDrive\Área de Trabalho\periodos\XI periodo\TCCII\UNSTRUCTURED\Dados_Limpos"
+#PASTA_ORIGEM = r"C:\Users\anacl\OneDrive\Área de Trabalho\periodos\XI periodo\TCCII\Artigos\Ingles"
+# PASTA_DESTINO = r"C:\Users\anacl\OneDrive\Área de Trabalho\periodos\XI periodo\TCCII\UNSTRUCTURED\Dados_Limpos"
+
+
+BASE_DIR = os.path.dirname(os.path.abspath(__file__))
+
+PASTA_ORIGEM = os.path.join(BASE_DIR, "PDFs")
+PASTA_DESTINO = os.path.join(BASE_DIR, "Dados_Limpos")
 
 os.makedirs(PASTA_DESTINO, exist_ok=True)
 client = UnstructuredClient(api_key_auth=os.getenv("UNSTRUCTURED_API_KEY"))

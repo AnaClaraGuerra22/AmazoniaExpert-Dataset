@@ -6,7 +6,12 @@ from langchain_huggingface import HuggingFaceEmbeddings
 
 
 # python -m pip install langchain-chroma
-PASTA_VECTORDB = r"C:\Users\anacl\OneDrive\Área de Trabalho\periodos\XI periodo\TCCII\VECTOR_DB"
+#PASTA_VECTORDB = r"C:\Users\anacl\OneDrive\Área de Trabalho\periodos\XI periodo\TCCII\VECTOR_DB"
+
+import os
+
+BASE_DIR = os.path.dirname(os.path.abspath(__file__))
+PASTA_VECTORDB = os.path.join(BASE_DIR, "VECTOR_DB")
 
 def testar_banco():
     print("Conectando ao banco de vetores...")
