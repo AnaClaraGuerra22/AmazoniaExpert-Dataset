@@ -66,13 +66,16 @@ SPAmazon-QA/
 │   └── titulos.txt                   # Metadados auxiliares
 │
 ├── RAG/
+    ├── PDFs/                         # Relatórios originais do SPA (PDF)
 │   ├── Dados_Limpos/                 # Corpus extraído, tratado e enriquecido (JSON)
 │   ├── Dados_Tratados_CC/            # Corpus dos Cross Chapters (JSON)
+    ├── VECTOR_DB/                    # Banco vetorial gerado automaticamente
+    ├── MODELO/                       # Modelos GGUF locais (não versionados)
 │   │
 │   ├── app.py                        # Interface / execução principal
-│   ├── main.py                       # Pipeline principal RAG
+│   ├── main.py                       # Processa o corpus
 │   ├── mainCross.py                  # Execução cross-model
-│   ├── vetorizacao.py                # Indexação vetorial (ChromaDB)
+│   ├── vetorizacao.py                # Banco vetorial gerado automaticamente (não versionado)
 │   ├── teste_busca.py                # Testes de recuperação
 │   └── auditoria.py                  # Auditoria das respostas
 │
@@ -131,9 +134,123 @@ SPAmazon-QA/
 
 ---
 
+
+
+## Modelos Utilizados
+
+Os modelos utilizados no projeto são carregados localmente no formato GGUF via `llama.cpp`.
+
+Devido ao tamanho dos arquivos, os modelos **não são versionados no GitHub**.
+
+### Estrutura esperada
+
+```text
+RAG/
+├── MODELO/
+│   ├── ClimateChat.i1-Q4_K_M.gguf
+│   └── Meta-Llama-3-8B-Instruct.Q4_K_M.gguf
+```
+
+### Download dos modelos
+
+| Modelo | Link |
+|---|---|
+| ClimateChat (GGUF) | https://huggingface.co/mradermacher/ClimateChat-i1-GGUF/blob/main/ClimateChat.i1-Q4_K_M.gguf |
+| Meta-Llama-3-8B-Instruct (GGUF) | https://huggingface.co/QuantFactory/Meta-Llama-3-8B-Instruct-GGUF/blob/main/Meta-Llama-3-8B-Instruct.Q4_K_M.gguf |
+
+Após o download, mova os arquivos `.gguf` para:
+
+```text
+RAG/MODELO/
+```
+
+Os modelos são distribuídos por terceiros via Hugging Face e mantêm suas respectivas licenças originais.
+O projeto SPAmazon-QA não redistribui pesos proprietários ou arquivos GGUF.
+
+
 ## Como Usar
 
-### 1. Carregar o benchmark
+### 1. Clonar o repositório
+
+```bash
+git clone https://github.com/seu-usuario/SPAmazon-QA.git
+cd SPAmazon-QA
+```
+
+---
+
+### 2. Instalar dependências
+
+```bash
+pip install -r requirements.txt
+```
+
+### Dependência adicional para CPU (GGUF / llama.cpp)
+
+```bash
+pip install llama-cpp-python --extra-index-url https://abetlen.github.io/llama-cpp-python/whl/cpu
+```
+
+---
+
+### 3. Configurar ambiente
+
+Crie um arquivo `.env` na raiz do projeto:
+
+```env
+UNSTRUCTURED_API_KEY=sua_chave_aqui
+```
+
+A chave pode ser obtida em:
+https://unstructured.io/
+
+---
+
+### 4. Processar os PDFs científicos
+
+Os PDFs do SPA devem estar em:
+
+```text
+RAG/PDFs/
+```
+
+Execute:
+
+```bash
+python RAG/main.py
+```
+
+Isso irá:
+- extrair os documentos;
+- limpar ruídos;
+- gerar chunks semânticos;
+- enriquecer metadados;
+- salvar os JSONs processados.
+
+---
+
+### 5. Criar a base vetorial (ChromaDB)
+
+```bash
+python RAG/vetorizacao.py
+```
+
+Isso irá:
+- gerar embeddings `all-mpnet-base-v2`;
+- indexar os chunks;
+- criar a base vetorial persistente em `RAG/VECTOR_DB/`.
+
+---
+
+### 6. Testar recuperação semântica
+
+```bash
+python RAG/teste_busca.py
+```
+
+---
+
+### 7. Carregar o benchmark
 
 ```python
 import json
@@ -142,18 +259,6 @@ with open('PAR QA/gold_standard_amazonia.json', 'r', encoding='utf-8') as f:
     data = json.load(f)
 
 print(data[0]['padrao_ouro']['pergunta'])
-```
-
-### 2. Executar o pipeline RAG
-
-```bash
-python RAG/main.py
-```
-
-### 3. Testar recuperação semântica
-
-```bash
-python RAG/teste_busca.py
 ```
 
 ---

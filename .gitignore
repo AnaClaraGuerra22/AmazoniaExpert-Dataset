@@ -13,3 +13,8 @@ RAG/.env
 *.pickle
 
 Artigos Exemplo/
+
+RAG/MODELO/
+
+RAG/VECTOR_DB/
+

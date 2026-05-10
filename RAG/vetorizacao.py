@@ -13,13 +13,22 @@ from langchain_chroma import Chroma
 # python -m pip install langchain langchain-core langchain-community langchain-huggingface sentence-transformers chromadb
 
 
-PASTA_JSON = r"C:\Users\anacl\OneDrive\Área de Trabalho\periodos\XI periodo\TCCII\UNSTRUCTURED\Dados_Limpos"
-PASTA_JSON_CC = r"C:\Users\anacl\OneDrive\Área de Trabalho\periodos\XI periodo\TCCII\UNSTRUCTURED\Dados_Tratados_CC"
+#PASTA_JSON = r"C:\Users\anacl\OneDrive\Área de Trabalho\periodos\XI periodo\TCCII\UNSTRUCTURED\Dados_Limpos"
+#PASTA_JSON_CC = r"C:\Users\anacl\OneDrive\Área de Trabalho\periodos\XI periodo\TCCII\UNSTRUCTURED\Dados_Tratados_CC"
 #PASTA_VECTORDB = r"C:\Users\anacl\OneDrive\Área de Trabalho\periodos\XI periodo\TCCII\VECTOR_DB"
 
 
 # PASTA_JSON = r"C:\TCCII\UNSTRUCTURED\Dados_Limpos"
 #PASTA_JSON_CC = r"C:\TCCII\UNSTRUCTURED\Dados_Tratados_CC"
+
+
+BASE_DIR = os.path.dirname(os.path.abspath(__file__))
+
+PASTA_JSON = os.path.join(BASE_DIR, "Dados_Limpos")
+PASTA_JSON_CC = os.path.join(BASE_DIR, "Dados_Tratados_CC")
+PASTA_VECTORDB = os.path.join(BASE_DIR, "VECTOR_DB")
+
+
 PASTA_VECTORDB = r"C:\TCCII\VECTOR_DB"
 
 def criar_base_vetorial():

@@ -11,8 +11,19 @@ from langchain_chroma import Chroma
 #CAMINHO_MODELO = r"C:\Users\anacl\OneDrive\Área de Trabalho\periodos\XI periodo\TCCII\MODELO\ClimateChat.i1-Q4_K_M.gguf"
 
 
-PASTA_VECTORDB = r"C:\TCCII\VECTOR_DB"
-CAMINHO_MODELO = r"C:\TCCII\MODELO\ClimateChat.i1-Q4_K_M.gguf"
+#PASTA_VECTORDB = r"C:\TCCII\VECTOR_DB"
+#CAMINHO_MODELO = r"C:\TCCII\MODELO\ClimateChat.i1-Q4_K_M.gguf"
+
+BASE_DIR = os.path.dirname(os.path.abspath(__file__))
+
+PASTA_VECTORDB = os.path.join(BASE_DIR, "VECTOR_DB")
+CAMINHO_MODELO = os.path.join(BASE_DIR, "MODELO", "ClimateChat.i1-Q4_K_M.gguf")
+
+if not os.path.exists(CAMINHO_MODELO):
+    raise FileNotFoundError(
+        f"Modelo não encontrado em: {CAMINHO_MODELO}\n"
+        f"Baixe o modelo GGUF e coloque na pasta RAG/MODELO/"
+    )
 
 
 def iniciar_chatbot():
