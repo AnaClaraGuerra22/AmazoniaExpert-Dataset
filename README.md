@@ -1,6 +1,7 @@
 <div align="center">
 <img src="assets/logo%20amazoniaExpert.png" alt="AmazoniaExpert Logo" width="180"/>
-SPAmazon-QA
+  
+# SPAmazon-QA
 
 ### Benchmarking de LLMs na Amazônia Sustentável com RAG
 
