@@ -92,28 +92,36 @@ SPAmazon-QA/
 ### Estrutura de cada entrada
 
 ```json
+
 {
+  "id_questao": Y,
   "metadados_pergunta": {
+    "capitulo_alvo": "Chapter X",
     "dificuldade": "Easy | Medium | Hard",
     "tipo": "Direct | Indirect",
-    "capitulo_spa": "...",
-    "indice_subjetividade": 0.0
+    "modelo_gerador_qa": "Modelo utilizado para geração do QA",
+    "indice_subjetividade_textblob": 0.0
   },
+
   "padrao_ouro": {
-    "pergunta": "...",
-    "resposta_esperada": "..."
+    "pergunta": "Pergunta de referência",
+    "resposta_esperada": "Resposta científica esperada"
   },
-  "avaliacoes_modelos": {
-    "GPT-4": "...",
-    "Claude 3.5": "...",
-    "Gemini 2.5": "...",
-    "LLaMA 3": "...",
-    "AmazoniaExpert": "..."
-  },
-  "similaridade_faiss_percentual": {
-    "similaridade_cosseno": 0.0,
-    "diagnostico": "..."
-  }
+
+  "avaliacoes_modelos": [
+    {
+      "modelo_avaliado": "Nome do modelo",
+
+      "resposta_gerada": "Resposta produzida pelo modelo",
+
+      "juiz_llm": {
+        "nota_likert": 0,
+        "justificativa_tecnica": "Análise técnica da resposta"
+      },
+
+      "similaridade_faiss_percentual": 0.0
+    }
+  ]
 }
 ```
 
