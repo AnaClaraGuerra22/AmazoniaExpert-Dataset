@@ -11,3 +11,5 @@ RAG/.env
 *.sqlite3
 *.bin
 *.pickle
+
+Artigos Exemplo/
