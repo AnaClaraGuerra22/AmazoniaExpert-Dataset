@@ -1,0 +1,33 @@
+Estou criando um LLM que sera especializado em Amazonia Sustentável
+Para testar se ele nao Alucina, preciso selecionar pares de perguntas e respostas de cada artigo que mandei para ele (Em inglês)
+Me ajude a fazer isso, mandei 38 artigos para ele 
+Regras para a criaçao dos pares de perguntas e respostas: 
+1. pelo menos 1 par de pergunta e resposta a cada 3 paginas do artigo 
+2. Em ingles 
+3. Nao citar o artigo nas perguntas, como "according to the article" 
+4. Classificar esses pares em niveis de dificuldade 
+5. Classificar esses pares em 'direto' ou 'indireto'. Sendo direto significando que a resposta esta pronta no artigo, e indireto significando que a resposta tera que ser um conjunto de partes do artigo, que ela nao esta pronta la dentro, que tem que pegar o contexto. 
+6. Ter pelo menos 2 pares 'direto' e 2 pares 'indireto' em cada artigo 
+7. Estrutura que voce irá mandar: 
+"Pair" x 
+"Question" x:
+...........?
+"Answer" x:
+........................
+"Difficulty:"
+...........
+"Classification:"
+"Direct" ou "Indirect"
+
+
+"Pair" x+1
+"Question" x+1:
+...........?
+"Answer" x+1:
+........................
+"Difficulty:"
+...........
+"Classification:"
+"Direct" ou "Indirect"
+
+e assim por diante
