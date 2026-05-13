@@ -39,7 +39,7 @@ O objetivo central do repositório é fornecer à comunidade científica e desen
 ## Pipeline Metodológico
 
 <p align="center">
-  <img src="assets/fluxograma_datasetdivido.png" alt="Fluxo Metodológico" width="800"/>
+  <img src="assets/conjunto_curado_infografico.pdf" alt="Fluxo Metodológico" width="800"/>
 </p>
 
 O pipeline é composto por **6 etapas sequenciais**, desde a curadoria do corpus até a criação do conjunto curado:
