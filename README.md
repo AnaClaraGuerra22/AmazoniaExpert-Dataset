@@ -69,32 +69,35 @@ O pipeline de Recuperação e Geração é configurado para priorizar a precisã
 SPAmazon-QA/
 │
 ├── PAR QA/
-│   ├── conjunto_curado.json          # Dataset final de avaliação (130 pares QA)
-│   ├── gerar_json.py                 # Script de geração do benchmark
-│   └── titulos.txt                   # Metadados auxiliares
+│   ├── conjunto_curado.json            # Dataset final de avaliação (130 pares QA)
+│   ├── gerar_json.py                   # Script de geração do benchmark
+│   └── titulos.txt                     # Metadados auxiliares
 │
 ├── PROMPTS/
-│   ├── prompt_geracao_qa.md          # Instruções para geração sintética de Q&A
-│   ├── prompt_inferencia.md           # Template para inferência local (GGUF)
-│   ├── prompt_inferencia_manual.md    # Template para inferência via interface Web
-│   └── prompt_juiz.md                # Instruções para o Juiz LLM
+│   ├── prompt_geracao_qa.md            # Instruções para geração sintética de Q&A
+│   ├── prompt_inferencia.md            # Template para inferência local (GGUF)
+│   ├── prompt_inferencia_manual.md     # Template para inferência via interface Web
+│   └── prompt_juiz.md                  # Instruções para o Juiz LLM
 │
 ├── RAG/
-│   ├── PDFs/                         # Relatórios originais do SPA (PDF)
-│   ├── Dados_Limpos/                 # Corpus extraído, tratado e enriquecido (JSON)
-│   ├── Dados_Tratados_CC/            # Corpus dos Cross Chapters (JSON)
-│   ├── VECTOR_DB/                    # Banco vetorial gerado automaticamente
-│   ├── MODELO/                       # Modelos GGUF locais (não versionados)
+│   ├── PDFs/                           # Relatórios originais do SPA (PDF)
+│   ├── Dados_Limpos/                   # Corpus extraído, tratado e enriquecido (JSON)
+│   ├── Dados_Tratados_CC/              # Corpus dos Cross Chapters (JSON)
+│   ├── VECTOR_DB/                      # Banco vetorial gerado automaticamente
+│   ├── MODELO/                         # Modelos GGUF locais (não versionados)
 │   │
-│   ├── app.py                        # Interface / execução principal
-│   ├── main.py                       # Processa o corpus
-│   ├── mainCross.py                  # Execução cross-model
-│   ├── vetorizacao.py                # Banco vetorial gerado automaticamente
-│   ├── teste_busca.py                # Testes de recuperação
-│   └── auditoria.py                  # Auditoria das respostas
+│   ├── app.py                          # Interface / execução principal
+│   ├── main.py                         # Processa o corpus
+│   ├── mainCross.py                    # Execução cross-model
+│   ├── vetorizacao.py                  # Banco vetorial gerado automaticamente
+│   ├── teste_busca.py                  # Testes de recuperação
+│   └── auditoria.py                    # Auditoria das respostas
 │
 ├── assets/
-│   ├── fluxograma_datasetdivido.png  # Fluxograma metodológico
+│   ├── fluxograma_datasetdivido.png            # Fluxograma metodológico
+│
+└── SBBD DSW 2026 - Dataset QA Amazonia.pdf     # Artigo submetido 
+│
 │
 └── README.md
 ```
