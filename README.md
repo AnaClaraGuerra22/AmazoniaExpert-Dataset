@@ -304,8 +304,8 @@ print(data[0]['conjunto_curado']['pergunta'])
 ## Diferenciais
 
 - ✅ Base científica confiável (Science Panel for the Amazon)
-- ✅ Benchmark estruturado com 130 pares QA validados
-- ✅ Avaliação multimodelo (GPT-4, Claude, Gemini, LLaMA)
+- ✅ Corpus estruturado com 130 pares QA validados
+- ✅ Avaliação multimodelo (GPT-4, Claude, ClimateChat, Gemini, LLaMA)
 - ✅ Métricas quantitativas + qualitativas
 - ✅ Pipeline RAG completo e reprodutível
 - ✅ Rastreabilidade total até a fonte original
