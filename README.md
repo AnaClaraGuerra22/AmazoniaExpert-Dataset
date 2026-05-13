@@ -111,42 +111,48 @@ SPAmazon-QA/
 ### Estrutura de cada entrada
 
 ```json
-
-{
-  "id_questao": 1,
-  "metadados_pergunta": {
-    "capitulo_alvo": "Chapter X",
-    "dificuldade": "Easy | Medium | Hard",
-    "tipo": "Direct | Indirect",
-    "modelo_gerador_qa": "Modelo utilizado para geração do QA",
-    "indice_subjetividade_textblob": 0.0
-  },
-  "conjunto_curado": {
-    "pergunta": "Pergunta de referência",
-    "resposta_esperada": "Resposta científica esperada"
-  },
-  "avaliacoes_modelos": [
-    {
-      "modelo_avaliado": "Nome do modelo 1",
-      "resposta_gerada": "Resposta produzida pelo modelo",
-      "juiz_llm": {
-        "nota_likert": 0,
-        "justificativa_tecnica": "Análise técnica da resposta"
+[
+  {
+    "id_questao": 1,
+    "metadados_pergunta": {
+      "capitulo_alvo": "Chapter X",
+      "dificuldade": "Easy | Medium | Hard",
+      "tipo": "Direct | Indirect",
+      "modelo_gerador_qa": "Modelo utilizado para geração do QA",
+      "indice_subjetividade_textblob": 0.0
+    },
+    "conjunto_curado": {
+      "pergunta": "Pergunta de referência",
+      "resposta_esperada": "Resposta científica esperada"
+    },
+    "avaliacoes_modelos": [
+      {
+        "modelo_avaliado": "Nome do modelo 1",
+        "resposta_gerada": "Resposta produzida pelo modelo",
+        "juiz_llm": {
+          "nota_likert": 0,
+          "justificativa_tecnica": "Análise técnica da resposta"
+        }
       }
-    }
 
-    {
-      "modelo_avaliado": "Nome do modelo 2",
-      "resposta_gerada": "Resposta produzida pelo modelo",
-      "juiz_llm": {
-        "nota_likert": 0,
-        "justificativa_tecnica": "Análise técnica da resposta"
+      {
+        "modelo_avaliado": "Nome do modelo 2",
+        "resposta_gerada": "Resposta produzida pelo modelo",
+        "juiz_llm": {
+          "nota_likert": 0,
+          "justificativa_tecnica": "Análise técnica da resposta"
+        }
       }
-    }
-    .....
+      .....
 
-  ]
-}
+    ]
+  }
+  {
+    "id_questao": 2,
+    ......
+  }
+
+]
 
 ```
 
