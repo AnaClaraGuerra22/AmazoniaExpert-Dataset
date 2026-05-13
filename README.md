@@ -53,12 +53,14 @@ O pipeline é composto por **6 etapas sequenciais**, desde a curadoria do corpus
 
 ---
 
-## Arquitetura RAG
+## Arquitetura RAG (Parâmetros de Inferência)
 
-<p align="center">
-  <img src="assets/RAG_climate.png" alt="Fluxo RAG" width="650"/>
-</p>
+O pipeline de Recuperação e Geração é configurado para priorizar a precisão científica e o determinismo na busca pelo contexto:
 
+* **Estratégia de Busca:** Recuperação semântica baseada em similaridade do cosseno.
+* **Top-K:** `k=5` (os cinco fragmentos mais relevantes são recuperados para formar o contexto).
+* **Modelo de Embedding:** `sentence-transformers/all-mpnet-base-v2` (otimizado para textos longos e acadêmicos).
+* **Prompting:** Instruções estritas (*Zero-Shot*) bloqueando preâmbulos discursivos e forçando o modelo a ancorar sua resposta exclusivamente no contexto recuperado.
 ---
 
 ## Estrutura do Repositório
@@ -93,7 +95,6 @@ SPAmazon-QA/
 │
 ├── assets/
 │   ├── fluxograma_datasetdivido.png  # Fluxograma metodológico
-│   └── RAG_climate.png               # Arquitetura RAG
 │
 └── README.md
 ```
