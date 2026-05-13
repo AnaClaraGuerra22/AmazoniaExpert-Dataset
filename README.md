@@ -136,7 +136,7 @@ SPAmazon-QA/
 
 ### Modelos avaliados
 
-`GPT-4` · `Claude 3.5` · `Gemini 2.5` · `LLaMA 3` · `AmazoniaExpert`
+`GPT-4` · `Claude 3.5` · `Gemini 2.5` · `LLaMA 3` 
 
 ---
 
@@ -261,10 +261,10 @@ python RAG/teste_busca.py
 ```python
 import json
 
-with open('PAR QA/gold_standard_amazonia.json', 'r', encoding='utf-8') as f:
+with open('PAR QA/conjunto_curado.json', 'r', encoding='utf-8') as f:
     data = json.load(f)
 
-print(data[0]['padrao_ouro']['pergunta'])
+print(data[0]['conjunto_curado']['pergunta'])
 ```
 
 ---
