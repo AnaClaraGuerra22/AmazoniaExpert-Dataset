@@ -1,5 +1,4 @@
 <div align="center">
-<img src="assets/logo%20amazoniaExpert.png" alt="AmazoniaExpert Logo" width="180"/>
   
 # SPAmazon-QA
 
@@ -16,9 +15,15 @@
 
 ## Visão Geral
 
-O **SPAmazon-QA** é um benchmark científico desenvolvido para avaliar modelos de linguagem (LLMs) no domínio da **Amazônia Sustentável**, utilizando uma arquitetura baseada em **RAG (*Retrieval-Augmented Generation*)**.
+O **SPAmazon-QA** é um repositório estruturado de dados projetado para mitigar alucinações e auditar a precisão factual de Grandes Modelos de Linguagem (LLMs) no domínio da **Amazônia Sustentável**. 
 
-A base de conhecimento é fundamentada nos relatórios do **Science Panel for the Amazon (SPA)** — a única fonte de autoridade científica do projeto.
+Nascido da necessidade de suprir a escassez de recursos de avaliação focados na região amazônica, o projeto consolida o conhecimento científico dos relatórios oficiais do **Science Panel for the Amazon (SPA)** em dois pilares fundamentais:
+
+1. **Corpus Especializado (Infraestrutura para RAG):** Uma base de dados tratada contendo 6.899 fragmentos de texto (*chunks*) enriquecidos com metadados estruturais, pronta para alimentar arquiteturas de Geração Aumentada por Recuperação (*Retrieval-Augmented Generation*).
+2. **Conjunto Curado (Benchmark de Avaliação):** Um referencial rigoroso composto por 130 pares de perguntas e respostas (QA) de diferentes níveis de dificuldade, extraídos diretamente do material do SPA e validados por curadoria humana para testar modelos de IA.
+
+O objetivo central do repositório é fornecer à comunidade científica e desenvolvedores as ferramentas necessárias para criar e testar sistemas de Inteligência Artificial com **rastreabilidade total** e **rigor acadêmico**, garantindo que as informações geradas sobre o bioma sejam ancoradas em fontes de autoridade incontestável.
+
 
 ### Objetivos
 
@@ -27,7 +32,7 @@ A base de conhecimento é fundamentada nos relatórios do **Science Panel for th
 | 🧠 Reduzir alucinações | Respostas ancoradas em corpus científico verificado |
 | 🔍 Rastreabilidade | Cada resposta vinculada à fonte original |
 | 📊 Avaliação semântica | Métricas quantitativas e qualitativas |
-| 🏆 Padrão-ouro | Benchmark estruturado com 130 pares QA |
+| 🏆 Conjunto Curado | Repositório estruturado com 130 pares QA |
 
 ---
 
@@ -37,14 +42,14 @@ A base de conhecimento é fundamentada nos relatórios do **Science Panel for th
   <img src="assets/fluxograma_datasetdivido.png" alt="Fluxo Metodológico" width="800"/>
 </p>
 
-O pipeline é composto por **6 etapas sequenciais**, desde a curadoria do corpus até a criação do padrão-ouro:
+O pipeline é composto por **6 etapas sequenciais**, desde a curadoria do corpus até a criação do conjunto curado:
 
 1. **Seleção e Curadoria** — 38 documentos científicos, 1.337 páginas do SPA
 2. **Extração com Unstructured** — preservação de tabelas, layouts e múltiplas colunas
 3. **Limpeza e Chunking** — regex + segmentação semântica em blocos de 500–1.000 caracteres → 6.899 chunks
 4. **Enriquecimento com Metadados** — capítulo, seção, página e ID único por chunk
 5. **Indexação Vetorial** — embeddings `all-mpnet-base-v2` indexados no ChromaDB
-6. **Criação do Padrão-Ouro** — 130 pares QA gerados e validados por humanos
+6. **Criação do Conjunto Curado** — 130 pares QA gerados e validados por humanos
 
 ---
 
@@ -62,21 +67,27 @@ O pipeline é composto por **6 etapas sequenciais**, desde a curadoria do corpus
 SPAmazon-QA/
 │
 ├── PAR QA/
-│   ├── gold_standard_amazonia.json   # Dataset padrão-ouro (130 pares QA)
+│   ├── conjunto_curado.json          # Dataset final de avaliação (130 pares QA)
 │   ├── gerar_json.py                 # Script de geração do benchmark
 │   └── titulos.txt                   # Metadados auxiliares
 │
+├── PROMPTS/
+│   ├── prompt_geracao_qa.md          # Instruções para geração sintética de Q&A
+│   ├── prompt_inferencia.md           # Template para inferência local (GGUF)
+│   ├── prompt_inferencia_manual.md    # Template para inferência via interface Web
+│   └── prompt_juiz.md                # Instruções para o Juiz LLM
+│
 ├── RAG/
-    ├── PDFs/                         # Relatórios originais do SPA (PDF)
+│   ├── PDFs/                         # Relatórios originais do SPA (PDF)
 │   ├── Dados_Limpos/                 # Corpus extraído, tratado e enriquecido (JSON)
 │   ├── Dados_Tratados_CC/            # Corpus dos Cross Chapters (JSON)
-    ├── VECTOR_DB/                    # Banco vetorial gerado automaticamente
-    ├── MODELO/                       # Modelos GGUF locais (não versionados)
+│   ├── VECTOR_DB/                    # Banco vetorial gerado automaticamente
+│   ├── MODELO/                       # Modelos GGUF locais (não versionados)
 │   │
 │   ├── app.py                        # Interface / execução principal
 │   ├── main.py                       # Processa o corpus
 │   ├── mainCross.py                  # Execução cross-model
-│   ├── vetorizacao.py                # Banco vetorial gerado automaticamente (não versionado)
+│   ├── vetorizacao.py                # Banco vetorial gerado automaticamente
 │   ├── teste_busca.py                # Testes de recuperação
 │   └── auditoria.py                  # Auditoria das respostas
 │
