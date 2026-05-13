@@ -134,13 +134,25 @@ SPAmazon-QA/
         "justificativa_tecnica": "Análise técnica da resposta"
       }
     }
+
+    {
+      "modelo_avaliado": "Nome do modelo 2",
+      "resposta_gerada": "Resposta produzida pelo modelo",
+      "juiz_llm": {
+        "nota_likert": 0,
+        "justificativa_tecnica": "Análise técnica da resposta"
+      }
+    }
+    .....
+
   ]
 }
+
 ```
 
 ### Modelos avaliados
 
-`GPT-4` · `Claude 3.5` · `Gemini 2.5` · `LLaMA 3` · `ClimateChat`
+`GPT-4` · `Claude 3.5` · `Gemini 2.5` · `Llama 3` · `ClimateChat`
 
 ---
 
