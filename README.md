@@ -39,7 +39,7 @@ O objetivo central do repositório é fornecer à comunidade científica e desen
 ## Pipeline Metodológico
 
 <p align="center">
-  <img src="assets/conjunto_curado_infografico.pdf" alt="Fluxo Metodológico" width="800"/>
+  <img src="assets/conjunto_curado_infografico.jpg" alt="Fluxo Metodológico" width="800"/>
 </p>
 
 O pipeline é composto por **6 etapas sequenciais**, desde a curadoria do corpus até a criação do conjunto curado:
@@ -100,16 +100,16 @@ SPAmazon-QA/
 
 ---
 
-## Benchmark — Gold Standard
+## Conjunto Curado - Benchmark de Avaliação
 
-**Localização:** `PAR QA/gold_standard_amazonia.json`
+**Localização:** `PAR QA/conjunto_curado.json`
 
 ### Estrutura de cada entrada
 
 ```json
 
 {
-  "id_questao": Y,
+  "id_questao": 1,
   "metadados_pergunta": {
     "capitulo_alvo": "Chapter X",
     "dificuldade": "Easy | Medium | Hard",
@@ -117,24 +117,18 @@ SPAmazon-QA/
     "modelo_gerador_qa": "Modelo utilizado para geração do QA",
     "indice_subjetividade_textblob": 0.0
   },
-
-  "padrao_ouro": {
+  "conjunto_curado": {
     "pergunta": "Pergunta de referência",
     "resposta_esperada": "Resposta científica esperada"
   },
-
   "avaliacoes_modelos": [
     {
-      "modelo_avaliado": "Nome do modelo",
-
+      "modelo_avaliado": "Nome do modelo 1",
       "resposta_gerada": "Resposta produzida pelo modelo",
-
       "juiz_llm": {
         "nota_likert": 0,
         "justificativa_tecnica": "Análise técnica da resposta"
-      },
-
-      "similaridade_faiss_percentual": 0.0
+      }
     }
   ]
 }
