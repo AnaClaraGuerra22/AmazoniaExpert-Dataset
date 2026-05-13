@@ -9,7 +9,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![ChromaDB](https://img.shields.io/badge/VectorDB-ChromaDB-orange)](https://www.trychroma.com/)
 [![Modelo](https://img.shields.io/badge/Embeddings-all--mpnet--base--v2-green)](https://huggingface.co/sentence-transformers/all-mpnet-base-v2)
-
+[![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.20130488-blue.svg)](https://doi.org/10.5281/zenodo.20130488)
 </div>
 
 ---
