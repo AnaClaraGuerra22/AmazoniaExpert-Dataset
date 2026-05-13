@@ -140,7 +140,7 @@ SPAmazon-QA/
 
 ### Modelos avaliados
 
-`GPT-4` · `Claude 3.5` · `Gemini 2.5` · `LLaMA 3` 
+`GPT-4` · `Claude 3.5` · `Gemini 2.5` · `LLaMA 3` · `ClimateChat`
 
 ---
 
