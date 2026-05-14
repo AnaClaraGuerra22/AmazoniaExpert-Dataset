@@ -10,7 +10,7 @@
 [![Modelo](https://img.shields.io/badge/Embeddings-all--mpnet--base--v2-green)](https://huggingface.co/sentence-transformers/all-mpnet-base-v2)
 [![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.20130488-blue.svg)](https://doi.org/10.5281/zenodo.20130488)
 
-> **📌 Nota de Submissão:** Este repositório contém o artefato oficial e o conjunto de dados do artigo *"SPAmazon-QA: Um Repositório e Benchmark para Avaliação de LLMs no Domínio da Amazônia Sustentável"*, submetido ao DSW (Dataset Showcase Workshop) no Simpósio Brasileiro de Banco de Dados (SBBD) 2026.
+> **📌 Nota:** Este repositório contém o artefato oficial do artigo *"SPAmazon-QA: Um Repositório e Benchmark para Avaliação de LLMs no Domínio da Amazônia Sustentável"*, submetido ao DSW (Dataset Showcase Workshop) no Simpósio Brasileiro de Banco de Dados (SBBD) 2026.
 </div>
 
 ---
@@ -160,7 +160,7 @@ SPAmazon-QA/
 
 ### Modelos avaliados
 
-`GPT-4` · `Claude 3.5` · `Gemini 2.5` · `Llama 3` · `ClimateChat`
+`GPT-4` · `Claude 3.5` · `Gemini 2.5` · `Llama 3.3` · `ClimateChat`
 
 ---
 
@@ -307,7 +307,7 @@ print(data[0]['conjunto_curado']['pergunta'])
 
 - ✅ Base científica confiável (Science Panel for the Amazon)
 - ✅ Corpus estruturado com 130 pares QA validados
-- ✅ Avaliação multimodelo (GPT-4, Claude, ClimateChat, Gemini, LLaMA)
+- ✅ Avaliação multimodelo (GPT-4, Claude 3.5, ClimateChat, Gemini 2.5, LLaMA 3.3)
 - ✅ Métricas quantitativas + qualitativas
 - ✅ Pipeline RAG completo e reprodutível
 - ✅ Rastreabilidade total até a fonte original
@@ -318,11 +318,11 @@ print(data[0]['conjunto_curado']['pergunta'])
 
 Este projeto é desenvolvido e mantido por pesquisadores da **Universidade Federal de Viçosa (UFV) - Brasil**:
 
-* **Ana C. G. Torres**
-* **Lucas L. Fernandes**
-* **Marcos H. Costa**
-* **Julio C. S. Reis**
-* **Daniel L. Fernandes**
+* **Ana C. G. Torres** - Estudante de Bacharelado em Ciência da Computação - Departamento de Informática - UFV
+* **Lucas L. Fernandes** - Estudante de Mestrado em Meteorologia Aplicada - Departamento de Engenharia Agrícola - UFV
+* **Marcos H. Costa** - Professor Titular - Departamento de Engenharia Agrícola - UFV
+* **Julio C. S. Reis** - Professor Adjunto - Departamento de Informática - UFV
+* **Daniel L. Fernandes** - Professor Assistente - Departamento de Informática - UFV
 
 📧 **Contato:** `{ana.torres, lucas.louzada, mhcosta, jreis, daniel.louzada}@ufv.br`
 
