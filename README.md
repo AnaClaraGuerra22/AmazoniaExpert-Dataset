@@ -9,6 +9,8 @@
 [![ChromaDB](https://img.shields.io/badge/VectorDB-ChromaDB-orange)](https://www.trychroma.com/)
 [![Modelo](https://img.shields.io/badge/Embeddings-all--mpnet--base--v2-green)](https://huggingface.co/sentence-transformers/all-mpnet-base-v2)
 [![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.20130488-blue.svg)](https://doi.org/10.5281/zenodo.20130488)
+
+> **📌 Nota de Submissão:** Este repositório contém o artefato oficial e o conjunto de dados do artigo *"SPAmazon-QA: Um Repositório e Benchmark para Avaliação de LLMs no Domínio da Amazônia Sustentável"*, submetido ao DSW (Dataset Showcase Workshop) no Simpósio Brasileiro de Banco de Dados (SBBD) 2026.
 </div>
 
 ---
@@ -312,10 +314,17 @@ print(data[0]['conjunto_curado']['pergunta'])
 
 ---
 
-## Autoria
+## Autores e Afiliações
 
-**Ana Clara Guerra**
-Pesquisa em Inteligência Artificial aplicada à Amazônia Sustentável
+Este projeto é desenvolvido e mantido por pesquisadores da **Universidade Federal de Viçosa (UFV) - Brasil**:
+
+* **Ana C. G. Torres**
+* **Lucas Louzada**
+* **Marcos H. Costa**
+* **Julio C. S. Reis**
+* **Daniel L. Fernandes**
+
+📧 **Contato:** `{ana.torres, lucas.louzada, mhcosta, jreis, daniel.louzada}@ufv.br`
 
 ---
 
