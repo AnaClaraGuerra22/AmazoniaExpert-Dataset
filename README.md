@@ -10,7 +10,7 @@
 [![Modelo](https://img.shields.io/badge/Embeddings-all--mpnet--base--v2-green)](https://huggingface.co/sentence-transformers/all-mpnet-base-v2)
 [![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.20130488-blue.svg)](https://doi.org/10.5281/zenodo.20130488)
 
-> **📌 Nota:** Este repositório contém o artefato oficial do artigo *"SPAmazon-QA: Um Repositório e Benchmark para Avaliação de LLMs no Domínio da Amazônia Sustentável"*, submetido ao DSW (Dataset Showcase Workshop) no Simpósio Brasileiro de Banco de Dados (SBBD) 2026.
+> **📌 Nota:** Este repositório contém o artefato oficial do artigo *"SPAmazon-QA: Um Repositório de Dados Estruturado e Curado para Avaliação de LLMs sobre a Amazônia"*, submetido ao DSW (Dataset Showcase Workshop) no Simpósio Brasileiro de Banco de Dados (SBBD) 2026.
 </div>
 
 ---
@@ -22,7 +22,7 @@ O **SPAmazon-QA** é um repositório estruturado de dados projetado para mitigar
 Nascido da necessidade de suprir a escassez de recursos de avaliação focados na região amazônica, o projeto consolida o conhecimento científico dos relatórios oficiais do **Science Panel for the Amazon (SPA)** em dois pilares fundamentais:
 
 1. **Corpus Especializado (Infraestrutura para RAG):** Uma base de dados tratada contendo 6.899 fragmentos de texto (*chunks*) enriquecidos com metadados estruturais, pronta para alimentar arquiteturas de Geração Aumentada por Recuperação (*Retrieval-Augmented Generation*).
-2. **Conjunto Curado (Benchmark de Avaliação):** Um referencial rigoroso composto por 130 pares de perguntas e respostas (QA) de diferentes níveis de dificuldade, extraídos diretamente do material do SPA e validados por curadoria humana para testar modelos de IA.
+2. **Conjunto Curado de Avaliação:** Um referencial rigoroso composto por 130 pares de perguntas e respostas (QA) de diferentes níveis de dificuldade, extraídos diretamente do material do SPA e validados por curadoria humana para testar modelos de IA.
 
 O objetivo central do repositório é fornecer à comunidade científica e desenvolvedores as ferramentas necessárias para criar e testar sistemas de Inteligência Artificial com **rastreabilidade total** e **rigor acadêmico**, garantindo que as informações geradas sobre o bioma sejam ancoradas em fontes de autoridade incontestável.
 
@@ -72,7 +72,7 @@ SPAmazon-QA/
 │
 ├── PAR QA/
 │   ├── conjunto_curado.json            # Dataset final de avaliação (130 pares QA)
-│   ├── gerar_json.py                   # Script de geração do benchmark
+│   ├── gerar_json.py                   # Script de geração do conjunto curado
 │   └── titulos.txt                     # Metadados auxiliares
 │
 ├── PROMPTS/
@@ -98,15 +98,12 @@ SPAmazon-QA/
 ├── assets/
 │   ├── fluxograma_datasetdivido.png            # Fluxograma metodológico
 │
-└── SBBD DSW 2026 - Dataset QA Amazonia.pdf     # Artigo submetido 
-│
-│
 └── README.md
 ```
 
 ---
 
-## Conjunto Curado - Benchmark de Avaliação
+## Conjunto Curado de Avaliação
 
 **Localização:** `PAR QA/conjunto_curado.json`
 
@@ -280,7 +277,7 @@ python RAG/teste_busca.py
 
 ---
 
-### 7. Carregar o benchmark
+### 7. Carregar o conjunto curado
 
 ```python
 import json
