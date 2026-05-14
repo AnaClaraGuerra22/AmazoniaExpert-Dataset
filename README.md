@@ -319,7 +319,7 @@ print(data[0]['conjunto_curado']['pergunta'])
 Este projeto é desenvolvido e mantido por pesquisadores da **Universidade Federal de Viçosa (UFV) - Brasil**:
 
 * **Ana C. G. Torres**
-* **Lucas Louzada**
+* **Lucas L. Fernandes**
 * **Marcos H. Costa**
 * **Julio C. S. Reis**
 * **Daniel L. Fernandes**
