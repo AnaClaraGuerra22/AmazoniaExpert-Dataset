@@ -44,7 +44,6 @@ def calcular_total_chunks_por_seq(diretorio):
     print(f"Total de chunks (soma dos últimos chunk_seq): {chunk_total}")
     print("-"*40)
 
-# Altere o caminho abaixo se necessário
 diretorio_dados = r"C:\TCCII\DSW\RAG\Dados_Limpos"
 
 if __name__ == "__main__":
