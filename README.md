@@ -55,16 +55,6 @@ O pipeline é composto por **6 etapas sequenciais**, desde a curadoria do corpus
 
 ---
 
-## Arquitetura RAG (Parâmetros de Inferência)
-
-O pipeline de Recuperação e Geração é configurado para priorizar a precisão científica e o determinismo na busca pelo contexto:
-
-* **Estratégia de Busca:** Recuperação semântica baseada em similaridade do cosseno.
-* **Top-K:** `k=5` (os cinco fragmentos mais relevantes são recuperados para formar o contexto).
-* **Modelo de Embedding:** `sentence-transformers/all-mpnet-base-v2` (otimizado para textos longos e acadêmicos).
-* **Prompting:** Instruções estritas (*Zero-Shot*) bloqueando preâmbulos discursivos e forçando o modelo a ancorar sua resposta exclusivamente no contexto recuperado.
----
-
 ## Estrutura do Repositório
 
 ```
